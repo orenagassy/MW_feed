@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<listings>
+  <title>Major World</title>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/795fac7c-6ee9-41c9-b625-15dddb547fdd.jpg</url>
+    </image>
+    <vehicle_id>1G1YC3D49N5109245</vehicle_id>
+    <title>2022 Chevrolet Corvette Stingray RWD</title>
+    <description>2022 Chevrolet Corvette Stingray RWD — 31,433 miles — used — Torch Red</description>
+    <url>https://majorworld.com/inventory/2022-chevrolet-corvette-stingray-rwd/</url>
+    <price>69995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Corvette Stingray RWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>31433</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>1G1YC3D49N5109245</vin>
+    <transmission>8 Speed Dual Clutch</transmission>
+    <exterior_color>Torch Red</exterior_color>
+    <interior_color>Adrenaline Red</interior_color>
+    <stock_number>M78013</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1b393e12-d400-4ff2-9b3c-7efc95fdbef6.jpg</url>
+    </image>
+    <vehicle_id>1GC4YREY5RF324522</vehicle_id>
+    <title>2024 Chevrolet Silverado 2500HD High Country 4WD</title>
+    <description>2024 Chevrolet Silverado 2500HD High Country 4WD — 37,481 miles — used — Iridescent Pearl Tricoat</description>
+    <url>https://majorworld.com/inventory/2024-chevrolet-silverado-2500hd-high-country-4wd/</url>
+    <price>69995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Silverado 2500HD High Country 4WD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>37481</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>1GC4YREY5RF324522</vin>
+    <transmission>10-Speed Automatic</transmission>
+    <exterior_color>Iridescent Pearl Tricoat</exterior_color>
+    <interior_color>Jet Black/Umber</interior_color>
+    <stock_number>M76457</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5b37e3a7-57be-4fa3-81d3-39a3c5998f98.jpg</url>
+    </image>
+    <vehicle_id>1GNS6DRD3SR264825</vehicle_id>
+    <title>2025 Chevrolet Suburban Z71 4WD</title>
+    <description>2025 Chevrolet Suburban Z71 4WD — 31,517 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-suburban-z71-4wd-2/</url>
+    <price>64800.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Suburban Z71 4WD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>31517</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>1GNS6DRD3SR264825</vin>
+    <transmission>10-Speed Automatic with Overdrive</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M77565</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a2f58c13-395e-4328-a5c2-106d665cc5b7.jpg</url>
+    </image>
+    <vehicle_id>5UX23EM09S9X13936</vehicle_id>
+    <title>2025 BMW X7 xDrive40i AWD</title>
+    <description>2025 BMW X7 xDrive40i AWD — 35,955 miles — used — Black Sapphire Metallic</description>
+    <url>https://majorworld.com/inventory/2025-bmw-x7-xdrive40i-awd/</url>
+    <price>64800.00 USD</price>
+    <make>BMW</make>
+    <model>X7 xDrive40i AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>35955</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>5UX23EM09S9X13936</vin>
+    <transmission>8-Speed Automatic Sport</transmission>
+    <exterior_color>Black Sapphire Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M75080</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e910244e-cc0b-48ac-aca7-0eb8a113ff1e.jpg</url>
+    </image>
+    <vehicle_id>5UX33EX05S9X59876</vehicle_id>
+    <title>2025 BMW X6 xDrive40i AWD</title>
+    <description>2025 BMW X6 xDrive40i AWD — 41,885 miles — used — Black Sapphire Metallic</description>
+    <url>https://majorworld.com/inventory/2025-bmw-x6-xdrive40i-awd/</url>
+    <price>62800.00 USD</price>
+    <make>BMW</make>
+    <model>X6 xDrive40i AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>41885</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>5UX33EX05S9X59876</vin>
+    <transmission>8-Speed Automatic Sport</transmission>
+    <exterior_color>Black Sapphire Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M77671</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/49db73c5-6462-4881-82ca-4e9abedd351a.jpg</url>
+    </image>
+    <vehicle_id>5UX23EU05S9W33212</vehicle_id>
+    <title>2025 BMW X5 xDrive40i AWD</title>
+    <description>2025 BMW X5 xDrive40i AWD — 31,864 miles — used — Black Sapphire Metallic</description>
+    <url>https://majorworld.com/inventory/2025-bmw-x5-xdrive40i-awd/</url>
+    <price>59995.00 USD</price>
+    <make>BMW</make>
+    <model>X5 xDrive40i AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>31864</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>5UX23EU05S9W33212</vin>
+    <transmission>8-Speed Automatic Sport</transmission>
+    <exterior_color>Black Sapphire Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M76344</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a57452fa-afcb-4ae1-937a-e166c3cdae25.jpg</url>
+    </image>
+    <vehicle_id>4JGFF5KE1PA987352</vehicle_id>
+    <title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</title>
+    <description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 39,878 miles — used — Polar White</description>
+    <url>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic-2/</url>
+    <price>58888.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>GLS GLS 450 4MATIC®</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>39878</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>4JGFF5KE1PA987352</vin>
+    <transmission>9-Speed Automatic</transmission>
+    <exterior_color>Polar White</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M75660</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/37fabb1e-963a-4007-b854-9757a426237d.jpg</url>
+    </image>
+    <vehicle_id>4JGFF5KE0PA947117</vehicle_id>
+    <title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</title>
+    <description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 50,963 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic/</url>
+    <price>56888.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>GLS GLS 450 4MATIC®</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>50963</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>4JGFF5KE0PA947117</vin>
+    <transmission>9-Speed Automatic</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Espresso Brown/Black</interior_color>
+    <stock_number>M75708</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1ea82c53-2e43-464c-a410-01ed6f160aae.jpg</url>
+    </image>
+    <vehicle_id>WA1ACBF76SD002840</vehicle_id>
+    <title>2025 Audi Q7 45 Premium quattro</title>
+    <description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro/</url>
+    <price>55800.00 USD</price>
+    <make>Audi</make>
+    <model>Q7 45 Premium quattro</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>2876</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <vin>WA1ACBF76SD002840</vin>
+    <transmission>8-Speed Automatic with Tiptronic</transmission>
+    <exterior_color>Samurai Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M75575</stock_number>
+  </listing>
+</listings>
