@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Major World</title>
+    <link>https://majorworld.com/</link>
+    <description>Major World vehicle inventory</description>
+    <item>
+      <g:id>1G1YC3D49N5109245</g:id>
+      <g:title>2022 Chevrolet Corvette Stingray RWD</g:title>
+      <g:description>2022 Chevrolet Corvette Stingray RWD — 31,433 miles — used — Torch Red</g:description>
+      <g:link>https://majorworld.com/inventory/2022-chevrolet-corvette-stingray-rwd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/795fac7c-6ee9-41c9-b625-15dddb547fdd.jpg</g:image_link>
+      <g:price>69995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vehicle_vin>1G1YC3D49N5109245</g:vehicle_vin>
+      <g:vehicle_model_year>2022</g:vehicle_model_year>
+      <g:vehicle_make>Chevrolet</g:vehicle_make>
+      <g:vehicle_model>Corvette Stingray RWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>31433</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Torch Red</g:vehicle_color>
+      <g:vehicle_transmission>8 Speed Dual Clutch</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>1GC4YREY5RF324522</g:id>
+      <g:title>2024 Chevrolet Silverado 2500HD High Country 4WD</g:title>
+      <g:description>2024 Chevrolet Silverado 2500HD High Country 4WD — 37,481 miles — used — Iridescent Pearl Tricoat</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-silverado-2500hd-high-country-4wd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1b393e12-d400-4ff2-9b3c-7efc95fdbef6.jpg</g:image_link>
+      <g:price>69995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vehicle_vin>1GC4YREY5RF324522</g:vehicle_vin>
+      <g:vehicle_model_year>2024</g:vehicle_model_year>
+      <g:vehicle_make>Chevrolet</g:vehicle_make>
+      <g:vehicle_model>Silverado 2500HD High Country 4WD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>37481</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Iridescent Pearl Tricoat</g:vehicle_color>
+      <g:vehicle_transmission>10-Speed Automatic</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>1GNS6DRD3SR264825</g:id>
+      <g:title>2025 Chevrolet Suburban Z71 4WD</g:title>
+      <g:description>2025 Chevrolet Suburban Z71 4WD — 31,517 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-suburban-z71-4wd-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5b37e3a7-57be-4fa3-81d3-39a3c5998f98.jpg</g:image_link>
+      <g:price>64800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vehicle_vin>1GNS6DRD3SR264825</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Chevrolet</g:vehicle_make>
+      <g:vehicle_model>Suburban Z71 4WD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>31517</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black</g:vehicle_color>
+      <g:vehicle_transmission>10-Speed Automatic with Overdrive</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>5UX23EM09S9X13936</g:id>
+      <g:title>2025 BMW X7 xDrive40i AWD</g:title>
+      <g:description>2025 BMW X7 xDrive40i AWD — 35,955 miles — used — Black Sapphire Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-bmw-x7-xdrive40i-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a2f58c13-395e-4328-a5c2-106d665cc5b7.jpg</g:image_link>
+      <g:price>64800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:vehicle_vin>5UX23EM09S9X13936</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>BMW</g:vehicle_make>
+      <g:vehicle_model>X7 xDrive40i AWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>35955</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
+      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>5UX33EX05S9X59876</g:id>
+      <g:title>2025 BMW X6 xDrive40i AWD</g:title>
+      <g:description>2025 BMW X6 xDrive40i AWD — 41,885 miles — used — Black Sapphire Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-bmw-x6-xdrive40i-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e910244e-cc0b-48ac-aca7-0eb8a113ff1e.jpg</g:image_link>
+      <g:price>62800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:vehicle_vin>5UX33EX05S9X59876</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>BMW</g:vehicle_make>
+      <g:vehicle_model>X6 xDrive40i AWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>41885</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
+      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>5UX23EU05S9W33212</g:id>
+      <g:title>2025 BMW X5 xDrive40i AWD</g:title>
+      <g:description>2025 BMW X5 xDrive40i AWD — 31,864 miles — used — Black Sapphire Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-bmw-x5-xdrive40i-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/49db73c5-6462-4881-82ca-4e9abedd351a.jpg</g:image_link>
+      <g:price>59995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:vehicle_vin>5UX23EU05S9W33212</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>BMW</g:vehicle_make>
+      <g:vehicle_model>X5 xDrive40i AWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>31864</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
+      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>4JGFF5KE1PA987352</g:id>
+      <g:title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</g:title>
+      <g:description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 39,878 miles — used — Polar White</g:description>
+      <g:link>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a57452fa-afcb-4ae1-937a-e166c3cdae25.jpg</g:image_link>
+      <g:price>58888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:vehicle_vin>4JGFF5KE1PA987352</g:vehicle_vin>
+      <g:vehicle_model_year>2023</g:vehicle_model_year>
+      <g:vehicle_make>Mercedes-Benz</g:vehicle_make>
+      <g:vehicle_model>GLS GLS 450 4MATIC®</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>39878</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Polar White</g:vehicle_color>
+      <g:vehicle_transmission>9-Speed Automatic</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>4JGFF5KE0PA947117</g:id>
+      <g:title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</g:title>
+      <g:description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 50,963 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/37fabb1e-963a-4007-b854-9757a426237d.jpg</g:image_link>
+      <g:price>56888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:vehicle_vin>4JGFF5KE0PA947117</g:vehicle_vin>
+      <g:vehicle_model_year>2023</g:vehicle_model_year>
+      <g:vehicle_make>Mercedes-Benz</g:vehicle_make>
+      <g:vehicle_model>GLS GLS 450 4MATIC®</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>50963</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black</g:vehicle_color>
+      <g:vehicle_transmission>9-Speed Automatic</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>WA1ACBF76SD002840</g:id>
+      <g:title>2025 Audi Q7 45 Premium quattro</g:title>
+      <g:description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1ea82c53-2e43-464c-a410-01ed6f160aae.jpg</g:image_link>
+      <g:price>55800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:vehicle_vin>WA1ACBF76SD002840</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Audi</g:vehicle_make>
+      <g:vehicle_model>Q7 45 Premium quattro</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>2876</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Samurai Gray Metallic</g:vehicle_color>
+      <g:vehicle_transmission>8-Speed Automatic with Tiptronic</g:vehicle_transmission>
+    </item>
+  </channel>
+</rss>
