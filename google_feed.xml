@@ -23,7 +23,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Torch Red</g:vehicle_color>
-      <g:vehicle_transmission>8 Speed Dual Clutch</g:vehicle_transmission>
+      <g:vehicle_body_style>COUPE</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>1GC4YREY5RF324522</g:id>
@@ -44,7 +45,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Iridescent Pearl Tricoat</g:vehicle_color>
-      <g:vehicle_transmission>10-Speed Automatic</g:vehicle_transmission>
+      <g:vehicle_body_style>PICKUP</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>1GNS6DRD3SR264825</g:id>
@@ -65,7 +67,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Black</g:vehicle_color>
-      <g:vehicle_transmission>10-Speed Automatic with Overdrive</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>5UX23EM09S9X13936</g:id>
@@ -86,7 +89,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
-      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>5UX33EX05S9X59876</g:id>
@@ -107,7 +111,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
-      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>5UX23EU05S9W33212</g:id>
@@ -128,7 +133,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Black Sapphire Metallic</g:vehicle_color>
-      <g:vehicle_transmission>8-Speed Automatic Sport</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>4JGFF5KE1PA987352</g:id>
@@ -149,7 +155,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Polar White</g:vehicle_color>
-      <g:vehicle_transmission>9-Speed Automatic</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>4JGFF5KE0PA947117</g:id>
@@ -170,7 +177,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Black</g:vehicle_color>
-      <g:vehicle_transmission>9-Speed Automatic</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
       <g:id>WA1ACBF76SD002840</g:id>
@@ -191,7 +199,8 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Samurai Gray Metallic</g:vehicle_color>
-      <g:vehicle_transmission>8-Speed Automatic with Tiptronic</g:vehicle_transmission>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
   </channel>
 </rss>
