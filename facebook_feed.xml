@@ -27,8 +27,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>COUPE</body_style>
     <vin>1G1YC3D49N5109245</vin>
-    <transmission>8 Speed Dual Clutch</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Torch Red</exterior_color>
     <interior_color>Adrenaline Red</interior_color>
     <stock_number>M78013</stock_number>
@@ -59,8 +60,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>PICKUP</body_style>
     <vin>1GC4YREY5RF324522</vin>
-    <transmission>10-Speed Automatic</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Iridescent Pearl Tricoat</exterior_color>
     <interior_color>Jet Black/Umber</interior_color>
     <stock_number>M76457</stock_number>
@@ -91,8 +93,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>1GNS6DRD3SR264825</vin>
-    <transmission>10-Speed Automatic with Overdrive</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Black</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M77565</stock_number>
@@ -123,8 +126,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>5UX23EM09S9X13936</vin>
-    <transmission>8-Speed Automatic Sport</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Black Sapphire Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75080</stock_number>
@@ -155,8 +159,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
     <vin>5UX33EX05S9X59876</vin>
-    <transmission>8-Speed Automatic Sport</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Black Sapphire Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77671</stock_number>
@@ -187,8 +192,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>5UX23EU05S9W33212</vin>
-    <transmission>8-Speed Automatic Sport</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Black Sapphire Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M76344</stock_number>
@@ -219,8 +225,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>4JGFF5KE1PA987352</vin>
-    <transmission>9-Speed Automatic</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Polar White</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75660</stock_number>
@@ -251,8 +258,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>4JGFF5KE0PA947117</vin>
-    <transmission>9-Speed Automatic</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Black</exterior_color>
     <interior_color>Espresso Brown/Black</interior_color>
     <stock_number>M75708</stock_number>
@@ -283,8 +291,9 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
     <vin>WA1ACBF76SD002840</vin>
-    <transmission>8-Speed Automatic with Tiptronic</transmission>
+    <transmission>AUTOMATIC</transmission>
     <exterior_color>Samurai Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75575</stock_number>
