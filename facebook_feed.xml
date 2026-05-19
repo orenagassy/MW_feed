@@ -2313,39 +2313,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cc5dcffe-6af8-4955-ba3d-03a96c47da89.jpg</url>
-    </image>
-    <vehicle_id>3C6LRVBG4SE556503</vehicle_id>
-    <title>2025 Ram ProMaster 1500 Base FWD</title>
-    <description>2025 Ram ProMaster 1500 Base FWD — 18 miles — used — Dp Cherry Red Crystal PC</description>
-    <url>https://majorworld.com/inventory/2025-ram-promaster-1500-base-fwd-6/</url>
-    <price>40888.00 USD</price>
-    <make>Ram</make>
-    <model>ProMaster 1500 Base FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>18</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>VAN</body_style>
-    <vin>3C6LRVBG4SE556503</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Dp Cherry Red Crystal PC</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J17472</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ee870903-2a45-49fe-9f83-6db4b480d3f1.jpg</url>
     </image>
     <vehicle_id>5FNYG2H49SB016302</vehicle_id>
@@ -6504,39 +6471,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/431281b7-8db1-4ba4-a320-cd97cf4c42a4.jpg</url>
-    </image>
-    <vehicle_id>5GAERBKW0NJ137077</vehicle_id>
-    <title>2022 Buick Enclave Essence FWD</title>
-    <description>2022 Buick Enclave Essence FWD — 39,257 miles — used — Quicksilver Metallic</description>
-    <url>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd/</url>
-    <price>30888.00 USD</price>
-    <make>Buick</make>
-    <model>Enclave Essence FWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>39257</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>5GAERBKW0NJ137077</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Quicksilver Metallic</exterior_color>
-    <interior_color>Dark Galvanized</interior_color>
-    <stock_number>M74548</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8c587ece-b0a1-4eaa-af64-0507aa7866d5.jpg</url>
     </image>
     <vehicle_id>5GAERCKW4RJ126899</vehicle_id>
@@ -9445,7 +9379,7 @@
     </image>
     <vehicle_id>JN8BT3BB6RW422255</vehicle_id>
     <title>2024 Nissan Rogue SV AWD</title>
-    <description>2024 Nissan Rogue SV AWD — 28,626 miles — used — Brilliant Silver Metallic</description>
+    <description>2024 Nissan Rogue SV AWD — 28,764 miles — used — Brilliant Silver Metallic</description>
     <url>https://majorworld.com/inventory/2024-nissan-rogue-sv-awd-7/</url>
     <price>24995.00 USD</price>
     <make>Nissan</make>
@@ -9454,7 +9388,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>28626</value>
+      <value>28764</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
