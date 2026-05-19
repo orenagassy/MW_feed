@@ -271,7 +271,7 @@
     <item>
       <g:id>1GNSKNKD6NR335144</g:id>
       <g:title>2022 Chevrolet Tahoe LT 4WD</g:title>
-      <g:description>2022 Chevrolet Tahoe LT 4WD — 28,770 miles — used — Summit White</g:description>
+      <g:description>2022 Chevrolet Tahoe LT 4WD — 28,994 miles — used — Summit White</g:description>
       <g:link>https://majorworld.com/inventory/2022-chevrolet-tahoe-lt-4wd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/84d93cc9-1607-4564-ab37-7b4d200dcf6a.jpg</g:image_link>
       <g:price>53800.00 USD</g:price>
@@ -283,7 +283,7 @@
       <g:vehicle_make>Chevrolet</g:vehicle_make>
       <g:vehicle_model>Tahoe LT 4WD</g:vehicle_model>
       <g:vehicle_mileage>
-        <g:value>28770</g:value>
+        <g:value>28994</g:value>
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Summit White</g:vehicle_color>
@@ -441,6 +441,28 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Mythos Black Metallic</g:vehicle_color>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>4JGFB4FB8SB480229</g:id>
+      <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
+      <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 22,027 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/20b0194c-98d0-4967-b98f-2563e6ad33eb.jpg</g:image_link>
+      <g:price>49888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:vehicle_vin>4JGFB4FB8SB480229</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Mercedes-Benz</g:vehicle_make>
+      <g:vehicle_model>GLE GLE 350 4MATIC®</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>22027</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Black</g:vehicle_color>
       <g:vehicle_body_style>SUV</g:vehicle_body_style>
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
@@ -667,7 +689,7 @@
     <item>
       <g:id>5UX13EU07R9V76405</g:id>
       <g:title>2024 BMW X5 sDrive40i RWD</g:title>
-      <g:description>2024 BMW X5 sDrive40i RWD — 44,243 miles — used — Mineral White Metallic</g:description>
+      <g:description>2024 BMW X5 sDrive40i RWD — 44,754 miles — used — Mineral White Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-bmw-x5-sdrive40i-rwd-12/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/de6037b2-7838-476e-9d7e-4d2a35528ca6.jpg</g:image_link>
       <g:price>46800.00 USD</g:price>
@@ -679,7 +701,7 @@
       <g:vehicle_make>BMW</g:vehicle_make>
       <g:vehicle_model>X5 sDrive40i RWD</g:vehicle_model>
       <g:vehicle_mileage>
-        <g:value>44243</g:value>
+        <g:value>44754</g:value>
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Mineral White Metallic</g:vehicle_color>
@@ -2381,28 +2403,6 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
-      <g:id>5TDKRKEC2RS207593</g:id>
-      <g:title>2024 Toyota Sienna LE FWD</g:title>
-      <g:description>2024 Toyota Sienna LE FWD — 47,434 miles — used — Celestial Silver Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-toyota-sienna-le-fwd-5/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/22e09458-43fd-440d-9eb4-7a377f8edee1.jpg</g:image_link>
-      <g:price>37995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:vehicle_vin>5TDKRKEC2RS207593</g:vehicle_vin>
-      <g:vehicle_model_year>2024</g:vehicle_model_year>
-      <g:vehicle_make>Toyota</g:vehicle_make>
-      <g:vehicle_model>Sienna LE FWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>47434</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Celestial Silver Metallic</g:vehicle_color>
-      <g:vehicle_body_style>MINIVAN</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
       <g:id>5TDKRKECXRS212296</g:id>
       <g:title>2024 Toyota Sienna LE FWD</g:title>
       <g:description>2024 Toyota Sienna LE FWD — 53,537 miles — used — Ice Cap</g:description>
@@ -2883,28 +2883,6 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Chronos Gray Metallic</g:vehicle_color>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>5GAERBKW2RJ100859</g:id>
-      <g:title>2024 Buick Enclave Essence FWD</g:title>
-      <g:description>2024 Buick Enclave Essence FWD — 22,313 miles — used — Cherry Red Tintcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2024-buick-enclave-essence-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8ba0c77e-8dc1-45e0-9831-93a3c8d506f8.jpg</g:image_link>
-      <g:price>35800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
-      <g:vehicle_vin>5GAERBKW2RJ100859</g:vehicle_vin>
-      <g:vehicle_model_year>2024</g:vehicle_model_year>
-      <g:vehicle_make>Buick</g:vehicle_make>
-      <g:vehicle_model>Enclave Essence FWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>22313</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Cherry Red Tintcoat</g:vehicle_color>
       <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
@@ -4295,6 +4273,28 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
+      <g:id>7MMVABDM4SN369736</g:id>
+      <g:title>2025 Mazda CX-50 2.5 S Premium Package AWD</g:title>
+      <g:description>2025 Mazda CX-50 2.5 S Premium Package AWD — 33,470 miles — used — Ingot Blue Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mazda-cx-50-2-5-s-premium-package-awd-3/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/af1063ec-f405-4803-b906-0525b14fb00c.jpg</g:image_link>
+      <g:price>30888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mazda</g:brand>
+      <g:vehicle_vin>7MMVABDM4SN369736</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Mazda</g:vehicle_make>
+      <g:vehicle_model>CX-50 2.5 S Premium Package AWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>33470</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Ingot Blue Metallic</g:vehicle_color>
+      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
       <g:id>4JGFB4JB7NA805499</g:id>
       <g:title>2022 Mercedes-Benz GLE GLE 350 RWD</g:title>
       <g:description>2022 Mercedes-Benz GLE GLE 350 RWD — 35,189 miles — used — Black</g:description>
@@ -4473,7 +4473,7 @@
     <item>
       <g:id>1FMSK8DH0NGA63160</g:id>
       <g:title>2022 Ford Explorer XLT 4WD</g:title>
-      <g:description>2022 Ford Explorer XLT 4WD — 38,988 miles — used — Agate Black Metallic</g:description>
+      <g:description>2022 Ford Explorer XLT 4WD — 38,992 miles — used — Agate Black Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-4/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ebd319c2-864a-45e0-91ea-abac9e82c0ee.jpg</g:image_link>
       <g:price>29995.00 USD</g:price>
@@ -4485,7 +4485,7 @@
       <g:vehicle_make>Ford</g:vehicle_make>
       <g:vehicle_model>Explorer XLT 4WD</g:vehicle_model>
       <g:vehicle_mileage>
-        <g:value>38988</g:value>
+        <g:value>38992</g:value>
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Agate Black Metallic</g:vehicle_color>
@@ -6733,6 +6733,28 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Aurora Black</g:vehicle_color>
+      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>1N4BL4DV9SN393408</g:id>
+      <g:title>2025 Nissan Altima 2.5 SV FWD</g:title>
+      <g:description>2025 Nissan Altima 2.5 SV FWD — 30,266 miles — used — Glacier White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-29/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/74c409da-c8c6-4889-87bf-8c5b2fb84b97.jpg</g:image_link>
+      <g:price>23995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:vehicle_vin>1N4BL4DV9SN393408</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Nissan</g:vehicle_make>
+      <g:vehicle_model>Altima 2.5 SV FWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>30266</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Glacier White</g:vehicle_color>
       <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
@@ -9025,28 +9047,6 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
-      <g:id>4JGFB4FB8SB480229</g:id>
-      <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
-      <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 22,027 miles — used — Black</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40MBS761A021001.jpg</g:image_link>
-      <g:price>49888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:vehicle_vin>4JGFB4FB8SB480229</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Mercedes-Benz</g:vehicle_make>
-      <g:vehicle_model>GLE GLE 350 4MATIC®</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>22027</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Black</g:vehicle_color>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
       <g:id>1C4RJHDG6RC162852</g:id>
       <g:title>2024 Jeep Grand Cherokee Overland 4WD</g:title>
       <g:description>2024 Jeep Grand Cherokee Overland 4WD — 186 miles — used — Baltic Gray Metallic Clearcoat</g:description>
@@ -9091,28 +9091,6 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
-      <g:id>7MMVABDM4SN369736</g:id>
-      <g:title>2025 Mazda CX-50 2.5 S Premium Package AWD</g:title>
-      <g:description>2025 Mazda CX-50 2.5 S Premium Package AWD — 33,470 miles — used — Ingot Blue Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mazda-cx-50-2-5-s-premium-package-awd-3/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40MAS101C01326.jpg</g:image_link>
-      <g:price>30888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mazda</g:brand>
-      <g:vehicle_vin>7MMVABDM4SN369736</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Mazda</g:vehicle_make>
-      <g:vehicle_model>CX-50 2.5 S Premium Package AWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>33470</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Ingot Blue Metallic</g:vehicle_color>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
       <g:id>W1N4M4HB4MW142088</g:id>
       <g:title>2021 Mercedes-Benz GLB GLB 250 4MATIC®</g:title>
       <g:description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 53,795 miles — used — Polar White</g:description>
@@ -9131,28 +9109,6 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Polar White</g:vehicle_color>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>1N4BL4DV9SN393408</g:id>
-      <g:title>2025 Nissan Altima 2.5 SV FWD</g:title>
-      <g:description>2025 Nissan Altima 2.5 SV FWD — 30,266 miles — used — Glacier White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-29/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50NIC041B021001.jpg</g:image_link>
-      <g:price>23995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:vehicle_vin>1N4BL4DV9SN393408</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Nissan</g:vehicle_make>
-      <g:vehicle_model>Altima 2.5 SV FWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>30266</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Glacier White</g:vehicle_color>
       <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
@@ -9263,6 +9219,72 @@
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Super Black Metallic</g:vehicle_color>
+      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>1C4RDJDGXRC245957</g:id>
+      <g:title>2024 Dodge Durango GT Plus AWD</g:title>
+      <g:description>2024 Dodge Durango GT Plus AWD — 32,868 miles — used — Octane Red Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2024-dodge-durango-gt-plus-awd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40DOS011A01300.jpg</g:image_link>
+      <g:price>35995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Dodge</g:brand>
+      <g:vehicle_vin>1C4RDJDGXRC245957</g:vehicle_vin>
+      <g:vehicle_model_year>2024</g:vehicle_model_year>
+      <g:vehicle_make>Dodge</g:vehicle_make>
+      <g:vehicle_model>Durango GT Plus AWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>32868</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Octane Red Pearlcoat</g:vehicle_color>
+      <g:vehicle_body_style>SUV</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>2C4RC1BG3SR529952</g:id>
+      <g:title>2025 Chrysler Pacifica Select FWD</g:title>
+      <g:description>2025 Chrysler Pacifica Select FWD — 38,637 miles — used — Ceramic Gray Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chrysler-pacifica-select-fwd-9/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CRV091A01300.jpg</g:image_link>
+      <g:price>29888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:vehicle_vin>2C4RC1BG3SR529952</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Chrysler</g:vehicle_make>
+      <g:vehicle_model>Pacifica Select FWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>38637</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Ceramic Gray Clearcoat</g:vehicle_color>
+      <g:vehicle_body_style>MINIVAN</g:vehicle_body_style>
+      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG3SL219925</g:id>
+      <g:title>2025 Chevrolet Equinox LT FWD</g:title>
+      <g:description>2025 Chevrolet Equinox LT FWD — 39,792 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-12/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CHS152A01300.jpg</g:image_link>
+      <g:price>26800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vehicle_vin>3GNAXHEG3SL219925</g:vehicle_vin>
+      <g:vehicle_model_year>2025</g:vehicle_model_year>
+      <g:vehicle_make>Chevrolet</g:vehicle_make>
+      <g:vehicle_model>Equinox LT FWD</g:vehicle_model>
+      <g:vehicle_mileage>
+        <g:value>39792</g:value>
+        <g:unit>mi</g:unit>
+      </g:vehicle_mileage>
+      <g:vehicle_color>Sterling Gray Metallic</g:vehicle_color>
       <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
