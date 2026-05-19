@@ -1545,28 +1545,6 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
-      <g:id>3C6LRVBG4SE556503</g:id>
-      <g:title>2025 Ram ProMaster 1500 Base FWD</g:title>
-      <g:description>2025 Ram ProMaster 1500 Base FWD — 18 miles — used — Dp Cherry Red Crystal PC</g:description>
-      <g:link>https://majorworld.com/inventory/2025-ram-promaster-1500-base-fwd-6/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cc5dcffe-6af8-4955-ba3d-03a96c47da89.jpg</g:image_link>
-      <g:price>40888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ram</g:brand>
-      <g:vehicle_vin>3C6LRVBG4SE556503</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Ram</g:vehicle_make>
-      <g:vehicle_model>ProMaster 1500 Base FWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>18</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Dp Cherry Red Crystal PC</g:vehicle_color>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
       <g:id>5FNYG2H49SB016302</g:id>
       <g:title>2025 Honda Pilot EX-L FWD</g:title>
       <g:description>2025 Honda Pilot EX-L FWD — 9,107 miles — used — Platinum White Pearl</g:description>
@@ -4339,28 +4317,6 @@
       <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
     </item>
     <item>
-      <g:id>5GAERBKW0NJ137077</g:id>
-      <g:title>2022 Buick Enclave Essence FWD</g:title>
-      <g:description>2022 Buick Enclave Essence FWD — 39,257 miles — used — Quicksilver Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/431281b7-8db1-4ba4-a320-cd97cf4c42a4.jpg</g:image_link>
-      <g:price>30888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
-      <g:vehicle_vin>5GAERBKW0NJ137077</g:vehicle_vin>
-      <g:vehicle_model_year>2022</g:vehicle_model_year>
-      <g:vehicle_make>Buick</g:vehicle_make>
-      <g:vehicle_model>Enclave Essence FWD</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>39257</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_color>Quicksilver Metallic</g:vehicle_color>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>AUTOMATIC</g:vehicle_transmission>
-    </item>
-    <item>
       <g:id>5GAERCKW4RJ126899</g:id>
       <g:title>2024 Buick Enclave Premium Group FWD</g:title>
       <g:description>2024 Buick Enclave Premium Group FWD — 47,472 miles — used — Summit White</g:description>
@@ -6299,7 +6255,7 @@
     <item>
       <g:id>JN8BT3BB6RW422255</g:id>
       <g:title>2024 Nissan Rogue SV AWD</g:title>
-      <g:description>2024 Nissan Rogue SV AWD — 28,626 miles — used — Brilliant Silver Metallic</g:description>
+      <g:description>2024 Nissan Rogue SV AWD — 28,764 miles — used — Brilliant Silver Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-nissan-rogue-sv-awd-7/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f21f7136-f1c6-4852-bf5a-45009efbd3a7.jpg</g:image_link>
       <g:price>24995.00 USD</g:price>
@@ -6311,7 +6267,7 @@
       <g:vehicle_make>Nissan</g:vehicle_make>
       <g:vehicle_model>Rogue SV AWD</g:vehicle_model>
       <g:vehicle_mileage>
-        <g:value>28626</g:value>
+        <g:value>28764</g:value>
         <g:unit>mi</g:unit>
       </g:vehicle_mileage>
       <g:vehicle_color>Brilliant Silver Metallic</g:vehicle_color>
