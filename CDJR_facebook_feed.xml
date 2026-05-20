@@ -3,15 +3,46 @@
   <title>Major World Chrysler Dodge Jeep Ram</title>
   <listing>
     <image>
-      <url>https://vehicle-images.carscommerce.inc/4976-11001568/1C4RJHAG6TC218686/thumbnails/large/2605310282027a45c99a18014158f059.jpg</url>
+      <url>https://vehicle-images.carscommerce.inc/1760-11001568/3C4NJDCN3TT184763/thumbnails/large/32195c19d55d67e5e8ae1956a5aefa48.jpg</url>
     </image>
-    <vehicle_id>1C4RJHAG6TC218686</vehicle_id>
-    <title>New 2026 Jeep Grand Cherokee Laredo X</title>
-    <description>2026 Jeep Grand Cherokee Laredo X — 0 miles — new — Diamond Black Crystal Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-laredo-x-4x4-sport-utility-1c4rjhag6tc218686/</url>
-    <price>46705.00 USD</price>
+    <vehicle_id>3C4NJDCN3TT184763</vehicle_id>
+    <title>New 2026 Jeep Compass Limited With Navigation</title>
+    <description>2026 Jeep Compass Limited With Navigation — 0 miles — new — Hydro Blue Pearl-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-compass-limited-4x4-sport-utility-3c4njdcn3tt184763/</url>
+    <price>37405.00 USD</price>
     <make>Jeep</make>
-    <model>Grand Cherokee Laredo X</model>
+    <model>Compass Limited With Navigation</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3C4NJDCN3TT184763</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Hydro Blue Pearl-Coat Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/f0d4-11001568/1C4RDJDG2TC254854/thumbnails/large/2c4fa51f3a0f9794a415ceada0de9654.jpg</url>
+    </image>
+    <vehicle_id>1C4RDJDG2TC254854</vehicle_id>
+    <title>New 2026 Dodge Durango GT With Navigation &amp; AWD</title>
+    <description>2026 Dodge Durango GT With Navigation &amp; AWD — 0 miles — new — Octane Red Pearl-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-dodge-durango-gt-awd-sport-utility-1c4rdjdg2tc254854/</url>
+    <price>44205.00 USD</price>
+    <make>Dodge</make>
+    <model>Durango GT With Navigation &amp; AWD</model>
     <year>2026</year>
     <state_of_vehicle>NEW</state_of_vehicle>
     <mileage>
@@ -28,21 +59,21 @@
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
     <body_style>SUV</body_style>
-    <vin>1C4RJHAG6TC218686</vin>
+    <vin>1C4RDJDG2TC254854</vin>
     <transmission>NONE</transmission>
-    <exterior_color>Diamond Black Crystal Pearl-Coat Exterior Paint</exterior_color>
+    <exterior_color>Octane Red Pearl-Coat Exterior Paint</exterior_color>
   </listing>
   <listing>
     <image>
-      <url>https://vehicle-images.carscommerce.inc/e644-11001568/1C4RJHBR6TC278614/thumbnails/large/3b2ae58f6f86314854c142d79b4f426a.jpg</url>
+      <url>https://vehicle-images.carscommerce.inc/988e-11001568/3C4PJMC20TT222173/thumbnails/large/38d77bd84aa044b221d89794556c3cd7.jpg</url>
     </image>
-    <vehicle_id>1C4RJHBR6TC278614</vehicle_id>
-    <title>New 2026 Jeep Grand Cherokee Limited With Navigation</title>
-    <description>2026 Jeep Grand Cherokee Limited With Navigation — 0 miles — new — Diamond Black Crystal Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-limited-4x4-sport-utility-1c4rjhbr6tc278614/</url>
-    <price>54180.00 USD</price>
+    <vehicle_id>3C4PJMC20TT222173</vehicle_id>
+    <title>New 2026 Jeep Cherokee Overland With Navigation</title>
+    <description>2026 Jeep Cherokee Overland With Navigation — 0 miles — new — Bright White Clear-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-cherokee-overland-4x4-sport-utility-3c4pjmc20tt222173/</url>
+    <price>47505.00 USD</price>
     <make>Jeep</make>
-    <model>Grand Cherokee Limited With Navigation</model>
+    <model>Cherokee Overland With Navigation</model>
     <year>2026</year>
     <state_of_vehicle>NEW</state_of_vehicle>
     <mileage>
@@ -58,146 +89,22 @@
     </address>
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJHBR6TC278614</vin>
-    <transmission>NONE</transmission>
-    <exterior_color>Diamond Black Crystal Pearl-Coat Exterior Paint</exterior_color>
-  </listing>
-  <listing>
-    <image>
-      <url>https://vehicle-images.carscommerce.inc/4c4d-11001568/1C4RJHBR4TC278613/thumbnails/large/a851d1c78c99d2fadeebe83472f22d8e.jpg</url>
-    </image>
-    <vehicle_id>1C4RJHBR4TC278613</vehicle_id>
-    <title>New 2026 Jeep Grand Cherokee Limited With Navigation</title>
-    <description>2026 Jeep Grand Cherokee Limited With Navigation — 0 miles — new — Diamond Black Crystal Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-limited-4x4-sport-utility-1c4rjhbr4tc278613/</url>
-    <price>54180.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee Limited With Navigation</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJHBR4TC278613</vin>
-    <transmission>NONE</transmission>
-    <exterior_color>Diamond Black Crystal Pearl-Coat Exterior Paint</exterior_color>
-  </listing>
-  <listing>
-    <image>
-      <url>https://vehicle-images.carscommerce.inc/6ea3-11001568/1C4RJHBR6T8592928/thumbnails/large/de3bf457f2d7398cbf40c6f718ae5824.jpg</url>
-    </image>
-    <vehicle_id>1C4RJHBR6T8592928</vehicle_id>
-    <title>New 2026 Jeep Grand Cherokee Limited With Navigation</title>
-    <description>2026 Jeep Grand Cherokee Limited With Navigation — 0 miles — new — Steel Blue Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-limited-4x4-sport-utility-1c4rjhbr6t8592928/</url>
-    <price>54660.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee Limited With Navigation</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJHBR6T8592928</vin>
-    <transmission>NONE</transmission>
-    <exterior_color>Steel Blue Exterior Paint</exterior_color>
-  </listing>
-  <listing>
-    <image>
-      <url>https://majorworldchryslerdodgejeepram.com/wp-content/plugins/inventory/images/notfound.jpg</url>
-    </image>
-    <vehicle_id>2C4RC3GG4VR551306</vehicle_id>
-    <title>New 2027 Chrysler Pacifica Limited With Navigation &amp; AWD</title>
-    <description>2027 Chrysler Pacifica Limited With Navigation &amp; AWD — 0 miles — new — Diamond Black Crystal Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2027-chrysler-pacifica-limited-awd-passenger-van-2c4rc3gg4vr551306/</url>
-    <price>56095.00 USD</price>
-    <make>Chrysler</make>
-    <model>Pacifica Limited With Navigation &amp; AWD</model>
-    <year>2027</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>MINIVAN</body_style>
-    <vin>2C4RC3GG4VR551306</vin>
-    <transmission>NONE</transmission>
-    <exterior_color>Diamond Black Crystal Pearl-Coat Exterior Paint</exterior_color>
-  </listing>
-  <listing>
-    <image>
-      <url>https://vehicle-images.carscommerce.inc/59d7-11001568/1C4PJXDG2TW281814/thumbnails/large/d87f69fbb8b66883d1a9105ef3e96a31.jpg</url>
-    </image>
-    <vehicle_id>1C4PJXDG2TW281814</vehicle_id>
-    <title>New 2026 Jeep Wrangler</title>
-    <description>2026 Jeep Wrangler — 0 miles — new — Bright White Clear-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-wrangler-4x4-4-door-1c4pjxdg2tw281814/</url>
-    <price>57810.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4PJXDG2TW281814</vin>
+    <body_style>CROSSOVER</body_style>
+    <vin>3C4PJMC20TT222173</vin>
     <transmission>NONE</transmission>
     <exterior_color>Bright White Clear-Coat Exterior Paint</exterior_color>
   </listing>
   <listing>
     <image>
-      <url>https://vehicle-images.carscommerce.inc/d85d-11001568/1C4SDJCTXTC219088/thumbnails/large/3e5f461f686bdd0f8862e4759c72ce1a.jpg</url>
+      <url>https://vehicle-images.carscommerce.inc/92e2-11001568/1C4RDJDG5TC277769/thumbnails/large/0a2fa9dad22f86b97c6881a6fcaaf873.jpg</url>
     </image>
-    <vehicle_id>1C4SDJCTXTC219088</vehicle_id>
-    <title>New 2026 Dodge Durango GT PREMIUM With Navigation &amp; AWD</title>
-    <description>2026 Dodge Durango GT PREMIUM With Navigation &amp; AWD — 0 miles — new — White Knuckle Clear-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-dodge-durango-gt-premium-awd-sport-utility-1c4sdjctxtc219088/</url>
-    <price>61230.00 USD</price>
+    <vehicle_id>1C4RDJDG5TC277769</vehicle_id>
+    <title>New 2026 Dodge Durango GT PLUS With Navigation &amp; AWD</title>
+    <description>2026 Dodge Durango GT PLUS With Navigation &amp; AWD — 0 miles — new — Vapor Gray Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-dodge-durango-gt-plus-awd-sport-utility-1c4rdjdg5tc277769/</url>
+    <price>48805.00 USD</price>
     <make>Dodge</make>
-    <model>Durango GT PREMIUM With Navigation &amp; AWD</model>
+    <model>Durango GT PLUS With Navigation &amp; AWD</model>
     <year>2026</year>
     <state_of_vehicle>NEW</state_of_vehicle>
     <mileage>
@@ -214,22 +121,84 @@
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
     <body_style>SUV</body_style>
-    <vin>1C4SDJCTXTC219088</vin>
+    <vin>1C4RDJDG5TC277769</vin>
     <transmission>NONE</transmission>
-    <exterior_color>White Knuckle Clear-Coat Exterior Paint</exterior_color>
+    <exterior_color>Vapor Gray Exterior Paint</exterior_color>
   </listing>
   <listing>
     <image>
-      <url>https://vehicle-images.carscommerce.inc/e8a7-11001568/3C6LRVPG7PE543017/thumbnails/large/2ddc7f74000ef7b8d602cae006476136.jpg</url>
+      <url>https://vehicle-images.carscommerce.inc/2c8f-11001568/1C4RJHAR6TC208550/thumbnails/large/d15abb0dcc49a49772c70528a1e30e11.jpg</url>
     </image>
-    <vehicle_id>3C6LRVPG7PE543017</vehicle_id>
-    <title>New 2023 RAM ProMaster LUXURY FAMILY TRAVEL With Navigation</title>
-    <description>2023 RAM ProMaster LUXURY FAMILY TRAVEL With Navigation — 0 miles — new — Deep Cherry Red Crystal Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2023-ram-promaster-luxury-family-travel-4x2-cargo-van-3c6lrvpg7pe543017/</url>
-    <price>89995.00 USD</price>
+    <vehicle_id>1C4RJHAR6TC208550</vehicle_id>
+    <title>New 2026 Jeep Grand Cherokee Laredo With Navigation</title>
+    <description>2026 Jeep Grand Cherokee Laredo With Navigation — 0 miles — new — Bright White Clear-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-laredo-4x4-sport-utility-1c4rjhar6tc208550/</url>
+    <price>49100.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee Laredo With Navigation</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJHAR6TC208550</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Bright White Clear-Coat Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/8fff-11001568/1C4RJHBR7TC191370/thumbnails/large/36a9d53ed2178be6fad19f33d9610156.jpg</url>
+    </image>
+    <vehicle_id>1C4RJHBR7TC191370</vehicle_id>
+    <title>New 2026 Jeep Grand Cherokee Limited With Navigation</title>
+    <description>2026 Jeep Grand Cherokee Limited With Navigation — 0 miles — new — Diamond Black Crystal Pearl-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-grand-cherokee-limited-4x4-sport-utility-1c4rjhbr7tc191370/</url>
+    <price>50805.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee Limited With Navigation</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJHBR7TC191370</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Diamond Black Crystal Pearl-Coat Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/c81d-11001568/3C6LRVBG9SE505885/thumbnails/large/c584e0fc6994e05c81a7052d025ce2c5.jpg</url>
+    </image>
+    <vehicle_id>3C6LRVBG9SE505885</vehicle_id>
+    <title>New 2025 RAM ProMaster</title>
+    <description>2025 RAM ProMaster — 0 miles — new — Black Clear-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2025-ram-promaster-4x2-cargo-van-3c6lrvbg9se505885/</url>
+    <price>53105.00 USD</price>
     <make>RAM</make>
-    <model>ProMaster LUXURY FAMILY TRAVEL With Navigation</model>
-    <year>2023</year>
+    <model>ProMaster</model>
+    <year>2025</year>
     <state_of_vehicle>NEW</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
@@ -245,13 +214,75 @@
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
     <body_style>VAN</body_style>
-    <vin>3C6LRVPG7PE543017</vin>
+    <vin>3C6LRVBG9SE505885</vin>
     <transmission>NONE</transmission>
-    <exterior_color>Deep Cherry Red Crystal Pearl-Coat Exterior Paint</exterior_color>
+    <exterior_color>Black Clear-Coat Exterior Paint</exterior_color>
   </listing>
   <listing>
     <image>
-      <url>https://www.jeep.com/mediaserver/iris?client=FCAUS&amp;market=U&amp;brand=J&amp;vehicle=2026_MP&amp;paint=PW7&amp;fabric=X9&amp;sa=MPJM74%2C2DN%2C29N%2CPW7%2CX9%2C-X9%2CTJC%2CWBA&amp;resp=png&amp;bkgnd=white&amp;pov=fronthero</url>
+      <url>https://vehicle-images.carscommerce.inc/af37-11001568/1C4SDJCT8TC227643/thumbnails/large/800f6b38c3034dea36db8dacee23bdee.jpg</url>
+    </image>
+    <vehicle_id>1C4SDJCT8TC227643</vehicle_id>
+    <title>New 2026 Dodge Durango GT PLUS With Navigation &amp; AWD</title>
+    <description>2026 Dodge Durango GT PLUS With Navigation &amp; AWD — 0 miles — new — Vapor Gray Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-dodge-durango-gt-plus-awd-sport-utility-1c4sdjct8tc227643/</url>
+    <price>52530.00 USD</price>
+    <make>Dodge</make>
+    <model>Durango GT PLUS With Navigation &amp; AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4SDJCT8TC227643</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Vapor Gray Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/ee33-11001568/3C6LRVBG3TE159432/thumbnails/large/de6dac41b746cecdc1d2e69686d830ea.jpg</url>
+    </image>
+    <vehicle_id>3C6LRVBG3TE159432</vehicle_id>
+    <title>New 2026 RAM ProMaster</title>
+    <description>2026 RAM ProMaster — 0 miles — new — Ceramic Gray Clear-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-ram-promaster-4x2-cargo-van-3c6lrvbg3te159432/</url>
+    <price>53785.00 USD</price>
+    <make>RAM</make>
+    <model>ProMaster</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>VAN</body_style>
+    <vin>3C6LRVBG3TE159432</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Ceramic Gray Clear-Coat Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/b93b-11001568/3C4NJDBN6TT261630/thumbnails/large/5f20e4f5d71d5eb5929c505261eece23.jpg</url>
     </image>
     <vehicle_id>3C4NJDBN6TT261630</vehicle_id>
     <title>New 2026 Jeep Compass Latitude</title>
@@ -282,7 +313,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://vehicle-images.carscommerce.inc/dc43-11001568/3C4NJDCN1TT224063/thumbnails/large/3ffb2a72cdc3e183cd8ffee759c3cbbb.jpg</url>
+      <url>https://vehicle-images.carscommerce.inc/6018-11001568/3C4NJDCN1TT224063/thumbnails/large/bfb66149bea411fb113e1568f988a431.jpg</url>
     </image>
     <vehicle_id>3C4NJDCN1TT224063</vehicle_id>
     <title>New 2026 Jeep Compass Limited</title>
@@ -310,37 +341,6 @@
     <vin>3C4NJDCN1TT224063</vin>
     <transmission>NONE</transmission>
     <exterior_color>Silver Zynith Metallic Clear-Coat Exterior Paint</exterior_color>
-  </listing>
-  <listing>
-    <image>
-      <url>https://vehicle-images.carscommerce.inc/1760-11001568/3C4NJDCN3TT184763/thumbnails/large/32195c19d55d67e5e8ae1956a5aefa48.jpg</url>
-    </image>
-    <vehicle_id>3C4NJDCN3TT184763</vehicle_id>
-    <title>New 2026 Jeep Compass Limited With Navigation</title>
-    <description>2026 Jeep Compass Limited With Navigation — 0 miles — new — Hydro Blue Pearl-Coat Exterior Paint</description>
-    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-compass-limited-4x4-sport-utility-3c4njdcn3tt184763/</url>
-    <price>37405.00 USD</price>
-    <make>Jeep</make>
-    <model>Compass Limited With Navigation</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3C4NJDCN3TT184763</vin>
-    <transmission>NONE</transmission>
-    <exterior_color>Hydro Blue Pearl-Coat Exterior Paint</exterior_color>
   </listing>
   <listing>
     <image>
@@ -558,5 +558,36 @@
     <vin>1C4RDJDG0TC254853</vin>
     <transmission>NONE</transmission>
     <exterior_color>Green Machine Exterior Paint</exterior_color>
+  </listing>
+  <listing>
+    <image>
+      <url>https://vehicle-images.carscommerce.inc/c425-11001568/3C4PJMB25TT213227/thumbnails/large/214dcc6dd38f72531186705d7573cc00.jpg</url>
+    </image>
+    <vehicle_id>3C4PJMB25TT213227</vehicle_id>
+    <title>New 2026 Jeep Cherokee Limited</title>
+    <description>2026 Jeep Cherokee Limited — 0 miles — new — Bright White Clear-Coat Exterior Paint</description>
+    <url>https://www.majorworldchryslerdodgejeepram.com/inventory/new-2026-jeep-cherokee-limited-4x4-sport-utility-3c4pjmb25tt213227/</url>
+    <price>44310.00 USD</price>
+    <make>Jeep</make>
+    <model>Cherokee Limited</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3C4PJMB25TT213227</vin>
+    <transmission>NONE</transmission>
+    <exterior_color>Bright White Clear-Coat Exterior Paint</exterior_color>
   </listing>
 </listings>
