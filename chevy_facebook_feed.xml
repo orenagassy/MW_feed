@@ -33,36 +33,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lfep2tc138122/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LFEP2TC138122</vehicle_id>
-    <title>New2026Chevrolet TraxLS</title>
-    <description>2026 Chevrolet Trax LS — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-LS-KL77LFEP2TC138122</url>
-    <price>27350.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax LS</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LFEP2TC138122</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lhep8tc149153/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>KL77LHEP8TC149153</vehicle_id>
@@ -183,36 +153,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lhep8tc159892/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LHEP8TC159892</vehicle_id>
-    <title>New2026Chevrolet TraxLT</title>
-    <description>2026 Chevrolet Trax LT — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-LT-KL77LHEP8TC159892</url>
-    <price>28090.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax LT</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LHEP8TC159892</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lhep8tc160010/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>KL77LHEP8TC160010</vehicle_id>
@@ -239,66 +179,6 @@
     <longitude>-73.919108</longitude>
     <body_style>CROSSOVER</body_style>
     <vin>KL77LHEP8TC160010</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep4tc162912/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LJEP4TC162912</vehicle_id>
-    <title>New2026Chevrolet Trax2RS</title>
-    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP4TC162912</url>
-    <price>27990.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax 2RS</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LJEP4TC162912</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep2tc160503/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LKEP2TC160503</vehicle_id>
-    <title>New2026Chevrolet TraxACTIV</title>
-    <description>2026 Chevrolet Trax ACTIV — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP2TC160503</url>
-    <price>27990.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax ACTIV</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LKEP2TC160503</vin>
     <transmission>NONE</transmission>
   </listing>
   <listing>
@@ -753,6 +633,186 @@
   </listing>
   <listing>
     <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep1tc162799/sp/1.jpg?timestamp=2026-05-19T22:29:09Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LJEP1TC162799</vehicle_id>
+    <title>New2026Chevrolet Trax2RS</title>
+    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP1TC162799</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 2RS</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LJEP1TC162799</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep2tc162505/sp/1.jpg?timestamp=2026-05-20T01:13:12Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LJEP2TC162505</vehicle_id>
+    <title>New2026Chevrolet Trax2RS</title>
+    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP2TC162505</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 2RS</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LJEP2TC162505</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep4tc162912/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LJEP4TC162912</vehicle_id>
+    <title>New2026Chevrolet Trax2RS</title>
+    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP4TC162912</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 2RS</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LJEP4TC162912</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljepxtc162672/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LJEPXTC162672</vehicle_id>
+    <title>New2026Chevrolet Trax2RS</title>
+    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEPXTC162672</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 2RS</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LJEPXTC162672</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep2tc160503/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LKEP2TC160503</vehicle_id>
+    <title>New2026Chevrolet TraxACTIV</title>
+    <description>2026 Chevrolet Trax ACTIV — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP2TC160503</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax ACTIV</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LKEP2TC160503</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep7tc162926/ip/1.jpg?timestamp=2026-05-20T10:10:32Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>KL77LKEP7TC162926</vehicle_id>
+    <title>New2026Chevrolet TraxACTIV</title>
+    <description>2026 Chevrolet Trax ACTIV — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP7TC162926</url>
+    <price>30490.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax ACTIV</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LKEP7TC162926</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg0tl477160/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>3GNAXHEG0TL477160</vehicle_id>
@@ -1083,126 +1143,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep7tc162926/sp/1.jpg?timestamp=2026-05-19T21:50:28Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LKEP7TC162926</vehicle_id>
-    <title>New2026Chevrolet TraxACTIV</title>
-    <description>2026 Chevrolet Trax ACTIV — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP7TC162926</url>
-    <price>30490.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax ACTIV</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LKEP7TC162926</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep1tc162799/sp/1.jpg?timestamp=2026-05-19T22:29:09Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LJEP1TC162799</vehicle_id>
-    <title>New2026Chevrolet Trax2RS</title>
-    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP1TC162799</url>
-    <price>30490.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax 2RS</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LJEP1TC162799</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep2tc162505/sp/1.jpg?timestamp=2026-05-20T01:13:12Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LJEP2TC162505</vehicle_id>
-    <title>New2026Chevrolet Trax2RS</title>
-    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP2TC162505</url>
-    <price>30490.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax 2RS</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LJEP2TC162505</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljepxtc162672/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL77LJEPXTC162672</vehicle_id>
-    <title>New2026Chevrolet Trax2RS</title>
-    <description>2026 Chevrolet Trax 2RS — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEPXTC162672</url>
-    <price>30490.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax 2RS</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LJEPXTC162672</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl79mrsl8tb186769/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>KL79MRSL8TB186769</vehicle_id>
@@ -1503,36 +1443,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/kl79mrsl1tb207414/sp/1.jpg?timestamp=2026-05-19T16:09:06Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>KL79MRSL1TB207414</vehicle_id>
-    <title>New2026Chevrolet TrailblazerLT</title>
-    <description>2026 Chevrolet Trailblazer LT — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trailblazer-LT-KL79MRSL1TB207414</url>
-    <price>35865.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trailblazer LT</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL79MRSL1TB207414</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxpeg4tl469282/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>3GNAXPEG4TL469282</vehicle_id>
@@ -1773,36 +1683,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevgks6tj329371/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
-    </image>
-    <vehicle_id>1GNEVGKS6TJ329371</vehicle_id>
-    <title>New2026Chevrolet TraverseLT</title>
-    <description>2026 Chevrolet Traverse LT — 0 miles — new</description>
-    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-LT-1GNEVGKS6TJ329371</url>
-    <price>48315.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Traverse LT</model>
-    <year>2026</year>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>0</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1GNEVGKS6TJ329371</vin>
-    <transmission>NONE</transmission>
-  </listing>
-  <listing>
-    <image>
       <url>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevgksxtj341958/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
     </image>
     <vehicle_id>1GNEVGKSXTJ341958</vehicle_id>
@@ -1859,6 +1739,36 @@
     <longitude>-73.919108</longitude>
     <body_style>SUV</body_style>
     <vin>1GNEVGKS7TJ352352</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevgks0tj354086/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>1GNEVGKS0TJ354086</vehicle_id>
+    <title>New2026Chevrolet TraverseLT</title>
+    <description>2026 Chevrolet Traverse LT — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-LT-1GNEVGKS0TJ354086</url>
+    <price>48315.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Traverse LT</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1GNEVGKS0TJ354086</vin>
     <transmission>NONE</transmission>
   </listing>
   <listing>
@@ -2039,6 +1949,36 @@
     <longitude>-73.919108</longitude>
     <body_style>SUV</body_style>
     <vin>1GNEVJKS5TJ329777</vin>
+    <transmission>NONE</transmission>
+  </listing>
+  <listing>
+    <image>
+      <url>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevjks8tj346234/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</url>
+    </image>
+    <vehicle_id>1GNEVJKS8TJ346234</vehicle_id>
+    <title>New2026Chevrolet TraverseZ71</title>
+    <description>2026 Chevrolet Traverse Z71 — 0 miles — new</description>
+    <url>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-Z71-1GNEVJKS8TJ346234</url>
+    <price>54620.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Traverse Z71</model>
+    <year>2026</year>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>0</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1GNEVJKS8TJ346234</vin>
     <transmission>NONE</transmission>
   </listing>
   <listing>
