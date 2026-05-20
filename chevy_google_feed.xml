@@ -14,37 +14,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP9TC139375</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL77LFEP2TC138122</g:id>
-      <g:title>New2026Chevrolet TraxLS</g:title>
-      <g:description>2026 Chevrolet Trax LS — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-LS-KL77LFEP2TC138122</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lfep2tc138122/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>27350.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LFEP2TC138122</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP9TC139375</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP8TC149153</g:id>
@@ -56,16 +32,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP8TC149153</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP8TC149153</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEPXTC149218</g:id>
@@ -77,16 +50,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEPXTC149218</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEPXTC149218</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP1TC148877</g:id>
@@ -98,16 +68,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP1TC148877</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP1TC148877</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP2TC148788</g:id>
@@ -119,37 +86,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP2TC148788</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL77LHEP8TC159892</g:id>
-      <g:title>New2026Chevrolet TraxLT</g:title>
-      <g:description>2026 Chevrolet Trax LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-LT-KL77LHEP8TC159892</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lhep8tc159892/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>28090.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP8TC159892</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP2TC148788</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP8TC160010</g:id>
@@ -161,58 +104,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP8TC160010</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL77LJEP4TC162912</g:id>
-      <g:title>New2026Chevrolet Trax2RS</g:title>
-      <g:description>2026 Chevrolet Trax 2RS — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP4TC162912</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep4tc162912/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>27990.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP4TC162912</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL77LKEP2TC160503</g:id>
-      <g:title>New2026Chevrolet TraxACTIV</g:title>
-      <g:description>2026 Chevrolet Trax ACTIV — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP2TC160503</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep2tc160503/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>27990.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LKEP2TC160503</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax ACTIV</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP8TC160010</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP6TC139334</g:id>
@@ -224,16 +122,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP6TC139334</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP6TC139334</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP9TC139327</g:id>
@@ -245,16 +140,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP9TC139327</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP9TC139327</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1G1FY6EV7VF109353</g:id>
@@ -266,16 +158,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1G1FY6EV7VF109353</g:vehicle_vin>
-      <g:vehicle_model_year>2027</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Bolt LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1G1FY6EV7VF109353</g:vin>
+      <g:year>2027</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Bolt LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1G1FY6EV7VF111443</g:id>
@@ -287,16 +176,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1G1FY6EV7VF111443</g:vehicle_vin>
-      <g:vehicle_model_year>2027</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Bolt LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1G1FY6EV7VF111443</g:vin>
+      <g:year>2027</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Bolt LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP9TC095068</g:id>
@@ -308,16 +194,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP9TC095068</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP9TC095068</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP9TC095717</g:id>
@@ -329,16 +212,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP9TC095717</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP9TC095717</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP3TC150680</g:id>
@@ -350,16 +230,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP3TC150680</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP3TC150680</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP3TC160383</g:id>
@@ -371,16 +248,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP3TC160383</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP3TC160383</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LHEP4TC159744</g:id>
@@ -392,16 +266,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LHEP4TC159744</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LHEP4TC159744</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEP7TC137924</g:id>
@@ -413,16 +284,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP7TC137924</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEP7TC137924</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LKEP6TC148208</g:id>
@@ -434,16 +302,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LKEP6TC148208</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax ACTIV</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LKEP6TC148208</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax ACTIV</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LKEP9TC148137</g:id>
@@ -455,16 +320,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LKEP9TC148137</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax ACTIV</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LKEP9TC148137</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax ACTIV</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEP9TC152912</g:id>
@@ -476,16 +338,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP9TC152912</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEP9TC152912</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LKEP3TC153379</g:id>
@@ -497,16 +356,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LKEP3TC153379</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax ACTIV</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LKEP3TC153379</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax ACTIV</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEP8TC160080</g:id>
@@ -518,268 +374,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP8TC160080</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG0TL477160</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG0TL477160</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg0tl477160/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG0TL477160</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG0TL477191</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG0TL477191</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg0tl477191/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG0TL477191</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG2TL477161</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477161</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477161/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG2TL477161</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG2TL477175</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477175</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477175/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG2TL477175</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG2TL477189</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477189</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477189/ip/1.jpg?timestamp=2026-05-15T13:55:43Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG2TL477189</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG3TL477203</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG3TL477203</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg3tl477203/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG3TL477203</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG6TL477177</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG6TL477177</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg6tl477177/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG6TL477177</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG7TL477205</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG7TL477205</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg7tl477205/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG7TL477205</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG8TL480579</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG8TL480579</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg8tl480579/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG8TL480579</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEG8TL480596</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG8TL480596</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg8tl480596/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG8TL480596</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEGXTL477148</g:id>
-      <g:title>New2026Chevrolet EquinoxLT</g:title>
-      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEGXTL477148</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxhegxtl477148/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEGXTL477148</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL77LKEP7TC162926</g:id>
-      <g:title>New2026Chevrolet TraxACTIV</g:title>
-      <g:description>2026 Chevrolet Trax ACTIV — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP7TC162926</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep7tc162926/sp/1.jpg?timestamp=2026-05-19T21:50:28Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>30490.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LKEP7TC162926</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax ACTIV</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEP8TC160080</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEP1TC162799</g:id>
@@ -791,16 +392,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP1TC162799</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEP1TC162799</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEP2TC162505</g:id>
@@ -812,16 +410,31 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEP2TC162505</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEP2TC162505</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>KL77LJEP4TC162912</g:id>
+      <g:title>New2026Chevrolet Trax2RS</g:title>
+      <g:description>2026 Chevrolet Trax 2RS — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-2RS-KL77LJEP4TC162912</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77ljep4tc162912/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>30490.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>KL77LJEP4TC162912</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL77LJEPXTC162672</g:id>
@@ -833,16 +446,247 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL77LJEPXTC162672</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trax 2RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL77LJEPXTC162672</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>KL77LKEP2TC160503</g:id>
+      <g:title>New2026Chevrolet TraxACTIV</g:title>
+      <g:description>2026 Chevrolet Trax ACTIV — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP2TC160503</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep2tc160503/sp/1.jpg?timestamp=2026-05-20T01:54:36Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>30490.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>KL77LKEP2TC160503</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax ACTIV</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>KL77LKEP7TC162926</g:id>
+      <g:title>New2026Chevrolet TraxACTIV</g:title>
+      <g:description>2026 Chevrolet Trax ACTIV — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trax-ACTIV-KL77LKEP7TC162926</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl77lkep7tc162926/ip/1.jpg?timestamp=2026-05-20T10:10:32Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>30490.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>KL77LKEP7TC162926</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax ACTIV</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG0TL477160</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG0TL477160</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg0tl477160/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG0TL477160</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG0TL477191</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG0TL477191</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg0tl477191/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG0TL477191</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG2TL477161</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477161</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477161/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG2TL477161</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG2TL477175</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477175</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477175/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG2TL477175</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG2TL477189</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG2TL477189</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg2tl477189/ip/1.jpg?timestamp=2026-05-15T13:55:43Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG2TL477189</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG3TL477203</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG3TL477203</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg3tl477203/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG3TL477203</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG6TL477177</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG6TL477177</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg6tl477177/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG6TL477177</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG7TL477205</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG7TL477205</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg7tl477205/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG7TL477205</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG8TL480579</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG8TL480579</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg8tl480579/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG8TL480579</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEG8TL480596</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEG8TL480596</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxheg8tl480596/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG8TL480596</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXHEGXTL477148</g:id>
+      <g:title>New2026Chevrolet EquinoxLT</g:title>
+      <g:description>2026 Chevrolet Equinox LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Equinox-LT-3GNAXHEGXTL477148</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/3gnaxhegxtl477148/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEGXTL477148</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>KL79MRSL8TB186769</g:id>
@@ -854,16 +698,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL79MRSL8TB186769</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trailblazer LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>KL79MRSL8TB186769</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trailblazer LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1G1FZ6EV3VF103319</g:id>
@@ -875,16 +716,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1G1FZ6EV3VF103319</g:vehicle_vin>
-      <g:vehicle_model_year>2027</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Bolt RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SEDAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1G1FZ6EV3VF103319</g:vin>
+      <g:year>2027</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Bolt RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG1TL473523</g:id>
@@ -896,16 +734,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG1TL473523</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG1TL473523</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG2TL473093</g:id>
@@ -917,16 +752,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG2TL473093</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG2TL473093</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG5TL474562</g:id>
@@ -938,16 +770,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG5TL474562</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG5TL474562</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG9TL474340</g:id>
@@ -959,16 +788,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG9TL474340</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG9TL474340</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG1TL491696</g:id>
@@ -980,16 +806,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG1TL491696</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG1TL491696</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEGXTL491146</g:id>
@@ -1001,16 +824,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEGXTL491146</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEGXTL491146</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXHEG0TL493035</g:id>
@@ -1022,16 +842,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXHEG0TL493035</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXHEG0TL493035</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXPEG2TL455820</g:id>
@@ -1043,37 +860,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXPEG2TL455820</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>KL79MRSL1TB207414</g:id>
-      <g:title>New2026Chevrolet TrailblazerLT</g:title>
-      <g:description>2026 Chevrolet Trailblazer LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Trailblazer-LT-KL79MRSL1TB207414</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/kl79mrsl1tb207414/sp/1.jpg?timestamp=2026-05-19T16:09:06Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>35865.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>KL79MRSL1TB207414</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Trailblazer LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXPEG2TL455820</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXPEG4TL469282</g:id>
@@ -1085,16 +878,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXPEG4TL469282</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXPEG4TL469282</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GNAXLEG2TL468978</g:id>
@@ -1106,16 +896,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GNAXLEG2TL468978</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Equinox RS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>CROSSOVER</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GNAXLEG2TL468978</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox RS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GCPTEEK5T1242665</g:id>
@@ -1127,16 +914,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GCPTEEK5T1242665</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Colorado Trail Boss</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>PICKUP</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GCPTEEK5T1242665</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Colorado Trail Boss</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GCPTEEK7T1245972</g:id>
@@ -1148,16 +932,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GCPTEEK7T1245972</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Colorado Trail Boss</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>PICKUP</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GCPTEEK7T1245972</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Colorado Trail Boss</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNERGKSXTJ331838</g:id>
@@ -1169,16 +950,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNERGKSXTJ331838</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNERGKSXTJ331838</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS1TJ329200</g:id>
@@ -1190,16 +968,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS1TJ329200</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS1TJ329200</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS2TJ328671</g:id>
@@ -1211,16 +986,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS2TJ328671</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS2TJ328671</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS6TJ329192</g:id>
@@ -1232,37 +1004,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS6TJ329192</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
-    </item>
-    <item>
-      <g:id>1GNEVGKS6TJ329371</g:id>
-      <g:title>New2026Chevrolet TraverseLT</g:title>
-      <g:description>2026 Chevrolet Traverse LT — 0 miles — new</g:description>
-      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-LT-1GNEVGKS6TJ329371</g:link>
-      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevgks6tj329371/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
-      <g:price>48315.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS6TJ329371</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS6TJ329192</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKSXTJ341958</g:id>
@@ -1274,16 +1022,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKSXTJ341958</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKSXTJ341958</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS7TJ352352</g:id>
@@ -1295,16 +1040,31 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS7TJ352352</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS7TJ352352</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>1GNEVGKS0TJ354086</g:id>
+      <g:title>New2026Chevrolet TraverseLT</g:title>
+      <g:description>2026 Chevrolet Traverse LT — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-LT-1GNEVGKS0TJ354086</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevgks0tj354086/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>48315.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>1GNEVGKS0TJ354086</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNERGKS3TJ330305</g:id>
@@ -1316,16 +1076,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNERGKS3TJ330305</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNERGKS3TJ330305</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS2TJ330193</g:id>
@@ -1337,16 +1094,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS2TJ330193</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS2TJ330193</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNERGKS7TJ180375</g:id>
@@ -1358,16 +1112,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNERGKS7TJ180375</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNERGKS7TJ180375</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS3TJ296216</g:id>
@@ -1379,16 +1130,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS3TJ296216</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS3TJ296216</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVGKS8TJ326200</g:id>
@@ -1400,16 +1148,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVGKS8TJ326200</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVGKS8TJ326200</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNEVJKS5TJ329777</g:id>
@@ -1421,16 +1166,31 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNEVJKS5TJ329777</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNEVJKS5TJ329777</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
+    </item>
+    <item>
+      <g:id>1GNEVJKS8TJ346234</g:id>
+      <g:title>New2026Chevrolet TraverseZ71</g:title>
+      <g:description>2026 Chevrolet Traverse Z71 — 0 miles — new</g:description>
+      <g:link>https://www.majorworldchevy.com/new-Long+Island+City-2026-Chevrolet-Traverse-Z71-1GNEVJKS8TJ346234</g:link>
+      <g:image_link>https://www.majorworldchevy.com/inventoryphotos/18931/1gnevjks8tj346234/ip/1.jpg?timestamp=2026-05-15T13:55:42Z&amp;bg-color=FFFFFF&amp;width=300</g:image_link>
+      <g:price>54620.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>1GNEVJKS8TJ346234</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF71S1275194</g:id>
@@ -1442,16 +1202,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF71S1275194</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF71S1275194</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF73S1275195</g:id>
@@ -1463,16 +1220,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF73S1275195</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF73S1275195</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75S1275196</g:id>
@@ -1484,16 +1238,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75S1275196</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75S1275196</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF7XS1275193</g:id>
@@ -1505,16 +1256,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF7XS1275193</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF7XS1275193</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF77S1275197</g:id>
@@ -1526,16 +1274,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF77S1275197</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF77S1275197</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF70S1276417</g:id>
@@ -1547,16 +1292,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF70S1276417</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF70S1276417</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF72S1276399</g:id>
@@ -1568,16 +1310,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF72S1276399</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger 1LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF72S1276399</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger 1LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1201737</g:id>
@@ -1589,16 +1328,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1201737</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1201737</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75T1201875</g:id>
@@ -1610,16 +1346,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75T1201875</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75T1201875</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1201884</g:id>
@@ -1631,16 +1364,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1201884</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1201884</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF77T1201120</g:id>
@@ -1652,16 +1382,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF77T1201120</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF77T1201120</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF72T1202028</g:id>
@@ -1673,16 +1400,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF72T1202028</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF72T1202028</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1202034</g:id>
@@ -1694,16 +1418,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1202034</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1202034</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF79T1201751</g:id>
@@ -1715,16 +1436,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF79T1201751</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF79T1201751</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF79T1201619</g:id>
@@ -1736,16 +1454,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF79T1201619</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF79T1201619</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75T1202167</g:id>
@@ -1757,16 +1472,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75T1202167</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75T1202167</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1202162</g:id>
@@ -1778,16 +1490,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1202162</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1202162</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF71T1228250</g:id>
@@ -1799,16 +1508,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF71T1228250</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF71T1228250</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1228419</g:id>
@@ -1820,16 +1526,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1228419</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1228419</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75T1228042</g:id>
@@ -1841,16 +1544,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75T1228042</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75T1228042</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1228308</g:id>
@@ -1862,16 +1562,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1228308</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1228308</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1228925</g:id>
@@ -1883,16 +1580,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1228925</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1228925</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF79T1228254</g:id>
@@ -1904,16 +1598,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF79T1228254</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF79T1228254</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF70T1229101</g:id>
@@ -1925,16 +1616,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF70T1229101</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF70T1229101</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1228520</g:id>
@@ -1946,16 +1634,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1228520</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1228520</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1228758</g:id>
@@ -1967,16 +1652,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1228758</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1228758</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75T1227991</g:id>
@@ -1988,16 +1670,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75T1227991</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75T1227991</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1228874</g:id>
@@ -2009,16 +1688,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1228874</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1228874</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1229622</g:id>
@@ -2030,16 +1706,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1229622</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1229622</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1229069</g:id>
@@ -2051,16 +1724,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1229069</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1229069</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1229248</g:id>
@@ -2072,16 +1742,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1229248</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1229248</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF79T1229159</g:id>
@@ -2093,16 +1760,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF79T1229159</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF79T1229159</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF70T1229728</g:id>
@@ -2114,16 +1778,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF70T1229728</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF70T1229728</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF70T1229843</g:id>
@@ -2135,16 +1796,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF70T1229843</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF70T1229843</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF71T1229186</g:id>
@@ -2156,16 +1814,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF71T1229186</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF71T1229186</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF72T1229505</g:id>
@@ -2177,16 +1832,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF72T1229505</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF72T1229505</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1229389</g:id>
@@ -2198,16 +1850,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1229389</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1229389</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF75T1229627</g:id>
@@ -2219,16 +1868,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF75T1229627</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF75T1229627</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1229748</g:id>
@@ -2240,16 +1886,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1229748</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1229748</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1229847</g:id>
@@ -2261,16 +1904,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1229847</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1229847</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1230027</g:id>
@@ -2282,16 +1922,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1230027</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1230027</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF76T1229927</g:id>
@@ -2303,16 +1940,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF76T1229927</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF76T1229927</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF7XT1229073</g:id>
@@ -2324,16 +1958,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF7XT1229073</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF7XT1229073</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF7XT1229011</g:id>
@@ -2345,16 +1976,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF7XT1229011</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF7XT1229011</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF78T1229587</g:id>
@@ -2366,16 +1994,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF78T1229587</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF78T1229587</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF72T1241752</g:id>
@@ -2387,16 +2012,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF72T1241752</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF72T1241752</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF73T1241808</g:id>
@@ -2408,16 +2030,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF73T1241808</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF73T1241808</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF77T1241746</g:id>
@@ -2429,16 +2048,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF77T1241746</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF77T1241746</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF71T1241578</g:id>
@@ -2450,16 +2066,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF71T1241578</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF71T1241578</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF74T1241865</g:id>
@@ -2471,16 +2084,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF74T1241865</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF74T1241865</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF71T1241757</g:id>
@@ -2492,16 +2102,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF71T1241757</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF71T1241757</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF70T1246786</g:id>
@@ -2513,16 +2120,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF70T1246786</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF70T1246786</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF73T1246698</g:id>
@@ -2534,16 +2138,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF73T1246698</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF73T1246698</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GAWGEF79T1246835</g:id>
@@ -2555,16 +2156,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GAWGEF79T1246835</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Express Passenger LS</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>VAN</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GAWGEF79T1246835</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Express Passenger LS</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNERKKS6TJ159603</g:id>
@@ -2576,16 +2174,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNERKKS6TJ159603</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Traverse High Country</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNERKKS6TJ159603</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse High Country</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>3GCUKFED7TG295656</g:id>
@@ -2597,16 +2192,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>3GCUKFED7TG295656</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Silverado 1500 LT Trail Boss</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>PICKUP</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>3GCUKFED7TG295656</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 1500 LT Trail Boss</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GC4KLEY0SF198929</g:id>
@@ -2618,16 +2210,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GC4KLEY0SF198929</g:vehicle_vin>
-      <g:vehicle_model_year>2025</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Silverado 2500 HD WT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>PICKUP</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GC4KLEY0SF198929</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 2500 HD WT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6NKD7TR347207</g:id>
@@ -2639,16 +2228,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6NKD7TR347207</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6NKD7TR347207</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6NKD4TR335385</g:id>
@@ -2660,16 +2246,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6NKD4TR335385</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6NKD4TR335385</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6NKD2TR347177</g:id>
@@ -2681,16 +2264,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6NKD2TR347177</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6NKD2TR347177</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6NKD6TR350048</g:id>
@@ -2702,16 +2282,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6NKD6TR350048</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6NKD6TR350048</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6NKD1TR342388</g:id>
@@ -2723,16 +2300,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6NKD1TR342388</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe LT</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6NKD1TR342388</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe LT</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6PK81TR235226</g:id>
@@ -2744,16 +2318,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6PK81TR235226</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6PK81TR235226</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6PK83TR234336</g:id>
@@ -2765,16 +2336,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6PK83TR234336</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6PK83TR234336</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6PK85TR234743</g:id>
@@ -2786,16 +2354,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6PK85TR234743</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6PK85TR234743</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6PK87TR234808</g:id>
@@ -2807,16 +2372,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6PK87TR234808</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6PK87TR234808</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6PK89TR234941</g:id>
@@ -2828,16 +2390,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6PK89TR234941</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe Z71</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6PK89TR234941</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe Z71</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
     <item>
       <g:id>1GNS6RKD0TR325296</g:id>
@@ -2849,16 +2408,13 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
-      <g:vehicle_vin>1GNS6RKD0TR325296</g:vehicle_vin>
-      <g:vehicle_model_year>2026</g:vehicle_model_year>
-      <g:vehicle_make>Chevrolet</g:vehicle_make>
-      <g:vehicle_model>Tahoe RST</g:vehicle_model>
-      <g:vehicle_mileage>
-        <g:value>0</g:value>
-        <g:unit>mi</g:unit>
-      </g:vehicle_mileage>
-      <g:vehicle_body_style>SUV</g:vehicle_body_style>
-      <g:vehicle_transmission>NONE</g:vehicle_transmission>
+      <g:vin>1GNS6RKD0TR325296</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Tahoe RST</g:model>
+      <g:mileage>0 mi</g:mileage>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>NONE</g:transmission>
     </item>
   </channel>
 </rss>
