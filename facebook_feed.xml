@@ -663,7 +663,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/20b0194c-98d0-4967-b98f-2563e6ad33eb.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ea1a8856-939a-4027-a95c-bb7b7231cd5a.jpg</url>
     </image>
     <vehicle_id>4JGFB4FB8SB480229</vehicle_id>
     <title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</title>
@@ -2119,7 +2119,7 @@
     </image>
     <vehicle_id>1GNEVJKW1PJ267013</vehicle_id>
     <title>2023 Chevrolet Traverse RS AWD</title>
-    <description>2023 Chevrolet Traverse RS AWD — 13,643 miles — used — Summit White</description>
+    <description>2023 Chevrolet Traverse RS AWD — 13,709 miles — used — Summit White</description>
     <url>https://majorworld.com/inventory/2023-chevrolet-traverse-rs-awd/</url>
     <price>41800.00 USD</price>
     <make>Chevrolet</make>
@@ -2128,7 +2128,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>13643</value>
+      <value>13709</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -3663,39 +3663,6 @@
     <exterior_color>Skyscraper Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77373</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0abac103-c204-4e0d-90c7-608fb34f0860.jpg</url>
-    </image>
-    <vehicle_id>1C4RJXP66SW602120</vehicle_id>
-    <title>2025 Jeep Wrangler Sahara 4xe 4WD</title>
-    <description>2025 Jeep Wrangler Sahara 4xe 4WD — 6,036 miles — used — Black Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-13/</url>
-    <price>37800.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler Sahara 4xe 4WD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>6036</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJXP66SW602120</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J17860</stock_number>
   </listing>
   <listing>
     <image>
@@ -9045,39 +9012,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/90b7b1c3-aee2-4338-989f-4ed52160d590.jpg</url>
-    </image>
-    <vehicle_id>5N1BT3BA0RC689584</vehicle_id>
-    <title>2024 Nissan Rogue SV FWD</title>
-    <description>2024 Nissan Rogue SV FWD — 20,518 miles — used — Super Black</description>
-    <url>https://majorworld.com/inventory/2024-nissan-rogue-sv-fwd-4/</url>
-    <price>25800.00 USD</price>
-    <make>Nissan</make>
-    <model>Rogue SV FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>20518</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>5N1BT3BA0RC689584</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Super Black</exterior_color>
-    <interior_color>Charcoal</interior_color>
-    <stock_number>M75628</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cedac3d6-6c76-45cb-8bc4-e3db844c6a4f.jpg</url>
     </image>
     <vehicle_id>5N1BT3BB1RC699405</vehicle_id>
@@ -9577,7 +9511,7 @@
     </image>
     <vehicle_id>ZN661XUS0KX321329</vehicle_id>
     <title>2019 Maserati Levante GranSport AWD</title>
-    <description>2019 Maserati Levante GranSport AWD — 57,097 miles — used — Black</description>
+    <description>2019 Maserati Levante GranSport AWD — 58,364 miles — used — Black</description>
     <url>https://majorworld.com/inventory/2019-maserati-levante-gransport-awd/</url>
     <price>24888.00 USD</price>
     <make>Maserati</make>
@@ -9586,7 +9520,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>57097</value>
+      <value>58364</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -11022,39 +10956,6 @@
     <exterior_color>Sterling Gray Metallic</exterior_color>
     <interior_color>Medium Ash Gray</interior_color>
     <stock_number>M76931</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3969f0ae-8925-444b-9c3e-94334b29c6e0.jpg</url>
-    </image>
-    <vehicle_id>2C4RC1CG0PR596319</vehicle_id>
-    <title>2023 Chrysler Voyager LX FWD</title>
-    <description>2023 Chrysler Voyager LX FWD — 77,418 miles — used — Silver Mist Clearcoat</description>
-    <url>https://majorworld.com/inventory/2023-chrysler-voyager-lx-fwd-2/</url>
-    <price>23800.00 USD</price>
-    <make>Chrysler</make>
-    <model>Voyager LX FWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>77418</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>2C4RC1CG0PR596319</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Silver Mist Clearcoat</exterior_color>
-    <interior_color>Black/Alloy/Black</interior_color>
-    <stock_number>M77389</stock_number>
   </listing>
   <listing>
     <image>
@@ -13632,6 +13533,105 @@
   </listing>
   <listing>
     <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40DOS011A01300.jpg</url>
+    </image>
+    <vehicle_id>1C4RDJDGXRC245957</vehicle_id>
+    <title>2024 Dodge Durango GT Plus AWD</title>
+    <description>2024 Dodge Durango GT Plus AWD — 32,868 miles — used — Octane Red Pearlcoat</description>
+    <url>https://majorworld.com/inventory/2024-dodge-durango-gt-plus-awd/</url>
+    <price>35995.00 USD</price>
+    <make>Dodge</make>
+    <model>Durango GT Plus AWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>32868</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RDJDGXRC245957</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Octane Red Pearlcoat</exterior_color>
+    <interior_color>Red/Black/Ebony</interior_color>
+    <stock_number>J18212</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CRV091A01300.jpg</url>
+    </image>
+    <vehicle_id>2C4RC1BG3SR529952</vehicle_id>
+    <title>2025 Chrysler Pacifica Select FWD</title>
+    <description>2025 Chrysler Pacifica Select FWD — 38,637 miles — used — Ceramic Gray Clearcoat</description>
+    <url>https://majorworld.com/inventory/2025-chrysler-pacifica-select-fwd-9/</url>
+    <price>29888.00 USD</price>
+    <make>Chrysler</make>
+    <model>Pacifica Select FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>38637</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>MINIVAN</body_style>
+    <vin>2C4RC1BG3SR529952</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Ceramic Gray Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78258</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CHS152A01300.jpg</url>
+    </image>
+    <vehicle_id>3GNAXHEG3SL219925</vehicle_id>
+    <title>2025 Chevrolet Equinox LT FWD</title>
+    <description>2025 Chevrolet Equinox LT FWD — 39,792 miles — used — Sterling Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-12/</url>
+    <price>26800.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>39792</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXHEG3SL219925</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78217</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD00MBS931A021001.jpg</url>
     </image>
     <vehicle_id>W1N4M4HB4MW142088</vehicle_id>
@@ -13695,6 +13695,105 @@
     <exterior_color>Night Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75812</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</url>
+    </image>
+    <vehicle_id>KL77LJEP8SC002322</vehicle_id>
+    <title>2025 Chevrolet Trax 2RS FWD</title>
+    <description>2025 Chevrolet Trax 2RS FWD — 22,363 miles — used — Sterling Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-trax-2rs-fwd/</url>
+    <price>19887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 2RS FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>22363</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LJEP8SC002322</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Jet Black With Red Accents</interior_color>
+    <stock_number>M78218</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD20CHS152F01300.jpg</url>
+    </image>
+    <vehicle_id>3GNAXSEG8PL138388</vehicle_id>
+    <title>2023 Chevrolet Equinox LS AWD</title>
+    <description>2023 Chevrolet Equinox LS AWD — 18,398 miles — used — Sterling Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd/</url>
+    <price>18777.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox LS AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>18398</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXSEG8PL138388</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Medium Ash Gray</interior_color>
+    <stock_number>M78289</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50KIC211D01300.jpg</url>
+    </image>
+    <vehicle_id>3KPFT4DE0SE014330</vehicle_id>
+    <title>2025 Kia K4 LXS FWD</title>
+    <description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</description>
+    <url>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</url>
+    <price>17887.00 USD</price>
+    <make>Kia</make>
+    <model>K4 LXS FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>35861</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3KPFT4DE0SE014330</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Deep Sea Blue</exterior_color>
+    <interior_color>Gray</interior_color>
+    <stock_number>M78076</stock_number>
   </listing>
   <listing>
     <image>
@@ -13827,104 +13926,5 @@
     <exterior_color>Super Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17996</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40DOS011A01300.jpg</url>
-    </image>
-    <vehicle_id>1C4RDJDGXRC245957</vehicle_id>
-    <title>2024 Dodge Durango GT Plus AWD</title>
-    <description>2024 Dodge Durango GT Plus AWD — 32,868 miles — used — Octane Red Pearlcoat</description>
-    <url>https://majorworld.com/inventory/2024-dodge-durango-gt-plus-awd/</url>
-    <price>35995.00 USD</price>
-    <make>Dodge</make>
-    <model>Durango GT Plus AWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>32868</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RDJDGXRC245957</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Octane Red Pearlcoat</exterior_color>
-    <interior_color>Red/Black/Ebony</interior_color>
-    <stock_number>J18212</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CRV091A01300.jpg</url>
-    </image>
-    <vehicle_id>2C4RC1BG3SR529952</vehicle_id>
-    <title>2025 Chrysler Pacifica Select FWD</title>
-    <description>2025 Chrysler Pacifica Select FWD — 38,637 miles — used — Ceramic Gray Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-chrysler-pacifica-select-fwd-9/</url>
-    <price>29888.00 USD</price>
-    <make>Chrysler</make>
-    <model>Pacifica Select FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>38637</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>MINIVAN</body_style>
-    <vin>2C4RC1BG3SR529952</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Ceramic Gray Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78258</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CHS152A01300.jpg</url>
-    </image>
-    <vehicle_id>3GNAXHEG3SL219925</vehicle_id>
-    <title>2025 Chevrolet Equinox LT FWD</title>
-    <description>2025 Chevrolet Equinox LT FWD — 39,792 miles — used — Sterling Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-12/</url>
-    <price>26800.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox LT FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>39792</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNAXHEG3SL219925</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Sterling Gray Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78217</stock_number>
   </listing>
 </listings>
