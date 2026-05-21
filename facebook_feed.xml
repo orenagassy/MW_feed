@@ -12180,6 +12180,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2b5f9487-d6b9-410f-803b-e5cdd4b606b9.jpg</url>
+    </image>
+    <vehicle_id>3C6TRVCG7KE509495</vehicle_id>
+    <title>2019 Ram ProMaster 2500 High Roof FWD</title>
+    <description>2019 Ram ProMaster 2500 High Roof FWD — 109,311 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2019-ram-promaster-2500-high-roof-fwd-2/</url>
+    <price>18888.00 USD</price>
+    <make>Ram</make>
+    <model>ProMaster 2500 High Roof FWD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>109311</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>VAN</body_style>
+    <vin>3C6TRVCG7KE509495</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>J18103</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2a7d7d36-90ad-4712-8a9b-fa5b040900b8.jpg</url>
     </image>
     <vehicle_id>KL77LHE20RC095537</vehicle_id>
@@ -12837,6 +12870,39 @@
     <exterior_color>Deep Blue Pearl Metallic</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>J18164</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d03776d0-fc80-4fd2-b26e-d7a69805f94f.jpg</url>
+    </image>
+    <vehicle_id>2FMPK4K9XJBB41066</vehicle_id>
+    <title>2018 Ford Edge Titanium AWD</title>
+    <description>2018 Ford Edge Titanium AWD — 108,044 miles — used — Magnetic Metallic</description>
+    <url>https://majorworld.com/inventory/2018-ford-edge-titanium-awd/</url>
+    <price>14800.00 USD</price>
+    <make>Ford</make>
+    <model>Edge Titanium AWD</model>
+    <year>2018</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>108044</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>PICKUP</body_style>
+    <vin>2FMPK4K9XJBB41066</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Magnetic Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>J17662</stock_number>
   </listing>
   <listing>
     <image>
@@ -13533,72 +13599,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2b5f9487-d6b9-410f-803b-e5cdd4b606b9.jpg</url>
-    </image>
-    <vehicle_id>3C6TRVCG7KE509495</vehicle_id>
-    <title>2019 Ram ProMaster 2500 High Roof FWD</title>
-    <description>2019 Ram ProMaster 2500 High Roof FWD — 109,311 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2019-ram-promaster-2500-high-roof-fwd-2/</url>
-    <price>18888.00 USD</price>
-    <make>Ram</make>
-    <model>ProMaster 2500 High Roof FWD</model>
-    <year>2019</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>109311</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>VAN</body_style>
-    <vin>3C6TRVCG7KE509495</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J18103</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d03776d0-fc80-4fd2-b26e-d7a69805f94f.jpg</url>
-    </image>
-    <vehicle_id>2FMPK4K9XJBB41066</vehicle_id>
-    <title>2018 Ford Edge Titanium AWD</title>
-    <description>2018 Ford Edge Titanium AWD — 108,044 miles — used — Magnetic Metallic</description>
-    <url>https://majorworld.com/inventory/2018-ford-edge-titanium-awd/</url>
-    <price>14800.00 USD</price>
-    <make>Ford</make>
-    <model>Edge Titanium AWD</model>
-    <year>2018</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>108044</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>2FMPK4K9XJBB41066</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Magnetic Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>J17662</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40BMS192A021001.jpg</url>
     </image>
     <vehicle_id>5UX23EU09S9W32211</vehicle_id>
@@ -13801,7 +13801,7 @@
     </image>
     <vehicle_id>W1N4M4HB4MW142088</vehicle_id>
     <title>2021 Mercedes-Benz GLB GLB 250 4MATIC®</title>
-    <description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 53,795 miles — used — Polar White</description>
+    <description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 54,004 miles — used — Polar White</description>
     <url>https://majorworld.com/inventory/2021-mercedes-benz-glb-glb-250-4matic/</url>
     <price>26800.00 USD</price>
     <make>Mercedes-Benz</make>
@@ -13810,7 +13810,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>53795</value>
+      <value>54004</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
