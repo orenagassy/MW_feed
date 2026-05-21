@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
     <title>Major World</title>
     <link>https://majorworld.com/</link>
@@ -409,7 +409,7 @@
       <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 22,027 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ea1a8856-939a-4027-a95c-bb7b7231cd5a.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0354c2ea-e87f-45ad-9a10-e53fbb853d46.jpg</g:image_link>
       <g:price>49888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -463,26 +463,6 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>WAULDAF89NN005323</g:id>
-      <g:title>2022 Audi A8 L 55 quattro</g:title>
-      <g:description>2022 Audi A8 L 55 quattro — 27,375 miles — used — Mythos Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2022-audi-a8-l-55-quattro-2/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/adf212dc-dcba-4a7f-83ce-b487dec736f2.jpg</g:image_link>
-      <g:price>48888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:vin>WAULDAF89NN005323</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Audi</g:make>
-      <g:model>A8 L 55 quattro</g:model>
-      <g:mileage>27375 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>4JGFB4FE0RB050165</g:id>
@@ -581,6 +561,26 @@
       <g:mileage>14231 mi</g:mileage>
       <g:exterior_color>Storm Cloud</g:exterior_color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>WAULDAF89NN005323</g:id>
+      <g:title>2022 Audi A8 L 55 quattro</g:title>
+      <g:description>2022 Audi A8 L 55 quattro — 27,375 miles — used — Mythos Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2022-audi-a8-l-55-quattro-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/adf212dc-dcba-4a7f-83ce-b487dec736f2.jpg</g:image_link>
+      <g:price>46995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:vin>WAULDAF89NN005323</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A8 L 55 quattro</g:model>
+      <g:mileage>27375 mi</g:mileage>
+      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
     </item>
@@ -3087,7 +3087,7 @@
     <item>
       <g:id>1FMSK7FH4RGA29235</g:id>
       <g:title>2024 Ford Explorer Limited RWD</g:title>
-      <g:description>2024 Ford Explorer Limited RWD — 40,190 miles — used — Iconic Silver Metallic</g:description>
+      <g:description>2024 Ford Explorer Limited RWD — 40,341 miles — used — Iconic Silver Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-ford-explorer-limited-rwd-3/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6e61fc59-3f8e-4d77-95bb-3578be223301.jpg</g:image_link>
       <g:price>32995.00 USD</g:price>
@@ -3098,7 +3098,7 @@
       <g:year>2024</g:year>
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
-      <g:mileage>40190 mi</g:mileage>
+      <g:mileage>40341 mi</g:mileage>
       <g:exterior_color>Iconic Silver Metallic</g:exterior_color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -3705,6 +3705,26 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
+      <g:id>W1N4N4GB1SJ634585</g:id>
+      <g:title>2025 Mercedes-Benz GLA GLA 250 FWD</g:title>
+      <g:description>2025 Mercedes-Benz GLA GLA 250 FWD — 37,546 miles — used — Night Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gla-gla-250-fwd-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0b979982-4376-4243-ba89-7427b88199f2.jpg</g:image_link>
+      <g:price>31800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:vin>W1N4N4GB1SJ634585</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLA GLA 250 FWD</g:model>
+      <g:mileage>37546 mi</g:mileage>
+      <g:exterior_color>Night Black</g:exterior_color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
       <g:id>5GAERCKW1RJ132935</g:id>
       <g:title>2024 Buick Enclave Premium Group FWD</g:title>
       <g:description>2024 Buick Enclave Premium Group FWD — 40,031 miles — used — Summit White</g:description>
@@ -4047,7 +4067,7 @@
     <item>
       <g:id>1FMSK8DH0NGA63160</g:id>
       <g:title>2022 Ford Explorer XLT 4WD</g:title>
-      <g:description>2022 Ford Explorer XLT 4WD — 38,992 miles — used — Agate Black Metallic</g:description>
+      <g:description>2022 Ford Explorer XLT 4WD — 38,988 miles — used — Agate Black Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-4/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ebd319c2-864a-45e0-91ea-abac9e82c0ee.jpg</g:image_link>
       <g:price>29995.00 USD</g:price>
@@ -4058,7 +4078,7 @@
       <g:year>2022</g:year>
       <g:make>Ford</g:make>
       <g:model>Explorer XLT 4WD</g:model>
-      <g:mileage>38992 mi</g:mileage>
+      <g:mileage>38988 mi</g:mileage>
       <g:exterior_color>Agate Black Metallic</g:exterior_color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -4107,7 +4127,7 @@
     <item>
       <g:id>3GNKBCR43RS178282</g:id>
       <g:title>2024 Chevrolet Blazer LT FWD</g:title>
-      <g:description>2024 Chevrolet Blazer LT FWD — 10,422 miles — used — Riptide Blue Metallic</g:description>
+      <g:description>2024 Chevrolet Blazer LT FWD — 10,576 miles — used — Riptide Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-chevrolet-blazer-lt-fwd-7/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8f34eeaf-1dbf-4f69-b15f-aa42982ef14c.jpg</g:image_link>
       <g:price>29888.00 USD</g:price>
@@ -4118,7 +4138,7 @@
       <g:year>2024</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Blazer LT FWD</g:model>
-      <g:mileage>10422 mi</g:mileage>
+      <g:mileage>10576 mi</g:mileage>
       <g:exterior_color>Riptide Blue Metallic</g:exterior_color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -4243,6 +4263,26 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Silk Beige/Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>2C4RC1BG3SR529952</g:id>
+      <g:title>2025 Chrysler Pacifica Select FWD</g:title>
+      <g:description>2025 Chrysler Pacifica Select FWD — 38,637 miles — used — Ceramic Gray Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chrysler-pacifica-select-fwd-9/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/dafc0478-abba-4e67-876b-7e4dad20ed93.jpg</g:image_link>
+      <g:price>29888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:vin>2C4RC1BG3SR529952</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>Pacifica Select FWD</g:model>
+      <g:mileage>38637 mi</g:mileage>
+      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
+      <g:body_style>MINIVAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>1C4RJJAG6R8550887</g:id>
@@ -4407,7 +4447,7 @@
     <item>
       <g:id>1FMSK7FH6PGB17619</g:id>
       <g:title>2023 Ford Explorer Limited RWD</g:title>
-      <g:description>2023 Ford Explorer Limited RWD — 56,061 miles — used — Rapid Red Metallic Tinted Clearcoat</g:description>
+      <g:description>2023 Ford Explorer Limited RWD — 56,187 miles — used — Rapid Red Metallic Tinted Clearcoat</g:description>
       <g:link>https://majorworld.com/inventory/2023-ford-explorer-limited-rwd-2/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5a3d135c-ba66-4946-8b75-e9323cd2c9e0.jpg</g:image_link>
       <g:price>29800.00 USD</g:price>
@@ -4418,7 +4458,7 @@
       <g:year>2023</g:year>
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
-      <g:mileage>56061 mi</g:mileage>
+      <g:mileage>56187 mi</g:mileage>
       <g:exterior_color>Rapid Red Metallic Tinted Clearcoat</g:exterior_color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -5345,6 +5385,26 @@
       <g:interior_color>Black/Rock Gray Stitching</g:interior_color>
     </item>
     <item>
+      <g:id>3GNAXHEG3SL219925</g:id>
+      <g:title>2025 Chevrolet Equinox LT FWD</g:title>
+      <g:description>2025 Chevrolet Equinox LT FWD — 39,792 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-12/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/28f4f28f-fcb6-4c04-b82d-3fd7739cb8b1.jpg</g:image_link>
+      <g:price>26800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNAXHEG3SL219925</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT FWD</g:model>
+      <g:mileage>39792 mi</g:mileage>
+      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
       <g:id>3GNAXKEG6RL224169</g:id>
       <g:title>2024 Chevrolet Equinox LT FWD</g:title>
       <g:description>2024 Chevrolet Equinox LT FWD — 2,820 miles — used — Riptide Blue Metallic</g:description>
@@ -6247,7 +6307,7 @@
     <item>
       <g:id>SALCJ2FX7NH910501</g:id>
       <g:title>2022 Land Rover Discovery Sport S 4WD</g:title>
-      <g:description>2022 Land Rover Discovery Sport S 4WD — 34,338 miles — used — Fuji White</g:description>
+      <g:description>2022 Land Rover Discovery Sport S 4WD — 34,468 miles — used — Fuji White</g:description>
       <g:link>https://majorworld.com/inventory/2022-land-rover-discovery-sport-s-4wd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9f7e9c39-8e7b-4301-aed6-bef9c42805f6.jpg</g:image_link>
       <g:price>23888.00 USD</g:price>
@@ -6258,7 +6318,7 @@
       <g:year>2022</g:year>
       <g:make>Land Rover</g:make>
       <g:model>Discovery Sport S 4WD</g:model>
-      <g:mileage>34338 mi</g:mileage>
+      <g:mileage>34468 mi</g:mileage>
       <g:exterior_color>Fuji White</g:exterior_color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -6703,6 +6763,26 @@
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>1N4BL4DV4SN320771</g:id>
+      <g:title>2025 Nissan Altima 2.5 SV FWD</g:title>
+      <g:description>2025 Nissan Altima 2.5 SV FWD — 40,713 miles — used — Gun Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-35/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/50ac9b2a-73e3-4ba6-818d-08adcae9a15f.jpg</g:image_link>
+      <g:price>22995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:vin>1N4BL4DV4SN320771</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Altima 2.5 SV FWD</g:model>
+      <g:mileage>40713 mi</g:mileage>
+      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Charcoal</g:interior_color>
     </item>
     <item>
       <g:id>1G1ZD5STXRF169137</g:id>
@@ -7227,7 +7307,7 @@
     <item>
       <g:id>KL4AMESL4RB012919</g:id>
       <g:title>2024 Buick Encore GX Sport Touring AWD</g:title>
-      <g:description>2024 Buick Encore GX Sport Touring AWD — 51,540 miles — used — Cinnabar Metallic</g:description>
+      <g:description>2024 Buick Encore GX Sport Touring AWD — 51,744 miles — used — Cinnabar Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-buick-encore-gx-sport-touring-awd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7413110a-4970-43ac-9a23-2b6e5a3c6297.jpg</g:image_link>
       <g:price>19995.00 USD</g:price>
@@ -7238,7 +7318,7 @@
       <g:year>2024</g:year>
       <g:make>Buick</g:make>
       <g:model>Encore GX Sport Touring AWD</g:model>
-      <g:mileage>51540 mi</g:mileage>
+      <g:mileage>51744 mi</g:mileage>
       <g:exterior_color>Cinnabar Metallic</g:exterior_color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -7825,26 +7905,6 @@
       <g:interior_color>Jet Black</g:interior_color>
     </item>
     <item>
-      <g:id>1C6RR6KT2FS754948</g:id>
-      <g:title>2015 Ram 1500 Express RWD</g:title>
-      <g:description>2015 Ram 1500 Express RWD — 153,661 miles — used — Granite Crystal Metallic Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2015-ram-1500-express-rwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/245675df-bbff-4d37-b5c7-b911381e832a.jpg</g:image_link>
-      <g:price>12995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ram</g:brand>
-      <g:vin>1C6RR6KT2FS754948</g:vin>
-      <g:year>2015</g:year>
-      <g:make>Ram</g:make>
-      <g:model>1500 Express RWD</g:model>
-      <g:mileage>153661 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
-      <g:body_style>PICKUP</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
       <g:id>1C4SDJCTXFC101448</g:id>
       <g:title>2015 Dodge Durango R/T AWD</g:title>
       <g:description>2015 Dodge Durango R/T AWD — 115,114 miles — used — Granite Crystal Metallic Clearcoat</g:description>
@@ -8145,6 +8205,46 @@
       <g:interior_color>Jet Black/Jet Black</g:interior_color>
     </item>
     <item>
+      <g:id>3C6TRVCG7KE509495</g:id>
+      <g:title>2019 Ram ProMaster 2500 High Roof FWD</g:title>
+      <g:description>2019 Ram ProMaster 2500 High Roof FWD — 109,311 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2019-ram-promaster-2500-high-roof-fwd-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2b5f9487-d6b9-410f-803b-e5cdd4b606b9.jpg</g:image_link>
+      <g:price>18888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ram</g:brand>
+      <g:vin>3C6TRVCG7KE509495</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Ram</g:make>
+      <g:model>ProMaster 2500 High Roof FWD</g:model>
+      <g:mileage>109311 mi</g:mileage>
+      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:body_style>VAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>2FMPK4K9XJBB41066</g:id>
+      <g:title>2018 Ford Edge Titanium AWD</g:title>
+      <g:description>2018 Ford Edge Titanium AWD — 108,044 miles — used — Magnetic Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2018-ford-edge-titanium-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d03776d0-fc80-4fd2-b26e-d7a69805f94f.jpg</g:image_link>
+      <g:price>14800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:vin>2FMPK4K9XJBB41066</g:vin>
+      <g:year>2018</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Edge Titanium AWD</g:model>
+      <g:mileage>108044 mi</g:mileage>
+      <g:exterior_color>Magnetic Metallic</g:exterior_color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Ebony</g:interior_color>
+    </item>
+    <item>
       <g:id>5UX23EU09S9W32211</g:id>
       <g:title>2025 BMW X5 xDrive40i AWD</g:title>
       <g:description>2025 BMW X5 xDrive40i AWD — 43,867 miles — used — Brooklyn Grey Metallic</g:description>
@@ -8225,46 +8325,6 @@
       <g:interior_color>Red/Black/Ebony</g:interior_color>
     </item>
     <item>
-      <g:id>2C4RC1BG3SR529952</g:id>
-      <g:title>2025 Chrysler Pacifica Select FWD</g:title>
-      <g:description>2025 Chrysler Pacifica Select FWD — 38,637 miles — used — Ceramic Gray Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chrysler-pacifica-select-fwd-9/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CRV091A01300.jpg</g:image_link>
-      <g:price>29888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chrysler</g:brand>
-      <g:vin>2C4RC1BG3SR529952</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chrysler</g:make>
-      <g:model>Pacifica Select FWD</g:model>
-      <g:mileage>38637 mi</g:mileage>
-      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
-      <g:body_style>MINIVAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>3GNAXHEG3SL219925</g:id>
-      <g:title>2025 Chevrolet Equinox LT FWD</g:title>
-      <g:description>2025 Chevrolet Equinox LT FWD — 39,792 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-12/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50CHS152A01300.jpg</g:image_link>
-      <g:price>26800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:vin>3GNAXHEG3SL219925</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Equinox LT FWD</g:model>
-      <g:mileage>39792 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
       <g:id>W1N4M4HB4MW142088</g:id>
       <g:title>2021 Mercedes-Benz GLB GLB 250 4MATIC®</g:title>
       <g:description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 53,795 miles — used — Polar White</g:description>
@@ -8303,6 +8363,26 @@
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>KL77LHEP0SC239654</g:id>
+      <g:title>2025 Chevrolet Trax LT FWD</g:title>
+      <g:description>2025 Chevrolet Trax LT FWD — 37,441 miles — used — Mosaic Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-lt-fwd-3/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</g:image_link>
+      <g:price>22995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>KL77LHEP0SC239654</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT FWD</g:model>
+      <g:mileage>37441 mi</g:mileage>
+      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black</g:interior_color>
     </item>
     <item>
       <g:id>KL77LJEP8SC002322</g:id>
@@ -8440,6 +8520,46 @@
       <g:model>Rogue S AWD</g:model>
       <g:mileage>78200 mi</g:mileage>
       <g:exterior_color>Super Black Metallic</g:exterior_color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>3GNKBCR42SS193183</g:id>
+      <g:title>2025 Chevrolet Blazer LT FWD</g:title>
+      <g:description>2025 Chevrolet Blazer LT FWD — 34,337 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-2/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD30CHS092A021001.jpg</g:image_link>
+      <g:price>29888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:vin>3GNKBCR42SS193183</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Blazer LT FWD</g:model>
+      <g:mileage>34337 mi</g:mileage>
+      <g:exterior_color>Black</g:exterior_color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black/Medium Gray</g:interior_color>
+    </item>
+    <item>
+      <g:id>JM3KFBCL4S0638786</g:id>
+      <g:title>2025 Mazda CX-5 2.5 S Preferred Package AWD</g:title>
+      <g:description>2025 Mazda CX-5 2.5 S Preferred Package AWD — 33,145 miles — used — Jet Black Mica</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-2/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40MAS062B01326.jpg</g:image_link>
+      <g:price>28995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mazda</g:brand>
+      <g:vin>JM3KFBCL4S0638786</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Mazda</g:make>
+      <g:model>CX-5 2.5 S Preferred Package AWD</g:model>
+      <g:mileage>33145 mi</g:mileage>
+      <g:exterior_color>Jet Black Mica</g:exterior_color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
