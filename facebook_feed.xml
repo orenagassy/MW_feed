@@ -7498,7 +7498,7 @@
     </image>
     <vehicle_id>1HGCY1F27SA001973</vehicle_id>
     <title>2025 Honda Accord LX FWD</title>
-    <description>2025 Honda Accord LX FWD — 12,337 miles — used — Canyon River Blue Metallic</description>
+    <description>2025 Honda Accord LX FWD — 12,362 miles — used — Canyon River Blue Metallic</description>
     <url>https://majorworld.com/inventory/2025-honda-accord-lx-fwd/</url>
     <price>28888.00 USD</price>
     <make>Honda</make>
@@ -7507,7 +7507,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>12337</value>
+      <value>12362</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -13731,6 +13731,72 @@
   </listing>
   <listing>
     <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD30CHS092A021001.jpg</url>
+    </image>
+    <vehicle_id>3GNKBCR42SS193183</vehicle_id>
+    <title>2025 Chevrolet Blazer LT FWD</title>
+    <description>2025 Chevrolet Blazer LT FWD — 34,337 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-2/</url>
+    <price>29888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Blazer LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>34337</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNKBCR42SS193183</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black/Medium Gray</interior_color>
+    <stock_number>M78122</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40MAS062B01326.jpg</url>
+    </image>
+    <vehicle_id>JM3KFBCL4S0638786</vehicle_id>
+    <title>2025 Mazda CX-5 2.5 S Preferred Package AWD</title>
+    <description>2025 Mazda CX-5 2.5 S Preferred Package AWD — 33,145 miles — used — Jet Black Mica</description>
+    <url>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-2/</url>
+    <price>28995.00 USD</price>
+    <make>Mazda</make>
+    <model>CX-5 2.5 S Preferred Package AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>33145</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>JM3KFBCL4S0638786</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Jet Black Mica</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78196</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD00MBS931A021001.jpg</url>
     </image>
     <vehicle_id>W1N4M4HB4MW142088</vehicle_id>
@@ -14058,71 +14124,5 @@
     <exterior_color>Super Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17996</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD30CHS092A021001.jpg</url>
-    </image>
-    <vehicle_id>3GNKBCR42SS193183</vehicle_id>
-    <title>2025 Chevrolet Blazer LT FWD</title>
-    <description>2025 Chevrolet Blazer LT FWD — 34,337 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-2/</url>
-    <price>29888.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Blazer LT FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>34337</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNKBCR42SS193183</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Jet Black/Medium Gray</interior_color>
-    <stock_number>M78122</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40MAS062B01326.jpg</url>
-    </image>
-    <vehicle_id>JM3KFBCL4S0638786</vehicle_id>
-    <title>2025 Mazda CX-5 2.5 S Preferred Package AWD</title>
-    <description>2025 Mazda CX-5 2.5 S Preferred Package AWD — 33,145 miles — used — Jet Black Mica</description>
-    <url>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-2/</url>
-    <price>28995.00 USD</price>
-    <make>Mazda</make>
-    <model>CX-5 2.5 S Preferred Package AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>33145</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>JM3KFBCL4S0638786</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Jet Black Mica</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78196</stock_number>
   </listing>
 </listings>
