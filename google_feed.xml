@@ -21,7 +21,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Corvette Stingray RWD</g:model>
       <g:mileage>31433 mi</g:mileage>
-      <g:exterior_color>Torch Red</g:exterior_color>
+      <g:color>Torch Red</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Adrenaline Red</g:interior_color>
@@ -43,7 +43,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Silverado 2500HD High Country 4WD</g:model>
       <g:mileage>37481 mi</g:mileage>
-      <g:exterior_color>Iridescent Pearl Tricoat</g:exterior_color>
+      <g:color>Iridescent Pearl Tricoat</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Umber</g:interior_color>
@@ -65,7 +65,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Suburban Z71 4WD</g:model>
       <g:mileage>31517 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -87,7 +87,7 @@
       <g:make>BMW</g:make>
       <g:model>X7 xDrive40i AWD</g:model>
       <g:mileage>35955 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -109,7 +109,7 @@
       <g:make>BMW</g:make>
       <g:model>X6 xDrive40i AWD</g:model>
       <g:mileage>41885 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -131,7 +131,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 xDrive40i AWD</g:model>
       <g:mileage>31864 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -153,7 +153,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLS GLS 450 4MATIC®</g:model>
       <g:mileage>39878 mi</g:mileage>
-      <g:exterior_color>Polar White</g:exterior_color>
+      <g:color>Polar White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -175,7 +175,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLS GLS 450 4MATIC®</g:model>
       <g:mileage>50963 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Espresso Brown/Black</g:interior_color>
@@ -197,7 +197,7 @@
       <g:make>Audi</g:make>
       <g:model>Q7 45 Premium quattro</g:model>
       <g:mileage>2876 mi</g:mileage>
-      <g:exterior_color>Samurai Gray Metallic</g:exterior_color>
+      <g:color>Samurai Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -219,7 +219,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse High Country AWD</g:model>
       <g:mileage>18 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>High Country Jet Black With Bronze Accents</g:interior_color>
@@ -241,7 +241,7 @@
       <g:make>Audi</g:make>
       <g:model>A8 L 55 quattro</g:model>
       <g:mileage>13103 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -263,7 +263,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Tahoe LT 4WD</g:model>
       <g:mileage>39296 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -285,7 +285,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Tahoe LT 4WD</g:model>
       <g:mileage>28994 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -307,7 +307,7 @@
       <g:make>GMC</g:make>
       <g:model>Sierra 1500 Denali 4WD</g:model>
       <g:mileage>22873 mi</g:mileage>
-      <g:exterior_color>Volcanic Red Tintcoat</g:exterior_color>
+      <g:color>Volcanic Red Tintcoat</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Atmosphere/Brownstone</g:interior_color>
@@ -329,7 +329,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLE GLE 350 4MATIC®</g:model>
       <g:mileage>37180 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -351,7 +351,7 @@
       <g:make>Ford</g:make>
       <g:model>Bronco Badlands 4WD</g:model>
       <g:mileage>31178 mi</g:mileage>
-      <g:exterior_color>Velocity Blue Metallic</g:exterior_color>
+      <g:color>Velocity Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black Onyx</g:interior_color>
@@ -373,7 +373,7 @@
       <g:make>Audi</g:make>
       <g:model>Q7 45 Premium Plus quattro</g:model>
       <g:mileage>21103 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -395,7 +395,7 @@
       <g:make>BMW</g:make>
       <g:model>5 Series 530i xDrive AWD</g:model>
       <g:mileage>23542 mi</g:mileage>
-      <g:exterior_color>Dark Graphite Metallic</g:exterior_color>
+      <g:color>Dark Graphite Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Burgundy Red</g:interior_color>
@@ -417,7 +417,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 xDrive40i AWD</g:model>
       <g:mileage>49602 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -439,7 +439,7 @@
       <g:make>Audi</g:make>
       <g:model>Q7 45 Premium Plus quattro</g:model>
       <g:mileage>23451 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -461,7 +461,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLE GLE 350 4MATIC®</g:model>
       <g:mileage>22027 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -483,7 +483,7 @@
       <g:make>BMW</g:make>
       <g:model>5 Series 530i xDrive AWD</g:model>
       <g:mileage>27722 mi</g:mileage>
-      <g:exterior_color>Mineral White Metallic</g:exterior_color>
+      <g:color>Mineral White Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Espresso Brown</g:interior_color>
@@ -505,7 +505,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse RS AWD</g:model>
       <g:mileage>22135 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -527,7 +527,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLE GLE 350 4MATIC®</g:model>
       <g:mileage>50088 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -549,7 +549,7 @@
       <g:make>Toyota</g:make>
       <g:model>Grand Highlander XLE AWD</g:model>
       <g:mileage>18978 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -571,7 +571,7 @@
       <g:make>Toyota</g:make>
       <g:model>Grand Highlander XLE AWD</g:model>
       <g:mileage>19067 mi</g:mileage>
-      <g:exterior_color>Storm Cloud</g:exterior_color>
+      <g:color>Storm Cloud</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -593,7 +593,7 @@
       <g:make>Ford</g:make>
       <g:model>F-150 XLT 4WD</g:model>
       <g:mileage>49864 mi</g:mileage>
-      <g:exterior_color>Avalanche Gray</g:exterior_color>
+      <g:color>Avalanche Gray</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black/Slate Gray</g:interior_color>
@@ -615,7 +615,7 @@
       <g:make>Toyota</g:make>
       <g:model>Grand Highlander XLE FWD</g:model>
       <g:mileage>14231 mi</g:mileage>
-      <g:exterior_color>Storm Cloud</g:exterior_color>
+      <g:color>Storm Cloud</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -637,7 +637,7 @@
       <g:make>Audi</g:make>
       <g:model>A8 L 55 quattro</g:model>
       <g:mileage>27375 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -659,7 +659,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Silverado 1500 RST 4WD</g:model>
       <g:mileage>35349 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -681,7 +681,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>42935 mi</g:mileage>
-      <g:exterior_color>Alpine White</g:exterior_color>
+      <g:color>Alpine White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -703,7 +703,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>44754 mi</g:mileage>
-      <g:exterior_color>Mineral White Metallic</g:exterior_color>
+      <g:color>Mineral White Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -725,7 +725,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L AWD</g:model>
       <g:mileage>8376 mi</g:mileage>
-      <g:exterior_color>Modern Steel Metallic</g:exterior_color>
+      <g:color>Modern Steel Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -747,7 +747,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>44074 mi</g:mileage>
-      <g:exterior_color>Mineral White Metallic</g:exterior_color>
+      <g:color>Mineral White Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -769,7 +769,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Tahoe LT RWD</g:model>
       <g:mileage>47132 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -791,7 +791,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Limited 4WD</g:model>
       <g:mileage>486 mi</g:mileage>
-      <g:exterior_color>Baltic Gray Metallic Clearcoat</g:exterior_color>
+      <g:color>Baltic Gray Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -813,7 +813,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wagoneer Series II RWD</g:model>
       <g:mileage>34382 mi</g:mileage>
-      <g:exterior_color>Velvet Red Pearlcoat</g:exterior_color>
+      <g:color>Velvet Red Pearlcoat</g:color>
       <g:body_style>WAGON</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -835,7 +835,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>48095 mi</g:mileage>
-      <g:exterior_color>Brooklyn Gray Metallic</g:exterior_color>
+      <g:color>Brooklyn Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -857,7 +857,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango R/T Plus AWD</g:model>
       <g:mileage>24803 mi</g:mileage>
-      <g:exterior_color>DB Black Clearcoat</g:exterior_color>
+      <g:color>DB Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Red/Black/Ebony</g:interior_color>
@@ -879,7 +879,7 @@
       <g:make>Acura</g:make>
       <g:model>MDX 3.5L AWD</g:model>
       <g:mileage>16122 mi</g:mileage>
-      <g:exterior_color>Majestic Black Pearl</g:exterior_color>
+      <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -901,7 +901,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>47128 mi</g:mileage>
-      <g:exterior_color>Mineral White Metallic</g:exterior_color>
+      <g:color>Mineral White Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -923,7 +923,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Base FWD</g:model>
       <g:mileage>17 mi</g:mileage>
-      <g:exterior_color>Black Clearcoat</g:exterior_color>
+      <g:color>Black Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -945,7 +945,7 @@
       <g:make>Audi</g:make>
       <g:model>A6 45 Premium quattro</g:model>
       <g:mileage>4293 mi</g:mileage>
-      <g:exterior_color>Firmament Blue Metallic</g:exterior_color>
+      <g:color>Firmament Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Pearl Beige</g:interior_color>
@@ -967,7 +967,7 @@
       <g:make>INFINITI</g:make>
       <g:model>QX60 PURE AWD</g:model>
       <g:mileage>6913 mi</g:mileage>
-      <g:exterior_color>Mineral Black</g:exterior_color>
+      <g:color>Mineral Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -989,7 +989,7 @@
       <g:make>INFINITI</g:make>
       <g:model>QX80 LUXE 4WD</g:model>
       <g:mileage>53988 mi</g:mileage>
-      <g:exterior_color>Hermosa Blue</g:exterior_color>
+      <g:color>Hermosa Blue</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -1011,7 +1011,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>8 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1033,7 +1033,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>11 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1055,7 +1055,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Base FWD</g:model>
       <g:mileage>21 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1077,7 +1077,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>C-Class C 300 4MATIC®</g:model>
       <g:mileage>23213 mi</g:mileage>
-      <g:exterior_color>Polar White</g:exterior_color>
+      <g:color>Polar White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sienna Brown</g:interior_color>
@@ -1099,7 +1099,7 @@
       <g:make>BMW</g:make>
       <g:model>4 Series 430i Gran Coupe AWD</g:model>
       <g:mileage>24895 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1121,7 +1121,7 @@
       <g:make>Ford</g:make>
       <g:model>Expedition Max Limited RWD</g:model>
       <g:mileage>60703 mi</g:mileage>
-      <g:exterior_color>Agate Black Metallic</g:exterior_color>
+      <g:color>Agate Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Sandstone</g:interior_color>
@@ -1143,7 +1143,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>12 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1165,7 +1165,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>18 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1187,7 +1187,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT6 Premium Luxury AWD</g:model>
       <g:mileage>27184 mi</g:mileage>
-      <g:exterior_color>Radiant Red Tintcoat</g:exterior_color>
+      <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Cirrus</g:interior_color>
@@ -1209,7 +1209,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>9 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1231,7 +1231,7 @@
       <g:make>Acura</g:make>
       <g:model>RDX Base AWD</g:model>
       <g:mileage>12711 mi</g:mileage>
-      <g:exterior_color>Solar Silver Metallic</g:exterior_color>
+      <g:color>Solar Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -1253,7 +1253,7 @@
       <g:make>Lexus</g:make>
       <g:model>GX 460 4WD</g:model>
       <g:mileage>48156 mi</g:mileage>
-      <g:exterior_color>Starfire Pearl</g:exterior_color>
+      <g:color>Starfire Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sepia</g:interior_color>
@@ -1275,7 +1275,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Base FWD</g:model>
       <g:mileage>24 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1297,7 +1297,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Low Roof FWD</g:model>
       <g:mileage>25 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1319,7 +1319,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango GT Plus AWD</g:model>
       <g:mileage>25506 mi</g:mileage>
-      <g:exterior_color>DB Black Clearcoat</g:exterior_color>
+      <g:color>DB Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1341,7 +1341,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L AWD</g:model>
       <g:mileage>27391 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1363,7 +1363,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Base FWD</g:model>
       <g:mileage>2 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1385,7 +1385,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>12 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1407,7 +1407,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango GT AWD</g:model>
       <g:mileage>504 mi</g:mileage>
-      <g:exterior_color>DB Black Clearcoat</g:exterior_color>
+      <g:color>DB Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1429,7 +1429,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse RS AWD</g:model>
       <g:mileage>13709 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Spice Red</g:interior_color>
@@ -1451,7 +1451,7 @@
       <g:make>Lexus</g:make>
       <g:model>RX 350 F Sport AWD</g:model>
       <g:mileage>29267 mi</g:mileage>
-      <g:exterior_color>Atomic Silver</g:exterior_color>
+      <g:color>Atomic Silver</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Circuit Red</g:interior_color>
@@ -1473,7 +1473,7 @@
       <g:make>Honda</g:make>
       <g:model>Odyssey Sport-L FWD</g:model>
       <g:mileage>30593 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1495,7 +1495,7 @@
       <g:make>BMW</g:make>
       <g:model>4 Series 430i RWD</g:model>
       <g:mileage>40809 mi</g:mileage>
-      <g:exterior_color>Jet Black</g:exterior_color>
+      <g:color>Jet Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1517,7 +1517,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>7 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1539,7 +1539,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>17 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1561,7 +1561,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Low Roof FWD</g:model>
       <g:mileage>18 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1583,7 +1583,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L FWD</g:model>
       <g:mileage>9107 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -1605,7 +1605,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Base FWD</g:model>
       <g:mileage>11 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1627,7 +1627,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>14 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1649,7 +1649,7 @@
       <g:make>Audi</g:make>
       <g:model>A6 45 Premium Plus quattro</g:model>
       <g:mileage>6980 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Beige</g:interior_color>
@@ -1671,7 +1671,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Rubicon 4xe 4WD</g:model>
       <g:mileage>9978 mi</g:mileage>
-      <g:exterior_color>Anvil Clearcoat</g:exterior_color>
+      <g:color>Anvil Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1693,7 +1693,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>16275 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1715,7 +1715,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango GT Plus AWD</g:model>
       <g:mileage>28079 mi</g:mileage>
-      <g:exterior_color>Destroyer Gray Clearcoat</g:exterior_color>
+      <g:color>Destroyer Gray Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1737,7 +1737,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna LE FWD</g:model>
       <g:mileage>33278 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -1759,7 +1759,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango R/T Plus AWD</g:model>
       <g:mileage>35805 mi</g:mileage>
-      <g:exterior_color>Octane Red Pearlcoat</g:exterior_color>
+      <g:color>Octane Red Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1781,7 +1781,7 @@
       <g:make>BMW</g:make>
       <g:model>4 Series 430i RWD</g:model>
       <g:mileage>41433 mi</g:mileage>
-      <g:exterior_color>Jet Black</g:exterior_color>
+      <g:color>Jet Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1803,7 +1803,7 @@
       <g:make>Acura</g:make>
       <g:model>MDX Technology AWD</g:model>
       <g:mileage>46414 mi</g:mileage>
-      <g:exterior_color>Lunar Silver Metallic</g:exterior_color>
+      <g:color>Lunar Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Parchment</g:interior_color>
@@ -1825,7 +1825,7 @@
       <g:make>Honda</g:make>
       <g:model>CR-V EX-L FWD</g:model>
       <g:mileage>6 mi</g:mileage>
-      <g:exterior_color>Meteorite Gray Metallic</g:exterior_color>
+      <g:color>Meteorite Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1847,7 +1847,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>10 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1869,7 +1869,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Low Roof FWD</g:model>
       <g:mileage>17 mi</g:mileage>
-      <g:exterior_color>Black Clearcoat</g:exterior_color>
+      <g:color>Black Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1891,7 +1891,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>18 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1913,7 +1913,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo RWD</g:model>
       <g:mileage>312 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -1935,7 +1935,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Low Roof FWD</g:model>
       <g:mileage>537 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1957,7 +1957,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Select FWD</g:model>
       <g:mileage>917 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -1979,7 +1979,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>15252 mi</g:mileage>
-      <g:exterior_color>Firecracker Red Clearcoat</g:exterior_color>
+      <g:color>Firecracker Red Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2001,7 +2001,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX Technology Package FWD</g:model>
       <g:mileage>16631 mi</g:mileage>
-      <g:exterior_color>Urban Gray Pearl</g:exterior_color>
+      <g:color>Urban Gray Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -2023,7 +2023,7 @@
       <g:make>BMW</g:make>
       <g:model>X2 xDrive28i AWD</g:model>
       <g:mileage>19084 mi</g:mileage>
-      <g:exterior_color>Skyscraper Gray Metallic</g:exterior_color>
+      <g:color>Skyscraper Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2045,7 +2045,7 @@
       <g:make>Lexus</g:make>
       <g:model>ES 350 FWD</g:model>
       <g:mileage>19642 mi</g:mileage>
-      <g:exterior_color>Moonbeam Beige Metallic</g:exterior_color>
+      <g:color>Moonbeam Beige Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Acorn</g:interior_color>
@@ -2067,7 +2067,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>E-Class E 350 RWD</g:model>
       <g:mileage>20520 mi</g:mileage>
-      <g:exterior_color>Nautical Blue</g:exterior_color>
+      <g:color>Nautical Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Neva Gray/Magma Gray</g:interior_color>
@@ -2089,7 +2089,7 @@
       <g:make>Honda</g:make>
       <g:model>Odyssey Sport-L FWD</g:model>
       <g:mileage>25118 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2111,7 +2111,7 @@
       <g:make>Acura</g:make>
       <g:model>MDX 3.5L AWD</g:model>
       <g:mileage>26478 mi</g:mileage>
-      <g:exterior_color>Apex Blue Pearl</g:exterior_color>
+      <g:color>Apex Blue Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graystone</g:interior_color>
@@ -2133,7 +2133,7 @@
       <g:make>BMW</g:make>
       <g:model>5 Series 530i RWD</g:model>
       <g:mileage>35234 mi</g:mileage>
-      <g:exterior_color>Oxide Gray Metallic</g:exterior_color>
+      <g:color>Oxide Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2155,7 +2155,7 @@
       <g:make>BMW</g:make>
       <g:model>4 Series 430i xDrive AWD</g:model>
       <g:mileage>45135 mi</g:mileage>
-      <g:exterior_color>Alpine White</g:exterior_color>
+      <g:color>Alpine White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2177,7 +2177,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Laredo X 4WD</g:model>
       <g:mileage>137 mi</g:mileage>
-      <g:exterior_color>Velvet Red Pearlcoat</g:exterior_color>
+      <g:color>Velvet Red Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2199,7 +2199,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX Technology Package FWD</g:model>
       <g:mileage>3260 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Parchment</g:interior_color>
@@ -2221,7 +2221,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 1500 Low Roof FWD</g:model>
       <g:mileage>9 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2243,7 +2243,7 @@
       <g:make>Ford</g:make>
       <g:model>Transit-250 Base RWD</g:model>
       <g:mileage>10396 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -2265,7 +2265,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>5533 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2287,7 +2287,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>7448 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Met CC</g:exterior_color>
+      <g:color>Granite Crystal Met CC</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2309,7 +2309,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>9864 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2331,7 +2331,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L FWD</g:model>
       <g:mileage>27278 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2353,7 +2353,7 @@
       <g:make>Lexus</g:make>
       <g:model>NX 350 Base AWD</g:model>
       <g:mileage>35240 mi</g:mileage>
-      <g:exterior_color>Ultra White</g:exterior_color>
+      <g:color>Ultra White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Circuit Red</g:interior_color>
@@ -2375,7 +2375,7 @@
       <g:make>Audi</g:make>
       <g:model>A5 Sportback 45 S line Premium quattro</g:model>
       <g:mileage>12984 mi</g:mileage>
-      <g:exterior_color>Arkona White</g:exterior_color>
+      <g:color>Arkona White</g:color>
       <g:body_style>WAGON</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Atlas Beige</g:interior_color>
@@ -2397,7 +2397,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX A-Spec Package FWD</g:model>
       <g:mileage>28040 mi</g:mileage>
-      <g:exterior_color>Majestic Black Pearl</g:exterior_color>
+      <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Red</g:interior_color>
@@ -2419,7 +2419,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna LE FWD</g:model>
       <g:mileage>53537 mi</g:mileage>
-      <g:exterior_color>Ice Cap</g:exterior_color>
+      <g:color>Ice Cap</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -2441,7 +2441,7 @@
       <g:make>BMW</g:make>
       <g:model>3 Series 330i xDrive AWD</g:model>
       <g:mileage>25949 mi</g:mileage>
-      <g:exterior_color>Skyscraper Gray Metallic</g:exterior_color>
+      <g:color>Skyscraper Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2463,7 +2463,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>8371 mi</g:mileage>
-      <g:exterior_color>Anvil Clearcoat</g:exterior_color>
+      <g:color>Anvil Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2485,7 +2485,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>9845 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2507,7 +2507,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sahara 4xe 4WD</g:model>
       <g:mileage>10685 mi</g:mileage>
-      <g:exterior_color>Firecracker Red Clearcoat</g:exterior_color>
+      <g:color>Firecracker Red Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2529,7 +2529,7 @@
       <g:make>BMW</g:make>
       <g:model>2 Series 228 Gran Coupe AWD</g:model>
       <g:mileage>16282 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2551,7 +2551,7 @@
       <g:make>Audi</g:make>
       <g:model>A6 55 Premium Plus quattro</g:model>
       <g:mileage>31216 mi</g:mileage>
-      <g:exterior_color>Brilliant Black</g:exterior_color>
+      <g:color>Brilliant Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2573,7 +2573,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna LE FWD</g:model>
       <g:mileage>48879 mi</g:mileage>
-      <g:exterior_color>Ice Cap</g:exterior_color>
+      <g:color>Ice Cap</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -2595,7 +2595,7 @@
       <g:make>Honda</g:make>
       <g:model>CR-V EX-L FWD</g:model>
       <g:mileage>5 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2617,7 +2617,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot Sport FWD</g:model>
       <g:mileage>17133 mi</g:mileage>
-      <g:exterior_color>Radiant Red Metallic II</g:exterior_color>
+      <g:color>Radiant Red Metallic II</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2639,7 +2639,7 @@
       <g:make>BMW</g:make>
       <g:model>X1 xDrive28i AWD</g:model>
       <g:mileage>24661 mi</g:mileage>
-      <g:exterior_color>Phytonic Blue Metallic</g:exterior_color>
+      <g:color>Phytonic Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2661,7 +2661,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX Technology Package FWD</g:model>
       <g:mileage>26096 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Parchment</g:interior_color>
@@ -2683,7 +2683,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX A-Spec Package FWD</g:model>
       <g:mileage>44695 mi</g:mileage>
-      <g:exterior_color>Majestic Black Pearl</g:exterior_color>
+      <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Red</g:interior_color>
@@ -2705,7 +2705,7 @@
       <g:make>Land Rover</g:make>
       <g:model>Range Rover Base 4WD</g:model>
       <g:mileage>49983 mi</g:mileage>
-      <g:exterior_color>Santorini Black Metallic</g:exterior_color>
+      <g:color>Santorini Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -2727,7 +2727,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo RWD</g:model>
       <g:mileage>9 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -2749,7 +2749,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango GT Plus AWD</g:model>
       <g:mileage>24127 mi</g:mileage>
-      <g:exterior_color>Night Moves</g:exterior_color>
+      <g:color>Night Moves</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2771,7 +2771,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
       <g:mileage>32019 mi</g:mileage>
-      <g:exterior_color>Opal White Pearl</g:exterior_color>
+      <g:color>Opal White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -2793,7 +2793,7 @@
       <g:make>Audi</g:make>
       <g:model>A6 45 Premium quattro</g:model>
       <g:mileage>37834 mi</g:mileage>
-      <g:exterior_color>Florett Silver Metallic</g:exterior_color>
+      <g:color>Florett Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Okapi Brown</g:interior_color>
@@ -2815,7 +2815,7 @@
       <g:make>Toyota</g:make>
       <g:model>Highlander XLE AWD</g:model>
       <g:mileage>28794 mi</g:mileage>
-      <g:exterior_color>Celestial Silver Metallic</g:exterior_color>
+      <g:color>Celestial Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2837,7 +2837,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo RWD</g:model>
       <g:mileage>15459 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -2859,7 +2859,7 @@
       <g:make>Audi</g:make>
       <g:model>A6 2.0T Premium quattro</g:model>
       <g:mileage>19190 mi</g:mileage>
-      <g:exterior_color>Chronos Gray Metallic</g:exterior_color>
+      <g:color>Chronos Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2881,7 +2881,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
       <g:mileage>26341 mi</g:mileage>
-      <g:exterior_color>Mountain Lake Blue</g:exterior_color>
+      <g:color>Mountain Lake Blue</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -2903,7 +2903,7 @@
       <g:make>Ford</g:make>
       <g:model>Transit-350 XLT RWD</g:model>
       <g:mileage>59438 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Palazzo Gray</g:interior_color>
@@ -2925,7 +2925,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>19811 mi</g:mileage>
-      <g:exterior_color>Moonstone Gray Metallic</g:exterior_color>
+      <g:color>Moonstone Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -2947,7 +2947,7 @@
       <g:make>Kia</g:make>
       <g:model>Telluride S AWD</g:model>
       <g:mileage>26998 mi</g:mileage>
-      <g:exterior_color>Ebony Black</g:exterior_color>
+      <g:color>Ebony Black</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2969,7 +2969,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 PHEV Premium Plus AWD</g:model>
       <g:mileage>33461 mi</g:mileage>
-      <g:exterior_color>Jet Black Mica</g:exterior_color>
+      <g:color>Jet Black Mica</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -2991,7 +2991,7 @@
       <g:make>Toyota</g:make>
       <g:model>RAV4 XLE FWD</g:model>
       <g:mileage>17573 mi</g:mileage>
-      <g:exterior_color>Silver Sky Metallic</g:exterior_color>
+      <g:color>Silver Sky Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3013,7 +3013,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Avenir AWD</g:model>
       <g:mileage>25601 mi</g:mileage>
-      <g:exterior_color>White Frost Tricoat</g:exterior_color>
+      <g:color>White Frost Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Whisper Beige</g:interior_color>
@@ -3035,7 +3035,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLA GLA 250 FWD</g:model>
       <g:mileage>38098 mi</g:mileage>
-      <g:exterior_color>Night Black</g:exterior_color>
+      <g:color>Night Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3057,7 +3057,7 @@
       <g:make>Lexus</g:make>
       <g:model>GX 460 4WD</g:model>
       <g:mileage>56869 mi</g:mileage>
-      <g:exterior_color>Starfire Pearl</g:exterior_color>
+      <g:color>Starfire Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3079,7 +3079,7 @@
       <g:make>Ford</g:make>
       <g:model>Mustang EcoBoost Premium RWD</g:model>
       <g:mileage>35242 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black Onyx</g:interior_color>
@@ -3101,7 +3101,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 2.0T SEL AWD</g:model>
       <g:mileage>47384 mi</g:mileage>
-      <g:exterior_color>Opal White Pearl</g:exterior_color>
+      <g:color>Opal White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>French Roast/Black</g:interior_color>
@@ -3123,7 +3123,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L AWD</g:model>
       <g:mileage>33509 mi</g:mileage>
-      <g:exterior_color>Gray</g:exterior_color>
+      <g:color>Gray</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -3145,7 +3145,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sport 4WD</g:model>
       <g:mileage>24 mi</g:mileage>
-      <g:exterior_color>Black Clearcoat</g:exterior_color>
+      <g:color>Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>MANUAL</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3167,7 +3167,7 @@
       <g:make>Audi</g:make>
       <g:model>Q5 45 S line Premium quattro</g:model>
       <g:mileage>26093 mi</g:mileage>
-      <g:exterior_color>Navarra Blue Metallic</g:exterior_color>
+      <g:color>Navarra Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Atlas Beige</g:interior_color>
@@ -3189,7 +3189,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group AWD</g:model>
       <g:mileage>46501 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3211,7 +3211,7 @@
       <g:make>BMW</g:make>
       <g:model>X3 sDrive30i RWD</g:model>
       <g:mileage>46911 mi</g:mileage>
-      <g:exterior_color>Carbon Black Metallic</g:exterior_color>
+      <g:color>Carbon Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3233,7 +3233,7 @@
       <g:make>BMW</g:make>
       <g:model>X3 sDrive30i RWD</g:model>
       <g:mileage>48368 mi</g:mileage>
-      <g:exterior_color>Dark Graphite Metallic</g:exterior_color>
+      <g:color>Dark Graphite Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3255,7 +3255,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Santa Fe SEL FWD</g:model>
       <g:mileage>26535 mi</g:mileage>
-      <g:exterior_color>Ecotronic Gray</g:exterior_color>
+      <g:color>Ecotronic Gray</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>OTHER</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3277,7 +3277,7 @@
       <g:make>Acura</g:make>
       <g:model>TLX Technology Package FWD</g:model>
       <g:mileage>27446 mi</g:mileage>
-      <g:exterior_color>Majestic Black Pearl</g:exterior_color>
+      <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -3299,7 +3299,7 @@
       <g:make>Audi</g:make>
       <g:model>Q5 45 S line Premium quattro</g:model>
       <g:mileage>28091 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3321,7 +3321,7 @@
       <g:make>Nissan</g:make>
       <g:model>Pathfinder SV FWD</g:model>
       <g:mileage>28366 mi</g:mileage>
-      <g:exterior_color>Super Black</g:exterior_color>
+      <g:color>Super Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -3343,7 +3343,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 3.6L V6 SE w/Technology AWD</g:model>
       <g:mileage>32780 mi</g:mileage>
-      <g:exterior_color>Deep Black Pearl</g:exterior_color>
+      <g:color>Deep Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Shetland Beige</g:interior_color>
@@ -3365,7 +3365,7 @@
       <g:make>Audi</g:make>
       <g:model>Q5 45 S line Premium quattro</g:model>
       <g:mileage>35294 mi</g:mileage>
-      <g:exterior_color>Navarra Blue Metallic</g:exterior_color>
+      <g:color>Navarra Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Okapi Brown</g:interior_color>
@@ -3387,7 +3387,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>C-Class C 300 RWD</g:model>
       <g:mileage>36814 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3409,7 +3409,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
       <g:mileage>40341 mi</g:mileage>
-      <g:exterior_color>Iconic Silver Metallic</g:exterior_color>
+      <g:color>Iconic Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -3431,7 +3431,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer XLT RWD</g:model>
       <g:mileage>42034 mi</g:mileage>
-      <g:exterior_color>Agate Black Metallic</g:exterior_color>
+      <g:color>Agate Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sandstone</g:interior_color>
@@ -3453,7 +3453,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
       <g:mileage>44366 mi</g:mileage>
-      <g:exterior_color>Carbonized Gray Metallic</g:exterior_color>
+      <g:color>Carbonized Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -3475,7 +3475,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group AWD</g:model>
       <g:mileage>46224 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3497,7 +3497,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group AWD</g:model>
       <g:mileage>49676 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3519,7 +3519,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Silverado 1500 WT RWD</g:model>
       <g:mileage>42 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -3541,7 +3541,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Blazer LT FWD</g:model>
       <g:mileage>9140 mi</g:mileage>
-      <g:exterior_color>Radiant Red Tintcoat</g:exterior_color>
+      <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Medium Gray</g:interior_color>
@@ -3563,7 +3563,7 @@
       <g:make>Nissan</g:make>
       <g:model>Pathfinder SV FWD</g:model>
       <g:mileage>30479 mi</g:mileage>
-      <g:exterior_color>Super Black</g:exterior_color>
+      <g:color>Super Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -3585,7 +3585,7 @@
       <g:make>Honda</g:make>
       <g:model>Pilot EX-L AWD</g:model>
       <g:mileage>42473 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3607,7 +3607,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Laredo 4WD</g:model>
       <g:mileage>57597 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -3629,7 +3629,7 @@
       <g:make>Toyota</g:make>
       <g:model>RAV4 LE FWD</g:model>
       <g:mileage>22247 mi</g:mileage>
-      <g:exterior_color>Ruby Flare Pearl</g:exterior_color>
+      <g:color>Ruby Flare Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3651,7 +3651,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>26327 mi</g:mileage>
-      <g:exterior_color>Machine Gray Metallic</g:exterior_color>
+      <g:color>Machine Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3673,7 +3673,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Willys 4xe 4WD</g:model>
       <g:mileage>29399 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3695,7 +3695,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>34536 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3717,7 +3717,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>36506 mi</g:mileage>
-      <g:exterior_color>Rhodium White Premium</g:exterior_color>
+      <g:color>Rhodium White Premium</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3739,7 +3739,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Essence FWD</g:model>
       <g:mileage>37490 mi</g:mileage>
-      <g:exterior_color>Moonstone Gray Metallic</g:exterior_color>
+      <g:color>Moonstone Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3761,7 +3761,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo 4WD</g:model>
       <g:mileage>38875 mi</g:mileage>
-      <g:exterior_color>Baltic Gray Metallic Clearcoat</g:exterior_color>
+      <g:color>Baltic Gray Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -3783,7 +3783,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>39458 mi</g:mileage>
-      <g:exterior_color>Jet Black Mica</g:exterior_color>
+      <g:color>Jet Black Mica</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3805,7 +3805,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>41925 mi</g:mileage>
-      <g:exterior_color>Cherry Red Tintcoat</g:exterior_color>
+      <g:color>Cherry Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -3827,7 +3827,7 @@
       <g:make>BMW</g:make>
       <g:model>X3 sDrive30i RWD</g:model>
       <g:mileage>48561 mi</g:mileage>
-      <g:exterior_color>Black Sapphire Metallic</g:exterior_color>
+      <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3849,7 +3849,7 @@
       <g:make>Buick</g:make>
       <g:model>Envision Essence AWD</g:model>
       <g:mileage>8716 mi</g:mileage>
-      <g:exterior_color>Ebony Twilight Metallic</g:exterior_color>
+      <g:color>Ebony Twilight Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -3871,7 +3871,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord Hybrid EX-L FWD</g:model>
       <g:mileage>15340 mi</g:mileage>
-      <g:exterior_color>Radiant Red Metallic</g:exterior_color>
+      <g:color>Radiant Red Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3893,7 +3893,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>33124 mi</g:mileage>
-      <g:exterior_color>Machine Gray Metallic</g:exterior_color>
+      <g:color>Machine Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3915,7 +3915,7 @@
       <g:make>Honda</g:make>
       <g:model>CR-V EX-L FWD</g:model>
       <g:mileage>45450 mi</g:mileage>
-      <g:exterior_color>Radiant Red Metallic</g:exterior_color>
+      <g:color>Radiant Red Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -3937,7 +3937,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse RS AWD</g:model>
       <g:mileage>88633 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Spice Red</g:interior_color>
@@ -3959,7 +3959,7 @@
       <g:make>Kia</g:make>
       <g:model>Sorento LX FWD</g:model>
       <g:mileage>9344 mi</g:mileage>
-      <g:exterior_color>Ebony Black</g:exterior_color>
+      <g:color>Ebony Black</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -3981,7 +3981,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Laredo RWD</g:model>
       <g:mileage>49677 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -4003,7 +4003,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord SE FWD</g:model>
       <g:mileage>2946 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4025,7 +4025,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT4 Luxury AWD</g:model>
       <g:mileage>27652 mi</g:mileage>
-      <g:exterior_color>Stellar Black Metallic</g:exterior_color>
+      <g:color>Stellar Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Platinum/Jet Black</g:interior_color>
@@ -4047,7 +4047,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Select FWD</g:model>
       <g:mileage>33105 mi</g:mileage>
-      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
+      <g:color>Ceramic Gray Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4069,7 +4069,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>36857 mi</g:mileage>
-      <g:exterior_color>Jet Black Mica</g:exterior_color>
+      <g:color>Jet Black Mica</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4091,7 +4091,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLA GLA 250 FWD</g:model>
       <g:mileage>37546 mi</g:mileage>
-      <g:exterior_color>Night Black</g:exterior_color>
+      <g:color>Night Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4113,7 +4113,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>40031 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -4135,7 +4135,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-90 3.3 Turbo Preferred Plus AWD</g:model>
       <g:mileage>41411 mi</g:mileage>
-      <g:exterior_color>Soul Red Crystal Metallic</g:exterior_color>
+      <g:color>Soul Red Crystal Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4157,7 +4157,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>45161 mi</g:mileage>
-      <g:exterior_color>Moonstone Gray Metallic</g:exterior_color>
+      <g:color>Moonstone Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -4179,7 +4179,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta GLI 2.0T Autobahn FWD</g:model>
       <g:mileage>10144 mi</g:mileage>
-      <g:exterior_color>Monument Gray</g:exterior_color>
+      <g:color>Monument Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Grigio/Titan Black</g:interior_color>
@@ -4201,7 +4201,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry SE FWD</g:model>
       <g:mileage>19594 mi</g:mileage>
-      <g:exterior_color>Reservoir Blue</g:exterior_color>
+      <g:color>Reservoir Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Boulder</g:interior_color>
@@ -4223,7 +4223,7 @@
       <g:make>BMW</g:make>
       <g:model>2 Series 228i FWD</g:model>
       <g:mileage>28157 mi</g:mileage>
-      <g:exterior_color>Brooklyn Gray Metallic</g:exterior_color>
+      <g:color>Brooklyn Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4245,7 +4245,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>3029 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4267,7 +4267,7 @@
       <g:make>Honda</g:make>
       <g:model>CR-V LX FWD</g:model>
       <g:mileage>28502 mi</g:mileage>
-      <g:exterior_color>Meteorite Gray Metallic</g:exterior_color>
+      <g:color>Meteorite Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4289,7 +4289,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-50 2.5 S Premium Package AWD</g:model>
       <g:mileage>33470 mi</g:mileage>
-      <g:exterior_color>Ingot Blue Metallic</g:exterior_color>
+      <g:color>Ingot Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4311,7 +4311,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLE GLE 350 RWD</g:model>
       <g:mileage>35189 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -4333,7 +4333,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>47472 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized</g:interior_color>
@@ -4355,7 +4355,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
       <g:mileage>53312 mi</g:mileage>
-      <g:exterior_color>Rapid Red Metallic Tinted Clearcoat</g:exterior_color>
+      <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sandstone</g:interior_color>
@@ -4377,7 +4377,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer XLT RWD</g:model>
       <g:mileage>57563 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -4399,7 +4399,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-5 2.5 S Preferred Package AWD</g:model>
       <g:mileage>12189 mi</g:mileage>
-      <g:exterior_color>Jet Black Mica</g:exterior_color>
+      <g:color>Jet Black Mica</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4421,7 +4421,7 @@
       <g:make>Buick</g:make>
       <g:model>Envision Essence AWD</g:model>
       <g:mileage>12339 mi</g:mileage>
-      <g:exterior_color>Cinnabar Metallic</g:exterior_color>
+      <g:color>Cinnabar Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -4443,7 +4443,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>24509 mi</g:mileage>
-      <g:exterior_color>Supersonic Red</g:exterior_color>
+      <g:color>Supersonic Red</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4465,7 +4465,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>25544 mi</g:mileage>
-      <g:exterior_color>Celestial Silver Metallic</g:exterior_color>
+      <g:color>Celestial Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4487,7 +4487,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer XLT 4WD</g:model>
       <g:mileage>38988 mi</g:mileage>
-      <g:exterior_color>Agate Black Metallic</g:exterior_color>
+      <g:color>Agate Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -4509,7 +4509,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue S FWD</g:model>
       <g:mileage>904 mi</g:mileage>
-      <g:exterior_color>Everest White Pearl</g:exterior_color>
+      <g:color>Everest White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -4531,7 +4531,7 @@
       <g:make>Buick</g:make>
       <g:model>Envista Sport Touring FWD</g:model>
       <g:mileage>1767 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -4553,7 +4553,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Blazer LT FWD</g:model>
       <g:mileage>10576 mi</g:mileage>
-      <g:exterior_color>Riptide Blue Metallic</g:exterior_color>
+      <g:color>Riptide Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Medium Gray</g:interior_color>
@@ -4575,7 +4575,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>11407 mi</g:mileage>
-      <g:exterior_color>Celestial Silver Metallic</g:exterior_color>
+      <g:color>Celestial Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4597,7 +4597,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Tiguan 2.0T SE R-Line Black AWD</g:model>
       <g:mileage>12900 mi</g:mileage>
-      <g:exterior_color>Pyrite Silver Metallic</g:exterior_color>
+      <g:color>Pyrite Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -4619,7 +4619,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SL FWD</g:model>
       <g:mileage>14429 mi</g:mileage>
-      <g:exterior_color>Champagne Silver Metallic</g:exterior_color>
+      <g:color>Champagne Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -4641,7 +4641,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT AWD</g:model>
       <g:mileage>23640 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4663,7 +4663,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
       <g:mileage>31320 mi</g:mileage>
-      <g:exterior_color>Emperor Blue Metallic</g:exterior_color>
+      <g:color>Emperor Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Whisper Beige</g:interior_color>
@@ -4685,7 +4685,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLC GLC 300 4MATIC®</g:model>
       <g:mileage>37898 mi</g:mileage>
-      <g:exterior_color>Mojave Silver Metallic</g:exterior_color>
+      <g:color>Mojave Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Silk Beige/Black</g:interior_color>
@@ -4707,7 +4707,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Select FWD</g:model>
       <g:mileage>38637 mi</g:mileage>
-      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
+      <g:color>Ceramic Gray Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4729,7 +4729,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo RWD</g:model>
       <g:mileage>39259 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -4751,7 +4751,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer XLT 4WD</g:model>
       <g:mileage>39609 mi</g:mileage>
-      <g:exterior_color>Rapid Red Metallic Tinted Clearcoat</g:exterior_color>
+      <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -4773,7 +4773,7 @@
       <g:make>Audi</g:make>
       <g:model>Q5 40 Premium quattro</g:model>
       <g:mileage>44016 mi</g:mileage>
-      <g:exterior_color>Florett Silver Metallic</g:exterior_color>
+      <g:color>Florett Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4795,7 +4795,7 @@
       <g:make>Ford</g:make>
       <g:model>Mustang EcoBoost RWD</g:model>
       <g:mileage>47936 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black Onyx</g:interior_color>
@@ -4817,7 +4817,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT5 Premium Luxury AWD</g:model>
       <g:mileage>55400 mi</g:mileage>
-      <g:exterior_color>Stellar Black Metallic</g:exterior_color>
+      <g:color>Stellar Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -4839,7 +4839,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT6 Sport AWD</g:model>
       <g:mileage>57472 mi</g:mileage>
-      <g:exterior_color>Stellar Black Metallic</g:exterior_color>
+      <g:color>Stellar Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -4861,7 +4861,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Sport 4WD</g:model>
       <g:mileage>438 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>grey 2 tone</g:interior_color>
@@ -4883,7 +4883,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Colorado LT RWD</g:model>
       <g:mileage>29477 mi</g:mileage>
-      <g:exterior_color>Bright Blue Metallic</g:exterior_color>
+      <g:color>Bright Blue Metallic</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -4905,7 +4905,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer Limited RWD</g:model>
       <g:mileage>56187 mi</g:mileage>
-      <g:exterior_color>Rapid Red Metallic Tinted Clearcoat</g:exterior_color>
+      <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sandstone</g:interior_color>
@@ -4927,7 +4927,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV FWD</g:model>
       <g:mileage>4789 mi</g:mileage>
-      <g:exterior_color>Brilliant Silver Metallic</g:exterior_color>
+      <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -4949,7 +4949,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>TrailBlazer RS FWD</g:model>
       <g:mileage>9707 mi</g:mileage>
-      <g:exterior_color>Crimson Metallic</g:exterior_color>
+      <g:color>Crimson Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -4971,7 +4971,7 @@
       <g:make>Toyota</g:make>
       <g:model>Corolla Cross LE FWD</g:model>
       <g:mileage>11278 mi</g:mileage>
-      <g:exterior_color>Blue Crush Metallic</g:exterior_color>
+      <g:color>Blue Crush Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -4993,7 +4993,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Taos 1.5T SE Black FWD</g:model>
       <g:mileage>11987 mi</g:mileage>
-      <g:exterior_color>Deep Black Pearl</g:exterior_color>
+      <g:color>Deep Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5001,7 +5001,7 @@
     <item>
       <g:id>1HGCY1F27SA001973</g:id>
       <g:title>2025 Honda Accord LX FWD</g:title>
-      <g:description>2025 Honda Accord LX FWD — 12,337 miles — used — Canyon River Blue Metallic</g:description>
+      <g:description>2025 Honda Accord LX FWD — 12,362 miles — used — Canyon River Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2025-honda-accord-lx-fwd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6ed954c4-4477-47f8-99f6-5ec7f2180c9a.jpg</g:image_link>
       <g:price>28888.00 USD</g:price>
@@ -5014,8 +5014,8 @@
       <g:year>2025</g:year>
       <g:make>Honda</g:make>
       <g:model>Accord LX FWD</g:model>
-      <g:mileage>12337 mi</g:mileage>
-      <g:exterior_color>Canyon River Blue Metallic</g:exterior_color>
+      <g:mileage>12362 mi</g:mileage>
+      <g:color>Canyon River Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5037,7 +5037,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>22440 mi</g:mileage>
-      <g:exterior_color>Reservoir Blue</g:exterior_color>
+      <g:color>Reservoir Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5059,7 +5059,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 3.6L V6 SE w/Technology FWD</g:model>
       <g:mileage>42156 mi</g:mileage>
-      <g:exterior_color>Deep Black Pearl</g:exterior_color>
+      <g:color>Deep Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -5081,7 +5081,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT5 Premium Luxury AWD</g:model>
       <g:mileage>51628 mi</g:mileage>
-      <g:exterior_color>Crystal White Tricoat</g:exterior_color>
+      <g:color>Crystal White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5103,7 +5103,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Laredo RWD</g:model>
       <g:mileage>54573 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -5125,7 +5125,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Trax LT FWD</g:model>
       <g:mileage>19 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5147,7 +5147,7 @@
       <g:make>Honda</g:make>
       <g:model>Civic LX FWD</g:model>
       <g:mileage>8384 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5169,7 +5169,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SR FWD</g:model>
       <g:mileage>22565 mi</g:mileage>
-      <g:exterior_color>Gray Sky Pearl</g:exterior_color>
+      <g:color>Gray Sky Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Sport</g:interior_color>
@@ -5191,7 +5191,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord LX FWD</g:model>
       <g:mileage>29449 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5213,7 +5213,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>30046 mi</g:mileage>
-      <g:exterior_color>Wind Chill Pearl</g:exterior_color>
+      <g:color>Wind Chill Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5235,7 +5235,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Limited 4WD</g:model>
       <g:mileage>38233 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5257,7 +5257,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry SE FWD</g:model>
       <g:mileage>43107 mi</g:mileage>
-      <g:exterior_color>Ice Cap</g:exterior_color>
+      <g:color>Ice Cap</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5279,7 +5279,7 @@
       <g:make>Ram</g:make>
       <g:model>1500 Laramie 4WD</g:model>
       <g:mileage>58639 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5301,7 +5301,7 @@
       <g:make>GMC</g:make>
       <g:model>Terrain SLT AWD</g:model>
       <g:mileage>8762 mi</g:mileage>
-      <g:exterior_color>Ebony Twilight Metallic</g:exterior_color>
+      <g:color>Ebony Twilight Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5323,7 +5323,7 @@
       <g:make>Honda</g:make>
       <g:model>Civic Sport FWD</g:model>
       <g:mileage>23182 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5345,7 +5345,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>25936 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5367,7 +5367,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>29314 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5389,7 +5389,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>30100 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5411,7 +5411,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Tucson SEL FWD</g:model>
       <g:mileage>30373 mi</g:mileage>
-      <g:exterior_color>Hampton Gray</g:exterior_color>
+      <g:color>Hampton Gray</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -5433,7 +5433,7 @@
       <g:make>Cadillac</g:make>
       <g:model>XT4 Luxury FWD</g:model>
       <g:mileage>42739 mi</g:mileage>
-      <g:exterior_color>Wave Metallic</g:exterior_color>
+      <g:color>Wave Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Platinum/Jet Black</g:interior_color>
@@ -5455,7 +5455,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>C-Class C 300 4MATIC®</g:model>
       <g:mileage>47041 mi</g:mileage>
-      <g:exterior_color>White</g:exterior_color>
+      <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -5477,7 +5477,7 @@
       <g:make>Audi</g:make>
       <g:model>Q3 Premium quattro</g:model>
       <g:mileage>49415 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5499,7 +5499,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Select FWD</g:model>
       <g:mileage>54653 mi</g:mileage>
-      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
+      <g:color>Ceramic Gray Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5521,7 +5521,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Touring L FWD</g:model>
       <g:mileage>58502 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black/Alloy/Black</g:interior_color>
@@ -5543,7 +5543,7 @@
       <g:make>Toyota</g:make>
       <g:model>Corolla LE FWD</g:model>
       <g:mileage>4 mi</g:mileage>
-      <g:exterior_color>Underground/Mid Blk Met</g:exterior_color>
+      <g:color>Underground/Mid Blk Met</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5565,7 +5565,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta 1.5T Sport FWD</g:model>
       <g:mileage>1146 mi</g:mileage>
-      <g:exterior_color>Pure White</g:exterior_color>
+      <g:color>Pure White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5587,7 +5587,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV AWD</g:model>
       <g:mileage>5156 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -5609,7 +5609,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>TrailBlazer ACTIV AWD</g:model>
       <g:mileage>6578 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5631,7 +5631,7 @@
       <g:make>Honda</g:make>
       <g:model>HR-V LX FWD</g:model>
       <g:mileage>15813 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5653,7 +5653,7 @@
       <g:make>Ford</g:make>
       <g:model>Escape ST-Line FWD</g:model>
       <g:mileage>24318 mi</g:mileage>
-      <g:exterior_color>Carbonized Gray Metallic</g:exterior_color>
+      <g:color>Carbonized Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -5675,7 +5675,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Sonata SEL FWD</g:model>
       <g:mileage>28460 mi</g:mileage>
-      <g:exterior_color>Abyss Black</g:exterior_color>
+      <g:color>Abyss Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Gray</g:interior_color>
@@ -5697,7 +5697,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry SE FWD</g:model>
       <g:mileage>39391 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5719,7 +5719,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Touring L FWD</g:model>
       <g:mileage>52854 mi</g:mileage>
-      <g:exterior_color>Ceramic Gray Clearcoat</g:exterior_color>
+      <g:color>Ceramic Gray Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black/Alloy/Black</g:interior_color>
@@ -5741,7 +5741,7 @@
       <g:make>Ford</g:make>
       <g:model>Mustang EcoBoost Premium RWD</g:model>
       <g:mileage>53770 mi</g:mileage>
-      <g:exterior_color>Oxford White</g:exterior_color>
+      <g:color>Oxford White</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -5763,7 +5763,7 @@
       <g:make>Chrysler</g:make>
       <g:model>Pacifica Touring L FWD</g:model>
       <g:mileage>55941 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black/Alloy/Black</g:interior_color>
@@ -5785,7 +5785,7 @@
       <g:make>BMW</g:make>
       <g:model>X4 xDrive30i AWD</g:model>
       <g:mileage>82458 mi</g:mileage>
-      <g:exterior_color>Alpine White</g:exterior_color>
+      <g:color>Alpine White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Cognac</g:interior_color>
@@ -5807,7 +5807,7 @@
       <g:make>Honda</g:make>
       <g:model>Prologue Touring AWD</g:model>
       <g:mileage>9530 mi</g:mileage>
-      <g:exterior_color>Sonic Gray Pearl</g:exterior_color>
+      <g:color>Sonic Gray Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5829,7 +5829,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Elantra SEL Convenience FWD</g:model>
       <g:mileage>3684 mi</g:mileage>
-      <g:exterior_color>Abyss Black</g:exterior_color>
+      <g:color>Abyss Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -5851,7 +5851,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV FWD</g:model>
       <g:mileage>6628 mi</g:mileage>
-      <g:exterior_color>Everest White Pearl</g:exterior_color>
+      <g:color>Everest White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -5873,7 +5873,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Trax ACTIV FWD</g:model>
       <g:mileage>7196 mi</g:mileage>
-      <g:exterior_color>Nitro Yellow Metallic</g:exterior_color>
+      <g:color>Nitro Yellow Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5895,7 +5895,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>21306 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -5917,7 +5917,7 @@
       <g:make>Audi</g:make>
       <g:model>A3 40 Premium FrontTrak</g:model>
       <g:mileage>30933 mi</g:mileage>
-      <g:exterior_color>Mythos Black Metallic</g:exterior_color>
+      <g:color>Mythos Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black/Rock Gray Stitching</g:interior_color>
@@ -5939,7 +5939,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>39792 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -5961,7 +5961,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>2820 mi</g:mileage>
-      <g:exterior_color>Riptide Blue Metallic</g:exterior_color>
+      <g:color>Riptide Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -5983,7 +5983,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Trax LT FWD</g:model>
       <g:mileage>3878 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black With Blue Accents</g:interior_color>
@@ -6005,7 +6005,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord LX FWD</g:model>
       <g:mileage>44461 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6027,7 +6027,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu RS FWD</g:model>
       <g:mileage>9350 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6049,7 +6049,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta 1.5T SE FWD</g:model>
       <g:mileage>14991 mi</g:mileage>
-      <g:exterior_color>Opal White Pearl</g:exterior_color>
+      <g:color>Opal White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Grigio/Titan Black</g:interior_color>
@@ -6071,7 +6071,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta 1.5T SE FWD</g:model>
       <g:mileage>17031 mi</g:mileage>
-      <g:exterior_color>Monument Gray</g:exterior_color>
+      <g:color>Monument Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Grigio/Titan Black</g:interior_color>
@@ -6093,7 +6093,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>21843 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6115,7 +6115,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>25157 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6137,7 +6137,7 @@
       <g:make>GMC</g:make>
       <g:model>Terrain SLE AWD</g:model>
       <g:mileage>27117 mi</g:mileage>
-      <g:exterior_color>Volcanic Red Tintcoat</g:exterior_color>
+      <g:color>Volcanic Red Tintcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6159,7 +6159,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>49047 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6181,7 +6181,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Colorado Work Truck 4WD</g:model>
       <g:mileage>49564 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Dark Ash</g:interior_color>
@@ -6203,7 +6203,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>15679 mi</g:mileage>
-      <g:exterior_color>Super Black</g:exterior_color>
+      <g:color>Super Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6225,7 +6225,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu RS FWD</g:model>
       <g:mileage>18236 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6247,7 +6247,7 @@
       <g:make>Honda</g:make>
       <g:model>HR-V EX AWD</g:model>
       <g:mileage>20460 mi</g:mileage>
-      <g:exterior_color>Modern Steel Metallic</g:exterior_color>
+      <g:color>Modern Steel Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6269,7 +6269,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Elantra SEL Convenience FWD</g:model>
       <g:mileage>24753 mi</g:mileage>
-      <g:exterior_color>Amazon Gray</g:exterior_color>
+      <g:color>Amazon Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6291,7 +6291,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>28764 mi</g:mileage>
-      <g:exterior_color>Brilliant Silver Metallic</g:exterior_color>
+      <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6313,7 +6313,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Tucson SEL AWD</g:model>
       <g:mileage>29429 mi</g:mileage>
-      <g:exterior_color>Phantom Black</g:exterior_color>
+      <g:color>Phantom Black</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -6335,7 +6335,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>43938 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6357,7 +6357,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse LS AWD</g:model>
       <g:mileage>78245 mi</g:mileage>
-      <g:exterior_color>Silver Ice Metallic</g:exterior_color>
+      <g:color>Silver Ice Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6379,7 +6379,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>111654 mi</g:mileage>
-      <g:exterior_color>Arctic Gray Metallic</g:exterior_color>
+      <g:color>Arctic Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Coffee</g:interior_color>
@@ -6401,7 +6401,7 @@
       <g:make>Mazda</g:make>
       <g:model>CX-9 Touring AWD</g:model>
       <g:mileage>11725 mi</g:mileage>
-      <g:exterior_color>Soul Red Crystal Metallic</g:exterior_color>
+      <g:color>Soul Red Crystal Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6423,7 +6423,7 @@
       <g:make>Maserati</g:make>
       <g:model>Levante GranSport AWD</g:model>
       <g:mileage>58364 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6445,7 +6445,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LS FWD</g:model>
       <g:mileage>14786 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Medium Ash Gray</g:interior_color>
@@ -6467,7 +6467,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>TrailBlazer LT FWD</g:model>
       <g:mileage>18674 mi</g:mileage>
-      <g:exterior_color>Crimson Metallic</g:exterior_color>
+      <g:color>Crimson Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6489,7 +6489,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>21087 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6511,7 +6511,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>22727 mi</g:mileage>
-      <g:exterior_color>Riptide Blue Metallic</g:exterior_color>
+      <g:color>Riptide Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6533,7 +6533,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>25471 mi</g:mileage>
-      <g:exterior_color>Bluestone Pearl</g:exterior_color>
+      <g:color>Bluestone Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6555,7 +6555,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>TrailBlazer ACTIV FWD</g:model>
       <g:mileage>28782 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6577,7 +6577,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>28805 mi</g:mileage>
-      <g:exterior_color>Scarlet Ember</g:exterior_color>
+      <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6599,7 +6599,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue S AWD</g:model>
       <g:mileage>32905 mi</g:mileage>
-      <g:exterior_color>Brilliant Silver Metallic</g:exterior_color>
+      <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6621,7 +6621,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>35289 mi</g:mileage>
-      <g:exterior_color>Scarlet Ember</g:exterior_color>
+      <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Gray</g:interior_color>
@@ -6643,7 +6643,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT AWD</g:model>
       <g:mileage>35579 mi</g:mileage>
-      <g:exterior_color>Blue Glow Metallic</g:exterior_color>
+      <g:color>Blue Glow Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6665,7 +6665,7 @@
       <g:make>Lincoln</g:make>
       <g:model>Corsair Standard AWD</g:model>
       <g:mileage>36123 mi</g:mileage>
-      <g:exterior_color>Magnetic Gray</g:exterior_color>
+      <g:color>Magnetic Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -6687,7 +6687,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>38270 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6709,7 +6709,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry LE FWD</g:model>
       <g:mileage>46559 mi</g:mileage>
-      <g:exterior_color>Supersonic Red</g:exterior_color>
+      <g:color>Supersonic Red</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6731,7 +6731,7 @@
       <g:make>Toyota</g:make>
       <g:model>Camry SE FWD</g:model>
       <g:mileage>62860 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ash</g:interior_color>
@@ -6753,7 +6753,7 @@
       <g:make>Kia</g:make>
       <g:model>Forte LXS FWD</g:model>
       <g:mileage>17628 mi</g:mileage>
-      <g:exterior_color>Aurora Black</g:exterior_color>
+      <g:color>Aurora Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6775,7 +6775,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>30266 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6797,7 +6797,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>30909 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -6819,7 +6819,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>31367 mi</g:mileage>
-      <g:exterior_color>Lakeshore Blue Metallic</g:exterior_color>
+      <g:color>Lakeshore Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -6841,7 +6841,7 @@
       <g:make>Nissan</g:make>
       <g:model>Rogue S FWD</g:model>
       <g:mileage>32763 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6863,7 +6863,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>34100 mi</g:mileage>
-      <g:exterior_color>Super Black</g:exterior_color>
+      <g:color>Super Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6885,7 +6885,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>35855 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6907,7 +6907,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Elantra SEL Convenience FWD</g:model>
       <g:mileage>38071 mi</g:mileage>
-      <g:exterior_color>Abyss Black</g:exterior_color>
+      <g:color>Abyss Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -6929,7 +6929,7 @@
       <g:make>Nissan</g:make>
       <g:model>Sentra SV FWD</g:model>
       <g:mileage>12025 mi</g:mileage>
-      <g:exterior_color>Rosewood Metallic</g:exterior_color>
+      <g:color>Rosewood Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6951,7 +6951,7 @@
       <g:make>Land Rover</g:make>
       <g:model>Discovery Sport S 4WD</g:model>
       <g:mileage>34468 mi</g:mileage>
-      <g:exterior_color>Fuji White</g:exterior_color>
+      <g:color>Fuji White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Oyster</g:interior_color>
@@ -6973,7 +6973,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>40992 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -6995,7 +6995,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Taos 1.5T SEL AWD</g:model>
       <g:mileage>18274 mi</g:mileage>
-      <g:exterior_color>Cornflower Blue</g:exterior_color>
+      <g:color>Cornflower Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray/Black</g:interior_color>
@@ -7017,7 +7017,7 @@
       <g:make>Dodge</g:make>
       <g:model>Hornet R/T AWD</g:model>
       <g:mileage>5485 mi</g:mileage>
-      <g:exterior_color>Hot Tamale</g:exterior_color>
+      <g:color>Hot Tamale</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7039,7 +7039,7 @@
       <g:make>Buick</g:make>
       <g:model>Encore GX Preferred FWD</g:model>
       <g:mileage>11386 mi</g:mileage>
-      <g:exterior_color>Moonstone Gray Metallic</g:exterior_color>
+      <g:color>Moonstone Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -7061,7 +7061,7 @@
       <g:make>Buick</g:make>
       <g:model>Encore GX Select FWD</g:model>
       <g:mileage>14641 mi</g:mileage>
-      <g:exterior_color>Sapphire Metallic</g:exterior_color>
+      <g:color>Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -7083,7 +7083,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta 1.5T S FWD</g:model>
       <g:mileage>18331 mi</g:mileage>
-      <g:exterior_color>Pure White</g:exterior_color>
+      <g:color>Pure White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -7105,7 +7105,7 @@
       <g:make>Kia</g:make>
       <g:model>K4 LXS FWD</g:model>
       <g:mileage>26567 mi</g:mileage>
-      <g:exterior_color>Currant Red</g:exterior_color>
+      <g:color>Currant Red</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -7127,7 +7127,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Venue SEL FWD</g:model>
       <g:mileage>29847 mi</g:mileage>
-      <g:exterior_color>Lunar White</g:exterior_color>
+      <g:color>Lunar White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -7149,7 +7149,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>31304 mi</g:mileage>
-      <g:exterior_color>Scarlet Ember</g:exterior_color>
+      <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7171,7 +7171,7 @@
       <g:make>GMC</g:make>
       <g:model>Terrain SLE FWD</g:model>
       <g:mileage>31654 mi</g:mileage>
-      <g:exterior_color>Volcanic Red Tintcoat</g:exterior_color>
+      <g:color>Volcanic Red Tintcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7193,7 +7193,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>33678 mi</g:mileage>
-      <g:exterior_color>Pearl White Tricoat</g:exterior_color>
+      <g:color>Pearl White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7215,7 +7215,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>35610 mi</g:mileage>
-      <g:exterior_color>Pearl White Tricoat</g:exterior_color>
+      <g:color>Pearl White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Light Gray</g:interior_color>
@@ -7237,7 +7237,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>36225 mi</g:mileage>
-      <g:exterior_color>Scarlet Ember</g:exterior_color>
+      <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7259,7 +7259,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>39346 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7281,7 +7281,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>39523 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7303,7 +7303,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>39866 mi</g:mileage>
-      <g:exterior_color>Pearl White Tricoat</g:exterior_color>
+      <g:color>Pearl White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7325,7 +7325,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>40245 mi</g:mileage>
-      <g:exterior_color>Scarlet Ember</g:exterior_color>
+      <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7347,7 +7347,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Elantra SEL Convenience FWD</g:model>
       <g:mileage>41996 mi</g:mileage>
-      <g:exterior_color>Abyss Black</g:exterior_color>
+      <g:color>Abyss Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -7369,7 +7369,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>46438 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Medium Ash Gray</g:interior_color>
@@ -7391,7 +7391,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler Willys 4xe 4WD</g:model>
       <g:mileage>64425 mi</g:mileage>
-      <g:exterior_color>Black Clearcoat</g:exterior_color>
+      <g:color>Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7413,7 +7413,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 S FWD</g:model>
       <g:mileage>27967 mi</g:mileage>
-      <g:exterior_color>Super Black Clearcoat</g:exterior_color>
+      <g:color>Super Black Clearcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7435,7 +7435,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT AWD</g:model>
       <g:mileage>33446 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7457,7 +7457,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>40713 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7479,7 +7479,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>43176 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7501,7 +7501,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>43699 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7523,7 +7523,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>44368 mi</g:mileage>
-      <g:exterior_color>Super Black Clearcoat</g:exterior_color>
+      <g:color>Super Black Clearcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7545,7 +7545,7 @@
       <g:make>Honda</g:make>
       <g:model>Prologue EX FWD</g:model>
       <g:mileage>6732 mi</g:mileage>
-      <g:exterior_color>North Shore Pearl</g:exterior_color>
+      <g:color>North Shore Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7567,7 +7567,7 @@
       <g:make>Honda</g:make>
       <g:model>Prologue EX AWD</g:model>
       <g:mileage>11248 mi</g:mileage>
-      <g:exterior_color>Raven Black</g:exterior_color>
+      <g:color>Raven Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7589,7 +7589,7 @@
       <g:make>Buick</g:make>
       <g:model>Enclave Essence FWD</g:model>
       <g:mileage>41511 mi</g:mileage>
-      <g:exterior_color>Sage Metallic</g:exterior_color>
+      <g:color>Sage Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Whisper Beige</g:interior_color>
@@ -7611,7 +7611,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>Sprinter 2500 Passenger 144 WB RWD</g:model>
       <g:mileage>31486 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -7633,7 +7633,7 @@
       <g:make>Toyota</g:make>
       <g:model>Corolla Hatchback SE FWD</g:model>
       <g:mileage>32149 mi</g:mileage>
-      <g:exterior_color>Finish Line Red</g:exterior_color>
+      <g:color>Finish Line Red</g:color>
       <g:body_style>HATCHBACK</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7655,7 +7655,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>33588 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7677,7 +7677,7 @@
       <g:make>Ford</g:make>
       <g:model>Escape Active FWD</g:model>
       <g:mileage>45886 mi</g:mileage>
-      <g:exterior_color>Carbonized Gray Metallic</g:exterior_color>
+      <g:color>Carbonized Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -7699,7 +7699,7 @@
       <g:make>Ford</g:make>
       <g:model>Mustang EcoBoost Premium RWD</g:model>
       <g:mileage>62364 mi</g:mileage>
-      <g:exterior_color>Race Red</g:exterior_color>
+      <g:color>Race Red</g:color>
       <g:body_style>COUPE</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -7721,7 +7721,7 @@
       <g:make>GMC</g:make>
       <g:model>Sierra 1500 SLT 4WD</g:model>
       <g:mileage>71249 mi</g:mileage>
-      <g:exterior_color>Crimson Red Tintcoat</g:exterior_color>
+      <g:color>Crimson Red Tintcoat</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Cocoa/Dune</g:interior_color>
@@ -7743,7 +7743,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>42159 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
+      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7765,7 +7765,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>47306 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7787,7 +7787,7 @@
       <g:make>Cadillac</g:make>
       <g:model>Escalade ESV Premium 4WD</g:model>
       <g:mileage>206227 mi</g:mileage>
-      <g:exterior_color>Black Raven</g:exterior_color>
+      <g:color>Black Raven</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7809,7 +7809,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>35401 mi</g:mileage>
-      <g:exterior_color>Brilliant Silver Metallic</g:exterior_color>
+      <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7831,7 +7831,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>36162 mi</g:mileage>
-      <g:exterior_color>Garnet Pearl Metallic</g:exterior_color>
+      <g:color>Garnet Pearl Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7853,7 +7853,7 @@
       <g:make>Nissan</g:make>
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>36469 mi</g:mileage>
-      <g:exterior_color>Brilliant Silver Metallic</g:exterior_color>
+      <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -7875,7 +7875,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>40778 mi</g:mileage>
-      <g:exterior_color>Radiant Red Tintcoat</g:exterior_color>
+      <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7897,7 +7897,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>41689 mi</g:mileage>
-      <g:exterior_color>Radiant Red Tintcoat</g:exterior_color>
+      <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7919,7 +7919,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>46177 mi</g:mileage>
-      <g:exterior_color>Radiant Red Tintcoat</g:exterior_color>
+      <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7941,7 +7941,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Malibu LT FWD</g:model>
       <g:mileage>48860 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -7963,7 +7963,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Limited 4WD</g:model>
       <g:mileage>107186 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -7985,7 +7985,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Trax LT AWD</g:model>
       <g:mileage>39463 mi</g:mileage>
-      <g:exterior_color>Shadow Gray Metallic</g:exterior_color>
+      <g:color>Shadow Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -8007,7 +8007,7 @@
       <g:make>Kia</g:make>
       <g:model>Soul LX FWD</g:model>
       <g:mileage>36515 mi</g:mileage>
-      <g:exterior_color>Gravity Gray</g:exterior_color>
+      <g:color>Gravity Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8029,7 +8029,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>EQB 250+ FWD</g:model>
       <g:mileage>29542 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -8051,7 +8051,7 @@
       <g:make>Buick</g:make>
       <g:model>Encore GX Sport Touring AWD</g:model>
       <g:mileage>51744 mi</g:mileage>
-      <g:exterior_color>Cinnabar Metallic</g:exterior_color>
+      <g:color>Cinnabar Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -8073,7 +8073,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord Sport 2.0T FWD</g:model>
       <g:mileage>139972 mi</g:mileage>
-      <g:exterior_color>Platinum White Pearl</g:exterior_color>
+      <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8095,7 +8095,7 @@
       <g:make>Ford</g:make>
       <g:model>Explorer XLT 4WD</g:model>
       <g:mileage>42494 mi</g:mileage>
-      <g:exterior_color>Black Metallic</g:exterior_color>
+      <g:color>Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -8117,7 +8117,7 @@
       <g:make>Jeep</g:make>
       <g:model>Wrangler JK Unlimited Sport 4WD</g:model>
       <g:mileage>81042 mi</g:mileage>
-      <g:exterior_color>Billet Silver Metallic Clearcoat</g:exterior_color>
+      <g:color>Billet Silver Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8139,7 +8139,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Trax LT FWD</g:model>
       <g:mileage>6915 mi</g:mileage>
-      <g:exterior_color>Blue Glow Metallic</g:exterior_color>
+      <g:color>Blue Glow Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -8161,7 +8161,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna XLE FWD</g:model>
       <g:mileage>127222 mi</g:mileage>
-      <g:exterior_color>Shoreline Mist</g:exterior_color>
+      <g:color>Shoreline Mist</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ash</g:interior_color>
@@ -8183,7 +8183,7 @@
       <g:make>Nissan</g:make>
       <g:model>Versa 1.6 S FWD</g:model>
       <g:mileage>50682 mi</g:mileage>
-      <g:exterior_color>Electric Blue Metallic</g:exterior_color>
+      <g:color>Electric Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -8205,7 +8205,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Kona SE AWD</g:model>
       <g:mileage>61003 mi</g:mileage>
-      <g:exterior_color>Cyber Silver</g:exterior_color>
+      <g:color>Cyber Silver</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -8227,7 +8227,7 @@
       <g:make>INFINITI</g:make>
       <g:model>QX60 PURE FWD</g:model>
       <g:mileage>97581 mi</g:mileage>
-      <g:exterior_color>Black Obsidian</g:exterior_color>
+      <g:color>Black Obsidian</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -8249,7 +8249,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Jetta 1.5T Sport FWD</g:model>
       <g:mileage>18388 mi</g:mileage>
-      <g:exterior_color>Platinum Gray Metallic</g:exterior_color>
+      <g:color>Platinum Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
@@ -8271,7 +8271,7 @@
       <g:make>Nissan</g:make>
       <g:model>NV2500 HD SV RWD</g:model>
       <g:mileage>96653 mi</g:mileage>
-      <g:exterior_color>Glacier White</g:exterior_color>
+      <g:color>Glacier White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -8293,7 +8293,7 @@
       <g:make>Acura</g:make>
       <g:model>ILX Base FWD</g:model>
       <g:mileage>108064 mi</g:mileage>
-      <g:exterior_color>White</g:exterior_color>
+      <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>OTHER</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -8315,7 +8315,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna LE AWD</g:model>
       <g:mileage>114881 mi</g:mileage>
-      <g:exterior_color>Salsa Red Pearl</g:exterior_color>
+      <g:color>Salsa Red Pearl</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Bisque</g:interior_color>
@@ -8337,7 +8337,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Limited 4WD</g:model>
       <g:mileage>116460 mi</g:mileage>
-      <g:exterior_color>Luxury Brown Pearlcoat</g:exterior_color>
+      <g:color>Luxury Brown Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8359,7 +8359,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango SXT AWD</g:model>
       <g:mileage>118332 mi</g:mileage>
-      <g:exterior_color>DB Black Clearcoat</g:exterior_color>
+      <g:color>DB Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8381,7 +8381,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Bolt EV LT FWD</g:model>
       <g:mileage>9734 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Galvanized Sky Gray</g:interior_color>
@@ -8403,7 +8403,7 @@
       <g:make>Toyota</g:make>
       <g:model>Highlander XLE AWD</g:model>
       <g:mileage>168645 mi</g:mileage>
-      <g:exterior_color>Celestial Silver Metallic</g:exterior_color>
+      <g:color>Celestial Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ash</g:interior_color>
@@ -8425,7 +8425,7 @@
       <g:make>Buick</g:make>
       <g:model>Encore GX Select AWD</g:model>
       <g:mileage>137010 mi</g:mileage>
-      <g:exterior_color>Satin Steel Gray Metallic</g:exterior_color>
+      <g:color>Satin Steel Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony With Ebony Interior Accents</g:interior_color>
@@ -8447,7 +8447,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Spark LS FWD</g:model>
       <g:mileage>34498 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Jet Black</g:interior_color>
@@ -8469,7 +8469,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Elantra SE FWD</g:model>
       <g:mileage>85057 mi</g:mileage>
-      <g:exterior_color>Lakeside Blue</g:exterior_color>
+      <g:color>Lakeside Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -8491,7 +8491,7 @@
       <g:make>Volkswagen</g:make>
       <g:model>Tiguan 2.0T SE AWD</g:model>
       <g:mileage>105438 mi</g:mileage>
-      <g:exterior_color>Silk Blue Metallic</g:exterior_color>
+      <g:color>Silk Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Storm Gray</g:interior_color>
@@ -8513,7 +8513,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Limited 4WD</g:model>
       <g:mileage>120609 mi</g:mileage>
-      <g:exterior_color>Billet Silver Metallic Clearcoat</g:exterior_color>
+      <g:color>Billet Silver Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8535,7 +8535,7 @@
       <g:make>Honda</g:make>
       <g:model>CR-V LX AWD</g:model>
       <g:mileage>82662 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8557,7 +8557,7 @@
       <g:make>Nissan</g:make>
       <g:model>Kicks SV FWD</g:model>
       <g:mileage>90625 mi</g:mileage>
-      <g:exterior_color>Deep Blue Pearl Metallic</g:exterior_color>
+      <g:color>Deep Blue Pearl Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -8579,7 +8579,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Impala LT FWD</g:model>
       <g:mileage>125860 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -8601,7 +8601,7 @@
       <g:make>INFINITI</g:make>
       <g:model>QX60 PURE AWD</g:model>
       <g:mileage>140211 mi</g:mileage>
-      <g:exterior_color>Black Obsidian</g:exterior_color>
+      <g:color>Black Obsidian</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -8623,7 +8623,7 @@
       <g:make>Nissan</g:make>
       <g:model>Sentra SV FWD</g:model>
       <g:mileage>116330 mi</g:mileage>
-      <g:exterior_color>Gun Metallic</g:exterior_color>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -8645,7 +8645,7 @@
       <g:make>Nissan</g:make>
       <g:model>Pathfinder Platinum 4WD</g:model>
       <g:mileage>130819 mi</g:mileage>
-      <g:exterior_color>Magnetic Black Metallic</g:exterior_color>
+      <g:color>Magnetic Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -8667,7 +8667,7 @@
       <g:make>Mitsubishi</g:make>
       <g:model>Outlander Sport 2.0 ES FWD</g:model>
       <g:mileage>56666 mi</g:mileage>
-      <g:exterior_color>Alloy Silver Metallic</g:exterior_color>
+      <g:color>Alloy Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8689,7 +8689,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT AWD</g:model>
       <g:mileage>136638 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
@@ -8711,7 +8711,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango R/T AWD</g:model>
       <g:mileage>115114 mi</g:mileage>
-      <g:exterior_color>Granite Crystal Metallic Clearcoat</g:exterior_color>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8733,7 +8733,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna L FWD</g:model>
       <g:mileage>158734 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Charcoal</g:interior_color>
@@ -8755,7 +8755,7 @@
       <g:make>Jeep</g:make>
       <g:model>Renegade Latitude FWD</g:model>
       <g:mileage>95563 mi</g:mileage>
-      <g:exterior_color>Omaha Orange Clearcoat</g:exterior_color>
+      <g:color>Omaha Orange Clearcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8777,7 +8777,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Traverse LS AWD</g:model>
       <g:mileage>98993 mi</g:mileage>
-      <g:exterior_color>Cyber Gray Metallic</g:exterior_color>
+      <g:color>Cyber Gray Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Dark Titanium/Light Titanium</g:interior_color>
@@ -8799,7 +8799,7 @@
       <g:make>Mercedes-Benz</g:make>
       <g:model>SL-Class SL 500 RWD</g:model>
       <g:mileage>48338 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ash</g:interior_color>
@@ -8821,7 +8821,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Sonic LT FWD</g:model>
       <g:mileage>86390 mi</g:mileage>
-      <g:exterior_color>Summit White</g:exterior_color>
+      <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Dark Titanium</g:interior_color>
@@ -8843,7 +8843,7 @@
       <g:make>Dodge</g:make>
       <g:model>Durango Crew AWD</g:model>
       <g:mileage>106132 mi</g:mileage>
-      <g:exterior_color>Brilliant Black Crystal Pearlcoat</g:exterior_color>
+      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8865,7 +8865,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord Sport FWD</g:model>
       <g:mileage>19714 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>NONE</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8887,7 +8887,7 @@
       <g:make>Nissan</g:make>
       <g:model>Sentra SV FWD</g:model>
       <g:mileage>34323 mi</g:mileage>
-      <g:exterior_color>Fresh Powder</g:exterior_color>
+      <g:color>Fresh Powder</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Charcoal</g:interior_color>
@@ -8909,7 +8909,7 @@
       <g:make>Hyundai</g:make>
       <g:model>Veloster Base FWD</g:model>
       <g:mileage>90933 mi</g:mileage>
-      <g:exterior_color>Century White</g:exterior_color>
+      <g:color>Century White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -8931,7 +8931,7 @@
       <g:make>Land Rover</g:make>
       <g:model>Discovery Sport HSE Luxury 4WD</g:model>
       <g:mileage>137660 mi</g:mileage>
-      <g:exterior_color>Gray</g:exterior_color>
+      <g:color>Gray</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>-</g:interior_color>
@@ -8953,7 +8953,7 @@
       <g:make>BMW</g:make>
       <g:model>X1 xDrive28i AWD</g:model>
       <g:mileage>168213 mi</g:mileage>
-      <g:exterior_color>Mineral Gray Metallic</g:exterior_color>
+      <g:color>Mineral Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8975,7 +8975,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord LX FWD</g:model>
       <g:mileage>262864 mi</g:mileage>
-      <g:exterior_color>Crystal Black Pearl</g:exterior_color>
+      <g:color>Crystal Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -8997,7 +8997,7 @@
       <g:make>Honda</g:make>
       <g:model>Accord LX FWD</g:model>
       <g:mileage>84946 mi</g:mileage>
-      <g:exterior_color>Modern Steel Metallic</g:exterior_color>
+      <g:color>Modern Steel Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Gray</g:interior_color>
@@ -9019,7 +9019,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Spark LS FWD</g:model>
       <g:mileage>26243 mi</g:mileage>
-      <g:exterior_color>Raspberry Metallic</g:exterior_color>
+      <g:color>Raspberry Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Jet Black</g:interior_color>
@@ -9041,7 +9041,7 @@
       <g:make>Ram</g:make>
       <g:model>ProMaster 2500 High Roof FWD</g:model>
       <g:mileage>109311 mi</g:mileage>
-      <g:exterior_color>Bright White Clearcoat</g:exterior_color>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -9063,7 +9063,7 @@
       <g:make>Ford</g:make>
       <g:model>Edge Titanium AWD</g:model>
       <g:mileage>108044 mi</g:mileage>
-      <g:exterior_color>Magnetic Metallic</g:exterior_color>
+      <g:color>Magnetic Metallic</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Ebony</g:interior_color>
@@ -9085,7 +9085,7 @@
       <g:make>BMW</g:make>
       <g:model>X5 xDrive40i AWD</g:model>
       <g:mileage>43867 mi</g:mileage>
-      <g:exterior_color>Brooklyn Grey Metallic</g:exterior_color>
+      <g:color>Brooklyn Grey Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
@@ -9107,7 +9107,7 @@
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee Overland 4WD</g:model>
       <g:mileage>186 mi</g:mileage>
-      <g:exterior_color>Baltic Gray Metallic Clearcoat</g:exterior_color>
+      <g:color>Baltic Gray Metallic Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Global Black</g:interior_color>
@@ -9129,7 +9129,7 @@
       <g:make>Toyota</g:make>
       <g:model>Sienna LE FWD</g:model>
       <g:mileage>38467 mi</g:mileage>
-      <g:exterior_color>Midnight Black Metallic</g:exterior_color>
+      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
@@ -9151,230 +9151,10 @@
       <g:make>Dodge</g:make>
       <g:model>Durango GT Plus AWD</g:model>
       <g:mileage>32868 mi</g:mileage>
-      <g:exterior_color>Octane Red Pearlcoat</g:exterior_color>
+      <g:color>Octane Red Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Red/Black/Ebony</g:interior_color>
-    </item>
-    <item>
-      <g:id>W1N4M4HB4MW142088</g:id>
-      <g:title>2021 Mercedes-Benz GLB GLB 250 4MATIC®</g:title>
-      <g:description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 53,795 miles — used — Polar White</g:description>
-      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-glb-glb-250-4matic/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD00MBS931A021001.jpg</g:image_link>
-      <g:price>26800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>W1N4M4HB4MW142088</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>GLB GLB 250 4MATIC®</g:model>
-      <g:mileage>53795 mi</g:mileage>
-      <g:exterior_color>Polar White</g:exterior_color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>W1K3G4EB6MJ298151</g:id>
-      <g:title>2021 Mercedes-Benz A-Class A 220 FWD</g:title>
-      <g:description>2021 Mercedes-Benz A-Class A 220 FWD — 59,429 miles — used — Night Black</g:description>
-      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-a-class-a-220-fwd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USC90MBCCC1A021001.jpg</g:image_link>
-      <g:price>23995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>W1K3G4EB6MJ298151</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>A-Class A 220 FWD</g:model>
-      <g:mileage>59429 mi</g:mileage>
-      <g:exterior_color>Night Black</g:exterior_color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>KL77LHEP0SC239654</g:id>
-      <g:title>2025 Chevrolet Trax LT FWD</g:title>
-      <g:description>2025 Chevrolet Trax LT FWD — 37,441 miles — used — Mosaic Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-lt-fwd-3/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</g:image_link>
-      <g:price>22995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>KL77LHEP0SC239654</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Trax LT FWD</g:model>
-      <g:mileage>37441 mi</g:mileage>
-      <g:exterior_color>Mosaic Black Metallic</g:exterior_color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Jet Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>KL77LJEP8SC002322</g:id>
-      <g:title>2025 Chevrolet Trax 2RS FWD</g:title>
-      <g:description>2025 Chevrolet Trax 2RS FWD — 22,363 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-2rs-fwd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</g:image_link>
-      <g:price>19887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>KL77LJEP8SC002322</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Trax 2RS FWD</g:model>
-      <g:mileage>22363 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Jet Black With Red Accents</g:interior_color>
-    </item>
-    <item>
-      <g:id>3GNAXSEG8PL138388</g:id>
-      <g:title>2023 Chevrolet Equinox LS AWD</g:title>
-      <g:description>2023 Chevrolet Equinox LS AWD — 18,398 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD20CHS152F01300.jpg</g:image_link>
-      <g:price>18777.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>3GNAXSEG8PL138388</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Equinox LS AWD</g:model>
-      <g:mileage>18398 mi</g:mileage>
-      <g:exterior_color>Sterling Gray Metallic</g:exterior_color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Medium Ash Gray</g:interior_color>
-    </item>
-    <item>
-      <g:id>3KPFT4DE0SE014330</g:id>
-      <g:title>2025 Kia K4 LXS FWD</g:title>
-      <g:description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</g:description>
-      <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50KIC211D01300.jpg</g:image_link>
-      <g:price>17887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>3KPFT4DE0SE014330</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Kia</g:make>
-      <g:model>K4 LXS FWD</g:model>
-      <g:mileage>35861 mi</g:mileage>
-      <g:exterior_color>Deep Sea Blue</g:exterior_color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Gray</g:interior_color>
-    </item>
-    <item>
-      <g:id>5N1DL0MM5HC503969</g:id>
-      <g:title>2017 INFINITI QX60 Base AWD</g:title>
-      <g:description>2017 INFINITI QX60 Base AWD — 107,570 miles — used — Graphite Shadow</g:description>
-      <g:link>https://majorworld.com/inventory/2017-infiniti-qx60-base-awd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USC70INS151A01326.jpg</g:image_link>
-      <g:price>16888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>INFINITI</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>5N1DL0MM5HC503969</g:vin>
-      <g:year>2017</g:year>
-      <g:make>INFINITI</g:make>
-      <g:model>QX60 Base AWD</g:model>
-      <g:mileage>107570 mi</g:mileage>
-      <g:exterior_color>Graphite Shadow</g:exterior_color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Graphite</g:interior_color>
-    </item>
-    <item>
-      <g:id>1C4RJFAG8HC819402</g:id>
-      <g:title>2017 Jeep Grand Cherokee Laredo 4WD</g:title>
-      <g:description>2017 Jeep Grand Cherokee Laredo 4WD — 96,450 miles — used — Diamond Black Crystal Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2017-jeep-grand-cherokee-laredo-4wd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=CAC70JES051E01300.jpg</g:image_link>
-      <g:price>15888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1C4RJFAG8HC819402</g:vin>
-      <g:year>2017</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee Laredo 4WD</g:model>
-      <g:mileage>96450 mi</g:mileage>
-      <g:exterior_color>Diamond Black Crystal Pearlcoat</g:exterior_color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>5GAEV23768J145708</g:id>
-      <g:title>2008 Buick Enclave CXL AWD</g:title>
-      <g:description>2008 Buick Enclave CXL AWD — 167,819 miles — used — Cocoa Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2008-buick-enclave-cxl-awd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USB80BUS031A01300.jpg</g:image_link>
-      <g:price>11123.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>5GAEV23768J145708</g:vin>
-      <g:year>2008</g:year>
-      <g:make>Buick</g:make>
-      <g:model>Enclave CXL AWD</g:model>
-      <g:mileage>167819 mi</g:mileage>
-      <g:exterior_color>Cocoa Metallic</g:exterior_color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Cashmere W/Cocoa Accents</g:interior_color>
-    </item>
-    <item>
-      <g:id>JN8AS5MV5BW264403</g:id>
-      <g:title>2011 Nissan Rogue S AWD</g:title>
-      <g:description>2011 Nissan Rogue S AWD — 78,200 miles — used — Super Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2011-nissan-rogue-s-awd/</g:link>
-      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=CAC10NIS111A01300.jpg</g:image_link>
-      <g:price>5888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>JN8AS5MV5BW264403</g:vin>
-      <g:year>2011</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Rogue S AWD</g:model>
-      <g:mileage>78200 mi</g:mileage>
-      <g:exterior_color>Super Black Metallic</g:exterior_color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>3GNKBCR42SS193183</g:id>
@@ -9393,7 +9173,7 @@
       <g:make>Chevrolet</g:make>
       <g:model>Blazer LT FWD</g:model>
       <g:mileage>34337 mi</g:mileage>
-      <g:exterior_color>Black</g:exterior_color>
+      <g:color>Black</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black/Medium Gray</g:interior_color>
@@ -9415,7 +9195,227 @@
       <g:make>Mazda</g:make>
       <g:model>CX-5 2.5 S Preferred Package AWD</g:model>
       <g:mileage>33145 mi</g:mileage>
-      <g:exterior_color>Jet Black Mica</g:exterior_color>
+      <g:color>Jet Black Mica</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>W1N4M4HB4MW142088</g:id>
+      <g:title>2021 Mercedes-Benz GLB GLB 250 4MATIC®</g:title>
+      <g:description>2021 Mercedes-Benz GLB GLB 250 4MATIC® — 53,795 miles — used — Polar White</g:description>
+      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-glb-glb-250-4matic/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD00MBS931A021001.jpg</g:image_link>
+      <g:price>26800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>W1N4M4HB4MW142088</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLB GLB 250 4MATIC®</g:model>
+      <g:mileage>53795 mi</g:mileage>
+      <g:color>Polar White</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>W1K3G4EB6MJ298151</g:id>
+      <g:title>2021 Mercedes-Benz A-Class A 220 FWD</g:title>
+      <g:description>2021 Mercedes-Benz A-Class A 220 FWD — 59,429 miles — used — Night Black</g:description>
+      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-a-class-a-220-fwd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USC90MBCCC1A021001.jpg</g:image_link>
+      <g:price>23995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>W1K3G4EB6MJ298151</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>A-Class A 220 FWD</g:model>
+      <g:mileage>59429 mi</g:mileage>
+      <g:color>Night Black</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>KL77LHEP0SC239654</g:id>
+      <g:title>2025 Chevrolet Trax LT FWD</g:title>
+      <g:description>2025 Chevrolet Trax LT FWD — 37,441 miles — used — Mosaic Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-lt-fwd-3/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</g:image_link>
+      <g:price>22995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>KL77LHEP0SC239654</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT FWD</g:model>
+      <g:mileage>37441 mi</g:mileage>
+      <g:color>Mosaic Black Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>KL77LJEP8SC002322</g:id>
+      <g:title>2025 Chevrolet Trax 2RS FWD</g:title>
+      <g:description>2025 Chevrolet Trax 2RS FWD — 22,363 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-2rs-fwd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD40CHS321C021001.jpg</g:image_link>
+      <g:price>19887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>KL77LJEP8SC002322</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 2RS FWD</g:model>
+      <g:mileage>22363 mi</g:mileage>
+      <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black With Red Accents</g:interior_color>
+    </item>
+    <item>
+      <g:id>3GNAXSEG8PL138388</g:id>
+      <g:title>2023 Chevrolet Equinox LS AWD</g:title>
+      <g:description>2023 Chevrolet Equinox LS AWD — 18,398 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD20CHS152F01300.jpg</g:image_link>
+      <g:price>18777.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3GNAXSEG8PL138388</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LS AWD</g:model>
+      <g:mileage>18398 mi</g:mileage>
+      <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Medium Ash Gray</g:interior_color>
+    </item>
+    <item>
+      <g:id>3KPFT4DE0SE014330</g:id>
+      <g:title>2025 Kia K4 LXS FWD</g:title>
+      <g:description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</g:description>
+      <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD50KIC211D01300.jpg</g:image_link>
+      <g:price>17887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3KPFT4DE0SE014330</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Kia</g:make>
+      <g:model>K4 LXS FWD</g:model>
+      <g:mileage>35861 mi</g:mileage>
+      <g:color>Deep Sea Blue</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Gray</g:interior_color>
+    </item>
+    <item>
+      <g:id>5N1DL0MM5HC503969</g:id>
+      <g:title>2017 INFINITI QX60 Base AWD</g:title>
+      <g:description>2017 INFINITI QX60 Base AWD — 107,570 miles — used — Graphite Shadow</g:description>
+      <g:link>https://majorworld.com/inventory/2017-infiniti-qx60-base-awd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USC70INS151A01326.jpg</g:image_link>
+      <g:price>16888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>INFINITI</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>5N1DL0MM5HC503969</g:vin>
+      <g:year>2017</g:year>
+      <g:make>INFINITI</g:make>
+      <g:model>QX60 Base AWD</g:model>
+      <g:mileage>107570 mi</g:mileage>
+      <g:color>Graphite Shadow</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Graphite</g:interior_color>
+    </item>
+    <item>
+      <g:id>1C4RJFAG8HC819402</g:id>
+      <g:title>2017 Jeep Grand Cherokee Laredo 4WD</g:title>
+      <g:description>2017 Jeep Grand Cherokee Laredo 4WD — 96,450 miles — used — Diamond Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2017-jeep-grand-cherokee-laredo-4wd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=CAC70JES051E01300.jpg</g:image_link>
+      <g:price>15888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1C4RJFAG8HC819402</g:vin>
+      <g:year>2017</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee Laredo 4WD</g:model>
+      <g:mileage>96450 mi</g:mileage>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>5GAEV23768J145708</g:id>
+      <g:title>2008 Buick Enclave CXL AWD</g:title>
+      <g:description>2008 Buick Enclave CXL AWD — 167,819 miles — used — Cocoa Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2008-buick-enclave-cxl-awd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USB80BUS031A01300.jpg</g:image_link>
+      <g:price>11123.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Buick</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>5GAEV23768J145708</g:vin>
+      <g:year>2008</g:year>
+      <g:make>Buick</g:make>
+      <g:model>Enclave CXL AWD</g:model>
+      <g:mileage>167819 mi</g:mileage>
+      <g:color>Cocoa Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Cashmere W/Cocoa Accents</g:interior_color>
+    </item>
+    <item>
+      <g:id>JN8AS5MV5BW264403</g:id>
+      <g:title>2011 Nissan Rogue S AWD</g:title>
+      <g:description>2011 Nissan Rogue S AWD — 78,200 miles — used — Super Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2011-nissan-rogue-s-awd/</g:link>
+      <g:image_link>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=CAC10NIS111A01300.jpg</g:image_link>
+      <g:price>5888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>JN8AS5MV5BW264403</g:vin>
+      <g:year>2011</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Rogue S AWD</g:model>
+      <g:mileage>78200 mi</g:mileage>
+      <g:color>Super Black Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
