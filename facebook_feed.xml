@@ -1785,39 +1785,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e1203d9d-db0a-450e-87e4-a6b1b0f221fa.jpg</url>
-    </image>
-    <vehicle_id>3C6LRVDG9SE560561</vehicle_id>
-    <title>2025 Ram ProMaster 2500 High Roof FWD</title>
-    <description>2025 Ram ProMaster 2500 High Roof FWD — 9 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd-4/</url>
-    <price>42800.00 USD</price>
-    <make>Ram</make>
-    <model>ProMaster 2500 High Roof FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>9</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>VAN</body_style>
-    <vin>3C6LRVDG9SE560561</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J17446</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d63ab4b1-b4b9-483f-a07f-e34a90da3ca2.jpg</url>
     </image>
     <vehicle_id>5J8TC2H43SL021371</vehicle_id>
@@ -3663,39 +3630,6 @@
     <exterior_color>Skyscraper Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77373</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e9185c59-8026-4d05-a096-5351ce99cb6f.jpg</url>
-    </image>
-    <vehicle_id>1C4RJXP6XSW602007</vehicle_id>
-    <title>2025 Jeep Wrangler Sahara 4xe 4WD</title>
-    <description>2025 Jeep Wrangler Sahara 4xe 4WD — 8,371 miles — used — Anvil Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-24/</url>
-    <price>37800.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler Sahara 4xe 4WD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>8371</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJXP6XSW602007</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Anvil Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J17900</stock_number>
   </listing>
   <listing>
     <image>
@@ -13662,5 +13596,38 @@
     <exterior_color>Bright Silver Metallic Clearcoat</exterior_color>
     <interior_color>High Back Front Bucket Seats</interior_color>
     <stock_number>M77836</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/225b6f73-d311-4fdd-87d5-16f7e0f2fcc1.jpg</url>
+    </image>
+    <vehicle_id>W1W9ED3Y0NT088771</vehicle_id>
+    <title>2022 Mercedes-Benz Sprinter 4500 Extended Cargo Van 170 in. WB RWD</title>
+    <description>2022 Mercedes-Benz Sprinter 4500 Extended Cargo Van 170 in. WB RWD — 4,165 miles — used — Graphite Gray</description>
+    <url>https://majorworld.com/inventory/2022-mercedes-benz-sprinter-4500-extended-cargo-van-170-in-wb-rwd/</url>
+    <price>59995.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>Sprinter 4500 Extended Cargo Van 170 in. WB RWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>4165</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>VAN</body_style>
+    <vin>W1W9ED3Y0NT088771</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Graphite Gray</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M76176</stock_number>
   </listing>
 </listings>
