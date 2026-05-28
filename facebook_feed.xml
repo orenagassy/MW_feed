@@ -795,7 +795,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0c7064ee-536d-44be-a7c1-567f17c03188.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/98dc904a-4596-4999-8036-7f42d991b1ff.jpg</url>
     </image>
     <vehicle_id>4JGFB4FB8SB480229</vehicle_id>
     <title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</title>
@@ -5221,7 +5221,7 @@
     </image>
     <vehicle_id>3GNKBCR46RS144630</vehicle_id>
     <title>2024 Chevrolet Blazer LT FWD</title>
-    <description>2024 Chevrolet Blazer LT FWD — 9,140 miles — used — Radiant Red Tintcoat</description>
+    <description>2024 Chevrolet Blazer LT FWD — 9,676 miles — used — Radiant Red Tintcoat</description>
     <url>https://majorworld.com/inventory/2024-chevrolet-blazer-lt-fwd/</url>
     <price>32888.00 USD</price>
     <make>Chevrolet</make>
@@ -5230,7 +5230,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>9140</value>
+      <value>9676</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -5349,7 +5349,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/36b53a57-516b-47c8-a541-d9a3cd82b843.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2d14eb28-48d6-4176-b1ad-fa0aab5af770.jpg</url>
     </image>
     <vehicle_id>3GCPDKEK9RG172559</vehicle_id>
     <title>2024 Chevrolet Silverado 1500 LT 4WD</title>
@@ -5848,7 +5848,7 @@
     </image>
     <vehicle_id>1HGCY1F46SA016191</vehicle_id>
     <title>2025 Honda Accord SE FWD</title>
-    <description>2025 Honda Accord SE FWD — 2,946 miles — used — Platinum White Pearl</description>
+    <description>2025 Honda Accord SE FWD — 2,947 miles — used — Platinum White Pearl</description>
     <url>https://majorworld.com/inventory/2025-honda-accord-se-fwd-2/</url>
     <price>31800.00 USD</price>
     <make>Honda</make>
@@ -5857,7 +5857,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>2946</value>
+      <value>2947</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -6435,39 +6435,6 @@
     <exterior_color>Jet Black Mica</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77006</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/eb89d8dd-c6f4-40e4-831a-3d8c7765f4de.jpg</url>
-    </image>
-    <vehicle_id>LRBFZPR41PD201955</vehicle_id>
-    <title>2023 Buick Envision Essence AWD</title>
-    <description>2023 Buick Envision Essence AWD — 12,339 miles — used — Cinnabar Metallic</description>
-    <url>https://majorworld.com/inventory/2023-buick-envision-essence-awd/</url>
-    <price>29995.00 USD</price>
-    <make>Buick</make>
-    <model>Envision Essence AWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>12339</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>LRBFZPR41PD201955</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Cinnabar Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>M77279</stock_number>
   </listing>
   <listing>
     <image>
@@ -7857,7 +7824,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d837ec40-2bbd-4508-bdd5-880178605acb.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b2e42971-a962-4d3c-8399-4ee68a47079d.jpg</url>
     </image>
     <vehicle_id>1GCPDAEK1PZ183739</vehicle_id>
     <title>2023 Chevrolet Silverado 1500 WT 4WD</title>
@@ -11454,6 +11421,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/350c1c1b-68e4-450b-986b-6d7c8edfa955.jpg</url>
+    </image>
+    <vehicle_id>KL4AMBS25RB069944</vehicle_id>
+    <title>2024 Buick Encore GX Preferred FWD</title>
+    <description>2024 Buick Encore GX Preferred FWD — 32,411 miles — used — Ebony Twilight Metallic</description>
+    <url>https://majorworld.com/inventory/2024-buick-encore-gx-preferred-fwd-2/</url>
+    <price>22800.00 USD</price>
+    <make>Buick</make>
+    <model>Encore GX Preferred FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>32411</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL4AMBS25RB069944</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Ebony Twilight Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M77752</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d7546907-963e-4aae-8f9f-7d059af4b4b1.jpg</url>
     </image>
     <vehicle_id>1G1ZD5ST4RF146145</vehicle_id>
@@ -12085,7 +12085,7 @@
     </image>
     <vehicle_id>1HGCV2F36KA021073</vehicle_id>
     <title>2019 Honda Accord Sport 2.0T FWD</title>
-    <description>2019 Honda Accord Sport 2.0T FWD — 139,972 miles — used — Platinum White Pearl</description>
+    <description>2019 Honda Accord Sport 2.0T FWD — 140,021 miles — used — Platinum White Pearl</description>
     <url>https://majorworld.com/inventory/2019-honda-accord-sport-2-0t-fwd-2/</url>
     <price>19995.00 USD</price>
     <make>Honda</make>
@@ -12094,7 +12094,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>139972</value>
+      <value>140021</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -12243,39 +12243,6 @@
     <exterior_color>Billet Silver Metallic Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77744</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2b5f9487-d6b9-410f-803b-e5cdd4b606b9.jpg</url>
-    </image>
-    <vehicle_id>3C6TRVCG7KE509495</vehicle_id>
-    <title>2019 Ram ProMaster 2500 High Roof FWD</title>
-    <description>2019 Ram ProMaster 2500 High Roof FWD — 109,311 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2019-ram-promaster-2500-high-roof-fwd-2/</url>
-    <price>18888.00 USD</price>
-    <make>Ram</make>
-    <model>ProMaster 2500 High Roof FWD</model>
-    <year>2019</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>109311</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>VAN</body_style>
-    <vin>3C6TRVCG7KE509495</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J18103</stock_number>
   </listing>
   <listing>
     <image>
