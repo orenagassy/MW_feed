@@ -93,28 +93,6 @@
       <g:interior_color>Jet Black/Umber</g:interior_color>
     </item>
     <item>
-      <g:id>5UX23EM09S9X13936</g:id>
-      <g:title>2025 BMW X7 xDrive40i AWD</g:title>
-      <g:description>2025 BMW X7 xDrive40i AWD — 35,955 miles — used — Black Sapphire Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-bmw-x7-xdrive40i-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a2f58c13-395e-4328-a5c2-106d665cc5b7.jpg</g:image_link>
-      <g:price>64800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>BMW</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>5UX23EM09S9X13936</g:vin>
-      <g:year>2025</g:year>
-      <g:make>BMW</g:make>
-      <g:model>X7 xDrive40i AWD</g:model>
-      <g:mileage>35955 mi</g:mileage>
-      <g:color>Black Sapphire Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
       <g:id>5UX33EX05S9X59876</g:id>
       <g:title>2025 BMW X6 xDrive40i AWD</g:title>
       <g:description>2025 BMW X6 xDrive40i AWD — 41,885 miles — used — Black Sapphire Metallic</g:description>
@@ -401,6 +379,28 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
+      <g:id>2GCUKDED6T1108078</g:id>
+      <g:title>2026 Chevrolet Silverado 1500 LT 4WD</g:title>
+      <g:description>2026 Chevrolet Silverado 1500 LT 4WD — 626 miles — used — Summit White</g:description>
+      <g:link>https://majorworld.com/inventory/2026-chevrolet-silverado-1500-lt-4wd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/aa2b8bfc-1460-4031-8701-3f41e39ccd54.jpg</g:image_link>
+      <g:price>51995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>2GCUKDED6T1108078</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 1500 LT 4WD</g:model>
+      <g:mileage>626 mi</g:mileage>
+      <g:color>Summit White</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
       <g:id>4JGFB4FE6RB044919</g:id>
       <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 37,180 miles — used — Black</g:description>
@@ -537,7 +537,7 @@
       <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 22,027 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/98dc904a-4596-4999-8036-7f42d991b1ff.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/666c2db6-d584-4625-b625-3b1505132b14.jpg</g:image_link>
       <g:price>49888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -575,6 +575,28 @@
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Espresso Brown</g:interior_color>
+    </item>
+    <item>
+      <g:id>1FTFW1E82PFA29553</g:id>
+      <g:title>2023 Ford F-150 XLT 4WD</g:title>
+      <g:description>2023 Ford F-150 XLT 4WD — 29,069 miles — used — Stone Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-ford-f-150-xlt-4wd-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a9afc8db-a8ee-43e4-a5bf-ab2956fd93bf.jpg</g:image_link>
+      <g:price>49888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1FTFW1E82PFA29553</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Ford</g:make>
+      <g:model>F-150 XLT 4WD</g:model>
+      <g:mileage>29069 mi</g:mileage>
+      <g:color>Stone Gray Metallic</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>1GNEVLKS8RJ154137</g:id>
@@ -773,6 +795,28 @@
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>5TDAAAB56RS019551</g:id>
+      <g:title>2024 Toyota Grand Highlander Limited AWD</g:title>
+      <g:description>2024 Toyota Grand Highlander Limited AWD — 41,534 miles — used — Celestial Silver Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-toyota-grand-highlander-limited-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a7babc8a-8d97-4239-b3b0-3458c88657cd.jpg</g:image_link>
+      <g:price>46800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>5TDAAAB56RS019551</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>Grand Highlander Limited AWD</g:model>
+      <g:mileage>41534 mi</g:mileage>
+      <g:color>Celestial Silver Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>5UX13EU05R9U03692</g:id>
@@ -975,7 +1019,7 @@
     <item>
       <g:id>5J8YE1H36RL036443</g:id>
       <g:title>2024 Acura MDX 3.5L AWD</g:title>
-      <g:description>2024 Acura MDX 3.5L AWD — 16,122 miles — used — Majestic Black Pearl</g:description>
+      <g:description>2024 Acura MDX 3.5L AWD — 16,593 miles — used — Majestic Black Pearl</g:description>
       <g:link>https://majorworld.com/inventory/2024-acura-mdx-3-5l-awd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/34e598bc-ac2f-4d36-b035-6fcbeb281cc3.jpg</g:image_link>
       <g:price>44800.00 USD</g:price>
@@ -988,7 +1032,7 @@
       <g:year>2024</g:year>
       <g:make>Acura</g:make>
       <g:model>MDX 3.5L AWD</g:model>
-      <g:mileage>16122 mi</g:mileage>
+      <g:mileage>16593 mi</g:mileage>
       <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -2139,6 +2183,28 @@
       <g:interior_color>Graystone</g:interior_color>
     </item>
     <item>
+      <g:id>3GCPABEK4SG348559</g:id>
+      <g:title>2025 Chevrolet Silverado 1500 Custom RWD</g:title>
+      <g:description>2025 Chevrolet Silverado 1500 Custom RWD — 28,753 miles — used — Summit White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-silverado-1500-custom-rwd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4a51d972-cec5-4eb7-9c61-64809f55b65e.jpg</g:image_link>
+      <g:price>39888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3GCPABEK4SG348559</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 1500 Custom RWD</g:model>
+      <g:mileage>28753 mi</g:mileage>
+      <g:color>Summit White</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black</g:interior_color>
+    </item>
+    <item>
       <g:id>WBA43FJ00RCS37834</g:id>
       <g:title>2024 BMW 5 Series 530i RWD</g:title>
       <g:description>2024 BMW 5 Series 530i RWD — 35,234 miles — used — Oxide Gray Metallic</g:description>
@@ -2225,28 +2291,6 @@
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Parchment</g:interior_color>
-    </item>
-    <item>
-      <g:id>3C6LRVAG8SE555873</g:id>
-      <g:title>2025 Ram ProMaster 1500 Low Roof FWD</g:title>
-      <g:description>2025 Ram ProMaster 1500 Low Roof FWD — 9 miles — used — Granite Crystal Metallic Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-ram-promaster-1500-low-roof-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/290c545e-eb33-4bc6-8aa4-12fef1f795c7.jpg</g:image_link>
-      <g:price>39800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ram</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>3C6LRVAG8SE555873</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Ram</g:make>
-      <g:model>ProMaster 1500 Low Roof FWD</g:model>
-      <g:mileage>9 mi</g:mileage>
-      <g:color>Granite Crystal Metallic Clearcoat</g:color>
-      <g:body_style>VAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>1FTBR1Y89RKA40058</g:id>
@@ -3573,7 +3617,7 @@
       <g:title>2024 Chevrolet Silverado 1500 LT 4WD</g:title>
       <g:description>2024 Chevrolet Silverado 1500 LT 4WD — 41,935 miles — used — Lakeshore Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-lt-4wd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2d14eb28-48d6-4176-b1ad-fa0aab5af770.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d573c372-9bc5-45d3-957f-4999d3dc0d07.jpg</g:image_link>
       <g:price>32887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -4999,6 +5043,28 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
+      <g:id>1C4RDJAGXMC558570</g:id>
+      <g:title>2021 Dodge Durango SXT Plus AWD</g:title>
+      <g:description>2021 Dodge Durango SXT Plus AWD — 35,361 miles — used — Destroyer Gray Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2021-dodge-durango-sxt-plus-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8bb26ac8-281e-42f8-904a-fc941028f7cb.jpg</g:image_link>
+      <g:price>28888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Dodge</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1C4RDJAGXMC558570</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Dodge</g:make>
+      <g:model>Durango SXT Plus AWD</g:model>
+      <g:mileage>35361 mi</g:mileage>
+      <g:color>Destroyer Gray Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
       <g:id>1V2WR2CA1PC551643</g:id>
       <g:title>2023 Volkswagen Atlas 3.6L V6 SE w/Technology FWD</g:title>
       <g:description>2023 Volkswagen Atlas 3.6L V6 SE w/Technology FWD — 42,156 miles — used — Deep Black Pearl</g:description>
@@ -5245,7 +5311,7 @@
       <g:title>2023 Chevrolet Silverado 1500 WT 4WD</g:title>
       <g:description>2023 Chevrolet Silverado 1500 WT 4WD — 64,498 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2023-chevrolet-silverado-1500-wt-4wd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b2e42971-a962-4d3c-8399-4ee68a47079d.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ea7dc1b1-5a64-4cd2-bbdc-39f6fbf61f24.jpg</g:image_link>
       <g:price>27887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -5659,28 +5725,6 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
-      <g:id>2C4RC1BG2PR571343</g:id>
-      <g:title>2023 Chrysler Pacifica Touring L FWD</g:title>
-      <g:description>2023 Chrysler Pacifica Touring L FWD — 52,854 miles — used — Ceramic Gray Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chrysler-pacifica-touring-l-fwd-3/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/050bce28-fb15-4e6b-8e2d-2772c1fde44c.jpg</g:image_link>
-      <g:price>26995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chrysler</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>2C4RC1BG2PR571343</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chrysler</g:make>
-      <g:model>Pacifica Touring L FWD</g:model>
-      <g:mileage>52854 mi</g:mileage>
-      <g:color>Ceramic Gray Clearcoat</g:color>
-      <g:body_style>MINIVAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black/Alloy/Black</g:interior_color>
-    </item>
-    <item>
       <g:id>1FATP8UH7P5103829</g:id>
       <g:title>2023 Ford Mustang EcoBoost Premium RWD</g:title>
       <g:description>2023 Ford Mustang EcoBoost Premium RWD — 53,770 miles — used — Oxford White</g:description>
@@ -5971,7 +6015,7 @@
       <g:title>2024 Jeep Wrangler Willys 4xe 4WD</g:title>
       <g:description>2024 Jeep Wrangler Willys 4xe 4WD — 16,072 miles — used — Bright White Clearcoat</g:description>
       <g:link>https://majorworld.com/inventory/2024-jeep-wrangler-willys-4xe-4wd-2/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/80b24ec9-1375-4777-a035-7136f549d85b.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9232f5c7-65a3-4a12-a943-57c19e814b4b.jpg</g:image_link>
       <g:price>25887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -5987,28 +6031,6 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>1G1ZG5ST9SF111789</g:id>
-      <g:title>2025 Chevrolet Malibu RS FWD</g:title>
-      <g:description>2025 Chevrolet Malibu RS FWD — 9,350 miles — used — Mosaic Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chevrolet-malibu-rs-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ff0246d-9349-4f6e-954a-f28f9452e935.jpg</g:image_link>
-      <g:price>25800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1G1ZG5ST9SF111789</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Malibu RS FWD</g:model>
-      <g:mileage>9350 mi</g:mileage>
-      <g:color>Mosaic Black Metallic</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Jet Black</g:interior_color>
     </item>
     <item>
       <g:id>3VW7X7BU0SM068055</g:id>
@@ -6101,7 +6123,7 @@
     <item>
       <g:id>3GKALTEG7RL339698</g:id>
       <g:title>2024 GMC Terrain SLE AWD</g:title>
-      <g:description>2024 GMC Terrain SLE AWD — 27,117 miles — used — Volcanic Red Tintcoat</g:description>
+      <g:description>2024 GMC Terrain SLE AWD — 27,462 miles — used — Volcanic Red Tintcoat</g:description>
       <g:link>https://majorworld.com/inventory/2024-gmc-terrain-sle-awd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0ea1c49f-615c-4187-b8b4-f44b6065dba7.jpg</g:image_link>
       <g:price>25800.00 USD</g:price>
@@ -6114,7 +6136,7 @@
       <g:year>2024</g:year>
       <g:make>GMC</g:make>
       <g:model>Terrain SLE AWD</g:model>
-      <g:mileage>27117 mi</g:mileage>
+      <g:mileage>27462 mi</g:mileage>
       <g:color>Volcanic Red Tintcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -6319,50 +6341,6 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
-      <g:id>3C4NJDCN6RT123397</g:id>
-      <g:title>2024 Jeep Compass Limited 4WD</g:title>
-      <g:description>2024 Jeep Compass Limited 4WD — 44,024 miles — used — Baltic Gray Metallic Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2024-jeep-compass-limited-4wd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/fb8ac444-687c-4a42-b353-c53eda5ce989.jpg</g:image_link>
-      <g:price>24995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>3C4NJDCN6RT123397</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Compass Limited 4WD</g:model>
-      <g:mileage>44024 mi</g:mileage>
-      <g:color>Baltic Gray Metallic Clearcoat</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>1GNEVFKW1NJ120748</g:id>
-      <g:title>2022 Chevrolet Traverse LS AWD</g:title>
-      <g:description>2022 Chevrolet Traverse LS AWD — 78,245 miles — used — Silver Ice Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2022-chevrolet-traverse-ls-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4538ad7d-6506-4a73-9a5f-9093c14d31d2.jpg</g:image_link>
-      <g:price>24995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1GNEVFKW1NJ120748</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Traverse LS AWD</g:model>
-      <g:mileage>78245 mi</g:mileage>
-      <g:color>Silver Ice Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Jet Black</g:interior_color>
-    </item>
-    <item>
       <g:id>2HKRW2H58NH614922</g:id>
       <g:title>2022 Honda CR-V EX AWD</g:title>
       <g:description>2022 Honda CR-V EX AWD — 90,853 miles — used — Radiant Red Metallic</g:description>
@@ -6425,28 +6403,6 @@
       <g:mileage>11725 mi</g:mileage>
       <g:color>Soul Red Crystal Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>1HGCY1F29RA031499</g:id>
-      <g:title>2024 Honda Accord LX FWD</g:title>
-      <g:description>2024 Honda Accord LX FWD — 44,461 miles — used — Crystal Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2024-honda-accord-lx-fwd-2/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/80809d03-0e2f-42d4-a7f2-46cd34998c09.jpg</g:image_link>
-      <g:price>24888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1HGCY1F29RA031499</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Accord LX FWD</g:model>
-      <g:mileage>44461 mi</g:mileage>
-      <g:color>Crystal Black Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
     </item>
@@ -6849,7 +6805,7 @@
     <item>
       <g:id>3N1AB8CV0SY271169</g:id>
       <g:title>2025 Nissan Sentra SV FWD</g:title>
-      <g:description>2025 Nissan Sentra SV FWD — 12,025 miles — used — Rosewood Metallic</g:description>
+      <g:description>2025 Nissan Sentra SV FWD — 12,341 miles — used — Rosewood Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2025-nissan-sentra-sv-fwd-2/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/fbc607d5-34a5-4acb-a6c3-b93de564b136.jpg</g:image_link>
       <g:price>23888.00 USD</g:price>
@@ -6862,7 +6818,7 @@
       <g:year>2025</g:year>
       <g:make>Nissan</g:make>
       <g:model>Sentra SV FWD</g:model>
-      <g:mileage>12025 mi</g:mileage>
+      <g:mileage>12341 mi</g:mileage>
       <g:color>Rosewood Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -7815,6 +7771,50 @@
       <g:interior_color>Cocoa/Dune</g:interior_color>
     </item>
     <item>
+      <g:id>1C4RJKAG2M8140845</g:id>
+      <g:title>2021 Jeep Grand Cherokee L Laredo 4WD</g:title>
+      <g:description>2021 Jeep Grand Cherokee L Laredo 4WD — 88,448 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2021-jeep-grand-cherokee-l-laredo-4wd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d25e8c1b-6a25-42eb-a2fa-5e35ec05273b.jpg</g:image_link>
+      <g:price>22800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1C4RJKAG2M8140845</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee L Laredo 4WD</g:model>
+      <g:mileage>88448 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Global Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>3GNAXHEGXPL128416</g:id>
+      <g:title>2023 Chevrolet Equinox LS FWD</g:title>
+      <g:description>2023 Chevrolet Equinox LS FWD — 39,247 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-2/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/62be8dca-e8ec-448b-9a1f-87122d09e4b9.jpg</g:image_link>
+      <g:price>21995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3GNAXHEGXPL128416</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LS FWD</g:model>
+      <g:mileage>39247 mi</g:mileage>
+      <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Medium Ash Gray</g:interior_color>
+    </item>
+    <item>
       <g:id>1G1ZD5ST1RF110381</g:id>
       <g:title>2024 Chevrolet Malibu LT FWD</g:title>
       <g:description>2024 Chevrolet Malibu LT FWD — 42,159 miles — used — Sterling Gray Metallic</g:description>
@@ -8365,28 +8365,6 @@
       <g:interior_color>Gray</g:interior_color>
     </item>
     <item>
-      <g:id>5N1DL0MN7LC529748</g:id>
-      <g:title>2020 INFINITI QX60 PURE FWD</g:title>
-      <g:description>2020 INFINITI QX60 PURE FWD — 97,581 miles — used — Black Obsidian</g:description>
-      <g:link>https://majorworld.com/inventory/2020-infiniti-qx60-pure-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f0739fa1-51e7-4291-80c4-104cce250dac.jpg</g:image_link>
-      <g:price>17995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>INFINITI</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>5N1DL0MN7LC529748</g:vin>
-      <g:year>2020</g:year>
-      <g:make>INFINITI</g:make>
-      <g:model>QX60 PURE FWD</g:model>
-      <g:mileage>97581 mi</g:mileage>
-      <g:color>Black Obsidian</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Graphite</g:interior_color>
-    </item>
-    <item>
       <g:id>3VWBX7BU9SM000802</g:id>
       <g:title>2025 Volkswagen Jetta 1.5T Sport FWD</g:title>
       <g:description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,388 miles — used — Platinum Gray Metallic</g:description>
@@ -8583,6 +8561,28 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
+    </item>
+    <item>
+      <g:id>1C6RR7FT6KS545500</g:id>
+      <g:title>2019 Ram 1500 Classic Express 4WD</g:title>
+      <g:description>2019 Ram 1500 Classic Express 4WD — 129,761 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/87aabef1-c86b-4684-a087-844cbc9c52e6.jpg</g:image_link>
+      <g:price>15995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ram</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1C6RR7FT6KS545500</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Ram</g:make>
+      <g:model>1500 Classic Express 4WD</g:model>
+      <g:mileage>129761 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Diesel Gray/Black</g:interior_color>
     </item>
     <item>
       <g:id>KL4MMESL0NB021270</g:id>
