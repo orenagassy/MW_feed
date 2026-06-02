@@ -709,6 +709,28 @@
       <g:interior_color>Black/Slate Gray</g:interior_color>
     </item>
     <item>
+      <g:id>5UX53GP08T9188728</g:id>
+      <g:title>2026 BMW X3 30 xDrive AWD</g:title>
+      <g:description>2026 BMW X3 30 xDrive AWD — 17,829 miles — used — Black Sapphire Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2026-bmw-x3-30-xdrive-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ad827022-5b5e-45b3-9305-62be2ef777a7.jpg</g:image_link>
+      <g:price>47888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>5UX53GP08T9188728</g:vin>
+      <g:year>2026</g:year>
+      <g:make>BMW</g:make>
+      <g:model>X3 30 xDrive AWD</g:model>
+      <g:mileage>17829 mi</g:mileage>
+      <g:color>Black Sapphire Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
       <g:id>5TDAAAA50SS020069</g:id>
       <g:title>2025 Toyota Grand Highlander XLE FWD</g:title>
       <g:description>2025 Toyota Grand Highlander XLE FWD — 14,231 miles — used — Storm Cloud</g:description>
@@ -1743,28 +1765,6 @@
       <g:interior_color>Black</g:interior_color>
     </item>
     <item>
-      <g:id>1C4RDJDG0SC517910</g:id>
-      <g:title>2025 Dodge Durango GT Plus AWD</g:title>
-      <g:description>2025 Dodge Durango GT Plus AWD — 28,079 miles — used — Destroyer Gray Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-dodge-durango-gt-plus-awd-2/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a3ed088f-6bf5-4359-a358-0337d4e7f3ed.jpg</g:image_link>
-      <g:price>39995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Dodge</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1C4RDJDG0SC517910</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Dodge</g:make>
-      <g:model>Durango GT Plus AWD</g:model>
-      <g:mileage>28079 mi</g:mileage>
-      <g:color>Destroyer Gray Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
       <g:id>1C4SDJCT3RC143724</g:id>
       <g:title>2024 Dodge Durango R/T Plus AWD</g:title>
       <g:description>2024 Dodge Durango R/T Plus AWD — 35,805 miles — used — Octane Red Pearlcoat</g:description>
@@ -2733,28 +2733,6 @@
       <g:interior_color>Titan Black</g:interior_color>
     </item>
     <item>
-      <g:id>1C4RDJDGXRC245957</g:id>
-      <g:title>2024 Dodge Durango GT Plus AWD</g:title>
-      <g:description>2024 Dodge Durango GT Plus AWD — 32,868 miles — used — Octane Red Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2024-dodge-durango-gt-plus-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1a014b08-6c27-455b-86af-9971967cad88.jpg</g:image_link>
-      <g:price>35995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Dodge</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1C4RDJDGXRC245957</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Dodge</g:make>
-      <g:model>Durango GT Plus AWD</g:model>
-      <g:mileage>32868 mi</g:mileage>
-      <g:color>Octane Red Pearlcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Red/Black/Ebony</g:interior_color>
-    </item>
-    <item>
       <g:id>WAUD3BF21PN032205</g:id>
       <g:title>2023 Audi A6 45 Premium quattro</g:title>
       <g:description>2023 Audi A6 45 Premium quattro — 37,834 miles — used — Florett Silver Metallic</g:description>
@@ -3065,7 +3043,7 @@
     <item>
       <g:id>1V2WR2CA0SC508906</g:id>
       <g:title>2025 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
-      <g:description>2025 Volkswagen Atlas 2.0T SE w/Technology FWD — 37,715 miles — used — Platinum Gray Metallic</g:description>
+      <g:description>2025 Volkswagen Atlas 2.0T SE w/Technology FWD — 37,533 miles — used — Platinum Gray Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-se-w-technology-fwd-3/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f6a36818-308c-46e2-8203-e5256bb425f6.jpg</g:image_link>
       <g:price>33888.00 USD</g:price>
@@ -3078,7 +3056,7 @@
       <g:year>2025</g:year>
       <g:make>Volkswagen</g:make>
       <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
-      <g:mileage>37715 mi</g:mileage>
+      <g:mileage>37533 mi</g:mileage>
       <g:color>Platinum Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -3551,7 +3529,7 @@
       <g:title>2024 Chevrolet Silverado 1500 LT 4WD</g:title>
       <g:description>2024 Chevrolet Silverado 1500 LT 4WD — 41,935 miles — used — Lakeshore Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-lt-4wd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d573c372-9bc5-45d3-957f-4999d3dc0d07.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/330fd726-a13c-4ff9-a44c-b3a8785cf4ce.jpg</g:image_link>
       <g:price>32887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -3747,7 +3725,7 @@
     <item>
       <g:id>5UX43DP07R9U54825</g:id>
       <g:title>2024 BMW X3 sDrive30i RWD</g:title>
-      <g:description>2024 BMW X3 sDrive30i RWD — 48,561 miles — used — Black Sapphire Metallic</g:description>
+      <g:description>2024 BMW X3 sDrive30i RWD — 48,992 miles — used — Black Sapphire Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-bmw-x3-sdrive30i-rwd-19/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3572817e-6a33-4226-93e8-d859c214a0c8.jpg</g:image_link>
       <g:price>32800.00 USD</g:price>
@@ -3760,7 +3738,7 @@
       <g:year>2024</g:year>
       <g:make>BMW</g:make>
       <g:model>X3 sDrive30i RWD</g:model>
-      <g:mileage>48561 mi</g:mileage>
+      <g:mileage>48992 mi</g:mileage>
       <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -3851,6 +3829,28 @@
       <g:mileage>2947 mi</g:mileage>
       <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>2HKRS4H29SH475313</g:id>
+      <g:title>2025 Honda CR-V LX AWD</g:title>
+      <g:description>2025 Honda CR-V LX AWD — 28,951 miles — used — Meteorite Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-honda-cr-v-lx-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/14ceb64a-d5cb-46bc-bffe-61ef4e19b882.jpg</g:image_link>
+      <g:price>31800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>2HKRS4H29SH475313</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Honda</g:make>
+      <g:model>CR-V LX AWD</g:model>
+      <g:mileage>28951 mi</g:mileage>
+      <g:color>Meteorite Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
     </item>
@@ -4095,28 +4095,6 @@
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Jet Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>WA1GAAFY1N2107059</g:id>
-      <g:title>2022 Audi Q5 45 S line Premium quattro</g:title>
-      <g:description>2022 Audi Q5 45 S line Premium quattro — 27,168 miles — used — Manhattan Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2022-audi-q5-45-s-line-premium-quattro-2/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a8590821-d616-486b-8da1-a252e1763f77.jpg</g:image_link>
-      <g:price>30888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>WA1GAAFY1N2107059</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Audi</g:make>
-      <g:model>Q5 45 S line Premium quattro</g:model>
-      <g:mileage>27168 mi</g:mileage>
-      <g:color>Manhattan Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Okapi Brown</g:interior_color>
     </item>
     <item>
       <g:id>2HKRS3H21SH311287</g:id>
@@ -4381,28 +4359,6 @@
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Titan Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>JN8BT3CA9RW356967</g:id>
-      <g:title>2024 Nissan Rogue SL FWD</g:title>
-      <g:description>2024 Nissan Rogue SL FWD — 14,570 miles — used — Champagne Silver Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-nissan-rogue-sl-fwd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4cc72203-9c15-4a00-8bce-011028fd5ab7.jpg</g:image_link>
-      <g:price>29888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>JN8BT3CA9RW356967</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Rogue SL FWD</g:model>
-      <g:mileage>14570 mi</g:mileage>
-      <g:color>Champagne Silver Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Charcoal</g:interior_color>
     </item>
     <item>
       <g:id>3GNKBCR40SS196468</g:id>
@@ -4799,6 +4755,28 @@
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>3GNKBCR49SS189227</g:id>
+      <g:title>2025 Chevrolet Blazer LT FWD</g:title>
+      <g:description>2025 Chevrolet Blazer LT FWD — 36,616 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-4/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/383e1c8e-73bb-4b56-9eb1-6c0459dad080.jpg</g:image_link>
+      <g:price>28995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3GNKBCR49SS189227</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Blazer LT FWD</g:model>
+      <g:mileage>36616 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Jet Black/Medium Gray</g:interior_color>
     </item>
     <item>
       <g:id>JN8BT3BA1SW003081</g:id>
@@ -5351,28 +5329,6 @@
       <g:interior_color>Light Platinum/Jet Black</g:interior_color>
     </item>
     <item>
-      <g:id>W1KWF8EB5MR645106</g:id>
-      <g:title>2021 Mercedes-Benz C-Class C 300 4MATIC®</g:title>
-      <g:description>2021 Mercedes-Benz C-Class C 300 4MATIC® — 47,041 miles — used — White</g:description>
-      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-c-class-c-300-4matic/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9094a4c0-5468-40ad-8735-cfa86aef2ef3.jpg</g:image_link>
-      <g:price>27800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>W1KWF8EB5MR645106</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>C-Class C 300 4MATIC®</g:model>
-      <g:mileage>47041 mi</g:mileage>
-      <g:color>White</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>-</g:interior_color>
-    </item>
-    <item>
       <g:id>WA1DECF38N1046595</g:id>
       <g:title>2022 Audi Q3 Premium quattro</g:title>
       <g:description>2022 Audi Q3 Premium quattro — 49,415 miles — used — Mythos Black Metallic</g:description>
@@ -5551,7 +5507,7 @@
     <item>
       <g:id>2HGFE2F29TH534423</g:id>
       <g:title>2026 Honda Civic LX FWD</g:title>
-      <g:description>2026 Honda Civic LX FWD — 15,989 miles — used — Blue Lagoon Pearl</g:description>
+      <g:description>2026 Honda Civic LX FWD — 15,984 miles — used — Blue Lagoon Pearl</g:description>
       <g:link>https://majorworld.com/inventory/2026-honda-civic-lx-fwd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6eeb549f-4cfc-497e-889a-c905f6330d72.jpg</g:image_link>
       <g:price>26995.00 USD</g:price>
@@ -5564,7 +5520,7 @@
       <g:year>2026</g:year>
       <g:make>Honda</g:make>
       <g:model>Civic LX FWD</g:model>
-      <g:mileage>15989 mi</g:mileage>
+      <g:mileage>15984 mi</g:mileage>
       <g:color>Blue Lagoon Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -5987,28 +5943,6 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
-    </item>
-    <item>
-      <g:id>3VW7X7BU0SM068055</g:id>
-      <g:title>2025 Volkswagen Jetta 1.5T SE FWD</g:title>
-      <g:description>2025 Volkswagen Jetta 1.5T SE FWD — 14,991 miles — used — Opal White Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-se-fwd-3/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d0763686-4c00-40fa-9aad-acdf7c6d0649.jpg</g:image_link>
-      <g:price>25800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>3VW7X7BU0SM068055</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Jetta 1.5T SE FWD</g:model>
-      <g:mileage>14991 mi</g:mileage>
-      <g:color>Opal White Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Grigio/Titan Black</g:interior_color>
     </item>
     <item>
       <g:id>3VW7X7BUXSM042143</g:id>
@@ -7267,7 +7201,7 @@
     <item>
       <g:id>3KPFT4DE3SE031574</g:id>
       <g:title>2025 Kia K4 LXS FWD</g:title>
-      <g:description>2025 Kia K4 LXS FWD — 38,574 miles — used — Currant Red</g:description>
+      <g:description>2025 Kia K4 LXS FWD — 38,569 miles — used — Currant Red</g:description>
       <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-5/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7f58cf95-fcbc-47ab-aadc-de3c84083069.jpg</g:image_link>
       <g:price>23800.00 USD</g:price>
@@ -7280,7 +7214,7 @@
       <g:year>2025</g:year>
       <g:make>Kia</g:make>
       <g:model>K4 LXS FWD</g:model>
-      <g:mileage>38574 mi</g:mileage>
+      <g:mileage>38569 mi</g:mileage>
       <g:color>Currant Red</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -7839,7 +7773,7 @@
     <item>
       <g:id>1C4RJKAG2M8140845</g:id>
       <g:title>2021 Jeep Grand Cherokee L Laredo 4WD</g:title>
-      <g:description>2021 Jeep Grand Cherokee L Laredo 4WD — 88,448 miles — used — Bright White Clearcoat</g:description>
+      <g:description>2021 Jeep Grand Cherokee L Laredo 4WD — 88,450 miles — used — Bright White Clearcoat</g:description>
       <g:link>https://majorworld.com/inventory/2021-jeep-grand-cherokee-l-laredo-4wd/</g:link>
       <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d25e8c1b-6a25-42eb-a2fa-5e35ec05273b.jpg</g:image_link>
       <g:price>22800.00 USD</g:price>
@@ -7852,7 +7786,7 @@
       <g:year>2021</g:year>
       <g:make>Jeep</g:make>
       <g:model>Grand Cherokee L Laredo 4WD</g:model>
-      <g:mileage>88448 mi</g:mileage>
+      <g:mileage>88450 mi</g:mileage>
       <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -8077,6 +8011,28 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Black</g:interior_color>
+    </item>
+    <item>
+      <g:id>3N1CN8EV2SL844552</g:id>
+      <g:title>2025 Nissan Versa 1.6 SV FWD</g:title>
+      <g:description>2025 Nissan Versa 1.6 SV FWD — 23,515 miles — used — Brilliant Silver Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-versa-1-6-sv-fwd-3/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f560b4d3-030f-456f-adfa-0d0cb04c870f.jpg</g:image_link>
+      <g:price>20995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>3N1CN8EV2SL844552</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Versa 1.6 SV FWD</g:model>
+      <g:mileage>23515 mi</g:mileage>
+      <g:color>Brilliant Silver Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Graphite</g:interior_color>
     </item>
     <item>
       <g:id>KL7CJPSM3NB560963</g:id>
@@ -8783,28 +8739,6 @@
       <g:interior_color>Charcoal</g:interior_color>
     </item>
     <item>
-      <g:id>2FMPK4K9XJBB41066</g:id>
-      <g:title>2018 Ford Edge Titanium AWD</g:title>
-      <g:description>2018 Ford Edge Titanium AWD — 108,044 miles — used — Magnetic Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2018-ford-edge-titanium-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d03776d0-fc80-4fd2-b26e-d7a69805f94f.jpg</g:image_link>
-      <g:price>14800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>2FMPK4K9XJBB41066</g:vin>
-      <g:year>2018</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Edge Titanium AWD</g:model>
-      <g:mileage>108044 mi</g:mileage>
-      <g:color>Magnetic Metallic</g:color>
-      <g:body_style>PICKUP</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Ebony</g:interior_color>
-    </item>
-    <item>
       <g:id>1G1105S39JU125249</g:id>
       <g:title>2018 Chevrolet Impala LT FWD</g:title>
       <g:description>2018 Chevrolet Impala LT FWD — 125,860 miles — used — Summit White</g:description>
@@ -8847,6 +8781,28 @@
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
       <g:interior_color>Graphite</g:interior_color>
+    </item>
+    <item>
+      <g:id>1C4RDJDG2CC107451</g:id>
+      <g:title>2012 Dodge Durango Crew AWD</g:title>
+      <g:description>2012 Dodge Durango Crew AWD — 106,132 miles — used — Brilliant Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2012-dodge-durango-crew-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ac0a2e46-42b5-42eb-8f69-b3496d4f1d13.jpg</g:image_link>
+      <g:price>13888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Dodge</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:vin>1C4RDJDG2CC107451</g:vin>
+      <g:year>2012</g:year>
+      <g:make>Dodge</g:make>
+      <g:model>Durango Crew AWD</g:model>
+      <g:mileage>106132 mi</g:mileage>
+      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+      <g:interior_color>Black</g:interior_color>
     </item>
     <item>
       <g:id>3N1AB7APXJY347669</g:id>
@@ -8919,7 +8875,7 @@
       <g:title>2018 Chevrolet Trax LT AWD</g:title>
       <g:description>2018 Chevrolet Trax LT AWD — 85,925 miles — used — Summit White</g:description>
       <g:link>https://majorworld.com/inventory/2018-chevrolet-trax-lt-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d452dae3-086b-40b9-bff0-93e5ee3a3c26.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a2528f17-bee6-45dd-8ffb-9d65279c044c.jpg</g:image_link>
       <g:price>12995.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -9069,26 +9025,26 @@
       <g:interior_color>Jet Black/Dark Titanium</g:interior_color>
     </item>
     <item>
-      <g:id>1C4RDJDG2CC107451</g:id>
-      <g:title>2012 Dodge Durango Crew AWD</g:title>
-      <g:description>2012 Dodge Durango Crew AWD — 106,132 miles — used — Brilliant Black Crystal Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2012-dodge-durango-crew-awd/</g:link>
-      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ac0a2e46-42b5-42eb-8f69-b3496d4f1d13.jpg</g:image_link>
+      <g:id>5N1AT2MV1FC899094</g:id>
+      <g:title>2015 Nissan Rogue SL AWD</g:title>
+      <g:description>2015 Nissan Rogue SL AWD — 148,397 miles — used — Gun Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2015-nissan-rogue-sl-awd/</g:link>
+      <g:image_link>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3c6aee04-55e1-4bc7-bbfd-10e417ec7265.jpg</g:image_link>
       <g:price>11800.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:brand>Dodge</g:brand>
+      <g:brand>Nissan</g:brand>
       <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:vin>1C4RDJDG2CC107451</g:vin>
-      <g:year>2012</g:year>
-      <g:make>Dodge</g:make>
-      <g:model>Durango Crew AWD</g:model>
-      <g:mileage>106132 mi</g:mileage>
-      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
-      <g:body_style>SUV</g:body_style>
+      <g:vin>5N1AT2MV1FC899094</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Rogue SL AWD</g:model>
+      <g:mileage>148397 mi</g:mileage>
+      <g:color>Gun Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
-      <g:interior_color>Black</g:interior_color>
+      <g:interior_color>Charcoal</g:interior_color>
     </item>
     <item>
       <g:id>1N4BL4BV6LN302454</g:id>
