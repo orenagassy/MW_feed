@@ -5914,7 +5914,7 @@
     </image>
     <vehicle_id>5GAERCKW4RJ137269</vehicle_id>
     <title>2024 Buick Enclave Premium Group FWD</title>
-    <description>2024 Buick Enclave Premium Group FWD — 45,161 miles — used — Moonstone Gray Metallic</description>
+    <description>2024 Buick Enclave Premium Group FWD — 45,452 miles — used — Moonstone Gray Metallic</description>
     <url>https://majorworld.com/inventory/2024-buick-enclave-premium-group-fwd-2/</url>
     <price>31800.00 USD</price>
     <make>Buick</make>
@@ -5923,7 +5923,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>45161</value>
+      <value>45452</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -7102,7 +7102,7 @@
     </image>
     <vehicle_id>3GNKBCR49SS189227</vehicle_id>
     <title>2025 Chevrolet Blazer LT FWD</title>
-    <description>2025 Chevrolet Blazer LT FWD — 36,616 miles — used — Black</description>
+    <description>2025 Chevrolet Blazer LT FWD — 36,617 miles — used — Black</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-4/</url>
     <price>28995.00 USD</price>
     <make>Chevrolet</make>
@@ -7111,7 +7111,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>36616</value>
+      <value>36617</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -7194,39 +7194,6 @@
     <exterior_color>Crimson Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M76930</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/01cad639-1823-44f5-818c-83f925b94a01.jpg</url>
-    </image>
-    <vehicle_id>7MUBAAAG1SV134058</vehicle_id>
-    <title>2025 Toyota Corolla Cross LE FWD</title>
-    <description>2025 Toyota Corolla Cross LE FWD — 11,278 miles — used — Blue Crush Metallic</description>
-    <url>https://majorworld.com/inventory/2025-toyota-corolla-cross-le-fwd-2/</url>
-    <price>28888.00 USD</price>
-    <make>Toyota</make>
-    <model>Corolla Cross LE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>11278</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>7MUBAAAG1SV134058</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Blue Crush Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77388</stock_number>
   </listing>
   <listing>
     <image>
@@ -8679,6 +8646,39 @@
     <exterior_color>Meteorite Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78205</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1f2fb396-d778-499b-965f-136afbca5b12.jpg</url>
+    </image>
+    <vehicle_id>3GNAXHEG1SL226212</vehicle_id>
+    <title>2025 Chevrolet Equinox LT FWD</title>
+    <description>2025 Chevrolet Equinox LT FWD — 31,854 miles — used — Mosaic Black Metallic</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-5/</url>
+    <price>26800.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>31854</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXHEG1SL226212</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78053</stock_number>
   </listing>
   <listing>
     <image>
@@ -10435,7 +10435,7 @@
     </image>
     <vehicle_id>3VW5X7BU6SM066494</vehicle_id>
     <title>2025 Volkswagen Jetta 1.5T S FWD</title>
-    <description>2025 Volkswagen Jetta 1.5T S FWD — 18,331 miles — used — Pure White</description>
+    <description>2025 Volkswagen Jetta 1.5T S FWD — 18,335 miles — used — Pure White</description>
     <url>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-s-fwd/</url>
     <price>23800.00 USD</price>
     <make>Volkswagen</make>
@@ -10444,7 +10444,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>18331</value>
+      <value>18335</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -11979,6 +11979,39 @@
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M76838</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0bc5547c-75ba-4d50-8dbe-7e780eb41626.jpg</url>
+    </image>
+    <vehicle_id>1FM5K8D83KGA34969</vehicle_id>
+    <title>2019 Ford Explorer XLT 4WD</title>
+    <description>2019 Ford Explorer XLT 4WD — 60,178 miles — used — Ingot Silver Metallic</description>
+    <url>https://majorworld.com/inventory/2019-ford-explorer-xlt-4wd/</url>
+    <price>21800.00 USD</price>
+    <make>Ford</make>
+    <model>Explorer XLT 4WD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>60178</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1FM5K8D83KGA34969</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Ingot Silver Metallic</exterior_color>
+    <interior_color>Ebony Black</interior_color>
+    <stock_number>M77878</stock_number>
   </listing>
   <listing>
     <image>
