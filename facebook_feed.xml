@@ -5778,6 +5778,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/adfcb8eb-9b18-4843-8975-10088314c246.jpg</url>
+    </image>
+    <vehicle_id>3GNKBCR48SS245903</vehicle_id>
+    <title>2025 Chevrolet Blazer LT FWD</title>
+    <description>2025 Chevrolet Blazer LT FWD — 13,999 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-5/</url>
+    <price>30888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Blazer LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>13999</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNKBCR48SS245903</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black/Medium Gray</interior_color>
+    <stock_number>M78227</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/630f08aa-41eb-4ee0-80a3-98e527585583.jpg</url>
     </image>
     <vehicle_id>1GCGSBEC2R1133843</vehicle_id>
@@ -6570,11 +6603,44 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9d3dd557-e36f-4b23-91a5-bcd6349cb95b.jpg</url>
+    </image>
+    <vehicle_id>1GNERGKWXPJ284531</vehicle_id>
+    <title>2023 Chevrolet Traverse LT FWD</title>
+    <description>2023 Chevrolet Traverse LT FWD — 45,314 miles — used — Black Cherry Metallic</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2/</url>
+    <price>29888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Traverse LT FWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>45314</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1GNERGKWXPJ284531</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black Cherry Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M78223</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9361a3a6-ea21-48be-b22e-8c62fa64efd7.jpg</url>
     </image>
     <vehicle_id>1FAGP8UH1R5107184</vehicle_id>
     <title>2024 Ford Mustang EcoBoost RWD</title>
-    <description>2024 Ford Mustang EcoBoost RWD — 47,936 miles — used — Oxford White</description>
+    <description>2024 Ford Mustang EcoBoost RWD — 48,006 miles — used — Oxford White</description>
     <url>https://majorworld.com/inventory/2024-ford-mustang-ecoboost-rwd/</url>
     <price>29888.00 USD</price>
     <make>Ford</make>
@@ -6583,7 +6649,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>47936</value>
+      <value>48006</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -6838,7 +6904,7 @@
     </image>
     <vehicle_id>3GNKBCR49SS189227</vehicle_id>
     <title>2025 Chevrolet Blazer LT FWD</title>
-    <description>2025 Chevrolet Blazer LT FWD — 36,617 miles — used — Black</description>
+    <description>2025 Chevrolet Blazer LT FWD — 36,616 miles — used — Black</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-4/</url>
     <price>28995.00 USD</price>
     <make>Chevrolet</make>
@@ -6847,7 +6913,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>36617</value>
+      <value>36616</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -8781,39 +8847,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0a51c664-be7b-474a-ac24-5ab9e31a2eef.jpg</url>
-    </image>
-    <vehicle_id>5N1BT3BA9SC833588</vehicle_id>
-    <title>2025 Nissan Rogue SV FWD</title>
-    <description>2025 Nissan Rogue SV FWD — 31,216 miles — used — Super Black</description>
-    <url>https://majorworld.com/inventory/2025-nissan-rogue-sv-fwd-5/</url>
-    <price>25800.00 USD</price>
-    <make>Nissan</make>
-    <model>Rogue SV FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>31216</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>5N1BT3BA9SC833588</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Super Black</exterior_color>
-    <interior_color>Charcoal</interior_color>
-    <stock_number>M78371</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d0ec0517-cc36-448a-b677-24f06167cfee.jpg</url>
     </image>
     <vehicle_id>KMHL64JA6SA464204</vehicle_id>
@@ -8877,6 +8910,39 @@
     <exterior_color>Abyss Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78257</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ca1a938b-41db-458a-ad2c-e9e62c816a67.jpg</url>
+    </image>
+    <vehicle_id>3C4NJDDN6ST514618</vehicle_id>
+    <title>2025 Jeep Compass Trailhawk 4WD</title>
+    <description>2025 Jeep Compass Trailhawk 4WD — 42,091 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2025-jeep-compass-trailhawk-4wd/</url>
+    <price>25800.00 USD</price>
+    <make>Jeep</make>
+    <model>Compass Trailhawk 4WD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>42091</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3C4NJDDN6ST514618</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78248</stock_number>
   </listing>
   <listing>
     <image>
@@ -9738,39 +9804,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/217f2587-1348-4ef7-a23e-a827a9911450.jpg</url>
-    </image>
-    <vehicle_id>2C4RC1CG0PR567788</vehicle_id>
-    <title>2023 Chrysler Voyager LX FWD</title>
-    <description>2023 Chrysler Voyager LX FWD — 55,551 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2023-chrysler-voyager-lx-fwd-3/</url>
-    <price>24800.00 USD</price>
-    <make>Chrysler</make>
-    <model>Voyager LX FWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>55551</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>2C4RC1CG0PR567788</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black/Alloy/Black</interior_color>
-    <stock_number>M77992</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/44059791-9a40-4ca0-9d14-ec68ee26b19d.jpg</url>
     </image>
     <vehicle_id>4T1S11AK1RU905618</vehicle_id>
@@ -10329,6 +10362,39 @@
     <exterior_color>Currant Red</exterior_color>
     <interior_color>Gray</interior_color>
     <stock_number>M78117</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/50ca9600-b96a-484a-b88b-d549b0e9d38b.jpg</url>
+    </image>
+    <vehicle_id>1N4BL4DV5SN380462</vehicle_id>
+    <title>2025 Nissan Altima 2.5 SV FWD</title>
+    <description>2025 Nissan Altima 2.5 SV FWD — 28,879 miles — used — Gun Metallic</description>
+    <url>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-22/</url>
+    <price>23800.00 USD</price>
+    <make>Nissan</make>
+    <model>Altima 2.5 SV FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>28879</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>1N4BL4DV5SN380462</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Gun Metallic</exterior_color>
+    <interior_color>Charcoal</interior_color>
+    <stock_number>M78070</stock_number>
   </listing>
   <listing>
     <image>
@@ -11425,7 +11491,7 @@
     </image>
     <vehicle_id>1FMCU0GN6RUA11394</vehicle_id>
     <title>2024 Ford Escape Active FWD</title>
-    <description>2024 Ford Escape Active FWD — 45,886 miles — used — Carbonized Gray Metallic</description>
+    <description>2024 Ford Escape Active FWD — 45,887 miles — used — Carbonized Gray Metallic</description>
     <url>https://majorworld.com/inventory/2024-ford-escape-active-fwd-6/</url>
     <price>22800.00 USD</price>
     <make>Ford</make>
@@ -11434,7 +11500,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>45886</value>
+      <value>45887</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -11484,6 +11550,39 @@
     <exterior_color>Crimson Red Tintcoat</exterior_color>
     <interior_color>Cocoa/Dune</interior_color>
     <stock_number>M77862</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/088795cf-386d-4023-a9f0-e73e97432287.jpg</url>
+    </image>
+    <vehicle_id>3VW7M7BU6RM058553</vehicle_id>
+    <title>2024 Volkswagen Jetta 1.5T SE FWD</title>
+    <description>2024 Volkswagen Jetta 1.5T SE FWD — 17,300 miles — used — Platinum Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2024-volkswagen-jetta-1-5t-se-fwd-2/</url>
+    <price>21995.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Jetta 1.5T SE FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>17300</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VW7M7BU6RM058553</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Platinum Gray Metallic</exterior_color>
+    <interior_color>Titan Black</interior_color>
+    <stock_number>M77422</stock_number>
   </listing>
   <listing>
     <image>
@@ -12969,39 +13068,6 @@
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M76442</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/48fc9e3f-d1f1-4433-b103-fb8b448435a6.jpg</url>
-    </image>
-    <vehicle_id>5N1DL0MM5KC506796</vehicle_id>
-    <title>2019 INFINITI QX60 PURE AWD</title>
-    <description>2019 INFINITI QX60 PURE AWD — 140,211 miles — used — Black Obsidian</description>
-    <url>https://majorworld.com/inventory/2019-infiniti-qx60-pure-awd/</url>
-    <price>14800.00 USD</price>
-    <make>INFINITI</make>
-    <model>QX60 PURE AWD</model>
-    <year>2019</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>140211</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>5N1DL0MM5KC506796</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black Obsidian</exterior_color>
-    <interior_color>Graphite</interior_color>
-    <stock_number>M77887</stock_number>
   </listing>
   <listing>
     <image>
