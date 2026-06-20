@@ -29,30 +29,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1G1YC3D49N5109245</g:id>
-      <g:title>2022 Chevrolet Corvette Stingray RWD</g:title>
-      <g:description>2022 Chevrolet Corvette Stingray RWD — 31,439 miles — used — Torch Red</g:description>
-      <g:link>https://majorworld.com/inventory/2022-chevrolet-corvette-stingray-rwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-chevrolet-corvette-stingray-rwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5ec34e98-81ef-4f96-87d9-ec83d5679afa.jpg</g:image_link>
-      <g:price>69995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1G1YC3D49N5109245</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Corvette Stingray RWD</g:model>
-      <g:mileage>31439 mi</g:mileage>
-      <g:color>Torch Red</g:color>
-      <g:body_style>COUPE</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1GC4YREY5RF324522</g:id>
       <g:title>2024 Chevrolet Silverado 2500HD High Country 4WD</g:title>
       <g:description>2024 Chevrolet Silverado 2500HD High Country 4WD — 37,481 miles — used — Iridescent Pearl Tricoat</g:description>
@@ -146,30 +122,6 @@
       <g:mileage>41885 mi</g:mileage>
       <g:color>Black Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C6SRFFT6TN212743</g:id>
-      <g:title>2026 Ram 1500 Big Horn/Lone Star 4WD</g:title>
-      <g:description>2026 Ram 1500 Big Horn/Lone Star 4WD — 22 miles — used — Forged Blue Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2026-ram-1500-big-horn-lone-star-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2026-ram-1500-big-horn-lone-star-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b95f57d5-3ad4-4e6a-a653-cb205d30ca63.jpg</g:image_link>
-      <g:price>58888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ram</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C6SRFFT6TN212743</g:vin>
-      <g:year>2026</g:year>
-      <g:make>Ram</g:make>
-      <g:model>1500 Big Horn/Lone Star 4WD</g:model>
-      <g:mileage>22 mi</g:mileage>
-      <g:color>Forged Blue Metallic</g:color>
-      <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -4759,7 +4711,7 @@
     <item>
       <g:id>1GNERGKWXPJ284531</g:id>
       <g:title>2023 Chevrolet Traverse LT FWD</g:title>
-      <g:description>2023 Chevrolet Traverse LT FWD — 45,314 miles — used — Black Cherry Metallic</g:description>
+      <g:description>2023 Chevrolet Traverse LT FWD — 45,320 miles — used — Black Cherry Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9d3dd557-e36f-4b23-91a5-bcd6349cb95b.jpg</g:image_link>
@@ -4775,7 +4727,7 @@
       <g:year>2023</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Traverse LT FWD</g:model>
-      <g:mileage>45314 mi</g:mileage>
+      <g:mileage>45320 mi</g:mileage>
       <g:color>Black Cherry Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -5359,7 +5311,7 @@
     <item>
       <g:id>1FMSK8DH7NGB67922</g:id>
       <g:title>2022 Ford Explorer XLT 4WD</g:title>
-      <g:description>2022 Ford Explorer XLT 4WD — 38,707 miles — used — Iconic Silver Metallic</g:description>
+      <g:description>2022 Ford Explorer XLT 4WD — 38,786 miles — used — Iconic Silver Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b4fc6fb1-9a18-4492-b47b-a2457e7c2779.jpg</g:image_link>
@@ -5375,7 +5327,7 @@
       <g:year>2022</g:year>
       <g:make>Ford</g:make>
       <g:model>Explorer XLT 4WD</g:model>
-      <g:mileage>38707 mi</g:mileage>
+      <g:mileage>38786 mi</g:mileage>
       <g:color>Iconic Silver Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -5813,30 +5765,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1FMCU0MN7SUA62350</g:id>
-      <g:title>2025 Ford Escape ST-Line FWD</g:title>
-      <g:description>2025 Ford Escape ST-Line FWD — 24,318 miles — used — Carbonized Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-ford-escape-st-line-fwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-ford-escape-st-line-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4b23b853-8ad6-498e-8c93-6d6f0af6d647.jpg</g:image_link>
-      <g:price>26995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1FMCU0MN7SUA62350</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Escape ST-Line FWD</g:model>
-      <g:mileage>24318 mi</g:mileage>
-      <g:color>Carbonized Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>KMHL64JAXSA467364</g:id>
       <g:title>2025 Hyundai Sonata SEL FWD</g:title>
       <g:description>2025 Hyundai Sonata SEL FWD — 28,460 miles — used — Abyss Black</g:description>
@@ -5857,30 +5785,6 @@
       <g:model>Sonata SEL FWD</g:model>
       <g:mileage>28460 mi</g:mileage>
       <g:color>Abyss Black</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>4T1G11AK2RU893095</g:id>
-      <g:title>2024 Toyota Camry SE FWD</g:title>
-      <g:description>2024 Toyota Camry SE FWD — 39,575 miles — used — Midnight Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-toyota-camry-se-fwd-4/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-toyota-camry-se-fwd-4/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f3b78d62-a4d1-4e80-896d-c1e6ed93a170.jpg</g:image_link>
-      <g:price>26995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>4T1G11AK2RU893095</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>Camry SE FWD</g:model>
-      <g:mileage>39575 mi</g:mileage>
-      <g:color>Midnight Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -6127,7 +6031,7 @@
     <item>
       <g:id>3GNAXKEG6RL224169</g:id>
       <g:title>2024 Chevrolet Equinox LT FWD</g:title>
-      <g:description>2024 Chevrolet Equinox LT FWD — 2,820 miles — used — Riptide Blue Metallic</g:description>
+      <g:description>2024 Chevrolet Equinox LT FWD — 2,857 miles — used — Riptide Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-chevrolet-equinox-lt-fwd-4/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-chevrolet-equinox-lt-fwd-4/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6e3e41ee-8938-4977-8cd6-08d0de429ace.jpg</g:image_link>
@@ -6143,7 +6047,7 @@
       <g:year>2024</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LT FWD</g:model>
-      <g:mileage>2820 mi</g:mileage>
+      <g:mileage>2857 mi</g:mileage>
       <g:color>Riptide Blue Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -6314,6 +6218,30 @@
       <g:mileage>17031 mi</g:mileage>
       <g:color>Monument Gray</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1FMCU0MN7SUA62350</g:id>
+      <g:title>2025 Ford Escape ST-Line FWD</g:title>
+      <g:description>2025 Ford Escape ST-Line FWD — 24,318 miles — used — Carbonized Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-ford-escape-st-line-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-ford-escape-st-line-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4b23b853-8ad6-498e-8c93-6d6f0af6d647.jpg</g:image_link>
+      <g:price>25800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1FMCU0MN7SUA62350</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Escape ST-Line FWD</g:model>
+      <g:mileage>24318 mi</g:mileage>
+      <g:color>Carbonized Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -7421,30 +7349,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3N1CN8FV0SL861736</g:id>
-      <g:title>2025 Nissan Versa 1.6 SR FWD</g:title>
-      <g:description>2025 Nissan Versa 1.6 SR FWD — 3,719 miles — used — Scarlet Ember Tintcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-nissan-versa-1-6-sr-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-nissan-versa-1-6-sr-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/90089cf9-2bb6-4a23-88a6-76c27e16b691.jpg</g:image_link>
-      <g:price>23800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3N1CN8FV0SL861736</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Versa 1.6 SR FWD</g:model>
-      <g:mileage>3719 mi</g:mileage>
-      <g:color>Scarlet Ember Tintcoat</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>KL4AMBSL2SB012342</g:id>
       <g:title>2025 Buick Encore GX Preferred FWD</g:title>
       <g:description>2025 Buick Encore GX Preferred FWD — 11,386 miles — used — Moonstone Gray Metallic</g:description>
@@ -8309,6 +8213,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1G1ZB5ST4RF156650</g:id>
+      <g:title>2024 Chevrolet Malibu LS FWD</g:title>
+      <g:description>2024 Chevrolet Malibu LS FWD — 25,117 miles — used — Summit White</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-malibu-ls-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-malibu-ls-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7abc8ad5-326b-4d9a-beb8-e05635988348.jpg</g:image_link>
+      <g:price>22800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1G1ZB5ST4RF156650</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Malibu LS FWD</g:model>
+      <g:mileage>25117 mi</g:mileage>
+      <g:color>Summit White</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>KMHLM4DG0RU728841</g:id>
       <g:title>2024 Hyundai Elantra SEL FWD</g:title>
       <g:description>2024 Hyundai Elantra SEL FWD — 26,341 miles — used — Ultimate Red</g:description>
@@ -8330,6 +8258,30 @@
       <g:mileage>26341 mi</g:mileage>
       <g:color>Ultimate Red</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>KL77LHE24RC066459</g:id>
+      <g:title>2024 Chevrolet Trax LT FWD</g:title>
+      <g:description>2024 Chevrolet Trax LT FWD — 29,581 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-trax-lt-fwd-3/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-trax-lt-fwd-3/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c4495c5e-c181-49e6-b17e-fe8834e681ab.jpg</g:image_link>
+      <g:price>22800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>KL77LHE24RC066459</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax LT FWD</g:model>
+      <g:mileage>29581 mi</g:mileage>
+      <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8381,30 +8333,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1FMCU0GN6RUA11394</g:id>
-      <g:title>2024 Ford Escape Active FWD</g:title>
-      <g:description>2024 Ford Escape Active FWD — 45,887 miles — used — Carbonized Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-ford-escape-active-fwd-6/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-ford-escape-active-fwd-6/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/28902196-7dd4-4127-8e5a-68fe51f633c6.jpg</g:image_link>
-      <g:price>22800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1FMCU0GN6RUA11394</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Escape Active FWD</g:model>
-      <g:mileage>45887 mi</g:mileage>
-      <g:color>Carbonized Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3GTU2NEC9HG112024</g:id>
       <g:title>2017 GMC Sierra 1500 SLT 4WD</g:title>
       <g:description>2017 GMC Sierra 1500 SLT 4WD — 71,249 miles — used — Crimson Red Tintcoat</g:description>
@@ -8426,30 +8354,6 @@
       <g:mileage>71249 mi</g:mileage>
       <g:color>Crimson Red Tintcoat</g:color>
       <g:body_style>PICKUP</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3VW7M7BU6RM058553</g:id>
-      <g:title>2024 Volkswagen Jetta 1.5T SE FWD</g:title>
-      <g:description>2024 Volkswagen Jetta 1.5T SE FWD — 17,300 miles — used — Platinum Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-volkswagen-jetta-1-5t-se-fwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-jetta-1-5t-se-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/088795cf-386d-4023-a9f0-e73e97432287.jpg</g:image_link>
-      <g:price>21995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VW7M7BU6RM058553</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Jetta 1.5T SE FWD</g:model>
-      <g:mileage>17300 mi</g:mileage>
-      <g:color>Platinum Gray Metallic</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8645,27 +8549,27 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>KM8K62AB3PU027016</g:id>
-      <g:title>2023 Hyundai Kona SEL FWD</g:title>
-      <g:description>2023 Hyundai Kona SEL FWD — 45,640 miles — used — Cyber Silver</g:description>
-      <g:link>https://majorworld.com/inventory/2023-hyundai-kona-sel-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-hyundai-kona-sel-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6f49b374-b6cf-4840-86b5-5d01fb353e42.jpg</g:image_link>
+      <g:id>1FMCU0GN6RUA11394</g:id>
+      <g:title>2024 Ford Escape Active FWD</g:title>
+      <g:description>2024 Ford Escape Active FWD — 45,887 miles — used — Carbonized Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-ford-escape-active-fwd-6/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-ford-escape-active-fwd-6/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/28902196-7dd4-4127-8e5a-68fe51f633c6.jpg</g:image_link>
       <g:price>21800.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
+      <g:brand>Ford</g:brand>
       <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
       <g:identifier_exists>true</g:identifier_exists>
       <g:included_destination>Vehicle_listing</g:included_destination>
       <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KM8K62AB3PU027016</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Kona SEL FWD</g:model>
-      <g:mileage>45640 mi</g:mileage>
-      <g:color>Cyber Silver</g:color>
-      <g:body_style>SEDAN</g:body_style>
+      <g:vin>1FMCU0GN6RUA11394</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Escape Active FWD</g:model>
+      <g:mileage>45887 mi</g:mileage>
+      <g:color>Carbonized Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8906,30 +8810,6 @@
       <g:mileage>51744 mi</g:mileage>
       <g:color>Cinnabar Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>WD4PG2EE2G3088882</g:id>
-      <g:title>2016 Mercedes-Benz Metris Passenger RWD</g:title>
-      <g:description>2016 Mercedes-Benz Metris Passenger RWD — 80,346 miles — used — Obsidian Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2016-mercedes-benz-metris-passenger-rwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2016-mercedes-benz-metris-passenger-rwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c36719c9-90d7-4eba-b573-f17a67071163.jpg</g:image_link>
-      <g:price>19995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WD4PG2EE2G3088882</g:vin>
-      <g:year>2016</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>Metris Passenger RWD</g:model>
-      <g:mileage>80346 mi</g:mileage>
-      <g:color>Obsidian Black Metallic</g:color>
-      <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -9437,6 +9317,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>JTMBFREV9JJ229241</g:id>
+      <g:title>2018 Toyota RAV4 LE AWD</g:title>
+      <g:description>2018 Toyota RAV4 LE AWD — 252,389 miles — used — Super White</g:description>
+      <g:link>https://majorworld.com/inventory/2018-toyota-rav4-le-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2018-toyota-rav4-le-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4001ebd6-8f89-4ae2-8f93-1a08e3e673fe.jpg</g:image_link>
+      <g:price>15995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>JTMBFREV9JJ229241</g:vin>
+      <g:year>2018</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>RAV4 LE AWD</g:model>
+      <g:mileage>252389 mi</g:mileage>
+      <g:color>Super White</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>19XFC2F60ME200401</g:id>
       <g:title>2021 Honda Civic LX FWD</g:title>
       <g:description>2021 Honda Civic LX FWD — 7,803 miles — used — White</g:description>
@@ -9583,7 +9487,7 @@
     <item>
       <g:id>3N1AB8BV9SY231755</g:id>
       <g:title>2025 Nissan Sentra S FWD</g:title>
-      <g:description>2025 Nissan Sentra S FWD — 32,791 miles — used — Fresh Powder</g:description>
+      <g:description>2025 Nissan Sentra S FWD — 32,797 miles — used — Fresh Powder</g:description>
       <g:link>https://majorworld.com/inventory/2025-nissan-sentra-s-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-nissan-sentra-s-fwd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9aaf4448-e687-45ac-8e50-b628b0845484.jpg</g:image_link>
@@ -9599,7 +9503,7 @@
       <g:year>2025</g:year>
       <g:make>Nissan</g:make>
       <g:model>Sentra S FWD</g:model>
-      <g:mileage>32791 mi</g:mileage>
+      <g:mileage>32797 mi</g:mileage>
       <g:color>Fresh Powder</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -9794,6 +9698,30 @@
       <g:mileage>130819 mi</g:mileage>
       <g:color>Magnetic Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3N1AB7APXHY368175</g:id>
+      <g:title>2017 Nissan Sentra S FWD</g:title>
+      <g:description>2017 Nissan Sentra S FWD — 116,898 miles — used — Super Black</g:description>
+      <g:link>https://majorworld.com/inventory/2017-nissan-sentra-s-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2017-nissan-sentra-s-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1b4a6d77-4b47-478a-872e-32c94afa229a.jpg</g:image_link>
+      <g:price>12995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3N1AB7APXHY368175</g:vin>
+      <g:year>2017</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Sentra S FWD</g:model>
+      <g:mileage>116898 mi</g:mileage>
+      <g:color>Super Black</g:color>
+      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
