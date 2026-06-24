@@ -1853,30 +1853,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5UXCR6C0XP9N58332</g:id>
-      <g:title>2023 BMW X5 xDrive40i AWD</g:title>
-      <g:description>2023 BMW X5 xDrive40i AWD — 51,292 miles — used — Mineral White Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-bmw-x5-xdrive40i-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-bmw-x5-xdrive40i-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ff9b5e33-ee1e-4083-ac1e-bf62f502e662.jpg</g:image_link>
-      <g:price>39995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>BMW</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5UXCR6C0XP9N58332</g:vin>
-      <g:year>2023</g:year>
-      <g:make>BMW</g:make>
-      <g:model>X5 xDrive40i AWD</g:model>
-      <g:mileage>51292 mi</g:mileage>
-      <g:color>Mineral White Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3C6LRVDG1SE550347</g:id>
       <g:title>2025 Ram ProMaster 2500 High Roof FWD</g:title>
       <g:description>2025 Ram ProMaster 2500 High Roof FWD — 10 miles — used — Bright White Clearcoat</g:description>
@@ -6077,6 +6053,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>KL79MSSL5PB088778</g:id>
+      <g:title>2023 Chevrolet TrailBlazer ACTIV AWD</g:title>
+      <g:description>2023 Chevrolet TrailBlazer ACTIV AWD — 29,552 miles — used — Mosaic Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-trailblazer-activ-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-trailblazer-activ-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/345aa084-1667-4ac1-b7f0-9a226598b0eb.jpg</g:image_link>
+      <g:price>25995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>KL79MSSL5PB088778</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>TrailBlazer ACTIV AWD</g:model>
+      <g:mileage>29552 mi</g:mileage>
+      <g:color>Mosaic Black Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>5NMJB3DE4SH507301</g:id>
       <g:title>2025 Hyundai Tucson SEL FWD</g:title>
       <g:description>2025 Hyundai Tucson SEL FWD — 31,345 miles — used — Ecotronic Gray</g:description>
@@ -6433,6 +6433,30 @@
       <g:model>Edge SEL AWD</g:model>
       <g:mileage>47539 mi</g:mileage>
       <g:color>Agate Black Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3VVMB7AX9PM013371</g:id>
+      <g:title>2023 Volkswagen Tiguan 2.0T SE AWD</g:title>
+      <g:description>2023 Volkswagen Tiguan 2.0T SE AWD — 47,701 miles — used — Deep Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2023-volkswagen-tiguan-2-0t-se-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-volkswagen-tiguan-2-0t-se-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9d272c9d-87bb-44ec-b010-46cb52edfc06.jpg</g:image_link>
+      <g:price>25800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VVMB7AX9PM013371</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Tiguan 2.0T SE AWD</g:model>
+      <g:mileage>47701 mi</g:mileage>
+      <g:color>Deep Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
