@@ -463,7 +463,7 @@
     <item>
       <g:id>1GNSKNKD6NR335144</g:id>
       <g:title>2022 Chevrolet Tahoe LT 4WD</g:title>
-      <g:description>2022 Chevrolet Tahoe LT 4WD — 28,994 miles — used — Summit White</g:description>
+      <g:description>2022 Chevrolet Tahoe LT 4WD — 28,997 miles — used — Summit White</g:description>
       <g:link>https://majorworld.com/inventory/2022-chevrolet-tahoe-lt-4wd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-chevrolet-tahoe-lt-4wd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/72acfbf5-84fb-408d-ad09-48893807d385.jpg</g:image_link>
@@ -479,7 +479,7 @@
       <g:year>2022</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Tahoe LT 4WD</g:model>
-      <g:mileage>28994 mi</g:mileage>
+      <g:mileage>28997 mi</g:mileage>
       <g:color>Summit White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -817,30 +817,6 @@
       <g:model>X5 sDrive40i RWD</g:model>
       <g:mileage>44074 mi</g:mileage>
       <g:color>Mineral White Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1GNSCNKD5RR136931</g:id>
-      <g:title>2024 Chevrolet Tahoe LT RWD</g:title>
-      <g:description>2024 Chevrolet Tahoe LT RWD — 47,132 miles — used — Summit White</g:description>
-      <g:link>https://majorworld.com/inventory/2024-chevrolet-tahoe-lt-rwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-tahoe-lt-rwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/677117d1-7e09-4bdd-ace5-0be6f7d42963.jpg</g:image_link>
-      <g:price>45800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1GNSCNKD5RR136931</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Tahoe LT RWD</g:model>
-      <g:mileage>47132 mi</g:mileage>
-      <g:color>Summit White</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -2501,6 +2477,54 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1C4RJXP67SW578099</g:id>
+      <g:title>2025 Jeep Wrangler Sahara 4xe 4WD</g:title>
+      <g:description>2025 Jeep Wrangler Sahara 4xe 4WD — 15,613 miles — used — Granite Crystal Met CC</g:description>
+      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-7/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-7/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4dd9edb8-bc2d-4388-92f1-0ebbfe4afe54.jpg</g:image_link>
+      <g:price>36995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJXP67SW578099</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Sahara 4xe 4WD</g:model>
+      <g:mileage>15613 mi</g:mileage>
+      <g:color>Granite Crystal Met CC</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4RJXP62SW577992</g:id>
+      <g:title>2025 Jeep Wrangler Sahara 4xe 4WD</g:title>
+      <g:description>2025 Jeep Wrangler Sahara 4xe 4WD — 16,995 miles — used — Black Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d72ce422-fa54-4d22-9cee-f7618fd5d047.jpg</g:image_link>
+      <g:price>36995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJXP62SW577992</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Sahara 4xe 4WD</g:model>
+      <g:mileage>16995 mi</g:mileage>
+      <g:color>Black Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>5FNYG2H30SB018012</g:id>
       <g:title>2025 Honda Pilot Sport FWD</g:title>
       <g:description>2025 Honda Pilot Sport FWD — 17,133 miles — used — Radiant Red Metallic II</g:description>
@@ -2861,6 +2885,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1C4RJXN67SW577442</g:id>
+      <g:title>2025 Jeep Wrangler Willys 4xe 4WD</g:title>
+      <g:description>2025 Jeep Wrangler Willys 4xe 4WD — 12,402 miles — used — Firecracker Red Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3c7b6bf3-e477-4dbb-bb37-af5dbdea2622.jpg</g:image_link>
+      <g:price>34995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJXN67SW577442</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Willys 4xe 4WD</g:model>
+      <g:mileage>12402 mi</g:mileage>
+      <g:color>Firecracker Red Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>2T3P1RFV3SW556269</g:id>
       <g:title>2025 Toyota RAV4 XLE AWD</g:title>
       <g:description>2025 Toyota RAV4 XLE AWD — 18,126 miles — used — Midnight Black Metallic</g:description>
@@ -3099,6 +3147,30 @@
       <g:color>Black Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>MANUAL</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4RJXN6XSW577418</g:id>
+      <g:title>2025 Jeep Wrangler Willys 4xe 4WD</g:title>
+      <g:description>2025 Jeep Wrangler Willys 4xe 4WD — 15,732 miles — used — Granite Crystal Metallic Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd-4/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd-4/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/01d0869f-45ca-44d8-9eb2-fa8ef51b40a8.jpg</g:image_link>
+      <g:price>33800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJXN6XSW577418</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Willys 4xe 4WD</g:model>
+      <g:mileage>15732 mi</g:mileage>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
       <g:id>WA1GAAFY0P2100798</g:id>
@@ -4277,30 +4349,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>JM3KFBCL3S0642909</g:id>
-      <g:title>2025 Mazda CX-5 2.5 S Preferred Package AWD</g:title>
-      <g:description>2025 Mazda CX-5 2.5 S Preferred Package AWD — 12,189 miles — used — Jet Black Mica</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a9064ac1-9aea-4617-b21f-57b2e25b5138.jpg</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mazda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>JM3KFBCL3S0642909</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Mazda</g:make>
-      <g:model>CX-5 2.5 S Preferred Package AWD</g:model>
-      <g:mileage>12189 mi</g:mileage>
-      <g:color>Jet Black Mica</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>19XFL2H84TE003941</g:id>
       <g:title>2026 Honda Civic Sport FWD</g:title>
       <g:description>2026 Honda Civic Sport FWD — 16,079 miles — used — Blue Lagoon Pearl</g:description>
@@ -4589,6 +4637,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1GKKNKL41PZ160368</g:id>
+      <g:title>2023 GMC Acadia SLE FWD</g:title>
+      <g:description>2023 GMC Acadia SLE FWD — 28,087 miles — used — Ebony Twilight Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-gmc-acadia-sle-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-gmc-acadia-sle-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/76137fdc-13ef-4586-8311-bcd1dcb12144.jpg</g:image_link>
+      <g:price>29888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>GMC</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GKKNKL41PZ160368</g:vin>
+      <g:year>2023</g:year>
+      <g:make>GMC</g:make>
+      <g:model>Acadia SLE FWD</g:model>
+      <g:mileage>28087 mi</g:mileage>
+      <g:color>Ebony Twilight Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3GNKBCR42SS193183</g:id>
       <g:title>2025 Chevrolet Blazer LT FWD</g:title>
       <g:description>2025 Chevrolet Blazer LT FWD — 34,337 miles — used — Black</g:description>
@@ -4805,6 +4877,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>2T3F1RFVXSC512864</g:id>
+      <g:title>2025 Toyota RAV4 LE AWD</g:title>
+      <g:description>2025 Toyota RAV4 LE AWD — 21,498 miles — used — Magnetic Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-toyota-rav4-le-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-toyota-rav4-le-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/96fe61e4-405a-430e-94df-470408e9c0a3.jpg</g:image_link>
+      <g:price>29887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2T3F1RFVXSC512864</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>RAV4 LE AWD</g:model>
+      <g:mileage>21498 mi</g:mileage>
+      <g:color>Magnetic Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1FMSK7FH6PGB17619</g:id>
       <g:title>2023 Ford Explorer Limited RWD</g:title>
       <g:description>2023 Ford Explorer Limited RWD — 56,187 miles — used — Rapid Red Metallic Tinted Clearcoat</g:description>
@@ -4997,6 +5093,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1V2JP2CA5NC543767</g:id>
+      <g:title>2022 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
+      <g:description>2022 Volkswagen Atlas 2.0T SE w/Technology FWD — 49,221 miles — used — Deep Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2022-volkswagen-atlas-2-0t-se-w-technology-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-volkswagen-atlas-2-0t-se-w-technology-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f5583eb0-694c-41e1-a59b-be28aad8066d.jpg</g:image_link>
+      <g:price>28888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1V2JP2CA5NC543767</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
+      <g:mileage>49221 mi</g:mileage>
+      <g:color>Deep Black Pearl</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1C4RJGAG4RC707929</g:id>
       <g:title>2024 Jeep Grand Cherokee Laredo RWD</g:title>
       <g:description>2024 Jeep Grand Cherokee Laredo RWD — 51,140 miles — used — Velvet Red Pearlcoat</g:description>
@@ -5162,30 +5282,6 @@
       <g:mileage>38233 mi</g:mileage>
       <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>4T1G11AK7RU227768</g:id>
-      <g:title>2024 Toyota Camry SE FWD</g:title>
-      <g:description>2024 Toyota Camry SE FWD — 43,107 miles — used — Ice Cap</g:description>
-      <g:link>https://majorworld.com/inventory/2024-toyota-camry-se-fwd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-toyota-camry-se-fwd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/873696d6-52ce-4754-b9dd-64a79fad8104.jpg</g:image_link>
-      <g:price>27995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>4T1G11AK7RU227768</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>Camry SE FWD</g:model>
-      <g:mileage>43107 mi</g:mileage>
-      <g:color>Ice Cap</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -7327,7 +7423,7 @@
     <item>
       <g:id>KL4MMDS28PB090132</g:id>
       <g:title>2023 Buick Encore GX Select FWD</g:title>
-      <g:description>2023 Buick Encore GX Select FWD — 14,641 miles — used — Sapphire Metallic</g:description>
+      <g:description>2023 Buick Encore GX Select FWD — 14,877 miles — used — Sapphire Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2023-buick-encore-gx-select-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-buick-encore-gx-select-fwd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3bd5594a-ca13-4cd5-87a3-7a18d92c421e.jpg</g:image_link>
@@ -7343,7 +7439,7 @@
       <g:year>2023</g:year>
       <g:make>Buick</g:make>
       <g:model>Encore GX Select FWD</g:model>
-      <g:mileage>14641 mi</g:mileage>
+      <g:mileage>14877 mi</g:mileage>
       <g:color>Sapphire Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -7949,6 +8045,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1G1ZD5ST4SF109151</g:id>
+      <g:title>2025 Chevrolet Malibu LT FWD</g:title>
+      <g:description>2025 Chevrolet Malibu LT FWD — 33,561 miles — used — Mosaic Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-malibu-lt-fwd-11/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-chevrolet-malibu-lt-fwd-11/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3c0e9a11-25c6-41ec-adfb-f1c07e693a4a.jpg</g:image_link>
+      <g:price>22995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1G1ZD5ST4SF109151</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Malibu LT FWD</g:model>
+      <g:mileage>33561 mi</g:mileage>
+      <g:color>Mosaic Black Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1G1ZD5ST4SF108923</g:id>
       <g:title>2025 Chevrolet Malibu LT FWD</g:title>
       <g:description>2025 Chevrolet Malibu LT FWD — 37,844 miles — used — Mosaic Black Metallic</g:description>
@@ -8329,30 +8449,6 @@
       <g:model>Equinox LS FWD</g:model>
       <g:mileage>34542 mi</g:mileage>
       <g:color>Summit White</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3GNAXHEGXPL128416</g:id>
-      <g:title>2023 Chevrolet Equinox LS FWD</g:title>
-      <g:description>2023 Chevrolet Equinox LS FWD — 39,247 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e7cca17d-7f93-4b31-a9a7-477c45c1c9f6.jpg</g:image_link>
-      <g:price>21995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3GNAXHEGXPL128416</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Equinox LS FWD</g:model>
-      <g:mileage>39247 mi</g:mileage>
-      <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -10226,54 +10322,6 @@
       <g:mileage>26243 mi</g:mileage>
       <g:color>Raspberry Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C4RJXP62SW577992</g:id>
-      <g:title>2025 Jeep Wrangler Sahara 4xe 4WD</g:title>
-      <g:description>2025 Jeep Wrangler Sahara 4xe 4WD — 16,995 miles — used — Black Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d72ce422-fa54-4d22-9cee-f7618fd5d047.jpg</g:image_link>
-      <g:price>36995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJXP62SW577992</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler Sahara 4xe 4WD</g:model>
-      <g:mileage>16995 mi</g:mileage>
-      <g:color>Black Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C4RJXN6XSW577418</g:id>
-      <g:title>2025 Jeep Wrangler Willys 4xe 4WD</g:title>
-      <g:description>2025 Jeep Wrangler Willys 4xe 4WD — 15,732 miles — used — Granite Crystal Metallic Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd-4/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-willys-4xe-4wd-4/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/01d0869f-45ca-44d8-9eb2-fa8ef51b40a8.jpg</g:image_link>
-      <g:price>33800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJXN6XSW577418</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler Willys 4xe 4WD</g:model>
-      <g:mileage>15732 mi</g:mileage>
-      <g:color>Granite Crystal Metallic Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
