@@ -2544,39 +2544,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ff9b5e33-ee1e-4083-ac1e-bf62f502e662.jpg</url>
-    </image>
-    <vehicle_id>5UXCR6C0XP9N58332</vehicle_id>
-    <title>2023 BMW X5 xDrive40i AWD</title>
-    <description>2023 BMW X5 xDrive40i AWD — 51,292 miles — used — Mineral White Metallic</description>
-    <url>https://majorworld.com/inventory/2023-bmw-x5-xdrive40i-awd/</url>
-    <price>39995.00 USD</price>
-    <make>BMW</make>
-    <model>X5 xDrive40i AWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51292</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>5UXCR6C0XP9N58332</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Mineral White Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78246</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9c117282-10a6-4c61-b0dc-97e7b4125672.jpg</url>
     </image>
     <vehicle_id>3C6LRVDG1SE550347</vehicle_id>
@@ -8352,6 +8319,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/345aa084-1667-4ac1-b7f0-9a226598b0eb.jpg</url>
+    </image>
+    <vehicle_id>KL79MSSL5PB088778</vehicle_id>
+    <title>2023 Chevrolet TrailBlazer ACTIV AWD</title>
+    <description>2023 Chevrolet TrailBlazer ACTIV AWD — 29,552 miles — used — Mosaic Black Metallic</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-trailblazer-activ-awd/</url>
+    <price>25995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>TrailBlazer ACTIV AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>29552</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL79MSSL5PB088778</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M78556</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f19ab878-9b49-4ddc-a5fe-7ed82a88ecf1.jpg</url>
     </image>
     <vehicle_id>5NMJB3DE4SH507301</vehicle_id>
@@ -8844,6 +8844,39 @@
     <exterior_color>Agate Black Metallic</exterior_color>
     <interior_color>Ebony</interior_color>
     <stock_number>M78383</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9d272c9d-87bb-44ec-b010-46cb52edfc06.jpg</url>
+    </image>
+    <vehicle_id>3VVMB7AX9PM013371</vehicle_id>
+    <title>2023 Volkswagen Tiguan 2.0T SE AWD</title>
+    <description>2023 Volkswagen Tiguan 2.0T SE AWD — 47,701 miles — used — Deep Black Pearl</description>
+    <url>https://majorworld.com/inventory/2023-volkswagen-tiguan-2-0t-se-awd/</url>
+    <price>25800.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Tiguan 2.0T SE AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>47701</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3VVMB7AX9PM013371</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Deep Black Pearl</exterior_color>
+    <interior_color>Titan Black</interior_color>
+    <stock_number>M78181</stock_number>
   </listing>
   <listing>
     <image>
@@ -12672,35 +12705,6 @@
     <exterior_color>Electric Blue Metallic</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>M75470</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c85e8990-9726-4ee4-ba18-d67f95d9bcc9.jpg</url>
-    </image>
-    <vehicle_id>1FTBW2CM2GKA27961</vehicle_id>
-    <title>2016 Ford Transit-350 Base RWD</title>
-    <description>2016 Ford Transit-350 Base RWD — used — Blue</description>
-    <url>https://majorworld.com/inventory/2016-ford-transit-350-base-rwd/</url>
-    <price>17888.00 USD</price>
-    <make>Ford</make>
-    <model>Transit-350 Base RWD</model>
-    <year>2016</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>VAN</body_style>
-    <vin>1FTBW2CM2GKA27961</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Blue</exterior_color>
-    <interior_color>Pewter</interior_color>
-    <stock_number>J17904</stock_number>
   </listing>
   <listing>
     <image>
