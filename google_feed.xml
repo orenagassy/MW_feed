@@ -3007,7 +3007,7 @@
     <item>
       <g:id>WAUD3BF25PN043322</g:id>
       <g:title>2023 Audi A6 45 Premium quattro</g:title>
-      <g:description>2023 Audi A6 45 Premium quattro — 28,628 miles — used — Firmament Blue Metallic</g:description>
+      <g:description>2023 Audi A6 45 Premium quattro — 29,314 miles — used — Firmament Blue Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2023-audi-a6-quattro-4/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-audi-a6-quattro-4/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1605a030-5b80-47b6-8c23-49beb6bf700f.jpg</g:image_link>
@@ -3023,7 +3023,7 @@
       <g:year>2023</g:year>
       <g:make>Audi</g:make>
       <g:model>A6 45 Premium quattro</g:model>
-      <g:mileage>28628 mi</g:mileage>
+      <g:mileage>29314 mi</g:mileage>
       <g:color>Firmament Blue Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -3529,6 +3529,30 @@
       <g:model>Pilot EX-L AWD</g:model>
       <g:mileage>42473 mi</g:mileage>
       <g:color>Platinum White Pearl</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4RJJAGXR8550892</g:id>
+      <g:title>2024 Jeep Grand Cherokee L Laredo RWD</g:title>
+      <g:description>2024 Jeep Grand Cherokee L Laredo RWD — 43,472 miles — used — Silver Zynith</g:description>
+      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/30b01294-97fc-4a3b-b6aa-e3cb5b3689ba.jpg</g:image_link>
+      <g:price>32888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJJAGXR8550892</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee L Laredo RWD</g:model>
+      <g:mileage>43472 mi</g:mileage>
+      <g:color>Silver Zynith</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -4253,30 +4277,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4RJJAGXR8550892</g:id>
-      <g:title>2024 Jeep Grand Cherokee L Laredo RWD</g:title>
-      <g:description>2024 Jeep Grand Cherokee L Laredo RWD — 43,472 miles — used — Silver Zynith</g:description>
-      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/30b01294-97fc-4a3b-b6aa-e3cb5b3689ba.jpg</g:image_link>
-      <g:price>30888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJJAGXR8550892</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee L Laredo RWD</g:model>
-      <g:mileage>43472 mi</g:mileage>
-      <g:color>Silver Zynith</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1FMSK7FH0PGB18135</g:id>
       <g:title>2023 Ford Explorer Limited RWD</g:title>
       <g:description>2023 Ford Explorer Limited RWD — 53,745 miles — used — Rapid Red Metallic Tinted Clearcoat</g:description>
@@ -4298,30 +4298,6 @@
       <g:mileage>53745 mi</g:mileage>
       <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1HGCY1F48SA072763</g:id>
-      <g:title>2025 Honda Accord SE FWD</g:title>
-      <g:description>2025 Honda Accord SE FWD — 6,311 miles — used — Crystal Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2025-honda-accord-se-fwd-5/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-honda-accord-se-fwd-5/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e85bf476-9a4b-48b8-a66a-6f44fce6e75e.jpg</g:image_link>
-      <g:price>29995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1HGCY1F48SA072763</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Accord SE FWD</g:model>
-      <g:mileage>6311 mi</g:mileage>
-      <g:color>Crystal Black Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -4394,6 +4370,30 @@
       <g:mileage>25544 mi</g:mileage>
       <g:color>Celestial Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1FMSK8DH3NGC01578</g:id>
+      <g:title>2022 Ford Explorer XLT 4WD</g:title>
+      <g:description>2022 Ford Explorer XLT 4WD — 33,140 miles — used — Atlas Blue Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-4/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-4/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/bc45e396-32c4-4ab0-a4a6-9872a6e2770b.jpg</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1FMSK8DH3NGC01578</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Explorer XLT 4WD</g:model>
+      <g:mileage>33140 mi</g:mileage>
+      <g:color>Atlas Blue Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -5306,6 +5306,30 @@
       <g:mileage>16484 mi</g:mileage>
       <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2FMPK4J92RBA06080</g:id>
+      <g:title>2024 Ford Edge SEL AWD</g:title>
+      <g:description>2024 Ford Edge SEL AWD — 20,849 miles — used — Agate Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-ford-edge-sel-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-ford-edge-sel-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c7a26ee4-5dde-421f-a4d0-6047b1a932a2.jpg</g:image_link>
+      <g:price>27887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2FMPK4J92RBA06080</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Edge SEL AWD</g:model>
+      <g:mileage>20849 mi</g:mileage>
+      <g:color>Agate Black Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -7418,30 +7442,6 @@
       <g:mileage>18274 mi</g:mileage>
       <g:color>Cornflower Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>KL4AMBSL2SB012342</g:id>
-      <g:title>2025 Buick Encore GX Preferred FWD</g:title>
-      <g:description>2025 Buick Encore GX Preferred FWD — 11,386 miles — used — Moonstone Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-buick-encore-gx-preferred-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-buick-encore-gx-preferred-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/453606a1-ef5a-4a72-97e7-e09a43ac3076.jpg</g:image_link>
-      <g:price>23800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KL4AMBSL2SB012342</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Buick</g:make>
-      <g:model>Encore GX Preferred FWD</g:model>
-      <g:mileage>11386 mi</g:mileage>
-      <g:color>Moonstone Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -9938,6 +9938,30 @@
       <g:mileage>116898 mi</g:mileage>
       <g:color>Super Black</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1GNKVFEDXHJ348961</g:id>
+      <g:title>2017 Chevrolet Traverse LS AWD</g:title>
+      <g:description>2017 Chevrolet Traverse LS AWD — 131,777 miles — used — Silver Ice Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2017-chevrolet-traverse-ls-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2017-chevrolet-traverse-ls-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d23adfc7-fcca-41a3-a5bb-e57732a561e2.jpg</g:image_link>
+      <g:price>12995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GNKVFEDXHJ348961</g:vin>
+      <g:year>2017</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LS AWD</g:model>
+      <g:mileage>131777 mi</g:mileage>
+      <g:color>Silver Ice Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
