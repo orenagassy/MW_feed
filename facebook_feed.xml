@@ -4132,7 +4132,7 @@
     </image>
     <vehicle_id>WAUD3BF25PN043322</vehicle_id>
     <title>2023 Audi A6 45 Premium quattro</title>
-    <description>2023 Audi A6 45 Premium quattro — 28,628 miles — used — Firmament Blue Metallic</description>
+    <description>2023 Audi A6 45 Premium quattro — 29,314 miles — used — Firmament Blue Metallic</description>
     <url>https://majorworld.com/inventory/2023-audi-a6-quattro-4/</url>
     <price>34800.00 USD</price>
     <make>Audi</make>
@@ -4141,7 +4141,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>28628</value>
+      <value>29314</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -4851,6 +4851,39 @@
     <exterior_color>Platinum White Pearl</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75635</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/30b01294-97fc-4a3b-b6aa-e3cb5b3689ba.jpg</url>
+    </image>
+    <vehicle_id>1C4RJJAGXR8550892</vehicle_id>
+    <title>2024 Jeep Grand Cherokee L Laredo RWD</title>
+    <description>2024 Jeep Grand Cherokee L Laredo RWD — 43,472 miles — used — Silver Zynith</description>
+    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/</url>
+    <price>32888.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee L Laredo RWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>43472</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJJAGXR8550892</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Silver Zynith</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <stock_number>M78147</stock_number>
   </listing>
   <listing>
     <image>
@@ -5844,39 +5877,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/30b01294-97fc-4a3b-b6aa-e3cb5b3689ba.jpg</url>
-    </image>
-    <vehicle_id>1C4RJJAGXR8550892</vehicle_id>
-    <title>2024 Jeep Grand Cherokee L Laredo RWD</title>
-    <description>2024 Jeep Grand Cherokee L Laredo RWD — 43,472 miles — used — Silver Zynith</description>
-    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-2/</url>
-    <price>30888.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee L Laredo RWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>43472</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJJAGXR8550892</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Silver Zynith</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <stock_number>M78147</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ed54a5c-15e6-4eac-88f2-4503c8610de3.jpg</url>
     </image>
     <vehicle_id>1FMSK7FH0PGB18135</vehicle_id>
@@ -5907,39 +5907,6 @@
     <exterior_color>Rapid Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Sandstone</interior_color>
     <stock_number>M76662</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e85bf476-9a4b-48b8-a66a-6f44fce6e75e.jpg</url>
-    </image>
-    <vehicle_id>1HGCY1F48SA072763</vehicle_id>
-    <title>2025 Honda Accord SE FWD</title>
-    <description>2025 Honda Accord SE FWD — 6,311 miles — used — Crystal Black Pearl</description>
-    <url>https://majorworld.com/inventory/2025-honda-accord-se-fwd-5/</url>
-    <price>29995.00 USD</price>
-    <make>Honda</make>
-    <model>Accord SE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>6311</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>1HGCY1F48SA072763</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Crystal Black Pearl</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77778</stock_number>
   </listing>
   <listing>
     <image>
@@ -6039,6 +6006,39 @@
     <exterior_color>Celestial Silver Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M76742</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bc45e396-32c4-4ab0-a4a6-9872a6e2770b.jpg</url>
+    </image>
+    <vehicle_id>1FMSK8DH3NGC01578</vehicle_id>
+    <title>2022 Ford Explorer XLT 4WD</title>
+    <description>2022 Ford Explorer XLT 4WD — 33,140 miles — used — Atlas Blue Metallic</description>
+    <url>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-4/</url>
+    <price>29995.00 USD</price>
+    <make>Ford</make>
+    <model>Explorer XLT 4WD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>33140</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1FMSK8DH3NGC01578</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Atlas Blue Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78527</stock_number>
   </listing>
   <listing>
     <image>
@@ -7293,6 +7293,39 @@
     <exterior_color>Platinum White Pearl</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77169</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c7a26ee4-5dde-421f-a4d0-6047b1a932a2.jpg</url>
+    </image>
+    <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
+    <title>2024 Ford Edge SEL AWD</title>
+    <description>2024 Ford Edge SEL AWD — 20,849 miles — used — Agate Black Metallic</description>
+    <url>https://majorworld.com/inventory/2024-ford-edge-sel-awd/</url>
+    <price>27887.00 USD</price>
+    <make>Ford</make>
+    <model>Edge SEL AWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>20849</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>2FMPK4J92RBA06080</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Agate Black Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78358</stock_number>
   </listing>
   <listing>
     <image>
@@ -10197,39 +10230,6 @@
     <exterior_color>Cornflower Blue</exterior_color>
     <interior_color>Gray/Black</interior_color>
     <stock_number>M76244</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/453606a1-ef5a-4a72-97e7-e09a43ac3076.jpg</url>
-    </image>
-    <vehicle_id>KL4AMBSL2SB012342</vehicle_id>
-    <title>2025 Buick Encore GX Preferred FWD</title>
-    <description>2025 Buick Encore GX Preferred FWD — 11,386 miles — used — Moonstone Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-buick-encore-gx-preferred-fwd/</url>
-    <price>23800.00 USD</price>
-    <make>Buick</make>
-    <model>Encore GX Preferred FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>11386</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL4AMBSL2SB012342</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Moonstone Gray Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>M76114</stock_number>
   </listing>
   <listing>
     <image>
@@ -13662,6 +13662,39 @@
     <exterior_color>Super Black</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>M78074</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d23adfc7-fcca-41a3-a5bb-e57732a561e2.jpg</url>
+    </image>
+    <vehicle_id>1GNKVFEDXHJ348961</vehicle_id>
+    <title>2017 Chevrolet Traverse LS AWD</title>
+    <description>2017 Chevrolet Traverse LS AWD — 131,777 miles — used — Silver Ice Metallic</description>
+    <url>https://majorworld.com/inventory/2017-chevrolet-traverse-ls-awd/</url>
+    <price>12995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Traverse LS AWD</model>
+    <year>2017</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>131777</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1GNKVFEDXHJ348961</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Silver Ice Metallic</exterior_color>
+    <interior_color>Dark Titanium/Light Titanium</interior_color>
+    <stock_number>M78364</stock_number>
   </listing>
   <listing>
     <image>
