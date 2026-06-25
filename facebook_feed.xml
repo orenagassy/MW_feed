@@ -3204,6 +3204,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e431ce9a-07ba-4d76-b30d-8332d3dad9b8.jpg</url>
+    </image>
+    <vehicle_id>1C4RJXP61SW578082</vehicle_id>
+    <title>2025 Jeep Wrangler Sahara 4xe 4WD</title>
+    <description>2025 Jeep Wrangler Sahara 4xe 4WD — 11,642 miles — used — Firecracker Red Clearcoat</description>
+    <url>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd/</url>
+    <price>37888.00 USD</price>
+    <make>Jeep</make>
+    <model>Wrangler Sahara 4xe 4WD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>11642</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJXP61SW578082</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Firecracker Red Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>J18317</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/092b1825-91c4-42f4-aaa9-869a0b7a5a30.jpg</url>
     </image>
     <vehicle_id>1C4RJHAG4SC306151</vehicle_id>
@@ -5907,6 +5940,39 @@
     <exterior_color>Rapid Red Metallic Tinted Clearcoat</exterior_color>
     <interior_color>Sandstone</interior_color>
     <stock_number>M76662</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/dc4f1284-e729-43cf-b0c8-422d45294b8a.jpg</url>
+    </image>
+    <vehicle_id>3GNAXPEG8SL204783</vehicle_id>
+    <title>2025 Chevrolet Equinox LT AWD</title>
+    <description>2025 Chevrolet Equinox LT AWD — 8,404 miles — used — Radiant Red Tintcoat</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-awd/</url>
+    <price>29995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox LT AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>8404</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXPEG8SL204783</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Radiant Red Tintcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M77646</stock_number>
   </listing>
   <listing>
     <image>
@@ -11755,7 +11821,7 @@
     </image>
     <vehicle_id>3GNAXHEG8PL176299</vehicle_id>
     <title>2023 Chevrolet Equinox LS FWD</title>
-    <description>2023 Chevrolet Equinox LS FWD — 34,905 miles — used — Blue Glow Metallic</description>
+    <description>2023 Chevrolet Equinox LS FWD — 34,840 miles — used — Blue Glow Metallic</description>
     <url>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-5/</url>
     <price>21800.00 USD</price>
     <make>Chevrolet</make>
@@ -11764,7 +11830,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>34905</value>
+      <value>34840</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -14256,5 +14322,38 @@
     <exterior_color>Raspberry Metallic</exterior_color>
     <interior_color>Jet Black/Jet Black</interior_color>
     <stock_number>M65247</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c9d74b74-0bc3-47fa-a4e4-a25b3c3c72cf.jpg</url>
+    </image>
+    <vehicle_id>2C4RC1L77JR183613</vehicle_id>
+    <title>2018 Chrysler Pacifica Hybrid Touring L FWD</title>
+    <description>2018 Chrysler Pacifica Hybrid Touring L FWD — 80,054 miles — used — Brilliant Black Crystal Pearlcoat</description>
+    <url>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/</url>
+    <price>16995.00 USD</price>
+    <make>Chrysler</make>
+    <model>Pacifica Hybrid Touring L FWD</model>
+    <year>2018</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>80054</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>MINIVAN</body_style>
+    <vin>2C4RC1L77JR183613</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Brilliant Black Crystal Pearlcoat</exterior_color>
+    <interior_color>Black/Diesel</interior_color>
+    <stock_number>J18138</stock_number>
   </listing>
 </listings>
