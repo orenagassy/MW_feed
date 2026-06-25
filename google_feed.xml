@@ -2333,6 +2333,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1C4RJXP61SW578082</g:id>
+      <g:title>2025 Jeep Wrangler Sahara 4xe 4WD</g:title>
+      <g:description>2025 Jeep Wrangler Sahara 4xe 4WD — 11,642 miles — used — Firecracker Red Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-jeep-wrangler-sahara-4xe-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e431ce9a-07ba-4d76-b30d-8332d3dad9b8.jpg</g:image_link>
+      <g:price>37888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJXP61SW578082</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Sahara 4xe 4WD</g:model>
+      <g:mileage>11642 mi</g:mileage>
+      <g:color>Firecracker Red Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1C4RJHAG4SC306151</g:id>
       <g:title>2025 Jeep Grand Cherokee Laredo X 4WD</g:title>
       <g:description>2025 Jeep Grand Cherokee Laredo X 4WD — 137 miles — used — Velvet Red Pearlcoat</g:description>
@@ -4298,6 +4322,30 @@
       <g:mileage>53745 mi</g:mileage>
       <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNAXPEG8SL204783</g:id>
+      <g:title>2025 Chevrolet Equinox LT AWD</g:title>
+      <g:description>2025 Chevrolet Equinox LT AWD — 8,404 miles — used — Radiant Red Tintcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/dc4f1284-e729-43cf-b0c8-422d45294b8a.jpg</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3GNAXPEG8SL204783</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox LT AWD</g:model>
+      <g:mileage>8404 mi</g:mileage>
+      <g:color>Radiant Red Tintcoat</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8551,7 +8599,7 @@
     <item>
       <g:id>3GNAXHEG8PL176299</g:id>
       <g:title>2023 Chevrolet Equinox LS FWD</g:title>
-      <g:description>2023 Chevrolet Equinox LS FWD — 34,905 miles — used — Blue Glow Metallic</g:description>
+      <g:description>2023 Chevrolet Equinox LS FWD — 34,840 miles — used — Blue Glow Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-5/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-fwd-5/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/eeafcca2-a7bf-4579-95bb-c1f408f9224d.jpg</g:image_link>
@@ -8567,7 +8615,7 @@
       <g:year>2023</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Equinox LS FWD</g:model>
-      <g:mileage>34905 mi</g:mileage>
+      <g:mileage>34840 mi</g:mileage>
       <g:color>Blue Glow Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -10370,6 +10418,30 @@
       <g:mileage>26243 mi</g:mileage>
       <g:color>Raspberry Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2C4RC1L77JR183613</g:id>
+      <g:title>2018 Chrysler Pacifica Hybrid Touring L FWD</g:title>
+      <g:description>2018 Chrysler Pacifica Hybrid Touring L FWD — 80,054 miles — used — Brilliant Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c9d74b74-0bc3-47fa-a4e4-a25b3c3c72cf.jpg</g:image_link>
+      <g:price>16995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2C4RC1L77JR183613</g:vin>
+      <g:year>2018</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>Pacifica Hybrid Touring L FWD</g:model>
+      <g:mileage>80054 mi</g:mileage>
+      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
+      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
