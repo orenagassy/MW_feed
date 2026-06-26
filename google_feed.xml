@@ -3751,7 +3751,7 @@
     <item>
       <g:id>5GAERCKW6RJ127293</g:id>
       <g:title>2024 Buick Enclave Premium Group FWD</g:title>
-      <g:description>2024 Buick Enclave Premium Group FWD — 41,925 miles — used — Cherry Red Tintcoat</g:description>
+      <g:description>2024 Buick Enclave Premium Group FWD — 43,170 miles — used — Cherry Red Tintcoat</g:description>
       <g:link>https://majorworld.com/inventory/2024-buick-enclave-premium-group-fwd-7/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-buick-enclave-premium-group-fwd-7/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c84926c1-d3cf-49e6-ae8a-2481c2391ea2.jpg</g:image_link>
@@ -3767,7 +3767,7 @@
       <g:year>2024</g:year>
       <g:make>Buick</g:make>
       <g:model>Enclave Premium Group FWD</g:model>
-      <g:mileage>41925 mi</g:mileage>
+      <g:mileage>43170 mi</g:mileage>
       <g:color>Cherry Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -4781,30 +4781,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1V2JE2CA9RC206773</g:id>
-      <g:title>2024 Volkswagen Atlas Cross Sport 2.0T SE w/Technology FWD</g:title>
-      <g:description>2024 Volkswagen Atlas Cross Sport 2.0T SE w/Technology FWD — 46,844 miles — used — Pure White</g:description>
-      <g:link>https://majorworld.com/inventory/2024-volkswagen-atlas-cross-sport-2-0t-se-w-technology-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-atlas-cross-sport-2-0t-se-w-technology-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/571fe848-e202-4864-97ab-b6328d114e7c.jpg</g:image_link>
-      <g:price>29888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1V2JE2CA9RC206773</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Atlas Cross Sport 2.0T SE w/Technology FWD</g:model>
-      <g:mileage>46844 mi</g:mileage>
-      <g:color>Pure White</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1FAGP8UH1R5107184</g:id>
       <g:title>2024 Ford Mustang EcoBoost RWD</g:title>
       <g:description>2024 Ford Mustang EcoBoost RWD — 48,006 miles — used — Oxford White</g:description>
@@ -5309,6 +5285,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1HGCY1F47SA001098</g:id>
+      <g:title>2025 Honda Accord SE FWD</g:title>
+      <g:description>2025 Honda Accord SE FWD — 38,564 miles — used — Urban Gray Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2025-honda-accord-se-fwd-8/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-honda-accord-se-fwd-8/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/aa6f97b6-6d4d-45e0-bb23-960c7edfcd57.jpg</g:image_link>
+      <g:price>27995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1HGCY1F47SA001098</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Accord SE FWD</g:model>
+      <g:mileage>38564 mi</g:mileage>
+      <g:color>Urban Gray Pearl</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>WA1GAAFY6N2076892</g:id>
       <g:title>2022 Audi Q5 45 S line Premium quattro</g:title>
       <g:description>2022 Audi Q5 45 S line Premium quattro — 52,393 miles — used — Florett Silver Metallic</g:description>
@@ -5497,30 +5497,6 @@
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>23623 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5NMJB3DE2SH531094</g:id>
-      <g:title>2025 Hyundai Tucson SEL FWD</g:title>
-      <g:description>2025 Hyundai Tucson SEL FWD — 25,394 miles — used — Ultimate Red</g:description>
-      <g:link>https://majorworld.com/inventory/2025-hyundai-tucson-sel-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-hyundai-tucson-sel-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/aa6a3760-209e-4c05-b7a4-c778e18296df.jpg</g:image_link>
-      <g:price>27800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5NMJB3DE2SH531094</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Tucson SEL FWD</g:model>
-      <g:mileage>25394 mi</g:mileage>
-      <g:color>Ultimate Red</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -5885,6 +5861,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>7MMVABBM4SN309006</g:id>
+      <g:title>2025 Mazda CX-50 2.5 S Preferred Package AWD</g:title>
+      <g:description>2025 Mazda CX-50 2.5 S Preferred Package AWD — 51,179 miles — used — Jet Black Mica</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mazda-cx-50-2-5-s-preferred-package-awd-3/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-mazda-cx-50-2-5-s-preferred-package-awd-3/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5fb5cfa2-e003-49a1-b306-58c72ac9148c.jpg</g:image_link>
+      <g:price>26995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mazda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>7MMVABBM4SN309006</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Mazda</g:make>
+      <g:model>CX-50 2.5 S Preferred Package AWD</g:model>
+      <g:mileage>51179 mi</g:mileage>
+      <g:color>Jet Black Mica</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1FATP8UH7P5103829</g:id>
       <g:title>2023 Ford Mustang EcoBoost Premium RWD</g:title>
       <g:description>2023 Ford Mustang EcoBoost Premium RWD — 53,770 miles — used — Oxford White</g:description>
@@ -6218,30 +6218,6 @@
       <g:mileage>40718 mi</g:mileage>
       <g:color>Granite Pearlcoat</g:color>
       <g:body_style>COUPE</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C4HJXDG1MW757038</g:id>
-      <g:title>2021 Jeep Wrangler Unlimited Sport S 4WD</g:title>
-      <g:description>2021 Jeep Wrangler Unlimited Sport S 4WD — 46,661 miles — used — Bright White Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2021-jeep-wrangler-unlimited-sport-s-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2021-jeep-wrangler-unlimited-sport-s-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/367b9040-c325-4eec-b8f9-283c35a66374.jpg</g:image_link>
-      <g:price>25995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4HJXDG1MW757038</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler Unlimited Sport S 4WD</g:model>
-      <g:mileage>46661 mi</g:mileage>
-      <g:color>Bright White Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -7178,6 +7154,30 @@
       <g:mileage>46559 mi</g:mileage>
       <g:color>Supersonic Red</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2C4RC1BG2PR590331</g:id>
+      <g:title>2023 Chrysler Pacifica Touring L FWD</g:title>
+      <g:description>2023 Chrysler Pacifica Touring L FWD — 58,120 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chrysler-pacifica-touring-l-fwd-5/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-chrysler-pacifica-touring-l-fwd-5/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ed32bb99-ce5e-4959-afee-d061b44df292.jpg</g:image_link>
+      <g:price>24800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2C4RC1BG2PR590331</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>Pacifica Touring L FWD</g:model>
+      <g:mileage>58120 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8981,30 +8981,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>JM3KFACM4M0336694</g:id>
-      <g:title>2021 Mazda CX-5 Touring FWD</g:title>
-      <g:description>2021 Mazda CX-5 Touring FWD — 71,674 miles — used — Jet Black Mica</g:description>
-      <g:link>https://majorworld.com/inventory/2021-mazda-cx-5-touring-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2021-mazda-cx-5-touring-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/43f89faf-dc18-4f93-86a1-aeccb242d0b7.jpg</g:image_link>
-      <g:price>19995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mazda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>JM3KFACM4M0336694</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Mazda</g:make>
-      <g:model>CX-5 Touring FWD</g:model>
-      <g:mileage>71674 mi</g:mileage>
-      <g:color>Jet Black Mica</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1HGCV2F36KA021073</g:id>
       <g:title>2019 Honda Accord Sport 2.0T FWD</g:title>
       <g:description>2019 Honda Accord Sport 2.0T FWD — 140,021 miles — used — Platinum White Pearl</g:description>
@@ -9362,6 +9338,30 @@
       <g:mileage>53814 mi</g:mileage>
       <g:color>Brilliant Silver Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2C4RC1L77JR183613</g:id>
+      <g:title>2018 Chrysler Pacifica Hybrid Touring L FWD</g:title>
+      <g:description>2018 Chrysler Pacifica Hybrid Touring L FWD — 80,054 miles — used — Brilliant Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c9d74b74-0bc3-47fa-a4e4-a25b3c3c72cf.jpg</g:image_link>
+      <g:price>16995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2C4RC1L77JR183613</g:vin>
+      <g:year>2018</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>Pacifica Hybrid Touring L FWD</g:model>
+      <g:mileage>80054 mi</g:mileage>
+      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
+      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -10418,30 +10418,6 @@
       <g:mileage>26243 mi</g:mileage>
       <g:color>Raspberry Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>2C4RC1L77JR183613</g:id>
-      <g:title>2018 Chrysler Pacifica Hybrid Touring L FWD</g:title>
-      <g:description>2018 Chrysler Pacifica Hybrid Touring L FWD — 80,054 miles — used — Brilliant Black Crystal Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2018-chrysler-pacifica-hybrid-touring-l-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c9d74b74-0bc3-47fa-a4e4-a25b3c3c72cf.jpg</g:image_link>
-      <g:price>16995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chrysler</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>2C4RC1L77JR183613</g:vin>
-      <g:year>2018</g:year>
-      <g:make>Chrysler</g:make>
-      <g:model>Pacifica Hybrid Touring L FWD</g:model>
-      <g:mileage>80054 mi</g:mileage>
-      <g:color>Brilliant Black Crystal Pearlcoat</g:color>
-      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
