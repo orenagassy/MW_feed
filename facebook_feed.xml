@@ -3,39 +3,6 @@
   <title>Major World</title>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/43d6dec7-10c7-4569-bbe9-ba492623fb46.jpg</url>
-    </image>
-    <vehicle_id>4JGFF5KE3SB437606</vehicle_id>
-    <title>2025 Mercedes-Benz GLS GLS 450 4MATIC®</title>
-    <description>2025 Mercedes-Benz GLS GLS 450 4MATIC® — 25,193 miles — used — Polar White</description>
-    <url>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic/</url>
-    <price>72995.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>GLS GLS 450 4MATIC®</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>25193</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>4JGFF5KE3SB437606</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Polar White</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78186</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/653f753b-1dfb-48ae-b605-c18a259f7aba.jpg</url>
     </image>
     <vehicle_id>1GC4YREY5RF324522</vehicle_id>
@@ -66,6 +33,39 @@
     <exterior_color>Iridescent Pearl Tricoat</exterior_color>
     <interior_color>Jet Black/Umber</interior_color>
     <stock_number>M76457</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/43d6dec7-10c7-4569-bbe9-ba492623fb46.jpg</url>
+    </image>
+    <vehicle_id>4JGFF5KE3SB437606</vehicle_id>
+    <title>2025 Mercedes-Benz GLS GLS 450 4MATIC®</title>
+    <description>2025 Mercedes-Benz GLS GLS 450 4MATIC® — 25,193 miles — used — Polar White</description>
+    <url>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic/</url>
+    <price>68888.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>GLS GLS 450 4MATIC®</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>25193</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>4JGFF5KE3SB437606</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Polar White</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78186</stock_number>
   </listing>
   <listing>
     <image>
@@ -234,39 +234,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b797723c-dca8-4f64-aced-47fdd90b7ccb.jpg</url>
-    </image>
-    <vehicle_id>4JGFF5KE0PA947117</vehicle_id>
-    <title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</title>
-    <description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 51,110 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic/</url>
-    <price>56888.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>GLS GLS 450 4MATIC®</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51110</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>4JGFF5KE0PA947117</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Espresso Brown/Black</interior_color>
-    <stock_number>M75708</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5dd68f56-15a4-4b24-bd08-28439ca4783f.jpg</url>
     </image>
     <vehicle_id>1C6SRFRP3SN547536</vehicle_id>
@@ -363,6 +330,39 @@
     <exterior_color>Black</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78286</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b797723c-dca8-4f64-aced-47fdd90b7ccb.jpg</url>
+    </image>
+    <vehicle_id>4JGFF5KE0PA947117</vehicle_id>
+    <title>2023 Mercedes-Benz GLS GLS 450 4MATIC®</title>
+    <description>2023 Mercedes-Benz GLS GLS 450 4MATIC® — 51,110 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2023-mercedes-benz-gls-gls-450-4matic/</url>
+    <price>53800.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>GLS GLS 450 4MATIC®</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>51110</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>4JGFF5KE0PA947117</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Espresso Brown/Black</interior_color>
+    <stock_number>M75708</stock_number>
   </listing>
   <listing>
     <image>
@@ -759,39 +759,6 @@
     <exterior_color>Storm Cloud</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77383</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0a3e60b4-2c0a-47c9-9f02-97693b163fec.jpg</url>
-    </image>
-    <vehicle_id>1FTEW1EP7PKD64379</vehicle_id>
-    <title>2023 Ford F-150 XLT 4WD</title>
-    <description>2023 Ford F-150 XLT 4WD — 49,864 miles — used — Avalanche Gray</description>
-    <url>https://majorworld.com/inventory/2023-ford-f-150-xlt-4wd/</url>
-    <price>47995.00 USD</price>
-    <make>Ford</make>
-    <model>F-150 XLT 4WD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>49864</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>1FTEW1EP7PKD64379</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Avalanche Gray</exterior_color>
-    <interior_color>Black/Slate Gray</interior_color>
-    <stock_number>M78135</stock_number>
   </listing>
   <listing>
     <image>
@@ -4561,7 +4528,7 @@
     </image>
     <vehicle_id>1FMSK7DH8RGA02607</vehicle_id>
     <title>2024 Ford Explorer XLT RWD</title>
-    <description>2024 Ford Explorer XLT RWD — 42,034 miles — used — Agate Black Metallic</description>
+    <description>2024 Ford Explorer XLT RWD — 42,457 miles — used — Agate Black Metallic</description>
     <url>https://majorworld.com/inventory/2024-ford-explorer-xlt-rwd-5/</url>
     <price>32995.00 USD</price>
     <make>Ford</make>
@@ -4570,7 +4537,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>42034</value>
+      <value>42457</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -4887,39 +4854,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/75965ba6-caf2-45e5-846b-a8c12ec37d75.jpg</url>
-    </image>
-    <vehicle_id>2T3H1RFV2SW366189</vehicle_id>
-    <title>2025 Toyota RAV4 LE FWD</title>
-    <description>2025 Toyota RAV4 LE FWD — 22,247 miles — used — Ruby Flare Pearl</description>
-    <url>https://majorworld.com/inventory/2025-toyota-rav4-le-fwd/</url>
-    <price>32800.00 USD</price>
-    <make>Toyota</make>
-    <model>RAV4 LE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>22247</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>2T3H1RFV2SW366189</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Ruby Flare Pearl</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>J18139</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9b6a51af-7fcb-41f1-ade8-6a0fe14e9516.jpg</url>
     </image>
     <vehicle_id>JM3KKCHD6R1162032</vehicle_id>
@@ -5115,6 +5049,39 @@
     <exterior_color>Cherry Red Tintcoat</exterior_color>
     <interior_color>Dark Galvanized</interior_color>
     <stock_number>M77076</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2df7453e-a74f-4077-ac3c-acfbd19f3ae1.jpg</url>
+    </image>
+    <vehicle_id>LRBFZPR44PD221455</vehicle_id>
+    <title>2023 Buick Envision Essence AWD</title>
+    <description>2023 Buick Envision Essence AWD — 10,458 miles — used — Moonstone Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2023-buick-envision-essence-awd/</url>
+    <price>31995.00 USD</price>
+    <make>Buick</make>
+    <model>Envision Essence AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>10458</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>LRBFZPR44PD221455</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Moonstone Gray Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78528</stock_number>
   </listing>
   <listing>
     <image>
@@ -6105,6 +6072,39 @@
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Ebony</interior_color>
     <stock_number>M78424</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/05f21f1e-bd54-466e-956b-e3d61642bd02.jpg</url>
+    </image>
+    <vehicle_id>1C4RJGAG6RC708158</vehicle_id>
+    <title>2024 Jeep Grand Cherokee Laredo RWD</title>
+    <description>2024 Jeep Grand Cherokee Laredo RWD — 48,993 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-4/</url>
+    <price>29995.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee Laredo RWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>48993</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJGAG6RC708158</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <stock_number>M78143</stock_number>
   </listing>
   <listing>
     <image>
@@ -7432,7 +7432,7 @@
     </image>
     <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
     <title>2024 Ford Edge SEL AWD</title>
-    <description>2024 Ford Edge SEL AWD — 20,849 miles — used — Agate Black Metallic</description>
+    <description>2024 Ford Edge SEL AWD — 21,047 miles — used — Agate Black Metallic</description>
     <url>https://majorworld.com/inventory/2024-ford-edge-sel-awd/</url>
     <price>27887.00 USD</price>
     <make>Ford</make>
@@ -7441,7 +7441,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>20849</value>
+      <value>21047</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -7762,7 +7762,7 @@
     </image>
     <vehicle_id>1GYAZAR47PF110566</vehicle_id>
     <title>2023 Cadillac XT4 Luxury FWD</title>
-    <description>2023 Cadillac XT4 Luxury FWD — 42,739 miles — used — Wave Metallic</description>
+    <description>2023 Cadillac XT4 Luxury FWD — 42,921 miles — used — Wave Metallic</description>
     <url>https://majorworld.com/inventory/2023-cadillac-xt4-luxury-fwd/</url>
     <price>27800.00 USD</price>
     <make>Cadillac</make>
@@ -7771,7 +7771,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>42739</value>
+      <value>42921</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -8151,6 +8151,72 @@
     <exterior_color>Oxford White</exterior_color>
     <interior_color>Ebony</interior_color>
     <stock_number>M77302</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7fdaf948-f746-42aa-bb3c-d1675fe6afd8.jpg</url>
+    </image>
+    <vehicle_id>2T3F1RFV0SC502733</vehicle_id>
+    <title>2025 Toyota RAV4 LE AWD</title>
+    <description>2025 Toyota RAV4 LE AWD — 32,734 miles — used — Silver Sky Metallic</description>
+    <url>https://majorworld.com/inventory/2025-toyota-rav4-le-awd-2/</url>
+    <price>26887.00 USD</price>
+    <make>Toyota</make>
+    <model>RAV4 LE AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>32734</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>2T3F1RFV0SC502733</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Silver Sky Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78610</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/28576b83-4a63-4da2-9843-04a8068692a1.jpg</url>
+    </image>
+    <vehicle_id>1FMSK8DH7PGA98913</vehicle_id>
+    <title>2023 Ford Explorer XLT 4WD</title>
+    <description>2023 Ford Explorer XLT 4WD — 41,617 miles — used — Stone Blue Metallic</description>
+    <url>https://majorworld.com/inventory/2023-ford-explorer-xlt-4wd-3/</url>
+    <price>26887.00 USD</price>
+    <make>Ford</make>
+    <model>Explorer XLT 4WD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>41617</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1FMSK8DH7PGA98913</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Stone Blue Metallic</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78592</stock_number>
   </listing>
   <listing>
     <image>
@@ -8646,6 +8712,39 @@
     <exterior_color>Brilliant Silver Metallic</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>M78338</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/25739697-6aa7-4973-964f-14948caf0406.jpg</url>
+    </image>
+    <vehicle_id>1C4RJHAGXRC679561</vehicle_id>
+    <title>2024 Jeep Grand Cherokee Laredo 4WD</title>
+    <description>2024 Jeep Grand Cherokee Laredo 4WD — 73,354 miles — used — Baltic Gray Metallic Clearcoat</description>
+    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-4wd-2/</url>
+    <price>25888.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee Laredo 4WD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>73354</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJHAGXRC679561</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Baltic Gray Metallic Clearcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <stock_number>J18326</stock_number>
   </listing>
   <listing>
     <image>
@@ -10629,39 +10728,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a0f86839-387c-49cd-8e32-ca70462e8061.jpg</url>
-    </image>
-    <vehicle_id>1N4BL4DV4SN351518</vehicle_id>
-    <title>2025 Nissan Altima 2.5 SV FWD</title>
-    <description>2025 Nissan Altima 2.5 SV FWD — 33,214 miles — used — Super Black Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-47/</url>
-    <price>23800.00 USD</price>
-    <make>Nissan</make>
-    <model>Altima 2.5 SV FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>33214</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>1N4BL4DV4SN351518</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Super Black Clearcoat</exterior_color>
-    <interior_color>Charcoal</interior_color>
-    <stock_number>M78348</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0d1d1351-37d2-4717-bcfa-2c7adbb64c33.jpg</url>
     </image>
     <vehicle_id>1N4BL4DV2SN303676</vehicle_id>
@@ -12111,6 +12177,39 @@
     <exterior_color>Granite Crystal Metallic Clearcoat</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17978</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ee91668e-86bf-48fa-b1d0-1cdf7f79cebc.jpg</url>
+    </image>
+    <vehicle_id>KM8JFCAE7PU184415</vehicle_id>
+    <title>2023 Hyundai Tucson N Line AWD</title>
+    <description>2023 Hyundai Tucson N Line AWD — 118,502 miles — used — Serenity White Pearl</description>
+    <url>https://majorworld.com/inventory/2023-hyundai-tucson-n-line-awd-2/</url>
+    <price>21800.00 USD</price>
+    <make>Hyundai</make>
+    <model>Tucson N Line AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>118502</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KM8JFCAE7PU184415</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Serenity White Pearl</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78474</stock_number>
   </listing>
   <listing>
     <image>
