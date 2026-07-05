@@ -5069,30 +5069,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5UXKR6C52JL069344</g:id>
-      <g:title>2018 BMW X5 xDrive50i AWD</g:title>
-      <g:description>2018 BMW X5 xDrive50i AWD — 39,064 miles — used — Alpine White</g:description>
-      <g:link>https://majorworld.com/inventory/2018-bmw-x5-xdrive50i-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2018-bmw-x5-xdrive50i-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8ef83169-3b5a-43e3-a8d2-e0e4a0b94cee.jpg</g:image_link>
-      <g:price>28888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>BMW</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5UXKR6C52JL069344</g:vin>
-      <g:year>2018</g:year>
-      <g:make>BMW</g:make>
-      <g:model>X5 xDrive50i AWD</g:model>
-      <g:mileage>39064 mi</g:mileage>
-      <g:color>Alpine White</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1V2JP2CA5NC543767</g:id>
       <g:title>2022 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
       <g:description>2022 Volkswagen Atlas 2.0T SE w/Technology FWD — 49,221 miles — used — Deep Black Pearl</g:description>
@@ -6077,6 +6053,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1N4BL4CV5SN374887</g:id>
+      <g:title>2025 Nissan Altima 2.5 SR FWD</g:title>
+      <g:description>2025 Nissan Altima 2.5 SR FWD — 23,433 miles — used — Bluestone Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-altima-2-5-sr-fwd-3/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-nissan-altima-2-5-sr-fwd-3/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/649a97ee-d61f-4208-b7b5-33042b3d5fad.jpg</g:image_link>
+      <g:price>26800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1N4BL4CV5SN374887</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Altima 2.5 SR FWD</g:model>
+      <g:mileage>23433 mi</g:mileage>
+      <g:color>Bluestone Pearl</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1HGCY1F39PA041178</g:id>
       <g:title>2023 Honda Accord EX FWD</g:title>
       <g:description>2023 Honda Accord EX FWD — 26,071 miles — used — Meteorite Gray Metallic</g:description>
@@ -6265,6 +6265,30 @@
       <g:model>Rogue SV AWD</g:model>
       <g:mileage>35410 mi</g:mileage>
       <g:color>Brilliant Silver Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5N1BT3BB6SC815879</g:id>
+      <g:title>2025 Nissan Rogue SV AWD</g:title>
+      <g:description>2025 Nissan Rogue SV AWD — 35,575 miles — used — Super Black</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-rogue-sv-awd-5/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-nissan-rogue-sv-awd-5/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4b654e4d-6c58-4614-9cd2-98c86acb60dc.jpg</g:image_link>
+      <g:price>25995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5N1BT3BB6SC815879</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Rogue SV AWD</g:model>
+      <g:mileage>35575 mi</g:mileage>
+      <g:color>Super Black</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -6845,30 +6869,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>KL79MUSL4PB164857</g:id>
-      <g:title>2023 Chevrolet TrailBlazer RS AWD</g:title>
-      <g:description>2023 Chevrolet TrailBlazer RS AWD — 25,418 miles — used — Summit White</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chevrolet-trailblazer-rs-awd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-trailblazer-rs-awd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e4abd8da-e2c4-48c0-838f-91e7cb895cc6.jpg</g:image_link>
-      <g:price>24995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KL79MUSL4PB164857</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>TrailBlazer RS AWD</g:model>
-      <g:mileage>25418 mi</g:mileage>
-      <g:color>Summit White</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>KMHLS4DG7SU971641</g:id>
       <g:title>2025 Hyundai Elantra SEL Convenience FWD</g:title>
       <g:description>2025 Hyundai Elantra SEL Convenience FWD — 25,853 miles — used — Ecotronic Gray</g:description>
@@ -7249,30 +7249,6 @@
       <g:model>Altima 2.5 SV FWD</g:model>
       <g:mileage>25471 mi</g:mileage>
       <g:color>Bluestone Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1N4BL4DV1SN364307</g:id>
-      <g:title>2025 Nissan Altima 2.5 SV FWD</g:title>
-      <g:description>2025 Nissan Altima 2.5 SV FWD — 27,416 miles — used — Pearl White Tricoat</g:description>
-      <g:link>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-38/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-38/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/dca5f30c-8a3e-46e1-8e7b-6ac6b2e5fd47.jpg</g:image_link>
-      <g:price>24800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1N4BL4DV1SN364307</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Altima 2.5 SV FWD</g:model>
-      <g:mileage>27416 mi</g:mileage>
-      <g:color>Pearl White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -8573,6 +8549,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1G1ZD5ST1RF148340</g:id>
+      <g:title>2024 Chevrolet Malibu LT FWD</g:title>
+      <g:description>2024 Chevrolet Malibu LT FWD — 38,329 miles — used — Summit White</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-malibu-lt-fwd-5/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-malibu-lt-fwd-5/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d6f3209f-0a7a-4833-b394-77728cb1ff33.jpg</g:image_link>
+      <g:price>21995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1G1ZD5ST1RF148340</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Malibu LT FWD</g:model>
+      <g:mileage>38329 mi</g:mileage>
+      <g:color>Summit White</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1G1ZD5ST1RF110381</g:id>
       <g:title>2024 Chevrolet Malibu LT FWD</g:title>
       <g:description>2024 Chevrolet Malibu LT FWD — 42,159 miles — used — Sterling Gray Metallic</g:description>
@@ -8762,6 +8762,30 @@
       <g:mileage>40778 mi</g:mileage>
       <g:color>Radiant Red Tintcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4PJMMX3MD109416</g:id>
+      <g:title>2021 Jeep Cherokee Latitude Lux 4WD</g:title>
+      <g:description>2021 Jeep Cherokee Latitude Lux 4WD — 41,398 miles — used — Slate Blue Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2021-jeep-cherokee-latitude-lux-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2021-jeep-cherokee-latitude-lux-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3802baac-5e66-49d5-87d4-3bbd0be73dd2.jpg</g:image_link>
+      <g:price>21800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4PJMMX3MD109416</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Cherokee Latitude Lux 4WD</g:model>
+      <g:mileage>41398 mi</g:mileage>
+      <g:color>Slate Blue Pearlcoat</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8957,30 +8981,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3VVRB7AX5RM056579</g:id>
-      <g:title>2024 Volkswagen Tiguan 2.0T S FWD</g:title>
-      <g:description>2024 Volkswagen Tiguan 2.0T S FWD — 33,072 miles — used — Deep Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-s-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-s-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a718185b-f3c5-471f-a5f6-f26c20966aa4.jpg</g:image_link>
-      <g:price>20887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VVRB7AX5RM056579</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Tiguan 2.0T S FWD</g:model>
-      <g:mileage>33072 mi</g:mileage>
-      <g:color>Deep Black Pearl</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1HGCV3F58NA003301</g:id>
       <g:title>2022 Honda Accord Hybrid EX-L FWD</g:title>
       <g:description>2022 Honda Accord Hybrid EX-L FWD — 73,376 miles — used — Crystal Black Pearl</g:description>
@@ -9025,6 +9025,30 @@
       <g:model>Soul LX FWD</g:model>
       <g:mileage>27538 mi</g:mileage>
       <g:color>Gravity Gray</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3N1CN8EV8SL819753</g:id>
+      <g:title>2025 Nissan Versa 1.6 SV FWD</g:title>
+      <g:description>2025 Nissan Versa 1.6 SV FWD — 29,107 miles — used — Aspen White Tricoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-versa-1-6-sv-fwd-5/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-nissan-versa-1-6-sv-fwd-5/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a5ed020e-4e77-40ba-8a93-99ce7edffe29.jpg</g:image_link>
+      <g:price>19995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3N1CN8EV8SL819753</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Versa 1.6 SV FWD</g:model>
+      <g:mileage>29107 mi</g:mileage>
+      <g:color>Aspen White Tricoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -9149,30 +9173,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1FMSK8DH4MGA60275</g:id>
-      <g:title>2021 Ford Explorer XLT 4WD</g:title>
-      <g:description>2021 Ford Explorer XLT 4WD — 42,494 miles — used — Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2021-ford-explorer-xlt-4wd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2021-ford-explorer-xlt-4wd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/452aa52f-3700-428d-988b-7b95c29a7133.jpg</g:image_link>
-      <g:price>18888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1FMSK8DH4MGA60275</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Explorer XLT 4WD</g:model>
-      <g:mileage>42494 mi</g:mileage>
-      <g:color>Black Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1C4BJWDG8JL862270</g:id>
       <g:title>2018 Jeep Wrangler JK Unlimited Sport 4WD</g:title>
       <g:description>2018 Jeep Wrangler JK Unlimited Sport 4WD — 81,042 miles — used — Billet Silver Metallic Clearcoat</g:description>
@@ -9197,6 +9197,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>2C4RC1BG0LR138145</g:id>
+      <g:title>2020 Chrysler Pacifica Touring L FWD</g:title>
+      <g:description>2020 Chrysler Pacifica Touring L FWD — 92,087 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2020-chrysler-pacifica-touring-l-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2020-chrysler-pacifica-touring-l-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/02ce4073-8364-4975-b836-458e6ba0a28b.jpg</g:image_link>
+      <g:price>18888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2C4RC1BG0LR138145</g:vin>
+      <g:year>2020</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>Pacifica Touring L FWD</g:model>
+      <g:mileage>92087 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>MINIVAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>KL77LFE23RC052511</g:id>
       <g:title>2024 Chevrolet Trax LS FWD</g:title>
       <g:description>2024 Chevrolet Trax LS FWD — 22,668 miles — used — Sterling Gray Metallic</g:description>
@@ -9218,6 +9242,30 @@
       <g:mileage>22668 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1FMSK8DH4MGA60275</g:id>
+      <g:title>2021 Ford Explorer XLT 4WD</g:title>
+      <g:description>2021 Ford Explorer XLT 4WD — 42,494 miles — used — Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2021-ford-explorer-xlt-4wd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2021-ford-explorer-xlt-4wd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/452aa52f-3700-428d-988b-7b95c29a7133.jpg</g:image_link>
+      <g:price>18887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1FMSK8DH4MGA60275</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Explorer XLT 4WD</g:model>
+      <g:mileage>42494 mi</g:mileage>
+      <g:color>Black Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -9611,7 +9659,7 @@
       <g:link>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/</g:link>
       <g:link_template>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9c57e411-9b49-4d8b-888c-c754cf6da209.jpg</g:image_link>
-      <g:price>15888.00 USD</g:price>
+      <g:price>15887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -9651,54 +9699,6 @@
       <g:color>Super Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>SADCJ2FX3KA602029</g:id>
-      <g:title>2019 Jaguar F-PACE 25t Premium AWD</g:title>
-      <g:description>2019 Jaguar F-PACE 25t Premium AWD — 100,745 miles — used — Fuji White</g:description>
-      <g:link>https://majorworld.com/inventory/2019-jaguar-f-pace-25t-premium-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2019-jaguar-f-pace-25t-premium-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/16525b21-4ddb-43ca-9432-81814cc168f1.jpg</g:image_link>
-      <g:price>15800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jaguar</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>SADCJ2FX3KA602029</g:vin>
-      <g:year>2019</g:year>
-      <g:make>Jaguar</g:make>
-      <g:model>F-PACE 25t Premium AWD</g:model>
-      <g:mileage>100745 mi</g:mileage>
-      <g:color>Fuji White</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5TELU42N28Z516387</g:id>
-      <g:title>2008 Toyota Tacoma Base 4WD</g:title>
-      <g:description>2008 Toyota Tacoma Base 4WD — 119,808 miles — used — Indigo Ink Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2008-toyota-tacoma-base-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2008-toyota-tacoma-base-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/de459db5-4b4f-440e-9cd7-e04dcc46f05b.jpg</g:image_link>
-      <g:price>15800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5TELU42N28Z516387</g:vin>
-      <g:year>2008</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>Tacoma Base 4WD</g:model>
-      <g:mileage>119808 mi</g:mileage>
-      <g:color>Indigo Ink Pearl</g:color>
-      <g:body_style>PICKUP</g:body_style>
-      <g:transmission>MANUAL</g:transmission>
     </item>
     <item>
       <g:id>KL4MMESL0NB021270</g:id>
@@ -10157,30 +10157,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1J4RR4GG5BC678925</g:id>
-      <g:title>2011 Jeep Grand Cherokee Laredo 4WD</g:title>
-      <g:description>2011 Jeep Grand Cherokee Laredo 4WD — 87,012 miles — used — Stone White Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2011-jeep-grand-cherokee-laredo-4wd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2011-jeep-grand-cherokee-laredo-4wd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/90de7090-b9f4-478e-a7a2-69554dc79c48.jpg</g:image_link>
-      <g:price>11995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1J4RR4GG5BC678925</g:vin>
-      <g:year>2011</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee Laredo 4WD</g:model>
-      <g:mileage>87012 mi</g:mileage>
-      <g:color>Stone White Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3N1CN7AP3JK397168</g:id>
       <g:title>2018 Nissan Versa 1.6 SV FWD</g:title>
       <g:description>2018 Nissan Versa 1.6 SV FWD — 81,514 miles — used — Cayenne Red</g:description>
@@ -10235,7 +10211,7 @@
       <g:link>https://majorworld.com/inventory/2020-nissan-altima-2-5-s-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2020-nissan-altima-2-5-s-fwd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b81da293-63da-4105-b477-49e9a146d3ba.jpg</g:image_link>
-      <g:price>10888.00 USD</g:price>
+      <g:price>10887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Nissan</g:brand>
@@ -10249,30 +10225,6 @@
       <g:model>Altima 2.5 S FWD</g:model>
       <g:mileage>57383 mi</g:mileage>
       <g:color>Super Black Clearcoat</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3N1AB7AP4KY297515</g:id>
-      <g:title>2019 Nissan Sentra SV FWD</g:title>
-      <g:description>2019 Nissan Sentra SV FWD — 34,323 miles — used — Fresh Powder</g:description>
-      <g:link>https://majorworld.com/inventory/2019-nissan-sentra-sv-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2019-nissan-sentra-sv-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4676e5ed-ae4e-47d4-abde-9a093ef00ea0.jpg</g:image_link>
-      <g:price>9998.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3N1AB7AP4KY297515</g:vin>
-      <g:year>2019</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Sentra SV FWD</g:model>
-      <g:mileage>34323 mi</g:mileage>
-      <g:color>Fresh Powder</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -10466,6 +10418,30 @@
       <g:mileage>26243 mi</g:mileage>
       <g:color>Raspberry Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4NJCBB7GD785252</g:id>
+      <g:title>2016 Jeep Compass Sport FWD</g:title>
+      <g:description>2016 Jeep Compass Sport FWD — 67,493 miles — used — Granite Crystal Metallic Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2016-jeep-compass-sport-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2016-jeep-compass-sport-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/cb2387ef-84ca-460f-8287-b1ec420d1711.jpg</g:image_link>
+      <g:price>7887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4NJCBB7GD785252</g:vin>
+      <g:year>2016</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Compass Sport FWD</g:model>
+      <g:mileage>67493 mi</g:mileage>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
