@@ -1851,39 +1851,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ac297d0f-1aff-45bb-ad65-728b8cc723e2.jpg</url>
-    </image>
-    <vehicle_id>1C4RDJDG3SC506318</vehicle_id>
-    <title>2025 Dodge Durango GT Plus AWD</title>
-    <description>2025 Dodge Durango GT Plus AWD — 16,492 miles — used — White Knuckle Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-dodge-durango-gt-plus-awd-3/</url>
-    <price>41888.00 USD</price>
-    <make>Dodge</make>
-    <model>Durango GT Plus AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>16492</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RDJDG3SC506318</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>White Knuckle Clearcoat</exterior_color>
-    <interior_color>Red/Black/Ebony</interior_color>
-    <stock_number>J18292</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7fe33ecb-a420-4e0e-b5bc-781d856800d7.jpg</url>
     </image>
     <vehicle_id>3C6LRVBG6SE554624</vehicle_id>
@@ -3798,6 +3765,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/691c9ada-db9b-47f9-8809-1b25d30d2793.jpg</url>
+    </image>
+    <vehicle_id>2HKRS3H72SH301332</vehicle_id>
+    <title>2025 Honda CR-V EX-L FWD</title>
+    <description>2025 Honda CR-V EX-L FWD — 20,183 miles — used — Canyon River Blue Met</description>
+    <url>https://majorworld.com/inventory/2025-honda-cr-v-ex-l-fwd-3/</url>
+    <price>34800.00 USD</price>
+    <make>Honda</make>
+    <model>CR-V EX-L FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>20183</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>2HKRS3H72SH301332</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Canyon River Blue Met</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78262</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d77ce5fa-7551-4f28-8296-bca99e7e8725.jpg</url>
     </image>
     <vehicle_id>5GAEVCKWXNJ101933</vehicle_id>
@@ -5316,39 +5316,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3cad94da-864c-4781-8035-26f6744ad36b.jpg</url>
-    </image>
-    <vehicle_id>JM3KKCHD0R1162205</vehicle_id>
-    <title>2024 Mazda CX-90 3.3 Turbo Preferred Plus AWD</title>
-    <description>2024 Mazda CX-90 3.3 Turbo Preferred Plus AWD — 41,552 miles — used — Soul Red Crystal Metallic</description>
-    <url>https://majorworld.com/inventory/2024-mazda-cx-90-3-3-turbo-preferred-plus-awd-8/</url>
-    <price>31800.00 USD</price>
-    <make>Mazda</make>
-    <model>CX-90 3.3 Turbo Preferred Plus AWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>41552</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>JM3KKCHD0R1162205</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Soul Red Crystal Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77417</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/69d72a31-8851-43c8-a3d2-2a9e704f8717.jpg</url>
     </image>
     <vehicle_id>JM3KKCHD9R1149050</vehicle_id>
@@ -5808,39 +5775,6 @@
     <exterior_color>Jet Black Mica</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78266</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4e3d5c8a-c69c-43b0-8ed5-ad18279008e0.jpg</url>
-    </image>
-    <vehicle_id>19UDE4H38SA010945</vehicle_id>
-    <title>2025 Acura Integra A-Spec Package FWD</title>
-    <description>2025 Acura Integra A-Spec Package FWD — 37,877 miles — used — Liquid Carbon Metallic</description>
-    <url>https://majorworld.com/inventory/2025-acura-integra-a-spec-package-fwd/</url>
-    <price>29995.00 USD</price>
-    <make>Acura</make>
-    <model>Integra A-Spec Package FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>37877</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>19UDE4H38SA010945</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Liquid Carbon Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>M78436</stock_number>
   </listing>
   <listing>
     <image>
@@ -6603,6 +6537,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/22254fdc-d5ef-44b4-918b-dbbb6918d044.jpg</url>
+    </image>
+    <vehicle_id>JM3KFBCL9S0582893</vehicle_id>
+    <title>2025 Mazda CX-5 2.5 S Preferred Package AWD</title>
+    <description>2025 Mazda CX-5 2.5 S Preferred Package AWD — 40,055 miles — used — Machine Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-mazda-cx-5-2-5-s-preferred-package-awd-6/</url>
+    <price>28995.00 USD</price>
+    <make>Mazda</make>
+    <model>CX-5 2.5 S Preferred Package AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>40055</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>JM3KFBCL9S0582893</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Machine Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78435</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/eae417bd-8836-4a19-bb8a-077103e205d8.jpg</url>
     </image>
     <vehicle_id>KMHL24JJ4TA146269</vehicle_id>
@@ -6798,72 +6765,6 @@
     <exterior_color>Deep Black Pearl</exterior_color>
     <interior_color>Titan Black</interior_color>
     <stock_number>M77910</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3b570828-8654-4c17-bd71-ef17a17ae871.jpg</url>
-    </image>
-    <vehicle_id>1FMSK8DH4NGB96858</vehicle_id>
-    <title>2022 Ford Explorer XLT 4WD</title>
-    <description>2022 Ford Explorer XLT 4WD — 50,321 miles — used — Rapid Red Metallic Tinted Clearcoat</description>
-    <url>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-3/</url>
-    <price>28888.00 USD</price>
-    <make>Ford</make>
-    <model>Explorer XLT 4WD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>50321</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1FMSK8DH4NGB96858</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Rapid Red Metallic Tinted Clearcoat</exterior_color>
-    <interior_color>Light Slate</interior_color>
-    <stock_number>M78525</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4b9e8ff5-b1f3-4fa4-9d35-8f44c1049850.jpg</url>
-    </image>
-    <vehicle_id>7MMVABBM8SN306447</vehicle_id>
-    <title>2025 Mazda CX-50 2.5 S Preferred Package AWD</title>
-    <description>2025 Mazda CX-50 2.5 S Preferred Package AWD — 51,024 miles — used — Machine Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-mazda-cx-50-2-5-s-preferred-package-awd/</url>
-    <price>28888.00 USD</price>
-    <make>Mazda</make>
-    <model>CX-50 2.5 S Preferred Package AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51024</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>7MMVABBM8SN306447</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Machine Gray Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78194</stock_number>
   </listing>
   <listing>
     <image>
@@ -8121,6 +8022,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f03da6ad-8690-493b-bf62-e8aed6765562.jpg</url>
+    </image>
+    <vehicle_id>3GNAXWEG3PS120622</vehicle_id>
+    <title>2023 Chevrolet Equinox RS AWD</title>
+    <description>2023 Chevrolet Equinox RS AWD — 7,886 miles — used — Iridescent Pearl Tricoat</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-equinox-rs-awd/</url>
+    <price>26800.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox RS AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>7886</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXWEG3PS120622</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Iridescent Pearl Tricoat</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M78595</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6e9f1798-ce65-42fa-bbcb-97b0c7772ec7.jpg</url>
     </image>
     <vehicle_id>JN8BT3BB1RW421966</vehicle_id>
@@ -8415,39 +8349,6 @@
     <exterior_color>Mosaic Black Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M78556</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f19ab878-9b49-4ddc-a5fe-7ed82a88ecf1.jpg</url>
-    </image>
-    <vehicle_id>5NMJB3DE4SH507301</vehicle_id>
-    <title>2025 Hyundai Tucson SEL FWD</title>
-    <description>2025 Hyundai Tucson SEL FWD — 31,345 miles — used — Ecotronic Gray</description>
-    <url>https://majorworld.com/inventory/2025-hyundai-tucson-sel-fwd-3/</url>
-    <price>25995.00 USD</price>
-    <make>Hyundai</make>
-    <model>Tucson SEL FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>31345</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>5NMJB3DE4SH507301</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Ecotronic Gray</exterior_color>
-    <interior_color>Gray</interior_color>
-    <stock_number>M78260</stock_number>
   </listing>
   <listing>
     <image>
@@ -10692,6 +10593,39 @@
     <exterior_color>Scarlet Ember</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>M78069</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/27305d76-f8b9-49b9-893a-741f7de575b3.jpg</url>
+    </image>
+    <vehicle_id>1N4BL4DV3SN318297</vehicle_id>
+    <title>2025 Nissan Altima 2.5 SV FWD</title>
+    <description>2025 Nissan Altima 2.5 SV FWD — 32,175 miles — used — Glacier White</description>
+    <url>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-49/</url>
+    <price>23800.00 USD</price>
+    <make>Nissan</make>
+    <model>Altima 2.5 SV FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>32175</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>1N4BL4DV3SN318297</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Glacier White</exterior_color>
+    <interior_color>Charcoal</interior_color>
+    <stock_number>M78347</stock_number>
   </listing>
   <listing>
     <image>
