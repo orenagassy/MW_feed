@@ -869,30 +869,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1FBAX2YG8SKA44451</g:id>
-      <g:title>2025 Ford Transit-350 XLT RWD</g:title>
-      <g:description>2025 Ford Transit-350 XLT RWD — 17,915 miles — used — Oxford White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-ford-transit-350-xlt-rwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-ford-transit-350-xlt-rwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e4c895f9-219a-488b-be76-34bd426179e2.jpg</g:image_link>
-      <g:price>44800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1FBAX2YG8SKA44451</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Transit-350 XLT RWD</g:model>
-      <g:mileage>17915 mi</g:mileage>
-      <g:color>Oxford White</g:color>
-      <g:body_style>VAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5UX13EU0XR9U94586</g:id>
       <g:title>2024 BMW X5 sDrive40i RWD</g:title>
       <g:description>2024 BMW X5 sDrive40i RWD — 47,128 miles — used — Mineral White Metallic</g:description>
@@ -1877,30 +1853,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5FNRL6H74SB049693</g:id>
-      <g:title>2025 Honda Odyssey Sport-L FWD</g:title>
-      <g:description>2025 Honda Odyssey Sport-L FWD — 25,118 miles — used — Platinum White Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2025-honda-odyssey-sport-l-fwd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-honda-odyssey-sport-l-fwd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/0bba1800-8ed6-44d2-a6b8-16dbd472c4df.jpg</g:image_link>
-      <g:price>39888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5FNRL6H74SB049693</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Odyssey Sport-L FWD</g:model>
-      <g:mileage>25118 mi</g:mileage>
-      <g:color>Platinum White Pearl</g:color>
-      <g:body_style>MINIVAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3GCPABEK4SG348559</g:id>
       <g:title>2025 Chevrolet Silverado 1500 Custom RWD</g:title>
       <g:description>2025 Chevrolet Silverado 1500 Custom RWD — 28,753 miles — used — Summit White</g:description>
@@ -2162,6 +2114,30 @@
       <g:mileage>11642 mi</g:mileage>
       <g:color>Firecracker Red Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5FNRL6H74SB049693</g:id>
+      <g:title>2025 Honda Odyssey Sport-L FWD</g:title>
+      <g:description>2025 Honda Odyssey Sport-L FWD — 25,118 miles — used — Platinum White Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2025-honda-odyssey-sport-l-fwd-3/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-honda-odyssey-sport-l-fwd-3/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/0bba1800-8ed6-44d2-a6b8-16dbd472c4df.jpg</g:image_link>
+      <g:price>37888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5FNRL6H74SB049693</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Odyssey Sport-L FWD</g:model>
+      <g:mileage>25118 mi</g:mileage>
+      <g:color>Platinum White Pearl</g:color>
+      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -2645,30 +2621,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>2T3P1RFV3SW556269</g:id>
-      <g:title>2025 Toyota RAV4 XLE AWD</g:title>
-      <g:description>2025 Toyota RAV4 XLE AWD — 18,126 miles — used — Midnight Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-toyota-rav4-xle-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-toyota-rav4-xle-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/49942716-37e2-4f4d-88c5-47aa5c9b9030.jpg</g:image_link>
-      <g:price>34995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>2T3P1RFV3SW556269</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>RAV4 XLE AWD</g:model>
-      <g:mileage>18126 mi</g:mileage>
-      <g:color>Midnight Black Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3GNKBERS9SS112772</g:id>
       <g:title>2025 Chevrolet Blazer RS FWD</g:title>
       <g:description>2025 Chevrolet Blazer RS FWD — 34,456 miles — used — Black</g:description>
@@ -2906,30 +2858,6 @@
       <g:mileage>37919 mi</g:mileage>
       <g:color>Platinum Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5FNYF6H54NB029935</g:id>
-      <g:title>2022 Honda Pilot EX-L AWD</g:title>
-      <g:description>2022 Honda Pilot EX-L AWD — 33,942 miles — used — Gray</g:description>
-      <g:link>https://majorworld.com/inventory/2022-honda-pilot-ex-l-awd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-honda-pilot-ex-l-awd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/89e424d3-5717-4f04-a8a1-de1d929985d5.jpg</g:image_link>
-      <g:price>33888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5FNYF6H54NB029935</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Pilot EX-L AWD</g:model>
-      <g:mileage>33942 mi</g:mileage>
-      <g:color>Gray</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -3482,30 +3410,6 @@
       <g:mileage>26327 mi</g:mileage>
       <g:color>Machine Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1GNEVHKW0PJ183158</g:id>
-      <g:title>2023 Chevrolet Traverse LT Leather AWD</g:title>
-      <g:description>2023 Chevrolet Traverse LT Leather AWD — 27,421 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-leather-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-leather-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c94da32c-b7f5-4b3d-9f53-f4f7761e2f4f.jpg</g:image_link>
-      <g:price>32800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1GNEVHKW0PJ183158</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Traverse LT Leather AWD</g:model>
-      <g:mileage>27421 mi</g:mileage>
-      <g:color>Sterling Gray Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -4325,30 +4229,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3VV8B7AX2RM139351</g:id>
-      <g:title>2024 Volkswagen Tiguan 2.0T SE R-Line Black AWD</g:title>
-      <g:description>2024 Volkswagen Tiguan 2.0T SE R-Line Black AWD — 12,900 miles — used — Pyrite Silver Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-se-r-line-black-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-se-r-line-black-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/775c7842-8969-4868-a2be-8442e9d8513a.jpg</g:image_link>
-      <g:price>29888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VV8B7AX2RM139351</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Tiguan 2.0T SE R-Line Black AWD</g:model>
-      <g:mileage>12900 mi</g:mileage>
-      <g:color>Pyrite Silver Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3GNKBCR42SS250501</g:id>
       <g:title>2025 Chevrolet Blazer LT FWD</g:title>
       <g:description>2025 Chevrolet Blazer LT FWD — 18,102 miles — used — Black</g:description>
@@ -4658,30 +4538,6 @@
       <g:mileage>21498 mi</g:mileage>
       <g:color>Magnetic Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1FMSK7FH6PGB17619</g:id>
-      <g:title>2023 Ford Explorer Limited RWD</g:title>
-      <g:description>2023 Ford Explorer Limited RWD — 56,186 miles — used — Rapid Red Metallic Tinted Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2023-ford-explorer-limited-rwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-ford-explorer-limited-rwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9c21cb9f-4bca-46ad-8ad0-9eb744482c12.jpg</g:image_link>
-      <g:price>29800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1FMSK7FH6PGB17619</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Explorer Limited RWD</g:model>
-      <g:mileage>56186 mi</g:mileage>
-      <g:color>Rapid Red Metallic Tinted Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -6341,30 +6197,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>KMHL64JA7SA460677</g:id>
-      <g:title>2025 Hyundai Sonata SEL FWD</g:title>
-      <g:description>2025 Hyundai Sonata SEL FWD — 25,646 miles — used — Transmission Blue</g:description>
-      <g:link>https://majorworld.com/inventory/2025-hyundai-sonata-sel-fwd-5/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-hyundai-sonata-sel-fwd-5/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b4afb9a2-8fa1-47e3-82eb-8de30c4a3558.jpg</g:image_link>
-      <g:price>25800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KMHL64JA7SA460677</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Sonata SEL FWD</g:model>
-      <g:mileage>25646 mi</g:mileage>
-      <g:color>Transmission Blue</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3GKALTEG7RL339698</g:id>
       <g:title>2024 GMC Terrain SLE AWD</g:title>
       <g:description>2024 GMC Terrain SLE AWD — 27,462 miles — used — Volcanic Red Tintcoat</g:description>
@@ -7130,30 +6962,6 @@
       <g:mileage>35289 mi</g:mileage>
       <g:color>Scarlet Ember</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3VV3B7AX1PM119776</g:id>
-      <g:title>2023 Volkswagen Tiguan 2.0T SE FWD</g:title>
-      <g:description>2023 Volkswagen Tiguan 2.0T SE FWD — 51,376 miles — used — Platinum Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-volkswagen-tiguan-2-0t-se-fwd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-volkswagen-tiguan-2-0t-se-fwd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/cb122d9e-dba4-465f-a49f-4c6de01c7b81.jpg</g:image_link>
-      <g:price>24800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VV3B7AX1PM119776</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Tiguan 2.0T SE FWD</g:model>
-      <g:mileage>51376 mi</g:mileage>
-      <g:color>Platinum Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -9485,6 +9293,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>5J6RM4H99FL046725</g:id>
+      <g:title>2015 Honda CR-V Touring AWD</g:title>
+      <g:description>2015 Honda CR-V Touring AWD — 110,588 miles — used — White Diamond Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2015-honda-cr-v-touring-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-honda-cr-v-touring-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8aa1dc16-fa49-4ec6-8bb2-24ad84655ebf.jpg</g:image_link>
+      <g:price>16995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5J6RM4H99FL046725</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Honda</g:make>
+      <g:model>CR-V Touring AWD</g:model>
+      <g:mileage>110588 mi</g:mileage>
+      <g:color>White Diamond Pearl</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>5TDJK3DC5ES093736</g:id>
       <g:title>2014 Toyota Sienna LE AWD</g:title>
       <g:description>2014 Toyota Sienna LE AWD — 114,881 miles — used — Salsa Red Pearl</g:description>
@@ -9770,6 +9602,30 @@
       <g:mileage>125905 mi</g:mileage>
       <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5TDDK3DC6DS053841</g:id>
+      <g:title>2013 Toyota Sienna Limited AWD</g:title>
+      <g:description>2013 Toyota Sienna Limited AWD — 135,466 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2013-toyota-sienna-xle-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2013-toyota-sienna-xle-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ec9d362c-f8dd-4684-9dd7-595ac72a3623.jpg</g:image_link>
+      <g:price>14800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5TDDK3DC6DS053841</g:vin>
+      <g:year>2013</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>Sienna Limited AWD</g:model>
+      <g:mileage>135466 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -10082,6 +9938,30 @@
       <g:mileage>158734 mi</g:mileage>
       <g:color>Black</g:color>
       <g:body_style>MINIVAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4SDJCTXFC101448</g:id>
+      <g:title>2015 Dodge Durango R/T AWD</g:title>
+      <g:description>2015 Dodge Durango R/T AWD — 115,114 miles — used — Granite Crystal Metallic Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2015-dodge-durango-r-t-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-dodge-durango-r-t-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a078fe44-66d7-40cd-8be9-d5d477e5edbb.jpg</g:image_link>
+      <g:price>12887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Dodge</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4SDJCTXFC101448</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Dodge</g:make>
+      <g:model>Durango R/T AWD</g:model>
+      <g:mileage>115114 mi</g:mileage>
+      <g:color>Granite Crystal Metallic Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
