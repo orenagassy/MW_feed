@@ -53,6 +53,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>5UX23EM07T9074893</g:id>
+      <g:title>2026 BMW X7 xDrive40i AWD</g:title>
+      <g:description>2026 BMW X7 xDrive40i AWD — 25,913 miles — used — Skyscraper Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2026-bmw-x7-xdrive40i-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2026-bmw-x7-xdrive40i-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5601b05b-d969-4943-a51a-7f0388ed9d21.jpg</g:image_link>
+      <g:price>68888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5UX23EM07T9074893</g:vin>
+      <g:year>2026</g:year>
+      <g:make>BMW</g:make>
+      <g:model>X7 xDrive40i AWD</g:model>
+      <g:mileage>25913 mi</g:mileage>
+      <g:color>Skyscraper Gray Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>JTEVA5BR4T5083558</g:id>
       <g:title>2026 Toyota 4Runner TRD Sport Premium 4WD</g:title>
       <g:description>2026 Toyota 4Runner TRD Sport Premium 4WD — 18 miles — used — Pearl</g:description>
@@ -242,6 +266,30 @@
       <g:mileage>51110 mi</g:mileage>
       <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1FTFW3LD4SFA89533</g:id>
+      <g:title>2025 Ford F-150 XLT 4WD</g:title>
+      <g:description>2025 Ford F-150 XLT 4WD — 28,201 miles — used — Agate Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-ford-f-150-xlt-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-ford-f-150-xlt-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1491e57-3721-4e64-b085-64e431fcfb37.jpg</g:image_link>
+      <g:price>52995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1FTFW3LD4SFA89533</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Ford</g:make>
+      <g:model>F-150 XLT 4WD</g:model>
+      <g:mileage>28201 mi</g:mileage>
+      <g:color>Agate Black Metallic</g:color>
+      <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -1445,30 +1493,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1GNETZKW5RJ136013</g:id>
-      <g:title>2024 Chevrolet Traverse Limited Premier AWD</g:title>
-      <g:description>2024 Chevrolet Traverse Limited Premier AWD — 36,627 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-chevrolet-traverse-limited-premier-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-traverse-limited-premier-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7e5024b9-badc-4b4d-821a-e30f95bfaaa5.jpg</g:image_link>
-      <g:price>40995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1GNETZKW5RJ136013</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Traverse Limited Premier AWD</g:model>
-      <g:mileage>36627 mi</g:mileage>
-      <g:color>Sterling Gray Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>WBA33DB04SCS92775</g:id>
       <g:title>2025 BMW 4 Series 430i RWD</g:title>
       <g:description>2025 BMW 4 Series 430i RWD — 40,809 miles — used — Jet Black</g:description>
@@ -2002,7 +2026,7 @@
       <g:description>2022 Toyota Highlander XSE AWD — 37,098 miles — used — Magnetic Gray Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2022-toyota-highlander-xse-awd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-toyota-highlander-xse-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7a88b171-e279-4c8f-b837-2a75c3f81322.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9cfbadff-8368-45c0-9cc2-483d5c939c54.jpg</g:image_link>
       <g:price>38888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -2071,7 +2095,7 @@
     <item>
       <g:id>5TDKRKECXRS212296</g:id>
       <g:title>2024 Toyota Sienna LE FWD</g:title>
-      <g:description>2024 Toyota Sienna LE FWD — 53,537 miles — used — Ice Cap</g:description>
+      <g:description>2024 Toyota Sienna LE FWD — 53,680 miles — used — Ice Cap</g:description>
       <g:link>https://majorworld.com/inventory/2024-toyota-sienna-le-fwd-9/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-toyota-sienna-le-fwd-9/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/82e383d2-84cc-4e2d-bc91-49304f5d3a38.jpg</g:image_link>
@@ -2087,7 +2111,7 @@
       <g:year>2024</g:year>
       <g:make>Toyota</g:make>
       <g:model>Sienna LE FWD</g:model>
-      <g:mileage>53537 mi</g:mileage>
+      <g:mileage>53680 mi</g:mileage>
       <g:color>Ice Cap</g:color>
       <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -2377,30 +2401,6 @@
       <g:model>Q7 45 Premium quattro</g:model>
       <g:mileage>47992 mi</g:mileage>
       <g:color>Samurai Gray Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>SALGR2SU6LA587697</g:id>
-      <g:title>2020 Land Rover Range Rover Base 4WD</g:title>
-      <g:description>2020 Land Rover Range Rover Base 4WD — 51,041 miles — used — Santorini Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2020-land-rover-range-rover-base-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2020-land-rover-range-rover-base-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e2eae8e7-8f1f-4fa5-bd43-2d286bfca647.jpg</g:image_link>
-      <g:price>36888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Land Rover</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>SALGR2SU6LA587697</g:vin>
-      <g:year>2020</g:year>
-      <g:make>Land Rover</g:make>
-      <g:model>Range Rover Base 4WD</g:model>
-      <g:mileage>51041 mi</g:mileage>
-      <g:color>Santorini Black Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -2738,30 +2738,6 @@
       <g:mileage>20183 mi</g:mileage>
       <g:color>Canyon River Blue Met</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5GAEVCKWXNJ101933</g:id>
-      <g:title>2022 Buick Enclave Avenir AWD</g:title>
-      <g:description>2022 Buick Enclave Avenir AWD — 25,601 miles — used — White Frost Tricoat</g:description>
-      <g:link>https://majorworld.com/inventory/2022-buick-enclave-avenir-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-buick-enclave-avenir-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d77ce5fa-7551-4f28-8296-bca99e7e8725.jpg</g:image_link>
-      <g:price>34800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5GAEVCKWXNJ101933</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Buick</g:make>
-      <g:model>Enclave Avenir AWD</g:model>
-      <g:mileage>25601 mi</g:mileage>
-      <g:color>White Frost Tricoat</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -3650,30 +3626,6 @@
       <g:mileage>2947 mi</g:mileage>
       <g:color>Platinum White Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>2HKRS4H29SH475313</g:id>
-      <g:title>2025 Honda CR-V LX AWD</g:title>
-      <g:description>2025 Honda CR-V LX AWD — 28,951 miles — used — Meteorite Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-honda-cr-v-lx-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-honda-cr-v-lx-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ee36b38a-61c7-4791-9c67-a37026e7ccf7.jpg</g:image_link>
-      <g:price>31800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>2HKRS4H29SH475313</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Honda</g:make>
-      <g:model>CR-V LX AWD</g:model>
-      <g:mileage>28951 mi</g:mileage>
-      <g:color>Meteorite Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -5717,6 +5669,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>KL79MSSL6PB163097</g:id>
+      <g:title>2023 Chevrolet TrailBlazer ACTIV AWD</g:title>
+      <g:description>2023 Chevrolet TrailBlazer ACTIV AWD — 11,767 miles — used — Nitro Yellow Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-trailblazer-activ-awd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-trailblazer-activ-awd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a28f0193-c603-460f-a3f2-ba424964ff10.jpg</g:image_link>
+      <g:price>26800.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>KL79MSSL6PB163097</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>TrailBlazer ACTIV AWD</g:model>
+      <g:mileage>11767 mi</g:mileage>
+      <g:color>Nitro Yellow Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>JN8BT3BB1RW421966</g:id>
       <g:title>2024 Nissan Rogue SV AWD</g:title>
       <g:description>2024 Nissan Rogue SV AWD — 21,306 miles — used — Gun Metallic</g:description>
@@ -5881,6 +5857,30 @@
       <g:model>Equinox LT FWD</g:model>
       <g:mileage>2857 mi</g:mileage>
       <g:color>Riptide Blue Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3VV3B7AX3RM062791</g:id>
+      <g:title>2024 Volkswagen Tiguan 2.0T SE FWD</g:title>
+      <g:description>2024 Volkswagen Tiguan 2.0T SE FWD — 13,628 miles — used — Silver</g:description>
+      <g:link>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-se-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-se-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4720ea13-aab6-4232-bcb6-ee8516f47f6a.jpg</g:image_link>
+      <g:price>25995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VV3B7AX3RM062791</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Tiguan 2.0T SE FWD</g:model>
+      <g:mileage>13628 mi</g:mileage>
+      <g:color>Silver</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -6266,30 +6266,6 @@
       <g:mileage>32529 mi</g:mileage>
       <g:color>Deep Ocean Blue Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>KMHL64JA6SA464204</g:id>
-      <g:title>2025 Hyundai Sonata SEL FWD</g:title>
-      <g:description>2025 Hyundai Sonata SEL FWD — 33,073 miles — used — Serenity White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-hyundai-sonata-sel-fwd-9/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-hyundai-sonata-sel-fwd-9/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d0ec0517-cc36-448a-b677-24f06167cfee.jpg</g:image_link>
-      <g:price>25800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KMHL64JA6SA464204</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Sonata SEL FWD</g:model>
-      <g:mileage>33073 mi</g:mileage>
-      <g:color>Serenity White</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -6725,30 +6701,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>W1N0G8EB3MF936887</g:id>
-      <g:title>2021 Mercedes-Benz GLC GLC 300 4MATIC®</g:title>
-      <g:description>2021 Mercedes-Benz GLC GLC 300 4MATIC® — 79,166 miles — used — Cardinal Red Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2021-mercedes-benz-glc-glc-300-4matic-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2021-mercedes-benz-glc-glc-300-4matic-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4c9e17f1-3a55-4874-b7cc-d3d6230fb8bd.jpg</g:image_link>
-      <g:price>24888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>W1N0G8EB3MF936887</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>GLC GLC 300 4MATIC®</g:model>
-      <g:mileage>79166 mi</g:mileage>
-      <g:color>Cardinal Red Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>19UUB5F31MA000374</g:id>
       <g:title>2021 Acura TLX Base FWD</g:title>
       <g:description>2021 Acura TLX Base FWD — 43,168 miles — used — Majestic Black Pearl</g:description>
@@ -7058,6 +7010,30 @@
       <g:mileage>26101 mi</g:mileage>
       <g:color>Morning Haze</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3VVRB7AX2RM214389</g:id>
+      <g:title>2024 Volkswagen Tiguan 2.0T S FWD</g:title>
+      <g:description>2024 Volkswagen Tiguan 2.0T S FWD — 27,610 miles — used — Pyrite Silver Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-s-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-s-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f822f1bc-9d4d-4bfb-babf-afd8d08299fa.jpg</g:image_link>
+      <g:price>23995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VVRB7AX2RM214389</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Tiguan 2.0T S FWD</g:model>
+      <g:mileage>27610 mi</g:mileage>
+      <g:color>Pyrite Silver Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -8621,30 +8597,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>KM8JFCAE7PU184415</g:id>
-      <g:title>2023 Hyundai Tucson N Line AWD</g:title>
-      <g:description>2023 Hyundai Tucson N Line AWD — 118,497 miles — used — Serenity White Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2023-hyundai-tucson-n-line-awd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-hyundai-tucson-n-line-awd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ee91668e-86bf-48fa-b1d0-1cdf7f79cebc.jpg</g:image_link>
-      <g:price>21800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KM8JFCAE7PU184415</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Tucson N Line AWD</g:model>
-      <g:mileage>118497 mi</g:mileage>
-      <g:color>Serenity White Pearl</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>KNDJ23AU8S7929056</g:id>
       <g:title>2025 Kia Soul LX FWD</g:title>
       <g:description>2025 Kia Soul LX FWD — 37,222 miles — used — Steel Gray</g:description>
@@ -8837,6 +8789,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>58ABK1GGXGU009386</g:id>
+      <g:title>2016 Lexus ES 350 FWD</g:title>
+      <g:description>2016 Lexus ES 350 FWD — 97,562 miles — used — Obsidian</g:description>
+      <g:link>https://majorworld.com/inventory/2016-lexus-es-350-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2016-lexus-es-350-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/56c6f089-44b7-403f-a9d8-a19847d7b145.jpg</g:image_link>
+      <g:price>19995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Lexus</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>58ABK1GGXGU009386</g:vin>
+      <g:year>2016</g:year>
+      <g:make>Lexus</g:make>
+      <g:model>ES 350 FWD</g:model>
+      <g:mileage>97562 mi</g:mileage>
+      <g:color>Obsidian</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3VVAX7B25NM033461</g:id>
       <g:title>2022 Volkswagen Taos 1.5T S AWD</g:title>
       <g:description>2022 Volkswagen Taos 1.5T S AWD — 51,929 miles — used — Pure Gray</g:description>
@@ -8929,6 +8905,30 @@
       <g:model>Trax 2RS FWD</g:model>
       <g:mileage>22363 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>JN8BT3BA8SW010593</g:id>
+      <g:title>2025 Nissan Rogue SV FWD</g:title>
+      <g:description>2025 Nissan Rogue SV FWD — 22,936 miles — used — Gun Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-nissan-rogue-sv-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-nissan-rogue-sv-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/17ac79fd-d2a9-44bf-a036-e3f0dbe09b25.jpg</g:image_link>
+      <g:price>19887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>JN8BT3BA8SW010593</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Rogue SV FWD</g:model>
+      <g:mileage>22936 mi</g:mileage>
+      <g:color>Gun Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -9050,30 +9050,6 @@
       <g:mileage>7200 mi</g:mileage>
       <g:color>Blue Glow Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5TDYZ3DC0HS804984</g:id>
-      <g:title>2017 Toyota Sienna XLE FWD</g:title>
-      <g:description>2017 Toyota Sienna XLE FWD — 127,280 miles — used — Shoreline Mist</g:description>
-      <g:link>https://majorworld.com/inventory/2017-toyota-sienna-xle-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2017-toyota-sienna-xle-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/0ffc679b-2072-4521-92f9-6006967c533e.jpg</g:image_link>
-      <g:price>18800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5TDYZ3DC0HS804984</g:vin>
-      <g:year>2017</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>Sienna XLE FWD</g:model>
-      <g:mileage>127280 mi</g:mileage>
-      <g:color>Shoreline Mist</g:color>
-      <g:body_style>MINIVAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -9413,30 +9389,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>KL7CJKSB3MB318724</g:id>
-      <g:title>2021 Chevrolet Trax LS FWD</g:title>
-      <g:description>2021 Chevrolet Trax LS FWD — 54,610 miles — used — Black Cherry Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2021-chevrolet-trax-ls-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2021-chevrolet-trax-ls-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/550fd0f6-aa58-4477-b9da-e64f5ce07748.jpg</g:image_link>
-      <g:price>15995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KL7CJKSB3MB318724</g:vin>
-      <g:year>2021</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Trax LS FWD</g:model>
-      <g:mileage>54610 mi</g:mileage>
-      <g:color>Black Cherry Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>JTMBFREV9JJ229241</g:id>
       <g:title>2018 Toyota RAV4 LE AWD</g:title>
       <g:description>2018 Toyota RAV4 LE AWD — 252,419 miles — used — Super White</g:description>
@@ -9533,6 +9485,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>5N1AT2MV1FC899094</g:id>
+      <g:title>2015 Nissan Rogue SL AWD</g:title>
+      <g:description>2015 Nissan Rogue SL AWD — 148,397 miles — used — Gun Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2015-nissan-rogue-sl-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-nissan-rogue-sl-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/37e32d19-b1f9-4bae-9137-57ea26956c52.jpg</g:image_link>
+      <g:price>14995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Nissan</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5N1AT2MV1FC899094</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Nissan</g:make>
+      <g:model>Rogue SL AWD</g:model>
+      <g:mileage>148397 mi</g:mileage>
+      <g:color>Gun Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3N1AB8BV9SY231755</g:id>
       <g:title>2025 Nissan Sentra S FWD</g:title>
       <g:description>2025 Nissan Sentra S FWD — 32,797 miles — used — Fresh Powder</g:description>
@@ -9583,7 +9559,7 @@
     <item>
       <g:id>1G1105S39JU125249</g:id>
       <g:title>2018 Chevrolet Impala LT FWD</g:title>
-      <g:description>2018 Chevrolet Impala LT FWD — 125,905 miles — used — Summit White</g:description>
+      <g:description>2018 Chevrolet Impala LT FWD — 126,091 miles — used — Summit White</g:description>
       <g:link>https://majorworld.com/inventory/2018-chevrolet-impala-lt-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2018-chevrolet-impala-lt-fwd/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f807fb83-a5ca-4bd6-96cd-04ff4f75fb29.jpg</g:image_link>
@@ -9599,7 +9575,7 @@
       <g:year>2018</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Impala LT FWD</g:model>
-      <g:mileage>125905 mi</g:mileage>
+      <g:mileage>126091 mi</g:mileage>
       <g:color>Summit White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -10013,30 +9989,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5N1AT2MV1FC899094</g:id>
-      <g:title>2015 Nissan Rogue SL AWD</g:title>
-      <g:description>2015 Nissan Rogue SL AWD — 148,397 miles — used — Gun Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2015-nissan-rogue-sl-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2015-nissan-rogue-sl-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/37e32d19-b1f9-4bae-9137-57ea26956c52.jpg</g:image_link>
-      <g:price>11800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5N1AT2MV1FC899094</g:vin>
-      <g:year>2015</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Rogue SL AWD</g:model>
-      <g:mileage>148397 mi</g:mileage>
-      <g:color>Gun Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5FNYF4H52DB017690</g:id>
       <g:title>2013 Honda Pilot EX-L 4WD</g:title>
       <g:description>2013 Honda Pilot EX-L 4WD — 110,591 miles — used — Polished Metal Metallic</g:description>
@@ -10322,6 +10274,29 @@
       <g:mileage>67493 mi</g:mileage>
       <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WDDZF4KB4KA514450</g:id>
+      <g:title>2019 Mercedes-Benz E-Class E 300 4MATIC®</g:title>
+      <g:description>2019 Mercedes-Benz E-Class E 300 4MATIC® — 61,523 miles — used</g:description>
+      <g:link>https://majorworld.com/inventory/2019-mercedes-benz-e-class-e-300-4matic/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2019-mercedes-benz-e-class-e-300-4matic/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e751e08c-619f-4ba3-aa8c-a465eb08d35c.jpg</g:image_link>
+      <g:price>24995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WDDZF4KB4KA514450</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>E-Class E 300 4MATIC®</g:model>
+      <g:mileage>61523 mi</g:mileage>
+      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
