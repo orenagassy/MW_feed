@@ -597,6 +597,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/425b7d6d-1754-4267-9306-48f1fe0c243c.jpg</url>
+    </image>
+    <vehicle_id>1FMJU1J85REA93693</vehicle_id>
+    <title>2024 Ford Expedition XLT 4WD</title>
+    <description>2024 Ford Expedition XLT 4WD — 14,374 miles — used — Agate Black Metallic</description>
+    <url>https://majorworld.com/inventory/2024-ford-expedition-xlt-4wd/</url>
+    <price>49995.00 USD</price>
+    <make>Ford</make>
+    <model>Expedition XLT 4WD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>14374</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1FMJU1J85REA93693</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Agate Black Metallic</exterior_color>
+    <interior_color>Black Onyx</interior_color>
+    <stock_number>M78299</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/d7d1fdb8-16c6-4265-ac69-a92dbfabd6e7.jpg</url>
     </image>
     <vehicle_id>1C4SDJCT8SC508789</vehicle_id>
@@ -3435,39 +3468,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/686c6d3b-b131-4232-b079-eeba88ec4c7a.jpg</url>
-    </image>
-    <vehicle_id>WBA23GG01S7T60433</vehicle_id>
-    <title>2025 BMW 2 Series 228 xDrive Gran Coupe AWD</title>
-    <description>2025 BMW 2 Series 228 xDrive Gran Coupe AWD — 15,311 miles — used — Frozen Pure Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-bmw-2-series-228-xdrive-gran-coupe-awd/</url>
-    <price>36800.00 USD</price>
-    <make>BMW</make>
-    <model>2 Series 228 xDrive Gran Coupe AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>15311</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>COUPE</body_style>
-    <vin>WBA23GG01S7T60433</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Frozen Pure Gray Metallic</exterior_color>
-    <interior_color>Mocha</interior_color>
-    <stock_number>M78185</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b821e4a7-57e0-4d7d-87a4-1e277e484aaa.jpg</url>
     </image>
     <vehicle_id>1V2WR2CA6SC531462</vehicle_id>
@@ -3633,6 +3633,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ccdb30fb-fc38-4935-88db-89e3427a1449.jpg</url>
+    </image>
+    <vehicle_id>3MW69CW02S8F30971</vehicle_id>
+    <title>2025 BMW 3 Series 330i RWD</title>
+    <description>2025 BMW 3 Series 330i RWD — 40,160 miles — used — Black Sapphire Metallic</description>
+    <url>https://majorworld.com/inventory/2025-bmw-3-series-330i-rwd/</url>
+    <price>35800.00 USD</price>
+    <make>BMW</make>
+    <model>3 Series 330i RWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>40160</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3MW69CW02S8F30971</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black Sapphire Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78670</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/14ab99e6-ed81-4818-bf38-ef45b3ef62fa.jpg</url>
     </image>
     <vehicle_id>1C4RDJDG6RC253828</vehicle_id>
@@ -3732,6 +3765,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1d6a60d0-b18b-40da-95b9-e817bf8920f9.jpg</url>
+    </image>
+    <vehicle_id>7FARS6H90PE017436</vehicle_id>
+    <title>2023 Honda CR-V Hybrid Sport Touring AWD</title>
+    <description>2023 Honda CR-V Hybrid Sport Touring AWD — 28,159 miles — used — Crystal Black Pearl</description>
+    <url>https://majorworld.com/inventory/2023-honda-cr-v-hybrid-sport-touring-awd-2/</url>
+    <price>34995.00 USD</price>
+    <make>Honda</make>
+    <model>CR-V Hybrid Sport Touring AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>28159</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>7FARS6H90PE017436</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Crystal Black Pearl</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78671</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0b858d10-3c12-46f1-8d23-ee81863822c4.jpg</url>
     </image>
     <vehicle_id>3GNKBERS9SS112772</vehicle_id>
@@ -3762,6 +3828,39 @@
     <exterior_color>Black</exterior_color>
     <interior_color>Jet Black/Red Accents</interior_color>
     <stock_number>M78025</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8f004afe-5572-4ade-8f47-21a75da9d813.jpg</url>
+    </image>
+    <vehicle_id>5J6RS6H81RL030032</vehicle_id>
+    <title>2024 Honda CR-V Hybrid Sport-L AWD</title>
+    <description>2024 Honda CR-V Hybrid Sport-L AWD — 35,975 miles — used — Still Night Pearl</description>
+    <url>https://majorworld.com/inventory/2024-honda-cr-v-hybrid-sport-l-awd/</url>
+    <price>34995.00 USD</price>
+    <make>Honda</make>
+    <model>CR-V Hybrid Sport-L AWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>35975</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>5J6RS6H81RL030032</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Still Night Pearl</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78725</stock_number>
   </listing>
   <listing>
     <image>
@@ -4128,6 +4227,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f68080be-70e8-4920-9137-2f5bd2a0951a.jpg</url>
+    </image>
+    <vehicle_id>7FARS4H73SE011870</vehicle_id>
+    <title>2025 Honda CR-V EX-L AWD</title>
+    <description>2025 Honda CR-V EX-L AWD — 23,169 miles — used — Meteorite Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-honda-cr-v-ex-l-awd/</url>
+    <price>33800.00 USD</price>
+    <make>Honda</make>
+    <model>CR-V EX-L AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>23169</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>7FARS4H73SE011870</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Meteorite Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78682</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/20378556-a672-4eb5-97c3-7746c3acd9ac.jpg</url>
     </image>
     <vehicle_id>WA1GAAFY0P2100798</vehicle_id>
@@ -4389,6 +4521,39 @@
     <exterior_color>Mythos Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77754</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6db9667b-463d-43e8-8c2d-8f4a9d207772.jpg</url>
+    </image>
+    <vehicle_id>WBA83GG00T7T53520</vehicle_id>
+    <title>2026 BMW 2 Series 228 Gran Coupe FWD</title>
+    <description>2026 BMW 2 Series 228 Gran Coupe FWD — 33,866 miles — used — Black Sapphire Metallic</description>
+    <url>https://majorworld.com/inventory/2026-bmw-2-series-228-gran-coupe-fwd-2/</url>
+    <price>32995.00 USD</price>
+    <make>BMW</make>
+    <model>2 Series 228 Gran Coupe FWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>33866</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>COUPE</body_style>
+    <vin>WBA83GG00T7T53520</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black Sapphire Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78698</stock_number>
   </listing>
   <listing>
     <image>
@@ -4785,6 +4950,39 @@
     <exterior_color>Lakeshore Blue Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M78365</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a28bf092-fb5b-45fc-bf9b-2ddb4df2a145.jpg</url>
+    </image>
+    <vehicle_id>5GAERBKW6PJ197416</vehicle_id>
+    <title>2023 Buick Enclave Essence FWD</title>
+    <description>2023 Buick Enclave Essence FWD — 24,384 miles — used — Summit White</description>
+    <url>https://majorworld.com/inventory/2023-buick-enclave-essence-fwd-2/</url>
+    <price>32800.00 USD</price>
+    <make>Buick</make>
+    <model>Enclave Essence FWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>24384</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5GAERBKW6PJ197416</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Whisper Beige</interior_color>
+    <stock_number>M78710</stock_number>
   </listing>
   <listing>
     <image>
@@ -5382,6 +5580,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8b101759-0877-49fa-a504-56807988ae24.jpg</url>
+    </image>
+    <vehicle_id>5GAEVAKW8PJ236402</vehicle_id>
+    <title>2023 Buick Enclave Essence AWD</title>
+    <description>2023 Buick Enclave Essence AWD — 39,936 miles — used — Summit White</description>
+    <url>https://majorworld.com/inventory/2023-buick-enclave-essence-awd/</url>
+    <price>31800.00 USD</price>
+    <make>Buick</make>
+    <model>Enclave Essence AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>39936</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5GAEVAKW8PJ236402</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Summit White</exterior_color>
+    <interior_color>Dark Galvanized</interior_color>
+    <stock_number>M78560</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/69d72a31-8851-43c8-a3d2-2a9e704f8717.jpg</url>
     </image>
     <vehicle_id>JM3KKCHD9R1149050</vehicle_id>
@@ -5445,6 +5676,39 @@
     <exterior_color>Deep Black Pearl</exterior_color>
     <interior_color>Titan Black</interior_color>
     <stock_number>M77970</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/66267636-f4a1-40df-a1c9-381f3e4fddf2.jpg</url>
+    </image>
+    <vehicle_id>3CZRZ2H32TM748168</vehicle_id>
+    <title>2026 Honda HR-V LX AWD</title>
+    <description>2026 Honda HR-V LX AWD — 153 miles — used — Modern Steel Metallic</description>
+    <url>https://majorworld.com/inventory/2026-honda-hr-v-lx-awd-2/</url>
+    <price>30995.00 USD</price>
+    <make>Honda</make>
+    <model>HR-V LX AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>153</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3CZRZ2H32TM748168</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Modern Steel Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78635</stock_number>
   </listing>
   <listing>
     <image>
@@ -6669,6 +6933,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/74c478cb-d8c4-495c-ab27-8da5cd027f76.jpg</url>
+    </image>
+    <vehicle_id>3GNKBCR45SS221235</vehicle_id>
+    <title>2025 Chevrolet Blazer LT FWD</title>
+    <description>2025 Chevrolet Blazer LT FWD — 22,521 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-10/</url>
+    <price>28888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Blazer LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>22521</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNKBCR45SS221235</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black/Medium Gray</interior_color>
+    <stock_number>M78332</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/da45b024-a5bc-42a7-aa0e-93232b926b3a.jpg</url>
     </image>
     <vehicle_id>3GNKBCR45SS195199</vehicle_id>
@@ -6699,6 +6996,39 @@
     <exterior_color>Black</exterior_color>
     <interior_color>Jet Black/Medium Gray</interior_color>
     <stock_number>M77995</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0e9ef479-0ede-4258-828f-f175af562799.jpg</url>
+    </image>
+    <vehicle_id>3GNKBCR44SS190706</vehicle_id>
+    <title>2025 Chevrolet Blazer LT FWD</title>
+    <description>2025 Chevrolet Blazer LT FWD — 29,583 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-blazer-lt-fwd-6/</url>
+    <price>28888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Blazer LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>29583</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNKBCR44SS190706</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Jet Black/Medium Gray</interior_color>
+    <stock_number>M78255</stock_number>
   </listing>
   <listing>
     <image>
@@ -7230,39 +7560,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b04398bf-73f7-4773-9500-6bf9cbc48220.jpg</url>
-    </image>
-    <vehicle_id>1GCPDAEK1PZ183739</vehicle_id>
-    <title>2023 Chevrolet Silverado 1500 WT 4WD</title>
-    <description>2023 Chevrolet Silverado 1500 WT 4WD — 64,500 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2023-chevrolet-silverado-1500-wt-4wd/</url>
-    <price>27887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Silverado 1500 WT 4WD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>64500</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>1GCPDAEK1PZ183739</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <stock_number>M78343</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f17b67c3-59dd-47c5-9e9d-6d0938142695.jpg</url>
     </image>
     <vehicle_id>3N8AP6CE1TL327562</vehicle_id>
@@ -7359,6 +7656,39 @@
     <exterior_color>Pyrite Silver Metallic</exterior_color>
     <interior_color>Grigio &amp; Black</interior_color>
     <stock_number>M78696</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/56e97c2a-11dd-4998-8177-74503d0b9a04.jpg</url>
+    </image>
+    <vehicle_id>3VV2C7B20SM036649</vehicle_id>
+    <title>2025 Volkswagen Taos 1.5T SE Black AWD</title>
+    <description>2025 Volkswagen Taos 1.5T SE Black AWD — 12,558 miles — used — Cornflower Blue</description>
+    <url>https://majorworld.com/inventory/2025-volkswagen-taos-1-5t-se-black-awd/</url>
+    <price>27800.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Taos 1.5T SE Black AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>12558</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VV2C7B20SM036649</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Cornflower Blue</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78802</stock_number>
   </listing>
   <listing>
     <image>
@@ -7960,7 +8290,7 @@
     </image>
     <vehicle_id>3GNAXHEG7SL220060</vehicle_id>
     <title>2025 Chevrolet Equinox LT FWD</title>
-    <description>2025 Chevrolet Equinox LT FWD — 30,383 miles — used — Sterling Gray Metallic</description>
+    <description>2025 Chevrolet Equinox LT FWD — 30,396 miles — used — Sterling Gray Metallic</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-13/</url>
     <price>26995.00 USD</price>
     <make>Chevrolet</make>
@@ -7969,7 +8299,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>30383</value>
+      <value>30396</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -8019,39 +8349,6 @@
     <exterior_color>Mosaic Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78111</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f49d4576-f107-4906-8830-69df9372be2b.jpg</url>
-    </image>
-    <vehicle_id>3GNAXHEG8SL227308</vehicle_id>
-    <title>2025 Chevrolet Equinox LT FWD</title>
-    <description>2025 Chevrolet Equinox LT FWD — 34,067 miles — used — Summit White</description>
-    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-lt-fwd-10/</url>
-    <price>26995.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox LT FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>34067</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNAXHEG8SL227308</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78113</stock_number>
   </listing>
   <listing>
     <image>
@@ -8118,39 +8415,6 @@
     <exterior_color>Jet Black Mica</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78506</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2bacf3ee-4b31-4ffc-a5af-8a7a6814276b.jpg</url>
-    </image>
-    <vehicle_id>5TDHZRBH5NS243453</vehicle_id>
-    <title>2022 Toyota Highlander XLE AWD</title>
-    <description>2022 Toyota Highlander XLE AWD — 133,503 miles — used — Wind Chill Pearl</description>
-    <url>https://majorworld.com/inventory/2022-toyota-highlander-xle-awd/</url>
-    <price>26995.00 USD</price>
-    <make>Toyota</make>
-    <model>Highlander XLE AWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>133503</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>5TDHZRBH5NS243453</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Wind Chill Pearl</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78271</stock_number>
   </listing>
   <listing>
     <image>
@@ -8517,6 +8781,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8615c064-2065-4a72-9dae-f3f2c03700a3.jpg</url>
+    </image>
+    <vehicle_id>3FMCR9B67PRD83806</vehicle_id>
+    <title>2023 Ford Bronco Sport Big Bend 4WD</title>
+    <description>2023 Ford Bronco Sport Big Bend 4WD — 32,246 miles — used — Oxford White</description>
+    <url>https://majorworld.com/inventory/2023-ford-bronco-sport-big-bend-4wd/</url>
+    <price>26800.00 USD</price>
+    <make>Ford</make>
+    <model>Bronco Sport Big Bend 4WD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>32246</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3FMCR9B67PRD83806</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Oxford White</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78639</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9d7dc278-17be-4c42-ba5a-3af5c000f755.jpg</url>
     </image>
     <vehicle_id>1FMSK7DH9PGA89155</vehicle_id>
@@ -8580,39 +8877,6 @@
     <exterior_color>Riptide Blue Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M72275</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4720ea13-aab6-4232-bcb6-ee8516f47f6a.jpg</url>
-    </image>
-    <vehicle_id>3VV3B7AX3RM062791</vehicle_id>
-    <title>2024 Volkswagen Tiguan 2.0T SE FWD</title>
-    <description>2024 Volkswagen Tiguan 2.0T SE FWD — 13,628 miles — used — Silver</description>
-    <url>https://majorworld.com/inventory/2024-volkswagen-tiguan-2-0t-se-fwd/</url>
-    <price>25995.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Tiguan 2.0T SE FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>13628</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3VV3B7AX3RM062791</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Silver</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M78577</stock_number>
   </listing>
   <listing>
     <image>
@@ -9342,39 +9606,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a5101faa-eb7d-4a95-9164-575fb2d75f72.jpg</url>
-    </image>
-    <vehicle_id>5YFB4MDEXSP261171</vehicle_id>
-    <title>2025 Toyota Corolla LE FWD</title>
-    <description>2025 Toyota Corolla LE FWD — 13,350 miles — used — Blueprint</description>
-    <url>https://majorworld.com/inventory/2025-toyota-corolla-le-fwd/</url>
-    <price>24995.00 USD</price>
-    <make>Toyota</make>
-    <model>Corolla LE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>13350</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>5YFB4MDEXSP261171</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Blueprint</exterior_color>
-    <interior_color>Macadamia</interior_color>
-    <stock_number>M77872</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/55cbb06c-c71c-486d-ad69-a9e0f88c4166.jpg</url>
     </image>
     <vehicle_id>1N4BL4DV0SN385763</vehicle_id>
@@ -9438,39 +9669,6 @@
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18080</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/83b10064-ffd8-40b0-afd3-4e97832d3ef8.jpg</url>
-    </image>
-    <vehicle_id>3GNAXUEG0RS118012</vehicle_id>
-    <title>2024 Chevrolet Equinox LT AWD</title>
-    <description>2024 Chevrolet Equinox LT AWD — 20,529 miles — used — Summit White</description>
-    <url>https://majorworld.com/inventory/2024-chevrolet-equinox-lt-awd/</url>
-    <price>24995.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox LT AWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>20529</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNAXUEG0RS118012</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <stock_number>M78603</stock_number>
   </listing>
   <listing>
     <image>
@@ -9735,38 +9933,6 @@
     <exterior_color>Midnight Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M76028</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e751e08c-619f-4ba3-aa8c-a465eb08d35c.jpg</url>
-    </image>
-    <vehicle_id>WDDZF4KB4KA514450</vehicle_id>
-    <title>2019 Mercedes-Benz E-Class E 300 4MATIC®</title>
-    <description>2019 Mercedes-Benz E-Class E 300 4MATIC® — 61,523 miles — used</description>
-    <url>https://majorworld.com/inventory/2019-mercedes-benz-e-class-e-300-4matic/</url>
-    <price>24995.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>E-Class E 300 4MATIC®</model>
-    <year>2019</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>61523</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>WDDZF4KB4KA514450</vin>
-    <transmission>AUTOMATIC</transmission>
-    <interior_color>-</interior_color>
-    <stock_number>M78787</stock_number>
   </listing>
   <listing>
     <image>
@@ -10196,6 +10362,39 @@
     <exterior_color>Aurora Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M75712</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/39e75f42-c97c-4247-84f6-992ad5dcdd94.jpg</url>
+    </image>
+    <vehicle_id>KL77LHE2XRC040156</vehicle_id>
+    <title>2024 Chevrolet Trax LT FWD</title>
+    <description>2024 Chevrolet Trax LT FWD — 17,956 miles — used — Sterling Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2024-chevrolet-trax-lt-fwd-4/</url>
+    <price>23995.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax LT FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>17956</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LHE2XRC040156</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M78720</stock_number>
   </listing>
   <listing>
     <image>
@@ -10661,39 +10860,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/910385ab-e6a2-4b11-9f2b-5b7f6a8a91a1.jpg</url>
-    </image>
-    <vehicle_id>KMHRC8A36SU379132</vehicle_id>
-    <title>2025 Hyundai Venue SEL FWD</title>
-    <description>2025 Hyundai Venue SEL FWD — 18,391 miles — used — Ultimate Red</description>
-    <url>https://majorworld.com/inventory/2025-hyundai-venue-sel-fwd-2/</url>
-    <price>23800.00 USD</price>
-    <make>Hyundai</make>
-    <model>Venue SEL FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>18391</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>KMHRC8A36SU379132</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Ultimate Red</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78323</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bed727e8-c7eb-4914-8941-c392589d299c.jpg</url>
     </image>
     <vehicle_id>3KPFT4DE2SE044445</vehicle_id>
@@ -10727,39 +10893,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/50ca9600-b96a-484a-b88b-d549b0e9d38b.jpg</url>
-    </image>
-    <vehicle_id>1N4BL4DV5SN380462</vehicle_id>
-    <title>2025 Nissan Altima 2.5 SV FWD</title>
-    <description>2025 Nissan Altima 2.5 SV FWD — 28,879 miles — used — Gun Metallic</description>
-    <url>https://majorworld.com/inventory/2025-nissan-altima-2-5-sv-fwd-22/</url>
-    <price>23800.00 USD</price>
-    <make>Nissan</make>
-    <model>Altima 2.5 SV FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>28879</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>1N4BL4DV5SN380462</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Gun Metallic</exterior_color>
-    <interior_color>Charcoal</interior_color>
-    <stock_number>M78070</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9c9ad81f-9c2b-4202-b0e5-f033b5d82be9.jpg</url>
     </image>
     <vehicle_id>KMHRC8A33SU386300</vehicle_id>
@@ -10790,6 +10923,39 @@
     <exterior_color>Lunar White</exterior_color>
     <interior_color>Gray</interior_color>
     <stock_number>M78120</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/705b35fc-a886-48a8-8a6d-8949d8973717.jpg</url>
+    </image>
+    <vehicle_id>3KPFT4DE5SE054418</vehicle_id>
+    <title>2025 Kia K4 LXS FWD</title>
+    <description>2025 Kia K4 LXS FWD — 29,898 miles — used — Aurora Black Pearl</description>
+    <url>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-7/</url>
+    <price>23800.00 USD</price>
+    <make>Kia</make>
+    <model>K4 LXS FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>29898</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3KPFT4DE5SE054418</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Aurora Black Pearl</exterior_color>
+    <interior_color>Gray</interior_color>
+    <stock_number>M78716</stock_number>
   </listing>
   <listing>
     <image>
@@ -11552,39 +11718,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/86965b62-83dd-488d-9e4e-671e59fb0132.jpg</url>
-    </image>
-    <vehicle_id>3GNAXTEV6NL134986</vehicle_id>
-    <title>2022 Chevrolet Equinox LT AWD</title>
-    <description>2022 Chevrolet Equinox LT AWD — 60,057 miles — used — Silver Ice Metallic</description>
-    <url>https://majorworld.com/inventory/2022-chevrolet-equinox-lt-awd-2/</url>
-    <price>22995.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox LT AWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>60057</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNAXTEV6NL134986</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Silver Ice Metallic</exterior_color>
-    <interior_color>Medium Ash Gray</interior_color>
-    <stock_number>J18285</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4f1c0bd0-a78a-4f4e-897b-5fabc0d1f3bc.jpg</url>
     </image>
     <vehicle_id>3VWEX7BU6SM035102</vehicle_id>
@@ -11714,39 +11847,6 @@
     <exterior_color>Summit White</exterior_color>
     <interior_color>Dark Atmosphere/Medium Ash Gray</interior_color>
     <stock_number>M78367</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/681b2720-ee89-48a0-adcf-538b3bd5561f.jpg</url>
-    </image>
-    <vehicle_id>KMHLM4DG0RU728841</vehicle_id>
-    <title>2024 Hyundai Elantra SEL FWD</title>
-    <description>2024 Hyundai Elantra SEL FWD — 26,327 miles — used — Ultimate Red</description>
-    <url>https://majorworld.com/inventory/2024-hyundai-elantra-sel-fwd/</url>
-    <price>22800.00 USD</price>
-    <make>Hyundai</make>
-    <model>Elantra SEL FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>26327</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>KMHLM4DG0RU728841</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Ultimate Red</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78298</stock_number>
   </listing>
   <listing>
     <image>
@@ -13529,6 +13629,39 @@
     <exterior_color>Fluid Metal</exterior_color>
     <interior_color>Gray</interior_color>
     <stock_number>M78297</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2821c6bf-0f0c-42c5-81cf-7b4385c34b6c.jpg</url>
+    </image>
+    <vehicle_id>3GNAXKEV2KS610923</vehicle_id>
+    <title>2019 Chevrolet Equinox LT FWD</title>
+    <description>2019 Chevrolet Equinox LT FWD — 69,461 miles — used — Nightfall Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2019-chevrolet-equinox-lt-fwd/</url>
+    <price>16800.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox LT FWD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>69461</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNAXKEV2KS610923</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Nightfall Gray Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>J18050</stock_number>
   </listing>
   <listing>
     <image>
