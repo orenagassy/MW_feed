@@ -828,39 +828,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/95b424fb-e3c8-49c7-bf48-612213a0fe5d.jpg</url>
-    </image>
-    <vehicle_id>19UUB5F31MA000374</vehicle_id>
-    <title>2021 Acura TLX Base FWD</title>
-    <description>2021 Acura TLX Base FWD — 43,168 miles — used — Majestic Black Pearl</description>
-    <url>https://majorworld.com/inventory/2021-acura-tlx-base-fwd-2/</url>
-    <price>24887.00 USD</price>
-    <make>Acura</make>
-    <model>TLX Base FWD</model>
-    <year>2021</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>43168</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>19UUB5F31MA000374</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Majestic Black Pearl</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>J18245</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0e2221d1-2351-46a4-bfae-49a23d2ab33c.jpg</url>
     </image>
     <vehicle_id>1N6ED1EJ0SN629763</vehicle_id>
