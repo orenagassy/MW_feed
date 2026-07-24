@@ -564,39 +564,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/96fe61e4-405a-430e-94df-470408e9c0a3.jpg</url>
-    </image>
-    <vehicle_id>2T3F1RFVXSC512864</vehicle_id>
-    <title>2025 Toyota RAV4 LE AWD</title>
-    <description>2025 Toyota RAV4 LE AWD — 21,498 miles — used — Magnetic Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-toyota-rav4-le-awd/</url>
-    <price>29887.00 USD</price>
-    <make>Toyota</make>
-    <model>RAV4 LE AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>21498</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>2T3F1RFVXSC512864</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Magnetic Gray Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78522</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f5583eb0-694c-41e1-a59b-be28aad8066d.jpg</url>
     </image>
     <vehicle_id>1V2JP2CA5NC543767</vehicle_id>
