@@ -178,7 +178,7 @@
       <g:description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</g:description>
       <g:link>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/14b4f7d6-44f8-4399-a6d1-c559d54ac7ad.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/951f830c-bcfd-4256-900f-289c0a11f931.jpg</g:image_link>
       <g:price>39887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -389,6 +389,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3GN7DLRP0SS144607</g:id>
+      <g:title>2025 Chevrolet Equinox EV LT FWD</g:title>
+      <g:description>2025 Chevrolet Equinox EV LT FWD — 13 miles — used — Galaxy Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3512b4b6-caa8-4c92-b057-a909611a9d44.jpg</g:image_link>
+      <g:price>29887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3GN7DLRP0SS144607</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox EV LT FWD</g:model>
+      <g:mileage>13 mi</g:mileage>
+      <g:color>Galaxy Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1C4HJXDN8PW634842</g:id>
       <g:title>2023 Jeep Wrangler Sport 4WD</g:title>
       <g:description>2023 Jeep Wrangler Sport 4WD — 438 miles — used — Bright White Clearcoat</g:description>
@@ -505,6 +529,30 @@
       <g:model>Explorer XLT 4WD</g:model>
       <g:mileage>38786 mi</g:mileage>
       <g:color>Iconic Silver Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4RJJAG4R8550886</g:id>
+      <g:title>2024 Jeep Grand Cherokee L Laredo RWD</g:title>
+      <g:description>2024 Jeep Grand Cherokee L Laredo RWD — 51,642 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-4/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-4/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/016a3d40-edab-4ed2-9000-fdada7874ae4.jpg</g:image_link>
+      <g:price>27887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJJAG4R8550886</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee L Laredo RWD</g:model>
+      <g:mileage>51642 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1059,6 +1107,30 @@
       <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3VWB17AJ0GM238344</g:id>
+      <g:title>2016 Volkswagen Jetta 1.8T Sport FWD</g:title>
+      <g:description>2016 Volkswagen Jetta 1.8T Sport FWD — 72,039 miles — used — Black Uni</g:description>
+      <g:link>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f13d3d6a-c677-477b-88b6-ef41c405ad11.jpg</g:image_link>
+      <g:price>11887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VWB17AJ0GM238344</g:vin>
+      <g:year>2016</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Jetta 1.8T Sport FWD</g:model>
+      <g:mileage>72039 mi</g:mileage>
+      <g:color>Black Uni</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>MANUAL</g:transmission>
     </item>
     <item>
       <g:id>JM3KE4CY5E0321503</g:id>
