@@ -234,7 +234,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/14b4f7d6-44f8-4399-a6d1-c559d54ac7ad.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/951f830c-bcfd-4256-900f-289c0a11f931.jpg</url>
     </image>
     <vehicle_id>19UUB5F47SA000515</vehicle_id>
     <title>2025 Acura TLX Technology Package FWD</title>
@@ -531,6 +531,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3512b4b6-caa8-4c92-b057-a909611a9d44.jpg</url>
+    </image>
+    <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
+    <title>2025 Chevrolet Equinox EV LT FWD</title>
+    <description>2025 Chevrolet Equinox EV LT FWD — 13 miles — used — Galaxy Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd/</url>
+    <price>29887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox EV LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>13</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GN7DLRP0SS144607</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Galaxy Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78757</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2031e9f0-a72f-4d96-aa25-8d294300e563.jpg</url>
     </image>
     <vehicle_id>1C4HJXDN8PW634842</vehicle_id>
@@ -693,6 +726,39 @@
     <exterior_color>Iconic Silver Metallic</exterior_color>
     <interior_color>Light Slate</interior_color>
     <stock_number>M78359</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/016a3d40-edab-4ed2-9000-fdada7874ae4.jpg</url>
+    </image>
+    <vehicle_id>1C4RJJAG4R8550886</vehicle_id>
+    <title>2024 Jeep Grand Cherokee L Laredo RWD</title>
+    <description>2024 Jeep Grand Cherokee L Laredo RWD — 51,642 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-4/</url>
+    <price>27887.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee L Laredo RWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>51642</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJJAG4R8550886</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <stock_number>M78430</stock_number>
   </listing>
   <listing>
     <image>
@@ -1452,6 +1518,39 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78547</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f13d3d6a-c677-477b-88b6-ef41c405ad11.jpg</url>
+    </image>
+    <vehicle_id>3VWB17AJ0GM238344</vehicle_id>
+    <title>2016 Volkswagen Jetta 1.8T Sport FWD</title>
+    <description>2016 Volkswagen Jetta 1.8T Sport FWD — 72,039 miles — used — Black Uni</description>
+    <url>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/</url>
+    <price>11887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Jetta 1.8T Sport FWD</model>
+    <year>2016</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>72039</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VWB17AJ0GM238344</vin>
+    <transmission>MANUAL</transmission>
+    <exterior_color>Black Uni</exterior_color>
+    <interior_color>2-Tone Black/Ceramique</interior_color>
+    <stock_number>J18421</stock_number>
   </listing>
   <listing>
     <image>
