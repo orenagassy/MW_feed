@@ -729,39 +729,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/016a3d40-edab-4ed2-9000-fdada7874ae4.jpg</url>
-    </image>
-    <vehicle_id>1C4RJJAG4R8550886</vehicle_id>
-    <title>2024 Jeep Grand Cherokee L Laredo RWD</title>
-    <description>2024 Jeep Grand Cherokee L Laredo RWD — 51,642 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-l-laredo-rwd-4/</url>
-    <price>27887.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee L Laredo RWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51642</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJJAG4R8550886</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <stock_number>M78430</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7fdaf948-f746-42aa-bb3c-d1675fe6afd8.jpg</url>
     </image>
     <vehicle_id>2T3F1RFV0SC502733</vehicle_id>
@@ -795,39 +762,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/28576b83-4a63-4da2-9843-04a8068692a1.jpg</url>
-    </image>
-    <vehicle_id>1FMSK8DH7PGA98913</vehicle_id>
-    <title>2023 Ford Explorer XLT 4WD</title>
-    <description>2023 Ford Explorer XLT 4WD — 41,617 miles — used — Stone Blue Metallic</description>
-    <url>https://majorworld.com/inventory/2023-ford-explorer-xlt-4wd-3/</url>
-    <price>26887.00 USD</price>
-    <make>Ford</make>
-    <model>Explorer XLT 4WD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>41617</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1FMSK8DH7PGA98913</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Stone Blue Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>M78592</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a5178d6c-9ac2-4d8c-adbc-32be0ac2b822.jpg</url>
     </image>
     <vehicle_id>3CZRZ1H77SM716182</vehicle_id>
@@ -858,39 +792,6 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78401</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0e2221d1-2351-46a4-bfae-49a23d2ab33c.jpg</url>
-    </image>
-    <vehicle_id>1N6ED1EJ0SN629763</vehicle_id>
-    <title>2025 Nissan Frontier S RWD</title>
-    <description>2025 Nissan Frontier S RWD — 44,471 miles — used — Glacier White</description>
-    <url>https://majorworld.com/inventory/2025-nissan-frontier-s-rwd/</url>
-    <price>24887.00 USD</price>
-    <make>Nissan</make>
-    <model>Frontier S RWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>44471</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>1N6ED1EJ0SN629763</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Glacier White</exterior_color>
-    <interior_color>Charcoal</interior_color>
-    <stock_number>M78666</stock_number>
   </listing>
   <listing>
     <image>
