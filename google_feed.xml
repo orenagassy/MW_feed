@@ -245,6 +245,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1V2BR2CA7SC506164</g:id>
+      <g:title>2025 Volkswagen Atlas 2.0T SEL AWD</g:title>
+      <g:description>2025 Volkswagen Atlas 2.0T SEL AWD — 14,730 miles — used — Deep Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/bbfa5d5a-c395-4be7-b1bd-e9d6777eae4b.jpg</g:image_link>
+      <g:price>37887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1V2BR2CA7SC506164</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Atlas 2.0T SEL AWD</g:model>
+      <g:mileage>14730 mi</g:mileage>
+      <g:color>Deep Black Pearl</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>WAUE3BF29RN039460</g:id>
       <g:title>2024 Audi A6 45 Premium Plus quattro</g:title>
       <g:description>2024 Audi A6 45 Premium Plus quattro — 6,980 miles — used — Glacier White</g:description>
