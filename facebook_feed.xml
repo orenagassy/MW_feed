@@ -333,6 +333,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bbfa5d5a-c395-4be7-b1bd-e9d6777eae4b.jpg</url>
+    </image>
+    <vehicle_id>1V2BR2CA7SC506164</vehicle_id>
+    <title>2025 Volkswagen Atlas 2.0T SEL AWD</title>
+    <description>2025 Volkswagen Atlas 2.0T SEL AWD — 14,730 miles — used — Deep Black Pearl</description>
+    <url>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/</url>
+    <price>37887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Atlas 2.0T SEL AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>14730</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>1V2BR2CA7SC506164</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Deep Black Pearl</exterior_color>
+    <interior_color>Titan Black</interior_color>
+    <stock_number>M78777</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5716af8f-c3c7-4402-a758-5543d555d0c5.jpg</url>
     </image>
     <vehicle_id>WAUE3BF29RN039460</vehicle_id>
