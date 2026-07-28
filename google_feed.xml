@@ -1085,6 +1085,30 @@
       <g:transmission>MANUAL</g:transmission>
     </item>
     <item>
+      <g:id>5J8TB18239A003809</g:id>
+      <g:title>2009 Acura RDX Base AWD</g:title>
+      <g:description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</g:description>
+      <g:link>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2009-acura-rdx-base-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/598ce132-52df-4990-8782-1879e9693da4.jpg</g:image_link>
+      <g:price>10888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Acura</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5J8TB18239A003809</g:vin>
+      <g:year>2009</g:year>
+      <g:make>Acura</g:make>
+      <g:model>RDX Base AWD</g:model>
+      <g:mileage>64521 mi</g:mileage>
+      <g:color>Gray</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>JM3KE4CY5E0321503</g:id>
       <g:title>2014 Mazda CX-5 Touring AWD</g:title>
       <g:description>2014 Mazda CX-5 Touring AWD — 136,816 miles — used — Crystal White Pearl</g:description>
@@ -1106,30 +1130,6 @@
       <g:mileage>136816 mi</g:mileage>
       <g:color>Crystal White Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5J8TB18239A003809</g:id>
-      <g:title>2009 Acura RDX Base AWD</g:title>
-      <g:description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</g:description>
-      <g:link>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2009-acura-rdx-base-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9761a8a8-eab9-45c8-b8b9-07fb7225a744.jpg</g:image_link>
-      <g:price>7887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Acura</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5J8TB18239A003809</g:vin>
-      <g:year>2009</g:year>
-      <g:make>Acura</g:make>
-      <g:model>RDX Base AWD</g:model>
-      <g:mileage>64521 mi</g:mileage>
-      <g:color>Gray</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
