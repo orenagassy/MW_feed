@@ -1488,6 +1488,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/598ce132-52df-4990-8782-1879e9693da4.jpg</url>
+    </image>
+    <vehicle_id>5J8TB18239A003809</vehicle_id>
+    <title>2009 Acura RDX Base AWD</title>
+    <description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</description>
+    <url>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</url>
+    <price>10888.00 USD</price>
+    <make>Acura</make>
+    <model>RDX Base AWD</model>
+    <year>2009</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>64521</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5J8TB18239A003809</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Gray</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M78495</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/398ead89-44c0-42f5-8ba7-36854e44fc85.jpg</url>
     </image>
     <vehicle_id>JM3KE4CY5E0321503</vehicle_id>
@@ -1518,38 +1551,5 @@
     <exterior_color>Crystal White Pearl</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77958</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9761a8a8-eab9-45c8-b8b9-07fb7225a744.jpg</url>
-    </image>
-    <vehicle_id>5J8TB18239A003809</vehicle_id>
-    <title>2009 Acura RDX Base AWD</title>
-    <description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</description>
-    <url>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</url>
-    <price>7887.00 USD</price>
-    <make>Acura</make>
-    <model>RDX Base AWD</model>
-    <year>2009</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>64521</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>5J8TB18239A003809</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Gray</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M78495</stock_number>
   </listing>
 </listings>
