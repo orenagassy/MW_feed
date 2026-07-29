@@ -399,40 +399,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/284c0ec6-e7d7-4f0c-ba58-7f86d8525b66.jpg</url>
-    </image>
-    <vehicle_id>W1KAF4HB6SR243798</vehicle_id>
-    <title>2025 Mercedes-Benz C-Class C 300 4MATIC®</title>
-    <description>2025 Mercedes-Benz C-Class C 300 4MATIC® — 33,833 miles — used — White</description>
-    <url>https://majorworld.com/inventory/2025-mercedes-benz-c-class-c-300-4matic-3/</url>
-    <price>35887.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>C-Class C 300 4MATIC®</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>33833</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>W1KAF4HB6SR243798</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>White</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M78240</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3532c361-6414-41c5-83f6-ac17207db943.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6586d148-bde1-41b8-8602-4de7f805689c.jpg</url>
     </image>
     <vehicle_id>5J8YE1H48PL024509</vehicle_id>
     <title>2023 Acura MDX Technology AWD</title>
@@ -663,39 +630,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3bd99a40-7c24-45b7-92f1-d67fc1ab7f3f.jpg</url>
-    </image>
-    <vehicle_id>1C4RJGAG4RC707915</vehicle_id>
-    <title>2024 Jeep Grand Cherokee Laredo RWD</title>
-    <description>2024 Jeep Grand Cherokee Laredo RWD — 54,573 miles — used — Diamond Black Crystal Pearlcoat</description>
-    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/</url>
-    <price>28887.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee Laredo RWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>54573</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJGAG4RC707915</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Diamond Black Crystal Pearlcoat</exterior_color>
-    <interior_color>Global Black</interior_color>
-    <stock_number>M77908</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c7a26ee4-5dde-421f-a4d0-6047b1a932a2.jpg</url>
     </image>
     <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
@@ -828,6 +762,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/559c8950-d0ea-42de-81b4-10c2a3fe2fa6.jpg</url>
+    </image>
+    <vehicle_id>1C4RJGAG4RC707915</vehicle_id>
+    <title>2024 Jeep Grand Cherokee Laredo</title>
+    <description>2024 Jeep Grand Cherokee Laredo — 54,573 miles — used — Diamond Black Crystal Pearlcoat</description>
+    <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/</url>
+    <price>25887.00 USD</price>
+    <make>Jeep</make>
+    <model>Grand Cherokee Laredo</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>54573</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4RJGAG4RC707915</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Diamond Black Crystal Pearlcoat</exterior_color>
+    <interior_color>Global Black</interior_color>
+    <stock_number>M77908</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e240360f-1fe8-48df-bbde-b8bff64c51ac.jpg</url>
     </image>
     <vehicle_id>3VV2X7B20PM343928</vehicle_id>
@@ -894,20 +861,20 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/65dd3057-5fb3-472d-a5d4-6169eaa32db8.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/359e1a95-c0a1-438e-92ba-2e0afc5bdd1c.jpg</url>
     </image>
-    <vehicle_id>5GAERBKW4NJ177002</vehicle_id>
-    <title>2022 Buick Enclave Essence FWD</title>
-    <description>2022 Buick Enclave Essence FWD — 41,511 miles — used — Sage Metallic</description>
-    <url>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/</url>
+    <vehicle_id>19UUB5F31MA000374</vehicle_id>
+    <title>2021 Acura TLX Base FWD</title>
+    <description>2021 Acura TLX Base FWD — 43,168 miles — used — Majestic Black Pearl</description>
+    <url>https://majorworld.com/inventory/2021-acura-tlx-base-fwd/</url>
     <price>22887.00 USD</price>
-    <make>Buick</make>
-    <model>Enclave Essence FWD</model>
-    <year>2022</year>
+    <make>Acura</make>
+    <model>TLX Base FWD</model>
+    <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>41511</value>
+      <value>43168</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -919,21 +886,21 @@
     <latitude>40.753055</latitude>
     <longitude>-73.919108</longitude>
     <body_style>SEDAN</body_style>
-    <vin>5GAERBKW4NJ177002</vin>
+    <vin>19UUB5F31MA000374</vin>
     <transmission>AUTOMATIC</transmission>
-    <exterior_color>Sage Metallic</exterior_color>
-    <interior_color>Whisper Beige</interior_color>
-    <stock_number>M77175</stock_number>
+    <exterior_color>Majestic Black Pearl</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>J18245</stock_number>
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e862245f-8a45-4db4-abb1-83e58601f86d.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/69bd5d8d-c97d-4a80-87a8-dd303254b4c3.jpg</url>
     </image>
     <vehicle_id>JM3TCBCY5P0637145</vehicle_id>
     <title>2023 Mazda CX-9 Touring AWD</title>
     <description>2023 Mazda CX-9 Touring AWD — 11,725 miles — used — Soul Red Crystal Metallic</description>
     <url>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd/</url>
-    <price>21995.00 USD</price>
+    <price>21887.00 USD</price>
     <make>Mazda</make>
     <model>CX-9 Touring AWD</model>
     <year>2023</year>
@@ -957,6 +924,39 @@
     <exterior_color>Soul Red Crystal Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M73711</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c6a6f9e5-cf34-4c7e-ba98-3a1c1ce9b05a.jpg</url>
+    </image>
+    <vehicle_id>5GAERBKW4NJ177002</vehicle_id>
+    <title>2022 Buick Enclave Essence FWD</title>
+    <description>2022 Buick Enclave Essence FWD — 41,511 miles — used — Sage Metallic</description>
+    <url>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/</url>
+    <price>21887.00 USD</price>
+    <make>Buick</make>
+    <model>Enclave Essence FWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>41511</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5GAERBKW4NJ177002</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sage Metallic</exterior_color>
+    <interior_color>Whisper Beige</interior_color>
+    <stock_number>M77175</stock_number>
   </listing>
   <listing>
     <image>
@@ -1224,39 +1224,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/451551df-4629-4527-800c-e62d0826cc03.jpg</url>
-    </image>
-    <vehicle_id>3KPFT4DE0SE014330</vehicle_id>
-    <title>2025 Kia K4 LXS FWD</title>
-    <description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</description>
-    <url>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</url>
-    <price>17887.00 USD</price>
-    <make>Kia</make>
-    <model>K4 LXS FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>35861</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>3KPFT4DE0SE014330</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Deep Sea Blue</exterior_color>
-    <interior_color>Gray</interior_color>
-    <stock_number>M78076</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f66644db-a5f7-4aea-a1a4-d745ceece2dd.jpg</url>
     </image>
     <vehicle_id>5N1BT3BA1RC695684</vehicle_id>
@@ -1323,6 +1290,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/444795cc-d9a2-4d40-9941-39e1e4a1c54e.jpg</url>
+    </image>
+    <vehicle_id>JN1EV7AR3JM430552</vehicle_id>
+    <title>2018 INFINITI Q50 3.0t LUXE AWD</title>
+    <description>2018 INFINITI Q50 3.0t LUXE AWD — 44,058 miles — used — Graphite Shadow</description>
+    <url>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/</url>
+    <price>16587.00 USD</price>
+    <make>INFINITI</make>
+    <model>Q50 3.0t LUXE AWD</model>
+    <year>2018</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>44058</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>JN1EV7AR3JM430552</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Graphite Shadow</exterior_color>
+    <interior_color>Graphite</interior_color>
+    <stock_number>M62384</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/54d9fb1a-4a27-4374-894b-9f0020aa1e2c.jpg</url>
     </image>
     <vehicle_id>3N1CN8EV2SL856443</vehicle_id>
@@ -1353,6 +1353,72 @@
     <exterior_color>Super Black Metallic</exterior_color>
     <interior_color>Graphite</interior_color>
     <stock_number>M78535</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f0a6ec29-de17-4103-8672-cc6715caf6a9.jpg</url>
+    </image>
+    <vehicle_id>3KPFT4DE0SE014330</vehicle_id>
+    <title>2025 Kia K4 LXS FWD</title>
+    <description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</description>
+    <url>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</url>
+    <price>15887.00 USD</price>
+    <make>Kia</make>
+    <model>K4 LXS FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>35861</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3KPFT4DE0SE014330</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Deep Sea Blue</exterior_color>
+    <interior_color>Gray</interior_color>
+    <stock_number>M78076</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ec41605-de26-43ca-9e9c-286b894e7472.jpg</url>
+    </image>
+    <vehicle_id>19XFC2F60ME200401</vehicle_id>
+    <title>2021 Honda Civic LX FWD</title>
+    <description>2021 Honda Civic LX FWD — 7,803 miles — used — White</description>
+    <url>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/</url>
+    <price>14887.00 USD</price>
+    <make>Honda</make>
+    <model>Civic LX FWD</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>7803</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>19XFC2F60ME200401</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>White</exterior_color>
+    <interior_color>Gray</interior_color>
+    <stock_number>M67488</stock_number>
   </listing>
   <listing>
     <image>
@@ -1389,13 +1455,13 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/aab13b93-cc93-4211-bdd2-f0be7e463187.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cd893bb9-ed72-4a9d-8a93-93b786b1bcbf.jpg</url>
     </image>
     <vehicle_id>1C6RR7FT6KS545500</vehicle_id>
     <title>2019 Ram 1500 Classic Express 4WD</title>
     <description>2019 Ram 1500 Classic Express 4WD — 129,761 miles — used — Bright White Clearcoat</description>
     <url>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd/</url>
-    <price>13888.00 USD</price>
+    <price>12887.00 USD</price>
     <make>Ram</make>
     <model>1500 Classic Express 4WD</model>
     <year>2019</year>
@@ -1422,13 +1488,46 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9007909f-17dc-4204-a592-abda77317f08.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/54276c76-95f7-418d-af68-89b359ddc45f.jpg</url>
+    </image>
+    <vehicle_id>3GCUKREC5HG220129</vehicle_id>
+    <title>2017 Chevrolet Silverado 1500 LT 4WD</title>
+    <description>2017 Chevrolet Silverado 1500 LT 4WD — 103,639 miles — used — Graphite Metallic</description>
+    <url>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd/</url>
+    <price>11888.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Silverado 1500 LT 4WD</model>
+    <year>2017</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>103639</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>PICKUP</body_style>
+    <vin>3GCUKREC5HG220129</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Graphite Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M77228</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/726b33ea-8854-416c-9318-45fffd02f349.jpg</url>
     </image>
     <vehicle_id>19XFC2F69KE024493</vehicle_id>
     <title>2019 Honda Civic LX FWD</title>
     <description>2019 Honda Civic LX FWD — 61,264 miles — used — White</description>
     <url>https://majorworld.com/inventory/2019-honda-civic-lx-fwd/</url>
-    <price>13887.00 USD</price>
+    <price>11887.00 USD</price>
     <make>Honda</make>
     <model>Civic LX FWD</model>
     <year>2019</year>
@@ -1488,39 +1587,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/598ce132-52df-4990-8782-1879e9693da4.jpg</url>
-    </image>
-    <vehicle_id>5J8TB18239A003809</vehicle_id>
-    <title>2009 Acura RDX Base AWD</title>
-    <description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</description>
-    <url>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</url>
-    <price>10888.00 USD</price>
-    <make>Acura</make>
-    <model>RDX Base AWD</model>
-    <year>2009</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>64521</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>5J8TB18239A003809</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Gray</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M78495</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/398ead89-44c0-42f5-8ba7-36854e44fc85.jpg</url>
     </image>
     <vehicle_id>JM3KE4CY5E0321503</vehicle_id>
@@ -1551,5 +1617,38 @@
     <exterior_color>Crystal White Pearl</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M77958</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD30TOC041A01300.jpg</url>
+    </image>
+    <vehicle_id>5YFB4MDE0TP387699</vehicle_id>
+    <title>2026 Toyota Corolla LE FWD</title>
+    <description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</description>
+    <url>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3/</url>
+    <price>22887.00 USD</price>
+    <make>Toyota</make>
+    <model>Corolla LE FWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>8176</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5YFB4MDE0TP387699</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Classic Silver Metallic</exterior_color>
+    <interior_color>Macadamia</interior_color>
+    <stock_number>M78737</stock_number>
   </listing>
 </listings>
