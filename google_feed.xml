@@ -293,36 +293,12 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>W1KAF4HB6SR243798</g:id>
-      <g:title>2025 Mercedes-Benz C-Class C 300 4MATIC®</g:title>
-      <g:description>2025 Mercedes-Benz C-Class C 300 4MATIC® — 33,833 miles — used — White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-c-class-c-300-4matic-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-mercedes-benz-c-class-c-300-4matic-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/284c0ec6-e7d7-4f0c-ba58-7f86d8525b66.jpg</g:image_link>
-      <g:price>35887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>W1KAF4HB6SR243798</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>C-Class C 300 4MATIC®</g:model>
-      <g:mileage>33833 mi</g:mileage>
-      <g:color>White</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5J8YE1H48PL024509</g:id>
       <g:title>2023 Acura MDX Technology AWD</g:title>
       <g:description>2023 Acura MDX Technology AWD — 47,722 miles — used — Platinum White Pearl</g:description>
       <g:link>https://majorworld.com/inventory/2023-acura-mdx-technology-awd-2/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-acura-mdx-technology-awd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3532c361-6414-41c5-83f6-ac17207db943.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6586d148-bde1-41b8-8602-4de7f805689c.jpg</g:image_link>
       <g:price>35887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -485,30 +461,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4RJGAG4RC707915</g:id>
-      <g:title>2024 Jeep Grand Cherokee Laredo RWD</g:title>
-      <g:description>2024 Jeep Grand Cherokee Laredo RWD — 54,573 miles — used — Diamond Black Crystal Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3bd99a40-7c24-45b7-92f1-d67fc1ab7f3f.jpg</g:image_link>
-      <g:price>28887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJGAG4RC707915</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee Laredo RWD</g:model>
-      <g:mileage>54573 mi</g:mileage>
-      <g:color>Diamond Black Crystal Pearlcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>2FMPK4J92RBA06080</g:id>
       <g:title>2024 Ford Edge SEL AWD</g:title>
       <g:description>2024 Ford Edge SEL AWD — 21,047 miles — used — Agate Black Metallic</g:description>
@@ -605,6 +557,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1C4RJGAG4RC707915</g:id>
+      <g:title>2024 Jeep Grand Cherokee Laredo</g:title>
+      <g:description>2024 Jeep Grand Cherokee Laredo — 54,573 miles — used — Diamond Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/559c8950-d0ea-42de-81b4-10c2a3fe2fa6.jpg</g:image_link>
+      <g:price>25887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJGAG4RC707915</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee Laredo</g:model>
+      <g:mileage>54573 mi</g:mileage>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3VV2X7B20PM343928</g:id>
       <g:title>2023 Volkswagen Taos 1.5T SEL AWD</g:title>
       <g:description>2023 Volkswagen Taos 1.5T SEL AWD — 18,274 miles — used — Cornflower Blue</g:description>
@@ -653,26 +629,26 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5GAERBKW4NJ177002</g:id>
-      <g:title>2022 Buick Enclave Essence FWD</g:title>
-      <g:description>2022 Buick Enclave Essence FWD — 41,511 miles — used — Sage Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/65dd3057-5fb3-472d-a5d4-6169eaa32db8.jpg</g:image_link>
+      <g:id>19UUB5F31MA000374</g:id>
+      <g:title>2021 Acura TLX Base FWD</g:title>
+      <g:description>2021 Acura TLX Base FWD — 43,168 miles — used — Majestic Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2021-acura-tlx-base-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2021-acura-tlx-base-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/359e1a95-c0a1-438e-92ba-2e0afc5bdd1c.jpg</g:image_link>
       <g:price>22887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:brand>Buick</g:brand>
+      <g:brand>Acura</g:brand>
       <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
       <g:identifier_exists>true</g:identifier_exists>
       <g:included_destination>Vehicle_listing</g:included_destination>
       <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5GAERBKW4NJ177002</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Buick</g:make>
-      <g:model>Enclave Essence FWD</g:model>
-      <g:mileage>41511 mi</g:mileage>
-      <g:color>Sage Metallic</g:color>
+      <g:vin>19UUB5F31MA000374</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Acura</g:make>
+      <g:model>TLX Base FWD</g:model>
+      <g:mileage>43168 mi</g:mileage>
+      <g:color>Majestic Black Pearl</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -682,8 +658,8 @@
       <g:description>2023 Mazda CX-9 Touring AWD — 11,725 miles — used — Soul Red Crystal Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e862245f-8a45-4db4-abb1-83e58601f86d.jpg</g:image_link>
-      <g:price>21995.00 USD</g:price>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/69bd5d8d-c97d-4a80-87a8-dd303254b4c3.jpg</g:image_link>
+      <g:price>21887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mazda</g:brand>
@@ -698,6 +674,30 @@
       <g:mileage>11725 mi</g:mileage>
       <g:color>Soul Red Crystal Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5GAERBKW4NJ177002</g:id>
+      <g:title>2022 Buick Enclave Essence FWD</g:title>
+      <g:description>2022 Buick Enclave Essence FWD — 41,511 miles — used — Sage Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c6a6f9e5-cf34-4c7e-ba98-3a1c1ce9b05a.jpg</g:image_link>
+      <g:price>21887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Buick</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5GAERBKW4NJ177002</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Buick</g:make>
+      <g:model>Enclave Essence FWD</g:model>
+      <g:mileage>41511 mi</g:mileage>
+      <g:color>Sage Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -893,30 +893,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3KPFT4DE0SE014330</g:id>
-      <g:title>2025 Kia K4 LXS FWD</g:title>
-      <g:description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</g:description>
-      <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/451551df-4629-4527-800c-e62d0826cc03.jpg</g:image_link>
-      <g:price>17887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3KPFT4DE0SE014330</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Kia</g:make>
-      <g:model>K4 LXS FWD</g:model>
-      <g:mileage>35861 mi</g:mileage>
-      <g:color>Deep Sea Blue</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5N1BT3BA1RC695684</g:id>
       <g:title>2024 Nissan Rogue SV FWD</g:title>
       <g:description>2024 Nissan Rogue SV FWD — 53,814 miles — used — Brilliant Silver Metallic</g:description>
@@ -965,6 +941,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>JN1EV7AR3JM430552</g:id>
+      <g:title>2018 INFINITI Q50 3.0t LUXE AWD</g:title>
+      <g:description>2018 INFINITI Q50 3.0t LUXE AWD — 44,058 miles — used — Graphite Shadow</g:description>
+      <g:link>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/444795cc-d9a2-4d40-9941-39e1e4a1c54e.jpg</g:image_link>
+      <g:price>16587.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>INFINITI</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>JN1EV7AR3JM430552</g:vin>
+      <g:year>2018</g:year>
+      <g:make>INFINITI</g:make>
+      <g:model>Q50 3.0t LUXE AWD</g:model>
+      <g:mileage>44058 mi</g:mileage>
+      <g:color>Graphite Shadow</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3N1CN8EV2SL856443</g:id>
       <g:title>2025 Nissan Versa 1.6 SV FWD</g:title>
       <g:description>2025 Nissan Versa 1.6 SV FWD — 26,774 miles — used — Super Black Metallic</g:description>
@@ -985,6 +985,54 @@
       <g:model>Versa 1.6 SV FWD</g:model>
       <g:mileage>26774 mi</g:mileage>
       <g:color>Super Black Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3KPFT4DE0SE014330</g:id>
+      <g:title>2025 Kia K4 LXS FWD</g:title>
+      <g:description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</g:description>
+      <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f0a6ec29-de17-4103-8672-cc6715caf6a9.jpg</g:image_link>
+      <g:price>15887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3KPFT4DE0SE014330</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Kia</g:make>
+      <g:model>K4 LXS FWD</g:model>
+      <g:mileage>35861 mi</g:mileage>
+      <g:color>Deep Sea Blue</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>19XFC2F60ME200401</g:id>
+      <g:title>2021 Honda Civic LX FWD</g:title>
+      <g:description>2021 Honda Civic LX FWD — 7,803 miles — used — White</g:description>
+      <g:link>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2ec41605-de26-43ca-9e9c-286b894e7472.jpg</g:image_link>
+      <g:price>14887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>19XFC2F60ME200401</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Civic LX FWD</g:model>
+      <g:mileage>7803 mi</g:mileage>
+      <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1018,8 +1066,8 @@
       <g:description>2019 Ram 1500 Classic Express 4WD — 129,761 miles — used — Bright White Clearcoat</g:description>
       <g:link>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/aab13b93-cc93-4211-bdd2-f0be7e463187.jpg</g:image_link>
-      <g:price>13888.00 USD</g:price>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/cd893bb9-ed72-4a9d-8a93-93b786b1bcbf.jpg</g:image_link>
+      <g:price>12887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ram</g:brand>
@@ -1037,13 +1085,37 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3GCUKREC5HG220129</g:id>
+      <g:title>2017 Chevrolet Silverado 1500 LT 4WD</g:title>
+      <g:description>2017 Chevrolet Silverado 1500 LT 4WD — 103,639 miles — used — Graphite Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/54276c76-95f7-418d-af68-89b359ddc45f.jpg</g:image_link>
+      <g:price>11888.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3GCUKREC5HG220129</g:vin>
+      <g:year>2017</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 1500 LT 4WD</g:model>
+      <g:mileage>103639 mi</g:mileage>
+      <g:color>Graphite Metallic</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>19XFC2F69KE024493</g:id>
       <g:title>2019 Honda Civic LX FWD</g:title>
       <g:description>2019 Honda Civic LX FWD — 61,264 miles — used — White</g:description>
       <g:link>https://majorworld.com/inventory/2019-honda-civic-lx-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-honda-civic-lx-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9007909f-17dc-4204-a592-abda77317f08.jpg</g:image_link>
-      <g:price>13887.00 USD</g:price>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/726b33ea-8854-416c-9318-45fffd02f349.jpg</g:image_link>
+      <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -1083,30 +1155,6 @@
       <g:color>Black Uni</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>MANUAL</g:transmission>
-    </item>
-    <item>
-      <g:id>5J8TB18239A003809</g:id>
-      <g:title>2009 Acura RDX Base AWD</g:title>
-      <g:description>2009 Acura RDX Base AWD — 64,521 miles — used — Gray</g:description>
-      <g:link>https://majorworld.com/inventory/2009-acura-rdx-base-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2009-acura-rdx-base-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/598ce132-52df-4990-8782-1879e9693da4.jpg</g:image_link>
-      <g:price>10888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Acura</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5J8TB18239A003809</g:vin>
-      <g:year>2009</g:year>
-      <g:make>Acura</g:make>
-      <g:model>RDX Base AWD</g:model>
-      <g:mileage>64521 mi</g:mileage>
-      <g:color>Gray</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
       <g:id>JM3KE4CY5E0321503</g:id>
