@@ -55,10 +55,10 @@
     <item>
       <g:id>4JGFB4FE0RB050165</g:id>
       <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
-      <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,108 miles — used — Black</g:description>
+      <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/24cd8726-bcda-4d2b-b84b-a75b5a6eeec3.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e19a0f7d-f516-43df-aeb2-cc8960b52048.jpg</g:image_link>
       <g:price>43887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -71,7 +71,7 @@
       <g:year>2024</g:year>
       <g:make>Mercedes-Benz</g:make>
       <g:model>GLE GLE 350 4MATIC®</g:model>
-      <g:mileage>50108 mi</g:mileage>
+      <g:mileage>50109 mi</g:mileage>
       <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -581,6 +581,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WAUCBCF53NA031057</g:id>
+      <g:title>2022 Audi A5 Sportback Premium Plus quattro</g:title>
+      <g:description>2022 Audi A5 Sportback Premium Plus quattro — 56,455 miles — used — Brilliant Black</g:description>
+      <g:link>https://majorworld.com/inventory/2022-audi-a5-sportback-premium-plus-quattro/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-audi-a5-sportback-premium-plus-quattro/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c70a6a7c-9e52-4d18-ba84-240d9a308cb2.jpg</g:image_link>
+      <g:price>25887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAUCBCF53NA031057</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A5 Sportback Premium Plus quattro</g:model>
+      <g:mileage>56455 mi</g:mileage>
+      <g:color>Brilliant Black</g:color>
+      <g:body_style>WAGON</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3VV2X7B20PM343928</g:id>
       <g:title>2023 Volkswagen Taos 1.5T SEL AWD</g:title>
       <g:description>2023 Volkswagen Taos 1.5T SEL AWD — 18,274 miles — used — Cornflower Blue</g:description>
@@ -601,6 +625,30 @@
       <g:model>Taos 1.5T SEL AWD</g:model>
       <g:mileage>18274 mi</g:mileage>
       <g:color>Cornflower Blue</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5YFB4MDE0TP387699</g:id>
+      <g:title>2026 Toyota Corolla LE FWD</g:title>
+      <g:description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b642790d-3266-40c3-9bbd-b8fbf920b3ae.jpg</g:image_link>
+      <g:price>22887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5YFB4MDE0TP387699</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>Corolla LE FWD</g:model>
+      <g:mileage>8176 mi</g:mileage>
+      <g:color>Classic Silver Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1018,7 +1066,7 @@
       <g:description>2021 Honda Civic LX FWD — 7,803 miles — used — White</g:description>
       <g:link>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/</g:link>
       <g:link_template>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2ec41605-de26-43ca-9e9c-286b894e7472.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3f5f76f6-b0d4-471d-8c73-c5211b248988.jpg</g:image_link>
       <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -1057,6 +1105,30 @@
       <g:model>Sentra S FWD</g:model>
       <g:mileage>32797 mi</g:mileage>
       <g:color>Fresh Powder</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1G1ZD5ST7PF142720</g:id>
+      <g:title>2023 Chevrolet Malibu LT FWD</g:title>
+      <g:description>2023 Chevrolet Malibu LT FWD — 15,791 miles — used — Mosaic Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-malibu-lt-fwd-2/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-malibu-lt-fwd-2/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a9ebf8ce-b77f-4943-802b-798b28a09453.jpg</g:image_link>
+      <g:price>12887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1G1ZD5ST7PF142720</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Malibu LT FWD</g:model>
+      <g:mileage>15791 mi</g:mileage>
+      <g:color>Mosaic Black Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1130,54 +1202,6 @@
       <g:mileage>61264 mi</g:mileage>
       <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3VWB17AJ0GM238344</g:id>
-      <g:title>2016 Volkswagen Jetta 1.8T Sport FWD</g:title>
-      <g:description>2016 Volkswagen Jetta 1.8T Sport FWD — 72,039 miles — used — Black Uni</g:description>
-      <g:link>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f13d3d6a-c677-477b-88b6-ef41c405ad11.jpg</g:image_link>
-      <g:price>11887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VWB17AJ0GM238344</g:vin>
-      <g:year>2016</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Jetta 1.8T Sport FWD</g:model>
-      <g:mileage>72039 mi</g:mileage>
-      <g:color>Black Uni</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>MANUAL</g:transmission>
-    </item>
-    <item>
-      <g:id>JM3KE4CY5E0321503</g:id>
-      <g:title>2014 Mazda CX-5 Touring AWD</g:title>
-      <g:description>2014 Mazda CX-5 Touring AWD — 136,816 miles — used — Crystal White Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2014-mazda-cx-5-touring-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2014-mazda-cx-5-touring-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/398ead89-44c0-42f5-8ba7-36854e44fc85.jpg</g:image_link>
-      <g:price>9995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mazda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>JM3KE4CY5E0321503</g:vin>
-      <g:year>2014</g:year>
-      <g:make>Mazda</g:make>
-      <g:model>CX-5 Touring AWD</g:model>
-      <g:mileage>136816 mi</g:mileage>
-      <g:color>Crystal White Pearl</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
