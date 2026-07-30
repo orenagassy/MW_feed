@@ -69,11 +69,11 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/24cd8726-bcda-4d2b-b84b-a75b5a6eeec3.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e19a0f7d-f516-43df-aeb2-cc8960b52048.jpg</url>
     </image>
     <vehicle_id>4JGFB4FE0RB050165</vehicle_id>
     <title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</title>
-    <description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,108 miles — used — Black</description>
+    <description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</description>
     <url>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2/</url>
     <price>43887.00 USD</price>
     <make>Mercedes-Benz</make>
@@ -82,7 +82,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>50108</value>
+      <value>50109</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -795,6 +795,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c70a6a7c-9e52-4d18-ba84-240d9a308cb2.jpg</url>
+    </image>
+    <vehicle_id>WAUCBCF53NA031057</vehicle_id>
+    <title>2022 Audi A5 Sportback Premium Plus quattro</title>
+    <description>2022 Audi A5 Sportback Premium Plus quattro — 56,455 miles — used — Brilliant Black</description>
+    <url>https://majorworld.com/inventory/2022-audi-a5-sportback-premium-plus-quattro/</url>
+    <price>25887.00 USD</price>
+    <make>Audi</make>
+    <model>A5 Sportback Premium Plus quattro</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>56455</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>WAGON</body_style>
+    <vin>WAUCBCF53NA031057</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Brilliant Black</exterior_color>
+    <interior_color>Okapi Brown</interior_color>
+    <stock_number>J18408</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/e240360f-1fe8-48df-bbde-b8bff64c51ac.jpg</url>
     </image>
     <vehicle_id>3VV2X7B20PM343928</vehicle_id>
@@ -825,6 +858,39 @@
     <exterior_color>Cornflower Blue</exterior_color>
     <interior_color>Gray/Black</interior_color>
     <stock_number>M76244</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b642790d-3266-40c3-9bbd-b8fbf920b3ae.jpg</url>
+    </image>
+    <vehicle_id>5YFB4MDE0TP387699</vehicle_id>
+    <title>2026 Toyota Corolla LE FWD</title>
+    <description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</description>
+    <url>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3/</url>
+    <price>22887.00 USD</price>
+    <make>Toyota</make>
+    <model>Corolla LE FWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>8176</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>5YFB4MDE0TP387699</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Classic Silver Metallic</exterior_color>
+    <interior_color>Macadamia</interior_color>
+    <stock_number>M78737</stock_number>
   </listing>
   <listing>
     <image>
@@ -1389,7 +1455,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ec41605-de26-43ca-9e9c-286b894e7472.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3f5f76f6-b0d4-471d-8c73-c5211b248988.jpg</url>
     </image>
     <vehicle_id>19XFC2F60ME200401</vehicle_id>
     <title>2021 Honda Civic LX FWD</title>
@@ -1452,6 +1518,39 @@
     <exterior_color>Fresh Powder</exterior_color>
     <interior_color>Charcoal</interior_color>
     <stock_number>M78176</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a9ebf8ce-b77f-4943-802b-798b28a09453.jpg</url>
+    </image>
+    <vehicle_id>1G1ZD5ST7PF142720</vehicle_id>
+    <title>2023 Chevrolet Malibu LT FWD</title>
+    <description>2023 Chevrolet Malibu LT FWD — 15,791 miles — used — Mosaic Black Metallic</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-malibu-lt-fwd-2/</url>
+    <price>12887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Malibu LT FWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>15791</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>1G1ZD5ST7PF142720</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Mosaic Black Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M74863</stock_number>
   </listing>
   <listing>
     <image>
@@ -1551,104 +1650,5 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78547</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f13d3d6a-c677-477b-88b6-ef41c405ad11.jpg</url>
-    </image>
-    <vehicle_id>3VWB17AJ0GM238344</vehicle_id>
-    <title>2016 Volkswagen Jetta 1.8T Sport FWD</title>
-    <description>2016 Volkswagen Jetta 1.8T Sport FWD — 72,039 miles — used — Black Uni</description>
-    <url>https://majorworld.com/inventory/2016-volkswagen-jetta-1-8t-sport-fwd/</url>
-    <price>11887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Jetta 1.8T Sport FWD</model>
-    <year>2016</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>72039</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>3VWB17AJ0GM238344</vin>
-    <transmission>MANUAL</transmission>
-    <exterior_color>Black Uni</exterior_color>
-    <interior_color>2-Tone Black/Ceramique</interior_color>
-    <stock_number>J18421</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/398ead89-44c0-42f5-8ba7-36854e44fc85.jpg</url>
-    </image>
-    <vehicle_id>JM3KE4CY5E0321503</vehicle_id>
-    <title>2014 Mazda CX-5 Touring AWD</title>
-    <description>2014 Mazda CX-5 Touring AWD — 136,816 miles — used — Crystal White Pearl</description>
-    <url>https://majorworld.com/inventory/2014-mazda-cx-5-touring-awd/</url>
-    <price>9995.00 USD</price>
-    <make>Mazda</make>
-    <model>CX-5 Touring AWD</model>
-    <year>2014</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>136816</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>JM3KE4CY5E0321503</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Crystal White Pearl</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77958</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD30TOC041A01300.jpg</url>
-    </image>
-    <vehicle_id>5YFB4MDE0TP387699</vehicle_id>
-    <title>2026 Toyota Corolla LE FWD</title>
-    <description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</description>
-    <url>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3/</url>
-    <price>22887.00 USD</price>
-    <make>Toyota</make>
-    <model>Corolla LE FWD</model>
-    <year>2026</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>8176</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>5YFB4MDE0TP387699</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Classic Silver Metallic</exterior_color>
-    <interior_color>Macadamia</interior_color>
-    <stock_number>M78737</stock_number>
   </listing>
 </listings>
