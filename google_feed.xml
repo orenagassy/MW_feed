@@ -677,30 +677,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3VV2X7B20PM343928</g:id>
-      <g:title>2023 Volkswagen Taos 1.5T SEL AWD</g:title>
-      <g:description>2023 Volkswagen Taos 1.5T SEL AWD — 18,397 miles — used — Cornflower Blue</g:description>
-      <g:link>https://majorworld.com/inventory/2023-volkswagen-taos-1-5t-sel-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-volkswagen-taos-1-5t-sel-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7ef79ce7-ea90-4f79-9e9c-a27f7afa3663.jpg</g:image_link>
-      <g:price>23887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VV2X7B20PM343928</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Taos 1.5T SEL AWD</g:model>
-      <g:mileage>18397 mi</g:mileage>
-      <g:color>Cornflower Blue</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5YFB4MDE0TP387699</g:id>
       <g:title>2026 Toyota Corolla LE FWD</g:title>
       <g:description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</g:description>
