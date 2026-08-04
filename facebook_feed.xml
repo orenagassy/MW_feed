@@ -465,39 +465,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/aa9d2e9d-e407-4a2b-add1-de6d6c96895f.jpg</url>
-    </image>
-    <vehicle_id>3GCPDKEK9RG172559</vehicle_id>
-    <title>2024 Chevrolet Silverado 1500 LT 4WD</title>
-    <description>2024 Chevrolet Silverado 1500 LT 4WD — 42,576 miles — used — Lakeshore Blue Metallic</description>
-    <url>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-lt-4wd/</url>
-    <price>32887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Silverado 1500 LT 4WD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>42576</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>3GCPDKEK9RG172559</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Lakeshore Blue Metallic</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <stock_number>M78365</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/64dde495-04b2-4e82-95b6-ef5655cf8514.jpg</url>
     </image>
     <vehicle_id>1GTPUAEK1PZ116509</vehicle_id>
@@ -726,39 +693,6 @@
     <exterior_color>Iconic Silver Metallic</exterior_color>
     <interior_color>Light Slate</interior_color>
     <stock_number>M78359</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7cedbd72-9faa-4109-a76a-6d798d699252.jpg</url>
-    </image>
-    <vehicle_id>1C4RDHDG6PC685812</vehicle_id>
-    <title>2023 Dodge Durango GT RWD</title>
-    <description>2023 Dodge Durango GT RWD — 55,910 miles — used — White Knuckle Clearcoat</description>
-    <url>https://majorworld.com/inventory/2023-dodge-durango-gt-rwd/</url>
-    <price>27887.00 USD</price>
-    <make>Dodge</make>
-    <model>Durango GT RWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>55910</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RDHDG6PC685812</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>White Knuckle Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77963</stock_number>
   </listing>
   <listing>
     <image>
@@ -1122,6 +1056,39 @@
     <exterior_color>Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M73495</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ced097b7-334f-4e72-9d2c-34bc54924eb3.jpg</url>
+    </image>
+    <vehicle_id>1GNERGKW4PJ114262</vehicle_id>
+    <title>2023 Chevrolet Traverse LT FWD</title>
+    <description>2023 Chevrolet Traverse LT FWD — 69,244 miles — used — Silver Sage Metallic</description>
+    <url>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2/</url>
+    <price>21887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Traverse LT FWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>69244</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1GNERGKW4PJ114262</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Silver Sage Metallic</exterior_color>
+    <interior_color>Jet Black</interior_color>
+    <stock_number>M78796</stock_number>
   </listing>
   <listing>
     <image>
