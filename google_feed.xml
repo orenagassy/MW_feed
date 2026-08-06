@@ -725,30 +725,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4RJFAG9KC540662</g:id>
-      <g:title>2019 Jeep Grand Cherokee Laredo 4WD</g:title>
-      <g:description>2019 Jeep Grand Cherokee Laredo 4WD — 41,880 miles — used — Bright White Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2019-jeep-grand-cherokee-upland-edition-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2019-jeep-grand-cherokee-upland-edition-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ad4c355d-8319-49dd-9f94-e31df13a3778.jpg</g:image_link>
-      <g:price>21887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJFAG9KC540662</g:vin>
-      <g:year>2019</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee Laredo 4WD</g:model>
-      <g:mileage>41880 mi</g:mileage>
-      <g:color>Bright White Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>ZN661XUS0KX321329</g:id>
       <g:title>2019 Maserati Levante GranSport AWD</g:title>
       <g:description>2019 Maserati Levante GranSport AWD — 58,364 miles — used — Black</g:description>
@@ -941,6 +917,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1C4RJFAG9KC540662</g:id>
+      <g:title>2019 Jeep Grand Cherokee Laredo 4WD</g:title>
+      <g:description>2019 Jeep Grand Cherokee Laredo 4WD — 41,880 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2019-jeep-grand-cherokee-upland-edition-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2019-jeep-grand-cherokee-upland-edition-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ad4c355d-8319-49dd-9f94-e31df13a3778.jpg</g:image_link>
+      <g:price>19887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJFAG9KC540662</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee Laredo 4WD</g:model>
+      <g:mileage>41880 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>KL77LFE23RC052511</g:id>
       <g:title>2024 Chevrolet Trax LS FWD</g:title>
       <g:description>2024 Chevrolet Trax LS FWD — 22,668 miles — used — Sterling Gray Metallic</g:description>
@@ -961,6 +961,30 @@
       <g:model>Trax LS FWD</g:model>
       <g:mileage>22668 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2T3G1RFVXMW228320</g:id>
+      <g:title>2021 Toyota RAV4 LE AWD</g:title>
+      <g:description>2021 Toyota RAV4 LE AWD — 27,572 miles — used — Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2021-toyota-rav4-le-awd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2021-toyota-rav4-le-awd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/94c43f62-b991-4ded-80ac-311233333513.jpg</g:image_link>
+      <g:price>18887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2T3G1RFVXMW228320</g:vin>
+      <g:year>2021</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>RAV4 LE AWD</g:model>
+      <g:mileage>27572 mi</g:mileage>
+      <g:color>Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1066,7 +1090,7 @@
       <g:description>2018 INFINITI Q50 3.0t LUXE AWD — 44,058 miles — used — Graphite Shadow</g:description>
       <g:link>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c9e2a844-31c2-4695-9e39-025a36c2a1ba.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5b309f11-f712-46c6-a71a-3aa6d1121c07.jpg</g:image_link>
       <g:price>16587.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
