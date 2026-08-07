@@ -389,30 +389,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4HJXDN8PW634842</g:id>
-      <g:title>2023 Jeep Wrangler Sport 4WD</g:title>
-      <g:description>2023 Jeep Wrangler Sport 4WD — 438 miles — used — Bright White Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/54aef772-9b72-4d86-be2d-82c9c000a8c0.jpg</g:image_link>
-      <g:price>29887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4HJXDN8PW634842</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler Sport 4WD</g:model>
-      <g:mileage>438 mi</g:mileage>
-      <g:color>Bright White Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1V2JP2CA5NC543767</g:id>
       <g:title>2022 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
       <g:description>2022 Volkswagen Atlas 2.0T SE w/Technology FWD — 49,221 miles — used — Deep Black Pearl</g:description>
@@ -434,6 +410,30 @@
       <g:mileage>49221 mi</g:mileage>
       <g:color>Deep Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4HJXDN8PW634842</g:id>
+      <g:title>2023 Jeep Wrangler Sport 4WD</g:title>
+      <g:description>2023 Jeep Wrangler Sport 4WD — 438 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/54aef772-9b72-4d86-be2d-82c9c000a8c0.jpg</g:image_link>
+      <g:price>28887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4HJXDN8PW634842</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Sport 4WD</g:model>
+      <g:mileage>438 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -530,6 +530,30 @@
       <g:mileage>32734 mi</g:mileage>
       <g:color>Silver Sky Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3C6LRVCG4SE513116</g:id>
+      <g:title>2025 Ram ProMaster 2500 High Roof FWD</g:title>
+      <g:description>2025 Ram ProMaster 2500 High Roof FWD — 37,834 miles — used — Bright White Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f3675e10-c991-4a1f-b584-8ab6b8260bcd.jpg</g:image_link>
+      <g:price>26887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ram</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3C6LRVCG4SE513116</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Ram</g:make>
+      <g:model>ProMaster 2500 High Roof FWD</g:model>
+      <g:mileage>37834 mi</g:mileage>
+      <g:color>Bright White Clearcoat</g:color>
+      <g:body_style>VAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -1090,7 +1114,7 @@
       <g:description>2018 INFINITI Q50 3.0t LUXE AWD — 44,058 miles — used — Graphite Shadow</g:description>
       <g:link>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5b309f11-f712-46c6-a71a-3aa6d1121c07.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c9e2a844-31c2-4695-9e39-025a36c2a1ba.jpg</g:image_link>
       <g:price>16587.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -1130,30 +1154,6 @@
       <g:mileage>35861 mi</g:mileage>
       <g:color>Deep Sea Blue</g:color>
       <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C4BJWDG8JL862270</g:id>
-      <g:title>2018 Jeep Wrangler JK Unlimited Sport 4WD</g:title>
-      <g:description>2018 Jeep Wrangler JK Unlimited Sport 4WD — 81,042 miles — used — Billet Silver Metallic Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2018-jeep-wrangler-jk-unlimited-sport-4wd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2018-jeep-wrangler-jk-unlimited-sport-4wd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/bae70b6b-a462-401b-8fdc-5fd17b19218a.jpg</g:image_link>
-      <g:price>15887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4BJWDG8JL862270</g:vin>
-      <g:year>2018</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler JK Unlimited Sport 4WD</g:model>
-      <g:mileage>81042 mi</g:mileage>
-      <g:color>Billet Silver Metallic Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
