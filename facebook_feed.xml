@@ -531,39 +531,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/54aef772-9b72-4d86-be2d-82c9c000a8c0.jpg</url>
-    </image>
-    <vehicle_id>1C4HJXDN8PW634842</vehicle_id>
-    <title>2023 Jeep Wrangler Sport 4WD</title>
-    <description>2023 Jeep Wrangler Sport 4WD — 438 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/</url>
-    <price>29887.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler Sport 4WD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>438</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4HJXDN8PW634842</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>grey 2 tone</interior_color>
-    <stock_number>J18031</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/0be7f6f5-ba9b-4fba-9211-bd42baf1ec92.jpg</url>
     </image>
     <vehicle_id>1V2JP2CA5NC543767</vehicle_id>
@@ -594,6 +561,39 @@
     <exterior_color>Deep Black Pearl</exterior_color>
     <interior_color>Titan Black</interior_color>
     <stock_number>M77910</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/54aef772-9b72-4d86-be2d-82c9c000a8c0.jpg</url>
+    </image>
+    <vehicle_id>1C4HJXDN8PW634842</vehicle_id>
+    <title>2023 Jeep Wrangler Sport 4WD</title>
+    <description>2023 Jeep Wrangler Sport 4WD — 438 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2023-jeep-wrangler-sport-4wd/</url>
+    <price>28887.00 USD</price>
+    <make>Jeep</make>
+    <model>Wrangler Sport 4WD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>438</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4HJXDN8PW634842</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>grey 2 tone</interior_color>
+    <stock_number>J18031</stock_number>
   </listing>
   <listing>
     <image>
@@ -726,6 +726,39 @@
     <exterior_color>Silver Sky Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78610</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f3675e10-c991-4a1f-b584-8ab6b8260bcd.jpg</url>
+    </image>
+    <vehicle_id>3C6LRVCG4SE513116</vehicle_id>
+    <title>2025 Ram ProMaster 2500 High Roof FWD</title>
+    <description>2025 Ram ProMaster 2500 High Roof FWD — 37,834 miles — used — Bright White Clearcoat</description>
+    <url>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd/</url>
+    <price>26887.00 USD</price>
+    <make>Ram</make>
+    <model>ProMaster 2500 High Roof FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>37834</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>VAN</body_style>
+    <vin>3C6LRVCG4SE513116</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Bright White Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78840</stock_number>
   </listing>
   <listing>
     <image>
@@ -1488,7 +1521,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5b309f11-f712-46c6-a71a-3aa6d1121c07.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c9e2a844-31c2-4695-9e39-025a36c2a1ba.jpg</url>
     </image>
     <vehicle_id>JN1EV7AR3JM430552</vehicle_id>
     <title>2018 INFINITI Q50 3.0t LUXE AWD</title>
@@ -1551,39 +1584,6 @@
     <exterior_color>Deep Sea Blue</exterior_color>
     <interior_color>Gray</interior_color>
     <stock_number>M78076</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bae70b6b-a462-401b-8fdc-5fd17b19218a.jpg</url>
-    </image>
-    <vehicle_id>1C4BJWDG8JL862270</vehicle_id>
-    <title>2018 Jeep Wrangler JK Unlimited Sport 4WD</title>
-    <description>2018 Jeep Wrangler JK Unlimited Sport 4WD — 81,042 miles — used — Billet Silver Metallic Clearcoat</description>
-    <url>https://majorworld.com/inventory/2018-jeep-wrangler-jk-unlimited-sport-4wd/</url>
-    <price>15887.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler JK Unlimited Sport 4WD</model>
-    <year>2018</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>81042</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4BJWDG8JL862270</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Billet Silver Metallic Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77744</stock_number>
   </listing>
   <listing>
     <image>
