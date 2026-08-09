@@ -927,39 +927,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f52d9294-7c8e-4a73-a731-368b1f76afcf.jpg</url>
-    </image>
-    <vehicle_id>3VWEX7BU6SM035102</vehicle_id>
-    <title>2025 Volkswagen Jetta 1.5T SE FWD</title>
-    <description>2025 Volkswagen Jetta 1.5T SE FWD — 8,640 miles — used — Opal White</description>
-    <url>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-se-fwd-3/</url>
-    <price>22887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Jetta 1.5T SE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>8640</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>3VWEX7BU6SM035102</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Opal White</exterior_color>
-    <interior_color>Atlantic Blue/Storm Gray</interior_color>
-    <stock_number>M78470</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/fda373a5-3811-46eb-9d7a-1fa23b7b80dc.jpg</url>
     </image>
     <vehicle_id>JM3TCBCY5P0637145</vehicle_id>
@@ -1752,7 +1719,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7ce1e9cb-1212-4d77-839d-f8e3c731dbc9.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/36c851c3-66c9-4526-a30f-7bd5af90658f.jpg</url>
     </image>
     <vehicle_id>19XFC2F69KE024493</vehicle_id>
     <title>2019 Honda Civic LX FWD</title>
