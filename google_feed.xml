@@ -677,30 +677,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3VWEX7BU6SM035102</g:id>
-      <g:title>2025 Volkswagen Jetta 1.5T SE FWD</g:title>
-      <g:description>2025 Volkswagen Jetta 1.5T SE FWD — 8,640 miles — used — Opal White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-se-fwd-3/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-se-fwd-3/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f52d9294-7c8e-4a73-a731-368b1f76afcf.jpg</g:image_link>
-      <g:price>22887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VWEX7BU6SM035102</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Jetta 1.5T SE FWD</g:model>
-      <g:mileage>8640 mi</g:mileage>
-      <g:color>Opal White</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>JM3TCBCY5P0637145</g:id>
       <g:title>2023 Mazda CX-9 Touring AWD</g:title>
       <g:description>2023 Mazda CX-9 Touring AWD — 11,725 miles — used — Soul Red Crystal Metallic</g:description>
@@ -1282,7 +1258,7 @@
       <g:description>2019 Honda Civic LX FWD — 61,264 miles — used — White</g:description>
       <g:link>https://majorworld.com/inventory/2019-honda-civic-lx-fwd/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-honda-civic-lx-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7ce1e9cb-1212-4d77-839d-f8e3c731dbc9.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/36c851c3-66c9-4526-a30f-7bd5af90658f.jpg</g:image_link>
       <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
