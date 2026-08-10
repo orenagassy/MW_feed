@@ -267,39 +267,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2f09793f-94ff-488d-ad06-40122269b23d.jpg</url>
-    </image>
-    <vehicle_id>WAUDACF51SA000750</vehicle_id>
-    <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
-    <description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</description>
-    <url>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro/</url>
-    <price>38887.00 USD</price>
-    <make>Audi</make>
-    <model>A5 Sportback 45 S line Premium quattro</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>12984</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>WAGON</body_style>
-    <vin>WAUDACF51SA000750</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Arkona White</exterior_color>
-    <interior_color>Atlas Beige</interior_color>
-    <stock_number>M76017</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4e238588-9a29-4b26-8028-15fac916fe26.jpg</url>
     </image>
     <vehicle_id>1C4RJHAG4SC306151</vehicle_id>
@@ -330,39 +297,6 @@
     <exterior_color>Velvet Red Pearlcoat</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17192</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/beaa873d-b441-468c-976c-08323968e8d2.jpg</url>
-    </image>
-    <vehicle_id>1V2BR2CA7SC506164</vehicle_id>
-    <title>2025 Volkswagen Atlas 2.0T SEL AWD</title>
-    <description>2025 Volkswagen Atlas 2.0T SEL AWD — 14,730 miles — used — Deep Black Pearl</description>
-    <url>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/</url>
-    <price>37887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Atlas 2.0T SEL AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>14730</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>1V2BR2CA7SC506164</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Deep Black Pearl</exterior_color>
-    <interior_color>Titan Black</interior_color>
-    <stock_number>M78777</stock_number>
   </listing>
   <listing>
     <image>
@@ -528,39 +462,6 @@
     <exterior_color>Galaxy Gray Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78757</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/975b47f0-ac13-46f0-bcae-68f17018baec.jpg</url>
-    </image>
-    <vehicle_id>1V2JP2CA5NC543767</vehicle_id>
-    <title>2022 Volkswagen Atlas 2.0T SE w/Technology FWD</title>
-    <description>2022 Volkswagen Atlas 2.0T SE w/Technology FWD — 49,221 miles — used — Deep Black Pearl</description>
-    <url>https://majorworld.com/inventory/2022-volkswagen-atlas-2-0t-se-w-technology-fwd/</url>
-    <price>28888.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Atlas 2.0T SE w/Technology FWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>49221</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>1V2JP2CA5NC543767</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Deep Black Pearl</exterior_color>
-    <interior_color>Titan Black</interior_color>
-    <stock_number>M77910</stock_number>
   </listing>
   <listing>
     <image>
