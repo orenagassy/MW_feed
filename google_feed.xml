@@ -197,30 +197,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>WAUDACF51SA000750</g:id>
-      <g:title>2025 Audi A5 Sportback 45 S line Premium quattro</g:title>
-      <g:description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2f09793f-94ff-488d-ad06-40122269b23d.jpg</g:image_link>
-      <g:price>38887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WAUDACF51SA000750</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Audi</g:make>
-      <g:model>A5 Sportback 45 S line Premium quattro</g:model>
-      <g:mileage>12984 mi</g:mileage>
-      <g:color>Arkona White</g:color>
-      <g:body_style>WAGON</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1C4RJHAG4SC306151</g:id>
       <g:title>2025 Jeep Grand Cherokee Laredo X 4WD</g:title>
       <g:description>2025 Jeep Grand Cherokee Laredo X 4WD — 137 miles — used — Velvet Red Pearlcoat</g:description>
@@ -242,30 +218,6 @@
       <g:mileage>137 mi</g:mileage>
       <g:color>Velvet Red Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1V2BR2CA7SC506164</g:id>
-      <g:title>2025 Volkswagen Atlas 2.0T SEL AWD</g:title>
-      <g:description>2025 Volkswagen Atlas 2.0T SEL AWD — 14,730 miles — used — Deep Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-sel-awd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/beaa873d-b441-468c-976c-08323968e8d2.jpg</g:image_link>
-      <g:price>37887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1V2BR2CA7SC506164</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Atlas 2.0T SEL AWD</g:model>
-      <g:mileage>14730 mi</g:mileage>
-      <g:color>Deep Black Pearl</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -385,30 +337,6 @@
       <g:model>Equinox EV LT FWD</g:model>
       <g:mileage>13 mi</g:mileage>
       <g:color>Galaxy Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1V2JP2CA5NC543767</g:id>
-      <g:title>2022 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
-      <g:description>2022 Volkswagen Atlas 2.0T SE w/Technology FWD — 49,221 miles — used — Deep Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2022-volkswagen-atlas-2-0t-se-w-technology-fwd/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-volkswagen-atlas-2-0t-se-w-technology-fwd/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/975b47f0-ac13-46f0-bcae-68f17018baec.jpg</g:image_link>
-      <g:price>28888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1V2JP2CA5NC543767</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
-      <g:mileage>49221 mi</g:mileage>
-      <g:color>Deep Black Pearl</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
