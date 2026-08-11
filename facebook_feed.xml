@@ -300,39 +300,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a6ef3b36-c980-44f6-b8b8-1516aaf1416d.jpg</url>
-    </image>
-    <vehicle_id>WAUE3BF29RN039460</vehicle_id>
-    <title>2024 Audi A6 45 Premium Plus quattro</title>
-    <description>2024 Audi A6 45 Premium Plus quattro — 6,980 miles — used — Glacier White</description>
-    <url>https://majorworld.com/inventory/2024-audi-a6-45-premium-plus-quattro/</url>
-    <price>36887.00 USD</price>
-    <make>Audi</make>
-    <model>A6 45 Premium Plus quattro</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>6980</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>WAUE3BF29RN039460</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Glacier White</exterior_color>
-    <interior_color>Beige</interior_color>
-    <stock_number>M74797</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ab036c2-7ae2-421f-9452-9cb7f77c108c.jpg</url>
     </image>
     <vehicle_id>5J8YE1H48PL024509</vehicle_id>
