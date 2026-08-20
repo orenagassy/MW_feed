@@ -766,7 +766,7 @@
     </image>
     <vehicle_id>JM3TCBCY5P0637145</vehicle_id>
     <title>2023 Mazda CX-9 Touring AWD</title>
-    <description>2023 Mazda CX-9 Touring AWD — 11,725 miles — used — Soul Red Crystal Metallic</description>
+    <description>2023 Mazda CX-9 Touring AWD — 12,019 miles — used — Soul Red Crystal Metallic</description>
     <url>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd-managerspecial/</url>
     <price>21887.00 USD</price>
     <make>Mazda</make>
@@ -775,7 +775,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>11725</value>
+      <value>12019</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
