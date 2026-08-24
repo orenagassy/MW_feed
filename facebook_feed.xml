@@ -98,39 +98,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</url>
-    </image>
-    <vehicle_id>4JGFB4FE0RB050165</vehicle_id>
-    <title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</title>
-    <description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/</url>
-    <price>43887.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>GLE GLE 350 4MATIC®</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>50109</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>4JGFB4FE0RB050165</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77549</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c767fbc0-6614-461a-b84b-4a589cd099d2.jpg</url>
     </image>
     <vehicle_id>1FMJK1K88REA43147</vehicle_id>
@@ -491,39 +458,6 @@
     <exterior_color>Bright White Clearcoat</exterior_color>
     <interior_color>grey 2 tone</interior_color>
     <stock_number>J18031</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7119f539-945f-4870-8577-7160cf5eeba1.jpg</url>
-    </image>
-    <vehicle_id>4JGFB4JB7NA805499</vehicle_id>
-    <title>2022 Mercedes-Benz GLE GLE 350 RWD</title>
-    <description>2022 Mercedes-Benz GLE GLE 350 RWD — 35,189 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2022-mercedes-benz-gle-gle-350-rwd-managerspecial/</url>
-    <price>28887.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>GLE GLE 350 RWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>35189</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>4JGFB4JB7NA805499</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M73169</stock_number>
   </listing>
   <listing>
     <image>
