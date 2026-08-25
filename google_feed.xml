@@ -77,6 +77,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>4JGFB4FE0RB050165</g:id>
+      <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
+      <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</g:image_link>
+      <g:price>41887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>4JGFB4FE0RB050165</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLE GLE 350 4MATIC®</g:model>
+      <g:mileage>50109 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1GTP9EEL3NZ100651</g:id>
       <g:title>2022 GMC Sierra 1500 Limited AT4 4WD</g:title>
       <g:description>2022 GMC Sierra 1500 Limited AT4 4WD — 27,886 miles — used — Satin Steel Metallic</g:description>
@@ -725,6 +749,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1HGCV3F58NA003301</g:id>
+      <g:title>2022 Honda Accord Hybrid EX-L FWD</g:title>
+      <g:description>2022 Honda Accord Hybrid EX-L FWD — 73,376 miles — used — Crystal Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1e32315-15b9-46b4-98c4-5683b8c2f821.jpg</g:image_link>
+      <g:price>19887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1HGCV3F58NA003301</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Accord Hybrid EX-L FWD</g:model>
+      <g:mileage>73376 mi</g:mileage>
+      <g:color>Crystal Black Pearl</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>KL77LFE23RC052511</g:id>
       <g:title>2024 Chevrolet Trax LS FWD</g:title>
       <g:description>2024 Chevrolet Trax LS FWD — 22,668 miles — used — Sterling Gray Metallic</g:description>
@@ -1066,7 +1114,7 @@
       <g:description>2019 Honda Civic LX FWD — 61,264 miles — used — White</g:description>
       <g:link>https://majorworld.com/inventory/2019-honda-civic-lx-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-honda-civic-lx-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3c7038cb-2b27-4709-9580-601efd928423.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1f6039be-a976-4d7d-93cd-5027c2d21d08.jpg</g:image_link>
       <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
