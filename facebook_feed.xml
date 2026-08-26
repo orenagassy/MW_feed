@@ -7,13 +7,17 @@
     </image>
     <vehicle_id>1GYS4JKT3RR215241</vehicle_id>
     <title>2024 Cadillac Escalade ESV Luxury AWD</title>
-    <description>2024 Cadillac Escalade ESV Luxury AWD — used — Black Raven</description>
+    <description>2024 Cadillac Escalade ESV Luxury AWD — 117,548 miles — used — Black Raven</description>
     <url>https://majorworld.com/inventory/2024-cadillac-escalade-esv-luxury-awd-managerspecial/</url>
     <price>49995.00 USD</price>
     <make>Cadillac</make>
     <model>Escalade ESV Luxury AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>117548</value>
+    </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
       <component name="city">Woodside</component>
@@ -326,6 +330,39 @@
     <exterior_color>Velvet Red Pearlcoat</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17192</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</url>
+    </image>
+    <vehicle_id>WAUDACF51SA000750</vehicle_id>
+    <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
+    <description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</description>
+    <url>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</url>
+    <price>35887.00 USD</price>
+    <make>Audi</make>
+    <model>A5 Sportback 45 S line Premium quattro</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>12984</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>WAGON</body_style>
+    <vin>WAUDACF51SA000750</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Arkona White</exterior_color>
+    <interior_color>Atlas Beige</interior_color>
+    <stock_number>M76017</stock_number>
   </listing>
   <listing>
     <image>
@@ -758,6 +795,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/36935661-fd69-488b-aebb-12335b4de9a5.jpg</url>
+    </image>
+    <vehicle_id>3VV2X7B20PM343928</vehicle_id>
+    <title>2023 Volkswagen Taos 1.5T SEL AWD</title>
+    <description>2023 Volkswagen Taos 1.5T SEL AWD — 18,397 miles — used — Cornflower Blue</description>
+    <url>https://majorworld.com/inventory/2023-volkswagen-taos-1-5t-sel-awd-managerspecial/</url>
+    <price>22887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Taos 1.5T SEL AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>18397</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VV2X7B20PM343928</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Cornflower Blue</exterior_color>
+    <interior_color>Gray/Black</interior_color>
+    <stock_number>M76244</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8c847e69-5552-42d2-897f-390506ae53d3.jpg</url>
     </image>
     <vehicle_id>JM3TCBCY5P0637145</vehicle_id>
@@ -1019,6 +1089,39 @@
     <exterior_color>Sterling Gray Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M78479</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/83e8ae50-e17c-4562-9ec8-733f14d731c6.jpg</url>
+    </image>
+    <vehicle_id>1HGCV1F54KA125444</vehicle_id>
+    <title>2019 Honda Accord EX-L FWD</title>
+    <description>2019 Honda Accord EX-L FWD — 36,666 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/</url>
+    <price>19887.00 USD</price>
+    <make>Honda</make>
+    <model>Accord EX-L FWD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>36666</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>1HGCV1F54KA125444</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M79155</stock_number>
   </listing>
   <listing>
     <image>
@@ -1484,6 +1587,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/778179ec-b92c-4b19-8727-9b8202f2394f.jpg</url>
+    </image>
+    <vehicle_id>WBA4J1C52JBG80534</vehicle_id>
+    <title>2018 BMW 4 Series 430i Gran Coupe RWD</title>
+    <description>2018 BMW 4 Series 430i Gran Coupe RWD — 50,503 miles — used — Alpine White</description>
+    <url>https://majorworld.com/inventory/2018-bmw-4-series-430i-gran-coupe-rwd-managerspecial/</url>
+    <price>12887.00 USD</price>
+    <make>BMW</make>
+    <model>4 Series 430i Gran Coupe RWD</model>
+    <year>2018</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>50503</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>COUPE</body_style>
+    <vin>WBA4J1C52JBG80534</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Alpine White</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M77667</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/419ca5e3-af06-43f7-b4ce-615c7aa1fa80.jpg</url>
     </image>
     <vehicle_id>1C6RR7FT6KS545500</vehicle_id>
@@ -1550,35 +1686,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f3727e79-770b-4dbc-9a03-1ed98b78fc08.jpg</url>
-    </image>
-    <vehicle_id>KL77LGE22RC036936</vehicle_id>
-    <title>2024 Chevrolet Trax 1RS FWD</title>
-    <description>2024 Chevrolet Trax 1RS FWD — used — Sterling Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/</url>
-    <price>11887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Trax 1RS FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>KL77LGE22RC036936</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Sterling Gray Metallic</exterior_color>
-    <interior_color>Jet Black/Gray With Red Accents</interior_color>
-    <stock_number>M79068</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1f6039be-a976-4d7d-93cd-5027c2d21d08.jpg</url>
     </image>
     <vehicle_id>19XFC2F69KE024493</vehicle_id>
@@ -1609,5 +1716,38 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78547</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f3727e79-770b-4dbc-9a03-1ed98b78fc08.jpg</url>
+    </image>
+    <vehicle_id>KL77LGE22RC036936</vehicle_id>
+    <title>2024 Chevrolet Trax 1RS FWD</title>
+    <description>2024 Chevrolet Trax 1RS FWD — 137,840 miles — used — Sterling Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/</url>
+    <price>11887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Trax 1RS FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>137840</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>KL77LGE22RC036936</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Sterling Gray Metallic</exterior_color>
+    <interior_color>Jet Black/Gray With Red Accents</interior_color>
+    <stock_number>M79068</stock_number>
   </listing>
 </listings>
