@@ -5,6 +5,30 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
+      <g:id>1GYS4JKT3RR215241</g:id>
+      <g:title>2024 Cadillac Escalade ESV Luxury AWD</g:title>
+      <g:description>2024 Cadillac Escalade ESV Luxury AWD — 117,548 miles — used — Black Raven</g:description>
+      <g:link>https://majorworld.com/inventory/2024-cadillac-escalade-esv-luxury-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-cadillac-escalade-esv-luxury-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1534d58a-67d7-433c-941a-670050e353e9.jpg</g:image_link>
+      <g:price>49995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Cadillac</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GYS4JKT3RR215241</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Cadillac</g:make>
+      <g:model>Escalade ESV Luxury AWD</g:model>
+      <g:mileage>117548 mi</g:mileage>
+      <g:color>Black Raven</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>WA1ACBF76SD002840</g:id>
       <g:title>2025 Audi Q7 45 Premium quattro</g:title>
       <g:description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</g:description>
@@ -218,6 +242,30 @@
       <g:mileage>137 mi</g:mileage>
       <g:color>Velvet Red Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WAUDACF51SA000750</g:id>
+      <g:title>2025 Audi A5 Sportback 45 S line Premium quattro</g:title>
+      <g:description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</g:image_link>
+      <g:price>35887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAUDACF51SA000750</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A5 Sportback 45 S line Premium quattro</g:model>
+      <g:mileage>12984 mi</g:mileage>
+      <g:color>Arkona White</g:color>
+      <g:body_style>WAGON</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -533,6 +581,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3VV2X7B20PM343928</g:id>
+      <g:title>2023 Volkswagen Taos 1.5T SEL AWD</g:title>
+      <g:description>2023 Volkswagen Taos 1.5T SEL AWD — 18,397 miles — used — Cornflower Blue</g:description>
+      <g:link>https://majorworld.com/inventory/2023-volkswagen-taos-1-5t-sel-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-volkswagen-taos-1-5t-sel-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/36935661-fd69-488b-aebb-12335b4de9a5.jpg</g:image_link>
+      <g:price>22887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VV2X7B20PM343928</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Taos 1.5T SEL AWD</g:model>
+      <g:mileage>18397 mi</g:mileage>
+      <g:color>Cornflower Blue</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>JM3TCBCY5P0637145</g:id>
       <g:title>2023 Mazda CX-9 Touring AWD</g:title>
       <g:description>2023 Mazda CX-9 Touring AWD — 12,019 miles — used — Soul Red Crystal Metallic</g:description>
@@ -721,6 +793,30 @@
       <g:model>Malibu RS FWD</g:model>
       <g:mileage>29732 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1HGCV1F54KA125444</g:id>
+      <g:title>2019 Honda Accord EX-L FWD</g:title>
+      <g:description>2019 Honda Accord EX-L FWD — 36,666 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/83e8ae50-e17c-4562-9ec8-733f14d731c6.jpg</g:image_link>
+      <g:price>19887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1HGCV1F54KA125444</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Accord EX-L FWD</g:model>
+      <g:mileage>36666 mi</g:mileage>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1061,6 +1157,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WBA4J1C52JBG80534</g:id>
+      <g:title>2018 BMW 4 Series 430i Gran Coupe RWD</g:title>
+      <g:description>2018 BMW 4 Series 430i Gran Coupe RWD — 50,503 miles — used — Alpine White</g:description>
+      <g:link>https://majorworld.com/inventory/2018-bmw-4-series-430i-gran-coupe-rwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2018-bmw-4-series-430i-gran-coupe-rwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/778179ec-b92c-4b19-8727-9b8202f2394f.jpg</g:image_link>
+      <g:price>12887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WBA4J1C52JBG80534</g:vin>
+      <g:year>2018</g:year>
+      <g:make>BMW</g:make>
+      <g:model>4 Series 430i Gran Coupe RWD</g:model>
+      <g:mileage>50503 mi</g:mileage>
+      <g:color>Alpine White</g:color>
+      <g:body_style>COUPE</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1C6RR7FT6KS545500</g:id>
       <g:title>2019 Ram 1500 Classic Express 4WD</g:title>
       <g:description>2019 Ram 1500 Classic Express 4WD — 129,761 miles — used — Bright White Clearcoat</g:description>
@@ -1130,6 +1250,30 @@
       <g:mileage>61264 mi</g:mileage>
       <g:color>White</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>KL77LGE22RC036936</g:id>
+      <g:title>2024 Chevrolet Trax 1RS FWD</g:title>
+      <g:description>2024 Chevrolet Trax 1RS FWD — 137,840 miles — used — Sterling Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f3727e79-770b-4dbc-9a03-1ed98b78fc08.jpg</g:image_link>
+      <g:price>11887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>KL77LGE22RC036936</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Trax 1RS FWD</g:model>
+      <g:mileage>137840 mi</g:mileage>
+      <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
