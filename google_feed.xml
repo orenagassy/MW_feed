@@ -5,30 +5,6 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
-      <g:id>1GYS4JKT3RR215241</g:id>
-      <g:title>2024 Cadillac Escalade ESV Luxury AWD</g:title>
-      <g:description>2024 Cadillac Escalade ESV Luxury AWD — 117,548 miles — used — Black Raven</g:description>
-      <g:link>https://majorworld.com/inventory/2024-cadillac-escalade-esv-luxury-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-cadillac-escalade-esv-luxury-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1534d58a-67d7-433c-941a-670050e353e9.jpg</g:image_link>
-      <g:price>49995.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Cadillac</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1GYS4JKT3RR215241</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Cadillac</g:make>
-      <g:model>Escalade ESV Luxury AWD</g:model>
-      <g:mileage>117548 mi</g:mileage>
-      <g:color>Black Raven</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>WA1ACBF76SD002840</g:id>
       <g:title>2025 Audi Q7 45 Premium quattro</g:title>
       <g:description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</g:description>
