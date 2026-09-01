@@ -630,39 +630,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/442ec0c2-1d8e-4741-b26d-d47e989f791f.jpg</url>
-    </image>
-    <vehicle_id>WAUD3BF28PN064164</vehicle_id>
-    <title>2023 Audi A6  quattro</title>
-    <description>2023 Audi A6  quattro — 49,691 miles — used — Glacier White Metallic</description>
-    <url>https://majorworld.com/inventory/2023-audi-a6-quattro-5-managerspecial/</url>
-    <price>26887.00 USD</price>
-    <make>Audi</make>
-    <model>A6  quattro</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>49691</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>WAUD3BF28PN064164</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Glacier White Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78681</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cbfdb6d0-37d1-4f4a-829a-4720ad46f3d3.jpg</url>
     </image>
     <vehicle_id>3CZRZ1H77SM716182</vehicle_id>
@@ -1257,39 +1224,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</url>
-    </image>
-    <vehicle_id>3VWBX7BU9SM000802</vehicle_id>
-    <title>2025 Volkswagen Jetta 1.5T Sport FWD</title>
-    <description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,396 miles — used — Platinum Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</url>
-    <price>17887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Jetta 1.5T Sport FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>18396</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SEDAN</body_style>
-    <vin>3VWBX7BU9SM000802</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Platinum Gray Metallic</exterior_color>
-    <interior_color>Titan Black</interior_color>
-    <stock_number>M78195</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f1f655ed-2ca7-441f-9d77-6c5f0e24728a.jpg</url>
     </image>
     <vehicle_id>5N1BT3BA1RC695684</vehicle_id>
@@ -1452,6 +1386,39 @@
     <exterior_color>White</exterior_color>
     <interior_color>Gray</interior_color>
     <stock_number>M67488</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</url>
+    </image>
+    <vehicle_id>3VWBX7BU9SM000802</vehicle_id>
+    <title>2025 Volkswagen Jetta 1.5T Sport FWD</title>
+    <description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,396 miles — used — Platinum Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</url>
+    <price>14887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Jetta 1.5T Sport FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>18396</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VWBX7BU9SM000802</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Platinum Gray Metallic</exterior_color>
+    <interior_color>Titan Black</interior_color>
+    <stock_number>M78195</stock_number>
   </listing>
   <listing>
     <image>
