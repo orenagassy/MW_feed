@@ -461,30 +461,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>WAUD3BF28PN064164</g:id>
-      <g:title>2023 Audi A6  quattro</g:title>
-      <g:description>2023 Audi A6  quattro — 49,691 miles — used — Glacier White Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-audi-a6-quattro-5-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-audi-a6-quattro-5-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/442ec0c2-1d8e-4741-b26d-d47e989f791f.jpg</g:image_link>
-      <g:price>26887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WAUD3BF28PN064164</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Audi</g:make>
-      <g:model>A6  quattro</g:model>
-      <g:mileage>49691 mi</g:mileage>
-      <g:color>Glacier White Metallic</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3CZRZ1H77SM716182</g:id>
       <g:title>2025 Honda HR-V EX-L FWD</g:title>
       <g:description>2025 Honda HR-V EX-L FWD — 38,494 miles — used — White</g:description>
@@ -917,30 +893,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3VWBX7BU9SM000802</g:id>
-      <g:title>2025 Volkswagen Jetta 1.5T Sport FWD</g:title>
-      <g:description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,396 miles — used — Platinum Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</g:image_link>
-      <g:price>17887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3VWBX7BU9SM000802</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Volkswagen</g:make>
-      <g:model>Jetta 1.5T Sport FWD</g:model>
-      <g:mileage>18396 mi</g:mileage>
-      <g:color>Platinum Gray Metallic</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>5N1BT3BA1RC695684</g:id>
       <g:title>2024 Nissan Rogue SV FWD</g:title>
       <g:description>2024 Nissan Rogue SV FWD — 53,814 miles — used — Brilliant Silver Metallic</g:description>
@@ -1057,6 +1009,30 @@
       <g:model>Civic LX FWD</g:model>
       <g:mileage>7803 mi</g:mileage>
       <g:color>White</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3VWBX7BU9SM000802</g:id>
+      <g:title>2025 Volkswagen Jetta 1.5T Sport FWD</g:title>
+      <g:description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,396 miles — used — Platinum Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</g:image_link>
+      <g:price>14887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3VWBX7BU9SM000802</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Jetta 1.5T Sport FWD</g:model>
+      <g:mileage>18396 mi</g:mileage>
+      <g:color>Platinum Gray Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
