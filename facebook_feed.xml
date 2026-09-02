@@ -1684,4 +1684,33 @@
     <interior_color>Jet Black/Gray With Red Accents</interior_color>
     <stock_number>M79068</stock_number>
   </listing>
+  <listing>
+    <image>
+      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=USD20VWS101C01300.jpg</url>
+    </image>
+    <vehicle_id>3VVCX7B23NM005831</vehicle_id>
+    <title>2022 Volkswagen Taos 1.5T S FWD</title>
+    <description>2022 Volkswagen Taos 1.5T S FWD — used — White</description>
+    <url>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-s-fwd-managerspecial/</url>
+    <price>9800.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Taos 1.5T S FWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VVCX7B23NM005831</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>White</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>J18563</stock_number>
+  </listing>
 </listings>
