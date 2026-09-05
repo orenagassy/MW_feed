@@ -1162,7 +1162,7 @@
     </image>
     <vehicle_id>2T3G1RFVXMW228320</vehicle_id>
     <title>2021 Toyota RAV4 LE AWD</title>
-    <description>2021 Toyota RAV4 LE AWD — 27,572 miles — used — Pearl</description>
+    <description>2021 Toyota RAV4 LE AWD — 27,574 miles — used — Pearl</description>
     <url>https://majorworld.com/inventory/2021-toyota-rav4-le-awd-managerspecial/</url>
     <price>18887.00 USD</price>
     <make>Toyota</make>
@@ -1171,7 +1171,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>27572</value>
+      <value>27574</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
