@@ -269,6 +269,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WAUDACF51SA000750</g:id>
+      <g:title>2025 Audi A5 Sportback 45 S line Premium quattro</g:title>
+      <g:description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</g:image_link>
+      <g:price>32887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAUDACF51SA000750</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A5 Sportback 45 S line Premium quattro</g:model>
+      <g:mileage>12984 mi</g:mileage>
+      <g:color>Arkona White</g:color>
+      <g:body_style>WAGON</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1GTPUAEK1PZ116509</g:id>
       <g:title>2023 GMC Sierra 1500 Pro 4WD</g:title>
       <g:description>2023 GMC Sierra 1500 Pro 4WD — 58,019 miles — used — Summit White</g:description>
@@ -295,7 +319,7 @@
     <item>
       <g:id>3GN7DLRP0SS144607</g:id>
       <g:title>2025 Chevrolet Equinox EV LT FWD</g:title>
-      <g:description>2025 Chevrolet Equinox EV LT FWD — 13 miles — used — Galaxy Gray Metallic</g:description>
+      <g:description>2025 Chevrolet Equinox EV LT FWD — 19 miles — used — Galaxy Gray Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2f732ca3-aa85-46ac-9a50-8415c9c617c1.jpg</g:image_link>
@@ -311,7 +335,7 @@
       <g:year>2025</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Equinox EV LT FWD</g:model>
-      <g:mileage>13 mi</g:mileage>
+      <g:mileage>19 mi</g:mileage>
       <g:color>Galaxy Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -1202,30 +1226,6 @@
       <g:mileage>137840 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>WAUDACF51SA000750</g:id>
-      <g:title>2025 Audi A5 Sportback 45 S line Premium quattro</g:title>
-      <g:description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</g:image_link>
-      <g:price>32887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WAUDACF51SA000750</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Audi</g:make>
-      <g:model>A5 Sportback 45 S line Premium quattro</g:model>
-      <g:mileage>12984 mi</g:mileage>
-      <g:color>Arkona White</g:color>
-      <g:body_style>WAGON</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
   </channel>
