@@ -366,6 +366,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</url>
+    </image>
+    <vehicle_id>WAUDACF51SA000750</vehicle_id>
+    <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
+    <description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</description>
+    <url>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</url>
+    <price>32887.00 USD</price>
+    <make>Audi</make>
+    <model>A5 Sportback 45 S line Premium quattro</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>12984</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>WAGON</body_style>
+    <vin>WAUDACF51SA000750</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Arkona White</exterior_color>
+    <interior_color>Atlas Beige</interior_color>
+    <stock_number>M76017</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/47176a78-06c1-445c-a5ae-37bce6e145f2.jpg</url>
     </image>
     <vehicle_id>1GTPUAEK1PZ116509</vehicle_id>
@@ -403,7 +436,7 @@
     </image>
     <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
     <title>2025 Chevrolet Equinox EV LT FWD</title>
-    <description>2025 Chevrolet Equinox EV LT FWD — 13 miles — used — Galaxy Gray Metallic</description>
+    <description>2025 Chevrolet Equinox EV LT FWD — 19 miles — used — Galaxy Gray Metallic</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</url>
     <price>29887.00 USD</price>
     <make>Chevrolet</make>
@@ -412,7 +445,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>13</value>
+      <value>19</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -1679,39 +1712,6 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>J18563</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</url>
-    </image>
-    <vehicle_id>WAUDACF51SA000750</vehicle_id>
-    <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
-    <description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</description>
-    <url>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</url>
-    <price>32887.00 USD</price>
-    <make>Audi</make>
-    <model>A5 Sportback 45 S line Premium quattro</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>12984</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>WAGON</body_style>
-    <vin>WAUDACF51SA000750</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Arkona White</exterior_color>
-    <interior_color>Atlas Beige</interior_color>
-    <stock_number>M76017</stock_number>
   </listing>
   <listing>
     <image>
