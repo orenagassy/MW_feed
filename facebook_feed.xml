@@ -36,39 +36,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bef1ceef-1d9c-40a4-8efa-a9eabb5e9f0d.jpg</url>
-    </image>
-    <vehicle_id>SALEJ7EXXR2254682</vehicle_id>
-    <title>2024 Land Rover Defender 110 S 4WD</title>
-    <description>2024 Land Rover Defender 110 S 4WD — 31,980 miles — used — Santorini Black Metallic</description>
-    <url>https://majorworld.com/inventory/2024-land-rover-defender-110-s-4wd-2-managerspecial/</url>
-    <price>49887.00 USD</price>
-    <make>Land Rover</make>
-    <model>Defender 110 S 4WD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>31980</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>SALEJ7EXXR2254682</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Santorini Black Metallic</exterior_color>
-    <interior_color>Ebony</interior_color>
-    <stock_number>M79248</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1b97f3d7-f7d9-4880-a981-4625c1cdc8a6.jpg</url>
     </image>
     <vehicle_id>4JGFB4FB7SB479671</vehicle_id>
@@ -762,6 +729,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5b440969-72e2-4309-a9a7-6da08fa11248.jpg</url>
+    </image>
+    <vehicle_id>3GNKDBRJ5RS278295</vehicle_id>
+    <title>2024 Chevrolet Blazer EV LT AWD</title>
+    <description>2024 Chevrolet Blazer EV LT AWD — 18,945 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2024-chevrolet-blazer-ev-lt-awd-2-managerspecial/</url>
+    <price>23887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Blazer EV LT AWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>18945</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GNKDBRJ5RS278295</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M79352</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/130386ff-d664-4510-a4de-25381caf6d1a.jpg</url>
     </image>
     <vehicle_id>5YFB4MDE0TP387699</vehicle_id>
@@ -792,6 +792,39 @@
     <exterior_color>Classic Silver Metallic</exterior_color>
     <interior_color>Macadamia</interior_color>
     <stock_number>M78737</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</url>
+    </image>
+    <vehicle_id>1C4JJXN6XPW628498</vehicle_id>
+    <title>2023 Jeep Wrangler Willys 4xe 4WD</title>
+    <description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</description>
+    <url>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</url>
+    <price>22887.00 USD</price>
+    <make>Jeep</make>
+    <model>Wrangler Willys 4xe 4WD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>64425</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1C4JJXN6XPW628498</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M77660</stock_number>
   </listing>
   <listing>
     <image>
