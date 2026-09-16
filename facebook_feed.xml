@@ -1162,7 +1162,7 @@
     </image>
     <vehicle_id>1HGCY1F24RA009118</vehicle_id>
     <title>2024 Honda Accord LX FWD</title>
-    <description>2024 Honda Accord LX FWD — 51,417 miles — used — Red</description>
+    <description>2024 Honda Accord LX FWD — 51,418 miles — used — Red</description>
     <url>https://majorworld.com/inventory/2024-honda-accord-lx-fwd-managerspecial/</url>
     <price>19887.00 USD</price>
     <make>Honda</make>
@@ -1171,7 +1171,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>51417</value>
+      <value>51418</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
