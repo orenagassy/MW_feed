@@ -531,39 +531,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1c7tW1Ww2gYqsQl3WI0YF5cqcZz5HTN9v=w1600</url>
-    </image>
-    <vehicle_id>5XYP64GC9SG590538</vehicle_id>
-    <title>2025 Kia Telluride S FWD</title>
-    <description>2025 Kia Telluride S FWD — 51,591 miles — used — Everlasting Silver</description>
-    <url>https://majorworld.com/inventory/2025-kia-telluride-s-fwd-4-managerspecial/</url>
-    <price>27887.00 USD</price>
-    <make>Kia</make>
-    <model>Telluride S FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51591</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>5XYP64GC9SG590538</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Everlasting Silver</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M79140</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/12AC5CuCq0oa7XyhKqhkEMRS3UFhEUPcw=w1600</url>
     </image>
     <vehicle_id>2T3F1RFV0SC502733</vehicle_id>
@@ -891,39 +858,6 @@
     <exterior_color>Sage Metallic</exterior_color>
     <interior_color>Whisper Beige</interior_color>
     <stock_number>M77175</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1X1DHc1wJl9m7Kr78K6oUkDLjgf5KwzyR=w1600</url>
-    </image>
-    <vehicle_id>WA1GAAFY9N2106077</vehicle_id>
-    <title>2022 Audi Q5 45 S line Premium quattro</title>
-    <description>2022 Audi Q5 45 S line Premium quattro — 64,865 miles — used — Daytona Gray Pearl Effect</description>
-    <url>https://majorworld.com/inventory/2022-audi-q5-45-s-line-premium-quattro-2-managerspecial/</url>
-    <price>20887.00 USD</price>
-    <make>Audi</make>
-    <model>Q5 45 S line Premium quattro</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>64865</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>CROSSOVER</body_style>
-    <vin>WA1GAAFY9N2106077</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Daytona Gray Pearl Effect</exterior_color>
-    <interior_color>Okapi Brown</interior_color>
-    <stock_number>M78801</stock_number>
   </listing>
   <listing>
     <image>
@@ -1782,5 +1716,38 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1K3WhuWW3pOWlVreQ-dVcgSayIdlX7JRp=w1600</url>
+    </image>
+    <vehicle_id>WAUDF78E77A249230</vehicle_id>
+    <title>2007 Audi A4 2.0T quattro</title>
+    <description>2007 Audi A4 2.0T quattro — 131,199 miles — used — Blue</description>
+    <url>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/</url>
+    <price>4987.00 USD</price>
+    <make>Audi</make>
+    <model>A4 2.0T quattro</model>
+    <year>2007</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>131199</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>WAUDF78E77A249230</vin>
+    <transmission>OTHER</transmission>
+    <exterior_color>Blue</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M79071</stock_number>
   </listing>
 </listings>
