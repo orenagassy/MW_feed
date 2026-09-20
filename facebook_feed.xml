@@ -1059,39 +1059,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/795144ef-b0b7-4de2-a1b5-a4375b687b52.jpg</url>
-    </image>
-    <vehicle_id>1C4RJFAG9KC540662</vehicle_id>
-    <title>2019 Jeep Grand Cherokee Laredo 4WD</title>
-    <description>2019 Jeep Grand Cherokee Laredo 4WD — 41,880 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2019-jeep-grand-cherokee-upland-edition-4wd-managerspecial/</url>
-    <price>19887.00 USD</price>
-    <make>Jeep</make>
-    <model>Grand Cherokee Laredo 4WD</model>
-    <year>2019</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>41880</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>SUV</body_style>
-    <vin>1C4RJFAG9KC540662</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78375</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/95234943-1991-4dc6-a68a-e274c8769da4.jpg</url>
     </image>
     <vehicle_id>1HGCY1F24RA009118</vehicle_id>
