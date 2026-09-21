@@ -333,39 +333,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ae48fbd5-2dab-488e-a2bc-294c1a3af1ff.jpg</url>
-    </image>
-    <vehicle_id>3GCNAAED1RG271226</vehicle_id>
-    <title>2024 Chevrolet Silverado 1500 WT RWD</title>
-    <description>2024 Chevrolet Silverado 1500 WT RWD — 42 miles — used — Summit White</description>
-    <url>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-wt-rwd-managerspecial/</url>
-    <price>32888.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Silverado 1500 WT RWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>42</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">57-15 Northern Blvd</component>
-      <component name="city">Woodside</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11377</component>
-      <component name="country">United States</component>
-    </address>
-    <latitude>40.753055</latitude>
-    <longitude>-73.919108</longitude>
-    <body_style>PICKUP</body_style>
-    <vin>3GCNAAED1RG271226</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <stock_number>M76163</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/870a31df-3e8f-4571-b2ab-4aba54c88027.jpg</url>
     </image>
     <vehicle_id>WAUDACF51SA000750</vehicle_id>
