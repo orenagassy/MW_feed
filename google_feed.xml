@@ -5,30 +5,6 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
-      <g:id>WA1ACBF76SD002840</g:id>
-      <g:title>2025 Audi Q7 45 Premium quattro</g:title>
-      <g:description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8eff681d-b3d2-4303-b156-1b8a958a4f72.jpg</g:image_link>
-      <g:price>49887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WA1ACBF76SD002840</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Audi</g:make>
-      <g:model>Q7 45 Premium quattro</g:model>
-      <g:mileage>2876 mi</g:mileage>
-      <g:color>Samurai Gray Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>4JGFB4FB7SB479671</g:id>
       <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 31,083 miles — used — Black</g:description>
@@ -53,30 +29,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>WA1LCBF78SD001505</g:id>
-      <g:title>2025 Audi Q7 45 Premium Plus quattro</g:title>
-      <g:description>2025 Audi Q7 45 Premium Plus quattro — 23,451 miles — used — Mythos Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-audi-q7-45-premium-plus-quattro-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-audi-q7-45-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5a4da395-4907-41a1-ae6e-faf809d031bd.jpg</g:image_link>
-      <g:price>47887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WA1LCBF78SD001505</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Audi</g:make>
-      <g:model>Q7 45 Premium Plus quattro</g:model>
-      <g:mileage>23451 mi</g:mileage>
-      <g:color>Mythos Black Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1FMJK1K88REA43147</g:id>
       <g:title>2024 Ford Expedition Max Limited RWD</g:title>
       <g:description>2024 Ford Expedition Max Limited RWD — 60,816 miles — used — Agate Black Metallic</g:description>
@@ -97,30 +49,6 @@
       <g:model>Expedition Max Limited RWD</g:model>
       <g:mileage>60816 mi</g:mileage>
       <g:color>Agate Black Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>4JGFB4FE0RB050165</g:id>
-      <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
-      <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</g:description>
-      <g:link>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</g:image_link>
-      <g:price>41887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>4JGFB4FE0RB050165</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>GLE GLE 350 4MATIC®</g:model>
-      <g:mileage>50109 mi</g:mileage>
-      <g:color>Black</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -197,27 +125,27 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>19UUB5F47SA000515</g:id>
-      <g:title>2025 Acura TLX Technology Package FWD</g:title>
-      <g:description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5f00bbce-6720-4d91-849e-08c4f9a31c64.jpg</g:image_link>
+      <g:id>4JGFB4FE0RB050165</g:id>
+      <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
+      <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</g:image_link>
       <g:price>39887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:brand>Acura</g:brand>
+      <g:brand>Mercedes-Benz</g:brand>
       <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
       <g:identifier_exists>true</g:identifier_exists>
       <g:included_destination>Vehicle_listing</g:included_destination>
       <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>19UUB5F47SA000515</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Acura</g:make>
-      <g:model>TLX Technology Package FWD</g:model>
-      <g:mileage>3260 mi</g:mileage>
-      <g:color>Platinum White Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
+      <g:vin>4JGFB4FE0RB050165</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLE GLE 350 4MATIC®</g:model>
+      <g:mileage>50109 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -1009,30 +937,6 @@
       <g:model>Versa 1.6 SV FWD</g:model>
       <g:mileage>26774 mi</g:mileage>
       <g:color>Super Black Metallic</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3N1AB8BV9SY231755</g:id>
-      <g:title>2025 Nissan Sentra S FWD</g:title>
-      <g:description>2025 Nissan Sentra S FWD — 32,797 miles — used — Fresh Powder</g:description>
-      <g:link>https://majorworld.com/inventory/2025-nissan-sentra-s-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-nissan-sentra-s-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/cbb261d0-a252-4346-a2eb-516b85884453.jpg</g:image_link>
-      <g:price>14887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3N1AB8BV9SY231755</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Sentra S FWD</g:model>
-      <g:mileage>32797 mi</g:mileage>
-      <g:color>Fresh Powder</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
