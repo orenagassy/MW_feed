@@ -201,6 +201,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1ebsX17X0HAxELhAaQeMxqbr2eaGzOVMR=w1600</url>
+    </image>
+    <vehicle_id>1FMJU1J82REA60344</vehicle_id>
+    <title>2024 Ford Expedition XLT 4WD</title>
+    <description>2024 Ford Expedition XLT 4WD — 58,559 miles — used — Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2024-ford-expedition-xlt-4wd-managerspecial/</url>
+    <price>38887.00 USD</price>
+    <make>Ford</make>
+    <model>Expedition XLT 4WD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>58559</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>1FMJU1J82REA60344</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Gray Metallic</exterior_color>
+    <interior_color>Black Onyx</interior_color>
+    <stock_number>M79020</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1MnfDmQTGrlQPO8ZGB0OuLxJeZW54gsKq=w1600</url>
     </image>
     <vehicle_id>1C4RJHAG4SC306151</vehicle_id>
@@ -300,11 +333,11 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1T6iDoJSDAzJfEPmNKaMuatZYXZ_VjT2A=w1600</url>
+      <url>https://lh3.googleusercontent.com/d/1Zve4JDmYYSNg8tt0Rjp1hRKkPdfR9WFc=w1600</url>
     </image>
     <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
     <title>2025 Chevrolet Equinox EV LT FWD</title>
-    <description>2025 Chevrolet Equinox EV LT FWD — 19 miles — used — Galaxy Gray Metallic</description>
+    <description>2025 Chevrolet Equinox EV LT FWD — 21 miles — used — Galaxy Gray Metallic</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</url>
     <price>29887.00 USD</price>
     <make>Chevrolet</make>
@@ -313,7 +346,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>19</value>
+      <value>21</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
@@ -396,6 +429,39 @@
     <exterior_color>Iconic Silver Metallic</exterior_color>
     <interior_color>Light Slate</interior_color>
     <stock_number>M78359</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1A3GGeEA8Jlc584egNnd346sYJdE7WGN3=w1600</url>
+    </image>
+    <vehicle_id>4T1DAACK3TU680969</vehicle_id>
+    <title>2026 Toyota Camry LE FWD</title>
+    <description>2026 Toyota Camry LE FWD — 10,419 miles — used — Underground</description>
+    <url>https://majorworld.com/inventory/2026-toyota-camry-le-fwd-4-managerspecial/</url>
+    <price>26887.00 USD</price>
+    <make>Toyota</make>
+    <model>Camry LE FWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>10419</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>4T1DAACK3TU680969</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Underground</exterior_color>
+    <interior_color>Boulder</interior_color>
+    <stock_number>M79465</stock_number>
   </listing>
   <listing>
     <image>
@@ -1290,6 +1356,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1TAUVB6S_4z2j1owQ-dssHxfA5xZlEgJ-=w1600</url>
+    </image>
+    <vehicle_id>3VVYX7B24NM026712</vehicle_id>
+    <title>2022 Volkswagen Taos 1.5T SE AWD</title>
+    <description>2022 Volkswagen Taos 1.5T SE AWD — 69,336 miles — used — Pyrite Silver Metallic</description>
+    <url>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-se-awd-managerspecial/</url>
+    <price>14887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Taos 1.5T SE AWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>69336</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>3VVYX7B24NM026712</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Pyrite Silver Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M79396</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1QQ4-c6xILSkRQGU7SlYnvmZZctwpDtQf=w1600</url>
     </image>
     <vehicle_id>1G1ZD5ST7PF142720</vehicle_id>
@@ -1518,6 +1617,39 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1z8qFKnm_wLDvFh-WT3xC77VNpsiOq7Rf=w1600</url>
+    </image>
+    <vehicle_id>4JGFB4EB2SB460527</vehicle_id>
+    <title>2025 Mercedes-Benz GLE GLE 350 RWD</title>
+    <description>2025 Mercedes-Benz GLE GLE 350 RWD — 28,733 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-rwd-managerspecial/</url>
+    <price>45887.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>GLE GLE 350 RWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>28733</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SUV</body_style>
+    <vin>4JGFB4EB2SB460527</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M79335</stock_number>
   </listing>
   <listing>
     <image>
