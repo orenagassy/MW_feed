@@ -366,6 +366,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1vTwMY2R6HLuZ5AQAcRXS-1Zo3LjT160X=w1600</url>
+    </image>
+    <vehicle_id>W1KEG1CB1PF032070</vehicle_id>
+    <title>2023 Mercedes-Benz EQE 350 Sedan 4MATIC®</title>
+    <description>2023 Mercedes-Benz EQE 350 Sedan 4MATIC® — 20,644 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2023-mercedes-benz-eqe-350-sedan-4matic-managerspecial/</url>
+    <price>27887.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>EQE 350 Sedan 4MATIC®</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>20644</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>W1KEG1CB1PF032070</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M79091</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1cfwrC4Eychis2tYsx1keVQiS2QKI0WZg=w1600</url>
     </image>
     <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
@@ -1584,6 +1617,39 @@
     <exterior_color>Sterling Gray Metallic</exterior_color>
     <interior_color>Jet Black/Gray With Red Accents</interior_color>
     <stock_number>M79068</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1ye3QyYfcs_yJthqPc1R975g4OoH6cKIY=w1600</url>
+    </image>
+    <vehicle_id>KM8K22AA7KU335124</vehicle_id>
+    <title>2019 Hyundai Kona SEL FWD</title>
+    <description>2019 Hyundai Kona SEL FWD — 136,852 miles — used — Pulse Red w/Black Roof</description>
+    <url>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/</url>
+    <price>9887.00 USD</price>
+    <make>Hyundai</make>
+    <model>Kona SEL FWD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>136852</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>KM8K22AA7KU335124</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Pulse Red w/Black Roof</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78652</stock_number>
   </listing>
   <listing>
     <image>
