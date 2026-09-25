@@ -366,6 +366,39 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/adeed672-2ce0-4be9-a4a2-26e1acce8a15.jpg</url>
+    </image>
+    <vehicle_id>W1KEG1CB1PF032070</vehicle_id>
+    <title>2023 Mercedes-Benz EQE 350 Sedan 4MATIC®</title>
+    <description>2023 Mercedes-Benz EQE 350 Sedan 4MATIC® — 20,644 miles — used — Black</description>
+    <url>https://majorworld.com/inventory/2023-mercedes-benz-eqe-350-sedan-4matic-managerspecial/</url>
+    <price>27887.00 USD</price>
+    <make>Mercedes-Benz</make>
+    <model>EQE 350 Sedan 4MATIC®</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>20644</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>W1KEG1CB1PF032070</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M79091</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2cdcbcb1-ac45-4bb4-833b-cfe41d96f49a.jpg</url>
     </image>
     <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
@@ -465,7 +498,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1a2b2cb9-1e9e-416d-9f6e-d7ef4a15c078.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b9f71be0-1cd9-419f-a407-1dbd0d09bf4d.jpg</url>
     </image>
     <vehicle_id>2T3F1RFV0SC502733</vehicle_id>
     <title>2025 Toyota RAV4 LE AWD</title>
@@ -498,7 +531,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/99eac796-cef8-4b16-af61-52786b3fd503.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ae5c7ecd-e0dd-401b-ad55-9020cfedce03.jpg</url>
     </image>
     <vehicle_id>3C6LRVCG4SE513116</vehicle_id>
     <title>2025 Ram ProMaster 2500 High Roof FWD</title>
@@ -630,7 +663,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/bcfe72e2-5107-4ec4-91d2-8e959ef0f6a7.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/eb77f889-0e34-4dbb-b8a6-42b3eb22b78d.jpg</url>
     </image>
     <vehicle_id>3GNKDBRJ5RS278295</vehicle_id>
     <title>2024 Chevrolet Blazer EV LT AWD</title>
@@ -828,7 +861,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/080ded8a-22f6-42b6-ad7b-db0717de704b.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/91801447-6088-4119-9a0b-ba7405f2918b.jpg</url>
     </image>
     <vehicle_id>KL77LJEP8SC002322</vehicle_id>
     <title>2025 Chevrolet Trax 2RS FWD</title>
@@ -894,7 +927,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/fce067ff-5de5-44e0-bcc4-221d7fbfd0d7.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a5fbd315-1fa8-4d9a-9d14-0c8d7849f038.jpg</url>
     </image>
     <vehicle_id>5N1BT3AA1PC868442</vehicle_id>
     <title>2023 Nissan Rogue S FWD</title>
@@ -1191,7 +1224,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/5b309f11-f712-46c6-a71a-3aa6d1121c07.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a213ff8f-4689-4e20-9576-3505f24840d1.jpg</url>
     </image>
     <vehicle_id>JN1EV7AR3JM430552</vehicle_id>
     <title>2018 INFINITI Q50 3.0t LUXE AWD</title>
@@ -1584,6 +1617,39 @@
     <exterior_color>Sterling Gray Metallic</exterior_color>
     <interior_color>Jet Black/Gray With Red Accents</interior_color>
     <stock_number>M79068</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/b4ed6cc3-04ee-4179-83d3-1b18dbf2f467.jpg</url>
+    </image>
+    <vehicle_id>KM8K22AA7KU335124</vehicle_id>
+    <title>2019 Hyundai Kona SEL FWD</title>
+    <description>2019 Hyundai Kona SEL FWD — 136,852 miles — used — Pulse Red w/Black Roof</description>
+    <url>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/</url>
+    <price>9887.00 USD</price>
+    <make>Hyundai</make>
+    <model>Kona SEL FWD</model>
+    <year>2019</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>136852</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">57-15 Northern Blvd</component>
+      <component name="city">Woodside</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11377</component>
+      <component name="country">United States</component>
+    </address>
+    <latitude>40.753055</latitude>
+    <longitude>-73.919108</longitude>
+    <body_style>SEDAN</body_style>
+    <vin>KM8K22AA7KU335124</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Pulse Red w/Black Roof</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78652</stock_number>
   </listing>
   <listing>
     <image>
