@@ -304,7 +304,7 @@
     </image>
     <vehicle_id>1GTPUAEK1PZ116509</vehicle_id>
     <title>2023 GMC Sierra 1500 Pro 4WD</title>
-    <description>2023 GMC Sierra 1500 Pro 4WD — 58,019 miles — used — Summit White</description>
+    <description>2023 GMC Sierra 1500 Pro 4WD — 58,027 miles — used — Summit White</description>
     <url>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/</url>
     <price>31887.00 USD</price>
     <make>GMC</make>
@@ -313,7 +313,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>58019</value>
+      <value>58027</value>
     </mileage>
     <address format="simple">
       <component name="addr1">57-15 Northern Blvd</component>
