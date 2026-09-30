@@ -5,13 +5,61 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
+      <g:id>4JGFF5KE3SB437606</g:id>
+      <g:title>2025 Mercedes-Benz GLS GLS 450 4MATIC®</g:title>
+      <g:description>2025 Mercedes-Benz GLS GLS 450 4MATIC® — 25,193 miles — used — Polar White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d767ebd0-ad5c-4955-90d7-e343528938f0.jpg</g:image_link>
+      <g:price>64887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>4JGFF5KE3SB437606</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLS GLS 450 4MATIC®</g:model>
+      <g:mileage>25193 mi</g:mileage>
+      <g:color>Polar White</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WA1EVBF12SD039682</g:id>
+      <g:title>2025 Audi Q8 55 Premium Plus quattro</g:title>
+      <g:description>2025 Audi Q8 55 Premium Plus quattro — 19,016 miles — used — Blue Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/0e4afb8b-8309-42cb-bee2-0ac824f5373a.jpg</g:image_link>
+      <g:price>53887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WA1EVBF12SD039682</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Audi</g:make>
+      <g:model>Q8 55 Premium Plus quattro</g:model>
+      <g:mileage>19016 mi</g:mileage>
+      <g:color>Blue Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>4JGFB4FB7SB479671</g:id>
       <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 31,083 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic-3-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic-3-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f6fa1081-9655-4dfa-b8bd-75c573222739.jpg</g:image_link>
-      <g:price>49062.00 USD</g:price>
+      <g:price>48887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mercedes-Benz</g:brand>
@@ -35,7 +83,7 @@
       <g:link>https://majorworld.com/inventory/2025-audi-q7-45-premium-plus-quattro-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-audi-q7-45-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/152a712f-0bc0-4682-9376-255cd0c1ce43.jpg</g:image_link>
-      <g:price>44062.00 USD</g:price>
+      <g:price>43887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Audi</g:brand>
@@ -59,7 +107,7 @@
       <g:link>https://majorworld.com/inventory/2024-ford-expedition-max-limited-rwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-ford-expedition-max-limited-rwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7e222f15-4045-4858-b2f7-2ed45590089a.jpg</g:image_link>
-      <g:price>43170.00 USD</g:price>
+      <g:price>42995.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ford</g:brand>
@@ -77,13 +125,61 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WAULDAF89NN005323</g:id>
+      <g:title>2022 Audi A8 L 55 quattro</g:title>
+      <g:description>2022 Audi A8 L 55 quattro — 27,981 miles — used — Mythos Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2022-audi-a8-l-55-quattro-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-audi-a8-l-55-quattro-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/25300f9b-8794-412a-8acc-69f0d6a0a83d.jpg</g:image_link>
+      <g:price>42887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAULDAF89NN005323</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A8 L 55 quattro</g:model>
+      <g:mileage>27981 mi</g:mileage>
+      <g:color>Mythos Black Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WP1AA2A55PLB03672</g:id>
+      <g:title>2023 Porsche Macan Base AWD</g:title>
+      <g:description>2023 Porsche Macan Base AWD — 34,201 miles — used — Jet Black Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-porsche-macan-base-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-porsche-macan-base-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/300a524c-859e-465d-9222-5c7abc4b4b78.jpg</g:image_link>
+      <g:price>42887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Porsche</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WP1AA2A55PLB03672</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Porsche</g:make>
+      <g:model>Macan Base AWD</g:model>
+      <g:mileage>34201 mi</g:mileage>
+      <g:color>Jet Black Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1GTP9EEL3NZ100651</g:id>
       <g:title>2022 GMC Sierra 1500 Limited AT4 4WD</g:title>
       <g:description>2022 GMC Sierra 1500 Limited AT4 4WD — 27,886 miles — used — Satin Steel Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2022-gmc-sierra-1500-limited-at4-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-gmc-sierra-1500-limited-at4-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/deab8456-3489-44f3-a8fc-2e378c8129f7.jpg</g:image_link>
-      <g:price>41062.00 USD</g:price>
+      <g:price>40887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>GMC</g:brand>
@@ -107,7 +203,7 @@
       <g:link>https://majorworld.com/inventory/2025-lexus-es-350-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-lexus-es-350-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/de84a807-29d8-46f3-814c-0a9676e5f794.jpg</g:image_link>
-      <g:price>40063.00 USD</g:price>
+      <g:price>39888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Lexus</g:brand>
@@ -131,7 +227,7 @@
       <g:link>https://majorworld.com/inventory/2025-chevrolet-silverado-1500-custom-rwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-chevrolet-silverado-1500-custom-rwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/cf06efba-c77e-4fb8-afe9-524df2117bd7.jpg</g:image_link>
-      <g:price>40063.00 USD</g:price>
+      <g:price>39888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -155,7 +251,7 @@
       <g:link>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-mercedes-benz-gle-gle-350-4matic-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</g:image_link>
-      <g:price>40062.00 USD</g:price>
+      <g:price>39887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mercedes-Benz</g:brand>
@@ -179,7 +275,7 @@
       <g:link>https://majorworld.com/inventory/2024-ford-expedition-xlt-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-ford-expedition-xlt-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6c750f6e-db7c-4af6-aeb6-0ed16237d2be.jpg</g:image_link>
-      <g:price>39062.00 USD</g:price>
+      <g:price>38887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ford</g:brand>
@@ -203,7 +299,7 @@
       <g:link>https://majorworld.com/inventory/2025-jeep-grand-cherokee-laredo-x-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-jeep-grand-cherokee-laredo-x-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/50d461ef-847b-4dbe-8a1b-ebc5dab3dc7e.jpg</g:image_link>
-      <g:price>38062.00 USD</g:price>
+      <g:price>37887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Jeep</g:brand>
@@ -227,7 +323,7 @@
       <g:link>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/870a31df-3e8f-4571-b2ab-4aba54c88027.jpg</g:image_link>
-      <g:price>33062.00 USD</g:price>
+      <g:price>32887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Audi</g:brand>
@@ -251,7 +347,7 @@
       <g:link>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2601f7ad-3d90-44ea-9d16-b1121ae54f7c.jpg</g:image_link>
-      <g:price>32062.00 USD</g:price>
+      <g:price>31887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>GMC</g:brand>
@@ -269,37 +365,13 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3GN7DLRP0SS144607</g:id>
-      <g:title>2025 Chevrolet Equinox EV LT FWD</g:title>
-      <g:description>2025 Chevrolet Equinox EV LT FWD — 21 miles — used — Galaxy Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6d86e2a1-b9dd-4e68-a155-b398e8d42070.jpg</g:image_link>
-      <g:price>30062.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3GN7DLRP0SS144607</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Equinox EV LT FWD</g:model>
-      <g:mileage>21 mi</g:mileage>
-      <g:color>Galaxy Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>W1KEG1CB1PF032070</g:id>
       <g:title>2023 Mercedes-Benz EQE 350 Sedan 4MATIC®</g:title>
       <g:description>2023 Mercedes-Benz EQE 350 Sedan 4MATIC® — 20,644 miles — used — Black</g:description>
       <g:link>https://majorworld.com/inventory/2023-mercedes-benz-eqe-350-sedan-4matic-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-mercedes-benz-eqe-350-sedan-4matic-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/adeed672-2ce0-4be9-a4a2-26e1acce8a15.jpg</g:image_link>
-      <g:price>28062.00 USD</g:price>
+      <g:price>27887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mercedes-Benz</g:brand>
@@ -323,7 +395,7 @@
       <g:link>https://majorworld.com/inventory/2024-ford-edge-sel-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-ford-edge-sel-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2ebd5670-d1aa-4773-9ed1-64fe417d997a.jpg</g:image_link>
-      <g:price>28062.00 USD</g:price>
+      <g:price>27887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ford</g:brand>
@@ -347,7 +419,7 @@
       <g:link>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-ford-explorer-xlt-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d48cda9e-24b6-4030-9bba-77754b18ad93.jpg</g:image_link>
-      <g:price>28062.00 USD</g:price>
+      <g:price>27887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ford</g:brand>
@@ -371,7 +443,7 @@
       <g:link>https://majorworld.com/inventory/2026-toyota-camry-le-fwd-4-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2026-toyota-camry-le-fwd-4-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d0dda0d4-faf1-41a4-93e9-6c759666b067.jpg</g:image_link>
-      <g:price>27062.00 USD</g:price>
+      <g:price>26887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Toyota</g:brand>
@@ -395,7 +467,7 @@
       <g:link>https://majorworld.com/inventory/2025-toyota-rav4-le-awd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-toyota-rav4-le-awd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1a2b2cb9-1e9e-416d-9f6e-d7ef4a15c078.jpg</g:image_link>
-      <g:price>27062.00 USD</g:price>
+      <g:price>26887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Toyota</g:brand>
@@ -419,7 +491,7 @@
       <g:link>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ae5c7ecd-e0dd-401b-ad55-9020cfedce03.jpg</g:image_link>
-      <g:price>27062.00 USD</g:price>
+      <g:price>26887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ram</g:brand>
@@ -437,13 +509,61 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WAUE3BF23PN066666</g:id>
+      <g:title>2023 Audi A6 45 Premium Plus quattro</g:title>
+      <g:description>2023 Audi A6 45 Premium Plus quattro — 38,004 miles — used — Glacier White Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-audi-a6-45-premium-plus-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-audi-a6-45-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1e32882-3f5e-4341-8ca5-40c47840c9b4.jpg</g:image_link>
+      <g:price>26887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAUE3BF23PN066666</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A6 45 Premium Plus quattro</g:model>
+      <g:mileage>38004 mi</g:mileage>
+      <g:color>Glacier White Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WA15AAFY3P2037607</g:id>
+      <g:title>2023 Audi Q5 Sportback 45 S line Premium quattro</g:title>
+      <g:description>2023 Audi Q5 Sportback 45 S line Premium quattro — 55,989 miles — used — Glacier White Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-audi-q5-sportback-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-audi-q5-sportback-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a81100cc-3ff2-4112-a8cc-2a9fae45740d.jpg</g:image_link>
+      <g:price>26887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WA15AAFY3P2037607</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Audi</g:make>
+      <g:model>Q5 Sportback 45 S line Premium quattro</g:model>
+      <g:mileage>55989 mi</g:mileage>
+      <g:color>Glacier White Metallic</g:color>
+      <g:body_style>WAGON</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3CZRZ1H77SM716182</g:id>
       <g:title>2025 Honda HR-V EX-L FWD</g:title>
       <g:description>2025 Honda HR-V EX-L FWD — 38,494 miles — used — White</g:description>
       <g:link>https://majorworld.com/inventory/2025-honda-hr-v-ex-l-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-honda-hr-v-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f685991a-b9f8-46b2-a0c9-cd3e58545cf4.jpg</g:image_link>
-      <g:price>26062.00 USD</g:price>
+      <g:price>25887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -461,74 +581,26 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4RJGAG4RC707915</g:id>
-      <g:title>2024 Jeep Grand Cherokee Laredo</g:title>
-      <g:description>2024 Jeep Grand Cherokee Laredo — 54,573 miles — used — Diamond Black Crystal Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/84d5b949-d3d0-4533-8b0f-816b80458696.jpg</g:image_link>
-      <g:price>26062.00 USD</g:price>
+      <g:id>1V2WR2CA0SC537385</g:id>
+      <g:title>2025 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
+      <g:description>2025 Volkswagen Atlas 2.0T SE w/Technology FWD — 45,445 miles — used — White</g:description>
+      <g:link>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-se-w-technology-fwd-7-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-volkswagen-atlas-2-0t-se-w-technology-fwd-7-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/5af74920-c956-46f6-8b37-9bff4db53b90.jpg</g:image_link>
+      <g:price>25887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
+      <g:brand>Volkswagen</g:brand>
       <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
       <g:identifier_exists>true</g:identifier_exists>
       <g:included_destination>Vehicle_listing</g:included_destination>
       <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4RJGAG4RC707915</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Grand Cherokee Laredo</g:model>
-      <g:mileage>54573 mi</g:mileage>
-      <g:color>Diamond Black Crystal Pearlcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>5NMP14GL8SH085191</g:id>
-      <g:title>2025 Hyundai Santa Fe SE FWD</g:title>
-      <g:description>2025 Hyundai Santa Fe SE FWD — 38,804 miles — used — Hampton Gray</g:description>
-      <g:link>https://majorworld.com/inventory/2025-hyundai-santa-fe-se-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-hyundai-santa-fe-se-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ab07f3f8-27ec-4f0c-ba75-602cd22e6f8b.jpg</g:image_link>
-      <g:price>25062.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5NMP14GL8SH085191</g:vin>
+      <g:vin>1V2WR2CA0SC537385</g:vin>
       <g:year>2025</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Santa Fe SE FWD</g:model>
-      <g:mileage>38804 mi</g:mileage>
-      <g:color>Hampton Gray</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>OTHER</g:transmission>
-    </item>
-    <item>
-      <g:id>3GNKDBRJ5RS278295</g:id>
-      <g:title>2024 Chevrolet Blazer EV LT AWD</g:title>
-      <g:description>2024 Chevrolet Blazer EV LT AWD — 18,950 miles — used — Black</g:description>
-      <g:link>https://majorworld.com/inventory/2024-chevrolet-blazer-ev-lt-awd-2-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-blazer-ev-lt-awd-2-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/eb77f889-0e34-4dbb-b8a6-42b3eb22b78d.jpg</g:image_link>
-      <g:price>24062.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3GNKDBRJ5RS278295</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Blazer EV LT AWD</g:model>
-      <g:mileage>18950 mi</g:mileage>
-      <g:color>Black</g:color>
+      <g:make>Volkswagen</g:make>
+      <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
+      <g:mileage>45445 mi</g:mileage>
+      <g:color>White</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -539,7 +611,7 @@
       <g:link>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-3-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7c348795-3894-43b7-8eb2-f772a8810112.jpg</g:image_link>
-      <g:price>23062.00 USD</g:price>
+      <g:price>24888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Toyota</g:brand>
@@ -557,13 +629,157 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3GN7DLRP0SS144607</g:id>
+      <g:title>2025 Chevrolet Equinox EV LT FWD</g:title>
+      <g:description>2025 Chevrolet Equinox EV LT FWD — 21 miles — used — Galaxy Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6d86e2a1-b9dd-4e68-a155-b398e8d42070.jpg</g:image_link>
+      <g:price>24887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3GN7DLRP0SS144607</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Equinox EV LT FWD</g:model>
+      <g:mileage>21 mi</g:mileage>
+      <g:color>Galaxy Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>5NMP14GL8SH085191</g:id>
+      <g:title>2025 Hyundai Santa Fe SE FWD</g:title>
+      <g:description>2025 Hyundai Santa Fe SE FWD — 38,804 miles — used — Hampton Gray</g:description>
+      <g:link>https://majorworld.com/inventory/2025-hyundai-santa-fe-se-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-hyundai-santa-fe-se-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ab07f3f8-27ec-4f0c-ba75-602cd22e6f8b.jpg</g:image_link>
+      <g:price>24887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Hyundai</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5NMP14GL8SH085191</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Hyundai</g:make>
+      <g:model>Santa Fe SE FWD</g:model>
+      <g:mileage>38804 mi</g:mileage>
+      <g:color>Hampton Gray</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>OTHER</g:transmission>
+    </item>
+    <item>
+      <g:id>5YFB4MDE0TP418448</g:id>
+      <g:title>2026 Toyota Corolla LE FWD</g:title>
+      <g:description>2026 Toyota Corolla LE FWD — 34 miles — used — Classic Silver Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/887b3ecb-94c8-4543-ac78-f197aef2f0de.jpg</g:image_link>
+      <g:price>23887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>5YFB4MDE0TP418448</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Toyota</g:make>
+      <g:model>Corolla LE FWD</g:model>
+      <g:mileage>34 mi</g:mileage>
+      <g:color>Classic Silver Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>3GNKDBRJ5RS278295</g:id>
+      <g:title>2024 Chevrolet Blazer EV LT AWD</g:title>
+      <g:description>2024 Chevrolet Blazer EV LT AWD — 18,950 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-blazer-ev-lt-awd-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-blazer-ev-lt-awd-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/eb77f889-0e34-4dbb-b8a6-42b3eb22b78d.jpg</g:image_link>
+      <g:price>23887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3GNKDBRJ5RS278295</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Blazer EV LT AWD</g:model>
+      <g:mileage>18950 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1V2WR2CA8RC613297</g:id>
+      <g:title>2024 Volkswagen Atlas 2.0T SE w/Technology FWD</g:title>
+      <g:description>2024 Volkswagen Atlas 2.0T SE w/Technology FWD — 19,333 miles — used — Pure White</g:description>
+      <g:link>https://majorworld.com/inventory/2024-volkswagen-atlas-2-0t-se-w-technology-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-volkswagen-atlas-2-0t-se-w-technology-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/54942474-ad95-4f3a-a68c-8fdf8c78727b.jpg</g:image_link>
+      <g:price>23887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1V2WR2CA8RC613297</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Volkswagen</g:make>
+      <g:model>Atlas 2.0T SE w/Technology FWD</g:model>
+      <g:mileage>19333 mi</g:mileage>
+      <g:color>Pure White</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4RJGAG4RC707915</g:id>
+      <g:title>2024 Jeep Grand Cherokee Laredo</g:title>
+      <g:description>2024 Jeep Grand Cherokee Laredo — 54,573 miles — used — Diamond Black Crystal Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/84d5b949-d3d0-4533-8b0f-816b80458696.jpg</g:image_link>
+      <g:price>23887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4RJGAG4RC707915</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Grand Cherokee Laredo</g:model>
+      <g:mileage>54573 mi</g:mileage>
+      <g:color>Diamond Black Crystal Pearlcoat</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1C4JJXN6XPW628498</g:id>
       <g:title>2023 Jeep Wrangler Willys 4xe 4WD</g:title>
       <g:description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</g:description>
       <g:link>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</g:image_link>
-      <g:price>23062.00 USD</g:price>
+      <g:price>22887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Jeep</g:brand>
@@ -587,7 +803,7 @@
       <g:link>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8c847e69-5552-42d2-897f-390506ae53d3.jpg</g:image_link>
-      <g:price>22062.00 USD</g:price>
+      <g:price>21887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mazda</g:brand>
@@ -611,7 +827,7 @@
       <g:link>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-buick-enclave-essence-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/77876640-ce96-4dcb-a731-0b45c522970f.jpg</g:image_link>
-      <g:price>22062.00 USD</g:price>
+      <g:price>21887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Buick</g:brand>
@@ -635,7 +851,7 @@
       <g:link>https://majorworld.com/inventory/2024-buick-encore-gx-sport-touring-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-buick-encore-gx-sport-touring-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/453890ce-1c9d-4ebd-96f2-e4e8db56ca6f.jpg</g:image_link>
-      <g:price>20170.00 USD</g:price>
+      <g:price>19995.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Buick</g:brand>
@@ -659,7 +875,7 @@
       <g:link>https://majorworld.com/inventory/2025-chevrolet-trax-2rs-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-chevrolet-trax-2rs-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/080ded8a-22f6-42b6-ad7b-db0717de704b.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -683,7 +899,7 @@
       <g:link>https://majorworld.com/inventory/2025-nissan-rogue-sv-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-nissan-rogue-sv-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/4784e5c3-c640-4429-83ae-cd554846aca4.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Nissan</g:brand>
@@ -707,7 +923,7 @@
       <g:link>https://majorworld.com/inventory/2023-nissan-rogue-s-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-nissan-rogue-s-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/fce067ff-5de5-44e0-bcc4-221d7fbfd0d7.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Nissan</g:brand>
@@ -731,7 +947,7 @@
       <g:link>https://majorworld.com/inventory/2024-chevrolet-malibu-rs-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-chevrolet-malibu-rs-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/29e894ba-9933-461b-a78f-45b133feba1e.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -755,7 +971,7 @@
       <g:link>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9c2ce883-86ca-4385-b864-cf69e2be3a3d.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -779,7 +995,7 @@
       <g:link>https://majorworld.com/inventory/2024-honda-accord-lx-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-honda-accord-lx-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/29c3bfd9-658c-4954-be46-2aec73027a1e.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -803,7 +1019,7 @@
       <g:link>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1e32315-15b9-46b4-98c4-5683b8c2f821.jpg</g:image_link>
-      <g:price>20062.00 USD</g:price>
+      <g:price>19887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -827,7 +1043,7 @@
       <g:link>https://majorworld.com/inventory/2021-toyota-rav4-le-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2021-toyota-rav4-le-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d69111bb-28ee-4876-97bb-1a085368aa51.jpg</g:image_link>
-      <g:price>19062.00 USD</g:price>
+      <g:price>18887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Toyota</g:brand>
@@ -851,7 +1067,7 @@
       <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/04a16fe7-3cb0-40bc-bd57-1f68f8637fda.jpg</g:image_link>
-      <g:price>18952.00 USD</g:price>
+      <g:price>18777.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -875,7 +1091,7 @@
       <g:link>https://majorworld.com/inventory/2024-nissan-rogue-sv-fwd-3-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-nissan-rogue-sv-fwd-3-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7da28d0a-17ff-4f16-973c-4f0a629cc67b.jpg</g:image_link>
-      <g:price>18062.00 USD</g:price>
+      <g:price>17887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Nissan</g:brand>
@@ -899,7 +1115,7 @@
       <g:link>https://majorworld.com/inventory/2025-hyundai-elantra-sel-convenience-fwd-7-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-hyundai-elantra-sel-convenience-fwd-7-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c7669a4c-5094-4706-b42b-1148899f5b91.jpg</g:image_link>
-      <g:price>17062.00 USD</g:price>
+      <g:price>16887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Hyundai</g:brand>
@@ -923,7 +1139,7 @@
       <g:link>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a213ff8f-4689-4e20-9576-3505f24840d1.jpg</g:image_link>
-      <g:price>16762.00 USD</g:price>
+      <g:price>16587.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>INFINITI</g:brand>
@@ -947,7 +1163,7 @@
       <g:link>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-kia-k4-lxs-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b5d2c15b-580d-44d5-880a-783106a8382a.jpg</g:image_link>
-      <g:price>16062.00 USD</g:price>
+      <g:price>15887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Kia</g:brand>
@@ -971,7 +1187,7 @@
       <g:link>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2021-honda-civic-lx-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ef723682-b7c0-4d94-a171-a2d760c2c8ba.jpg</g:image_link>
-      <g:price>15062.00 USD</g:price>
+      <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -995,7 +1211,7 @@
       <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</g:image_link>
-      <g:price>15062.00 USD</g:price>
+      <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Volkswagen</g:brand>
@@ -1019,7 +1235,7 @@
       <g:link>https://majorworld.com/inventory/2025-nissan-versa-1-6-sv-fwd-6-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-nissan-versa-1-6-sv-fwd-6-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/2cff3bab-5ac9-416a-99de-dbb2660fedff.jpg</g:image_link>
-      <g:price>15062.00 USD</g:price>
+      <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Nissan</g:brand>
@@ -1043,7 +1259,7 @@
       <g:link>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-se-awd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-se-awd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c427e00c-1e98-4a88-8f2a-73139a0c0aee.jpg</g:image_link>
-      <g:price>15062.00 USD</g:price>
+      <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Volkswagen</g:brand>
@@ -1067,7 +1283,7 @@
       <g:link>https://majorworld.com/inventory/2023-chevrolet-malibu-lt-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-chevrolet-malibu-lt-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/825cba11-c7fc-4c32-b71e-1146103470d1.jpg</g:image_link>
-      <g:price>13062.00 USD</g:price>
+      <g:price>12887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -1091,7 +1307,7 @@
       <g:link>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-ram-1500-classic-express-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b426bcd5-298e-4ee0-a7fb-5abf93e1b247.jpg</g:image_link>
-      <g:price>13062.00 USD</g:price>
+      <g:price>12887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Ram</g:brand>
@@ -1115,7 +1331,7 @@
       <g:link>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d78103a8-bc66-4ebc-ad6b-53f1bc660c5b.jpg</g:image_link>
-      <g:price>12063.00 USD</g:price>
+      <g:price>11888.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -1139,7 +1355,7 @@
       <g:link>https://majorworld.com/inventory/2019-honda-civic-lx-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-honda-civic-lx-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/34fdba81-1e6b-4dff-9411-51835f5bb627.jpg</g:image_link>
-      <g:price>12062.00 USD</g:price>
+      <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Honda</g:brand>
@@ -1163,7 +1379,7 @@
       <g:link>https://majorworld.com/inventory/2023-chevrolet-malibu-ls-fwd-3-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-chevrolet-malibu-ls-fwd-3-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/18a64b33-793d-4330-9c07-89283588ffac.jpg</g:image_link>
-      <g:price>12062.00 USD</g:price>
+      <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -1183,11 +1399,11 @@
     <item>
       <g:id>KL77LGE22RC036936</g:id>
       <g:title>2024 Chevrolet Trax 1RS FWD</g:title>
-      <g:description>2024 Chevrolet Trax 1RS FWD — 137,840 miles — used — Sterling Gray Metallic</g:description>
+      <g:description>2024 Chevrolet Trax 1RS FWD — 137,940 miles — used — Sterling Gray Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2024-chevrolet-trax-1rs-fwd-2-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/ac39907f-83c9-4f8b-9020-f700b6bede3f.jpg</g:image_link>
-      <g:price>12062.00 USD</g:price>
+      <g:price>11887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
@@ -1199,8 +1415,32 @@
       <g:year>2024</g:year>
       <g:make>Chevrolet</g:make>
       <g:model>Trax 1RS FWD</g:model>
-      <g:mileage>137840 mi</g:mileage>
+      <g:mileage>137940 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>2HKRM4H56FH605932</g:id>
+      <g:title>2015 Honda CR-V EX AWD</g:title>
+      <g:description>2015 Honda CR-V EX AWD — 95,742 miles — used — Mr</g:description>
+      <g:link>https://majorworld.com/inventory/2015-honda-cr-v-ex-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-honda-cr-v-ex-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/6462fb93-8a96-489d-82b5-90d19e207091.jpg</g:image_link>
+      <g:price>9887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>2HKRM4H56FH605932</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Honda</g:make>
+      <g:model>CR-V EX AWD</g:model>
+      <g:mileage>95742 mi</g:mileage>
+      <g:color>Mr</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1211,7 +1451,7 @@
       <g:link>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b4ed6cc3-04ee-4179-83d3-1b18dbf2f467.jpg</g:image_link>
-      <g:price>10062.00 USD</g:price>
+      <g:price>9887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Hyundai</g:brand>
@@ -1235,7 +1475,7 @@
       <g:link>https://majorworld.com/inventory/2018-chevrolet-cruze-ls-fwd-3-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2018-chevrolet-cruze-ls-fwd-3-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/26797966-a7b3-48bd-8031-b8319dd9e813.jpg</g:image_link>
-      <g:price>5062.00 USD</g:price>
+      <g:price>4887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Chevrolet</g:brand>
