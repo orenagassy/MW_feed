@@ -365,6 +365,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>4JGFB4JB7NA805499</g:id>
+      <g:title>2022 Mercedes-Benz GLE GLE 350 RWD</g:title>
+      <g:description>2022 Mercedes-Benz GLE GLE 350 RWD — 35,189 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2022-mercedes-benz-gle-gle-350-rwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-mercedes-benz-gle-gle-350-rwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e93b689b-2f0a-48dc-a1cb-11233ddb09c9.jpg</g:image_link>
+      <g:price>28887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mercedes-Benz</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>4JGFB4JB7NA805499</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Mercedes-Benz</g:make>
+      <g:model>GLE GLE 350 RWD</g:model>
+      <g:mileage>35189 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>W1KEG1CB1PF032070</g:id>
       <g:title>2023 Mercedes-Benz EQE 350 Sedan 4MATIC®</g:title>
       <g:description>2023 Mercedes-Benz EQE 350 Sedan 4MATIC® — 20,644 miles — used — Black</g:description>
