@@ -53,30 +53,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>4JGFB4FB7SB479671</g:id>
-      <g:title>2025 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
-      <g:description>2025 Mercedes-Benz GLE GLE 350 4MATIC® — 31,083 miles — used — Black</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic-3-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-mercedes-benz-gle-gle-350-4matic-3-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/f6fa1081-9655-4dfa-b8bd-75c573222739.jpg</g:image_link>
-      <g:price>48887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>4JGFB4FB7SB479671</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>GLE GLE 350 4MATIC®</g:model>
-      <g:mileage>31083 mi</g:mileage>
-      <g:color>Black</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>WA1LCBF78SD001505</g:id>
       <g:title>2025 Audi Q7 45 Premium Plus quattro</g:title>
       <g:description>2025 Audi Q7 45 Premium Plus quattro — 23,451 miles — used — Mythos Black Metallic</g:description>
@@ -605,6 +581,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1GYKNDR43NZ170583</g:id>
+      <g:title>2022 Cadillac XT5 Premium Luxury AWD</g:title>
+      <g:description>2022 Cadillac XT5 Premium Luxury AWD — 52,268 miles — used — Crystal White Tricoat</g:description>
+      <g:link>https://majorworld.com/inventory/2022-cadillac-xt5-premium-luxury-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-cadillac-xt5-premium-luxury-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1bbbd784-2199-49bb-89e9-660ee358c90d.jpg</g:image_link>
+      <g:price>25887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Cadillac</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GYKNDR43NZ170583</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Cadillac</g:make>
+      <g:model>XT5 Premium Luxury AWD</g:model>
+      <g:mileage>52268 mi</g:mileage>
+      <g:color>Crystal White Tricoat</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>5YFB4MDE0TP387699</g:id>
       <g:title>2026 Toyota Corolla LE FWD</g:title>
       <g:description>2026 Toyota Corolla LE FWD — 8,176 miles — used — Classic Silver Metallic</g:description>
@@ -675,6 +675,30 @@
       <g:color>Hampton Gray</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>OTHER</g:transmission>
+    </item>
+    <item>
+      <g:id>1GYAZAR47PF110566</g:id>
+      <g:title>2023 Cadillac XT4 Luxury FWD</g:title>
+      <g:description>2023 Cadillac XT4 Luxury FWD — 42,921 miles — used — Wave Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-cadillac-xt4-luxury-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-cadillac-xt4-luxury-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/417af5a5-5bbd-4f1d-9dd7-24b38035e9e8.jpg</g:image_link>
+      <g:price>24887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Cadillac</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GYAZAR47PF110566</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Cadillac</g:make>
+      <g:model>XT4 Luxury FWD</g:model>
+      <g:mileage>42921 mi</g:mileage>
+      <g:color>Wave Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
       <g:id>5YFB4MDE0TP418448</g:id>
