@@ -1469,6 +1469,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WAUDF78E77A249230</g:id>
+      <g:title>2007 Audi A4 2.0T quattro</g:title>
+      <g:description>2007 Audi A4 2.0T quattro — 131,199 miles — used — Blue</g:description>
+      <g:link>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/866c7e7c-5418-4150-b246-828ac5b437d5.jpg</g:image_link>
+      <g:price>4987.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WAUDF78E77A249230</g:vin>
+      <g:year>2007</g:year>
+      <g:make>Audi</g:make>
+      <g:model>A4 2.0T quattro</g:model>
+      <g:mileage>131199 mi</g:mileage>
+      <g:color>Blue</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>OTHER</g:transmission>
+    </item>
+    <item>
       <g:id>1G1BC5SM9J7217626</g:id>
       <g:title>2018 Chevrolet Cruze LS FWD</g:title>
       <g:description>2018 Chevrolet Cruze LS FWD — 109,871 miles — used — Silver Ice Metallic</g:description>
