@@ -1894,6 +1894,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/866c7e7c-5418-4150-b246-828ac5b437d5.jpg</url>
+    </image>
+    <vehicle_id>WAUDF78E77A249230</vehicle_id>
+    <title>2007 Audi A4 2.0T quattro</title>
+    <description>2007 Audi A4 2.0T quattro — 131,199 miles — used — Blue</description>
+    <url>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/</url>
+    <price>4987.00 USD</price>
+    <make>Audi</make>
+    <model>A4 2.0T quattro</model>
+    <year>2007</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>131199</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>WAUDF78E77A249230</vin>
+    <transmission>OTHER</transmission>
+    <exterior_color>Blue</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M79071</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/26797966-a7b3-48bd-8031-b8319dd9e813.jpg</url>
     </image>
     <vehicle_id>1G1BC5SM9J7217626</vehicle_id>
@@ -1922,36 +1953,5 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://imageonthefly.autodatadirect.com/images/?width=1200&amp;height=900&amp;IMG=CAB70AUC011A01300.jpg</url>
-    </image>
-    <vehicle_id>WAUDF78E77A249230</vehicle_id>
-    <title>2007 Audi A4 2.0T quattro</title>
-    <description>2007 Audi A4 2.0T quattro — 131,199 miles — used — Blue</description>
-    <url>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/</url>
-    <price>4987.00 USD</price>
-    <make>Audi</make>
-    <model>A4 2.0T quattro</model>
-    <year>2007</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>131199</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>WAUDF78E77A249230</vin>
-    <transmission>OTHER</transmission>
-    <exterior_color>Blue</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M79071</stock_number>
   </listing>
 </listings>
