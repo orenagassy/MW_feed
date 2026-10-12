@@ -65,6 +65,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/3851ff40-0b53-4279-81ff-328090ea3c86.jpg</url>
+    </image>
+    <vehicle_id>5J8YE1H42TL005562</vehicle_id>
+    <title>2026 Acura MDX Technology Package AWD</title>
+    <description>2026 Acura MDX Technology Package AWD — 29,981 miles — used — Majestic Black Pearl</description>
+    <url>https://majorworld.com/inventory/2026-acura-mdx-technology-package-awd-managerspecial/</url>
+    <price>46887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX Technology Package AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>29981</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YE1H42TL005562</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Majestic Black Pearl</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78903</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/152a712f-0bc0-4682-9376-255cd0c1ce43.jpg</url>
     </image>
     <vehicle_id>WA1LCBF78SD001505</vehicle_id>
@@ -251,7 +282,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/cf06efba-c77e-4fb8-afe9-524df2117bd7.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a8339cbd-85b6-43d0-8ba8-3f0297f2914b.jpg</url>
     </image>
     <vehicle_id>3GCPABEK4SG348559</vehicle_id>
     <title>2025 Chevrolet Silverado 1500 Custom RWD</title>
@@ -375,7 +406,38 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/870a31df-3e8f-4571-b2ab-4aba54c88027.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/99e2901a-f2b2-4c14-8012-ceac791798b4.jpg</url>
+    </image>
+    <vehicle_id>5J8YD9H37RL006871</vehicle_id>
+    <title>2024 Acura MDX 3.5L FWD</title>
+    <description>2024 Acura MDX 3.5L FWD — 25,750 miles — used — White</description>
+    <url>https://majorworld.com/inventory/2024-acura-mdx-3-5l-fwd-2-managerspecial/</url>
+    <price>36887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX 3.5L FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>25750</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YD9H37RL006871</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>White</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M78770</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/21acc6a3-9768-40bf-a42d-61d876c2aa2b.jpg</url>
     </image>
     <vehicle_id>WAUDACF51SA000750</vehicle_id>
     <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
@@ -403,6 +465,37 @@
     <exterior_color>Arkona White</exterior_color>
     <interior_color>Atlas Beige</interior_color>
     <stock_number>M76017</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a238bd01-eee3-4661-9b2d-5a393674beab.jpg</url>
+    </image>
+    <vehicle_id>5J8YE1H46PL035542</vehicle_id>
+    <title>2023 Acura MDX Technology AWD</title>
+    <description>2023 Acura MDX Technology AWD — 38,970 miles — used — Majestic Black Pearl</description>
+    <url>https://majorworld.com/inventory/2023-acura-mdx-technology-awd-managerspecial/</url>
+    <price>32887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX Technology AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>38970</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YE1H46PL035542</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Majestic Black Pearl</exterior_color>
+    <interior_color>Parchment</interior_color>
+    <stock_number>M79340</stock_number>
   </listing>
   <listing>
     <image>
@@ -623,7 +716,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ae5c7ecd-e0dd-401b-ad55-9020cfedce03.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/99eac796-cef8-4b16-af61-52786b3fd503.jpg</url>
     </image>
     <vehicle_id>3C6LRVCG4SE513116</vehicle_id>
     <title>2025 Ram ProMaster 2500 High Roof FWD</title>
@@ -778,7 +871,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6d86e2a1-b9dd-4e68-a155-b398e8d42070.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2f732ca3-aa85-46ac-9a50-8415c9c617c1.jpg</url>
     </image>
     <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
     <title>2025 Chevrolet Equinox EV LT FWD</title>
@@ -995,7 +1088,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/87c0df42-fc45-49c7-a3e3-9e37ac50e7dd.jpg</url>
     </image>
     <vehicle_id>1C4JJXN6XPW628498</vehicle_id>
     <title>2023 Jeep Wrangler Willys 4xe 4WD</title>
@@ -1429,7 +1522,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c7669a4c-5094-4706-b42b-1148899f5b91.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/ce63eb68-c165-4395-9abd-0c9ca00b32c3.jpg</url>
     </image>
     <vehicle_id>KMHLS4DG2SU894144</vehicle_id>
     <title>2025 Hyundai Elantra SEL Convenience FWD</title>
@@ -1925,7 +2018,7 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/26797966-a7b3-48bd-8031-b8319dd9e813.jpg</url>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a0226ba1-30a6-4d90-ac9c-07543a3bc363.jpg</url>
     </image>
     <vehicle_id>1G1BC5SM9J7217626</vehicle_id>
     <title>2018 Chevrolet Cruze LS FWD</title>
@@ -1953,5 +2046,36 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/39576aa3-f99b-4026-ab57-355e907af137.jpg</url>
+    </image>
+    <vehicle_id>19UUB5F47SA000515</vehicle_id>
+    <title>2025 Acura TLX Technology Package FWD</title>
+    <description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</description>
+    <url>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/</url>
+    <price>36887.00 USD</price>
+    <make>Acura</make>
+    <model>TLX Technology Package FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>3260</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>19UUB5F47SA000515</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Platinum White Pearl</exterior_color>
+    <interior_color>Parchment</interior_color>
+    <stock_number>M75686</stock_number>
   </listing>
 </listings>
