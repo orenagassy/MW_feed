@@ -65,6 +65,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1RFBfkl1FXutK7glRbJ2kH6epzMfQOF5P=w1600</url>
+    </image>
+    <vehicle_id>5J8YE1H42TL005562</vehicle_id>
+    <title>2026 Acura MDX Technology Package AWD</title>
+    <description>2026 Acura MDX Technology Package AWD — 29,981 miles — used — Majestic Black Pearl</description>
+    <url>https://majorworld.com/inventory/2026-acura-mdx-technology-package-awd-managerspecial/</url>
+    <price>46887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX Technology Package AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>29981</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YE1H42TL005562</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Majestic Black Pearl</exterior_color>
+    <interior_color>Ebony</interior_color>
+    <stock_number>M78903</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1oZfN7GLl78FMOgWD32UOtoQcwdlE6eBR=w1600</url>
     </image>
     <vehicle_id>WA1LCBF78SD001505</vehicle_id>
@@ -375,6 +406,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1A1aWWw9ITta2orlnoNs8eaHWZ2Ob5tWK=w1600</url>
+    </image>
+    <vehicle_id>5J8YD9H37RL006871</vehicle_id>
+    <title>2024 Acura MDX 3.5L FWD</title>
+    <description>2024 Acura MDX 3.5L FWD — 25,750 miles — used — White</description>
+    <url>https://majorworld.com/inventory/2024-acura-mdx-3-5l-fwd-2-managerspecial/</url>
+    <price>36887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX 3.5L FWD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>25750</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YD9H37RL006871</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>White</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M78770</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1m4oj3xGCzF_YKQ_PXUsR4TIXk51y35CE=w1600</url>
     </image>
     <vehicle_id>WAUDACF51SA000750</vehicle_id>
@@ -403,6 +465,37 @@
     <exterior_color>Arkona White</exterior_color>
     <interior_color>Atlas Beige</interior_color>
     <stock_number>M76017</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/16QTk1Arpa0Q-o-GIg8AUPfPxCBweZg40=w1600</url>
+    </image>
+    <vehicle_id>5J8YE1H46PL035542</vehicle_id>
+    <title>2023 Acura MDX Technology AWD</title>
+    <description>2023 Acura MDX Technology AWD — 38,970 miles — used — Majestic Black Pearl</description>
+    <url>https://majorworld.com/inventory/2023-acura-mdx-technology-awd-managerspecial/</url>
+    <price>32887.00 USD</price>
+    <make>Acura</make>
+    <model>MDX Technology AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>38970</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>5J8YE1H46PL035542</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Majestic Black Pearl</exterior_color>
+    <interior_color>Parchment</interior_color>
+    <stock_number>M79340</stock_number>
   </listing>
   <listing>
     <image>
@@ -1953,5 +2046,36 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1LhHM9G_IkGHYavalLGPOnjrHWkkyz5Yl=w1600</url>
+    </image>
+    <vehicle_id>19UUB5F47SA000515</vehicle_id>
+    <title>2025 Acura TLX Technology Package FWD</title>
+    <description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</description>
+    <url>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/</url>
+    <price>36887.00 USD</price>
+    <make>Acura</make>
+    <model>TLX Technology Package FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>3260</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>19UUB5F47SA000515</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Platinum White Pearl</exterior_color>
+    <interior_color>Parchment</interior_color>
+    <stock_number>M75686</stock_number>
   </listing>
 </listings>
