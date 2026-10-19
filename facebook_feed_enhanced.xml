@@ -344,37 +344,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/19F1cc1eoFvhmS6m3y2wOTKYBlw43lUcu=w1600</url>
-    </image>
-    <vehicle_id>1FMJU1J82REA60344</vehicle_id>
-    <title>2024 Ford Expedition XLT 4WD</title>
-    <description>2024 Ford Expedition XLT 4WD — 58,559 miles — used — Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2024-ford-expedition-xlt-4wd-managerspecial/</url>
-    <price>38887.00 USD</price>
-    <make>Ford</make>
-    <model>Expedition XLT 4WD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>58559</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SUV</body_style>
-    <vin>1FMJU1J82REA60344</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Gray Metallic</exterior_color>
-    <interior_color>Black Onyx</interior_color>
-    <stock_number>M79020</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/143AxeX2-vinCMqUu9i4n_20-_agJorML=w1600</url>
     </image>
     <vehicle_id>1C4RJHAG4SC306151</vehicle_id>
@@ -403,6 +372,37 @@
     <exterior_color>Velvet Red Pearlcoat</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>J17192</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1LhHM9G_IkGHYavalLGPOnjrHWkkyz5Yl=w1600</url>
+    </image>
+    <vehicle_id>19UUB5F47SA000515</vehicle_id>
+    <title>2025 Acura TLX Technology Package FWD</title>
+    <description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</description>
+    <url>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/</url>
+    <price>36887.00 USD</price>
+    <make>Acura</make>
+    <model>TLX Technology Package FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>3260</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>19UUB5F47SA000515</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Platinum White Pearl</exterior_color>
+    <interior_color>Parchment</interior_color>
+    <stock_number>M75686</stock_number>
   </listing>
   <listing>
     <image>
@@ -527,6 +527,37 @@
     <exterior_color>Summit White</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M78366</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1Vl2TF1iS5il8jHnJnTKTwT58qFQtQW5Q=w1600</url>
+    </image>
+    <vehicle_id>WBA83GG04T7T80168</vehicle_id>
+    <title>2026 BMW 2 Series 228 Gran Coupe FWD</title>
+    <description>2026 BMW 2 Series 228 Gran Coupe FWD — 25,633 miles — used — Gray</description>
+    <url>https://majorworld.com/inventory/2026-bmw-2-series-228-gran-coupe-fwd-managerspecial/</url>
+    <price>29887.00 USD</price>
+    <make>BMW</make>
+    <model>2 Series 228 Gran Coupe FWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>25633</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>COUPE</body_style>
+    <vin>WBA83GG04T7T80168</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Gray</exterior_color>
+    <interior_color>-</interior_color>
+    <stock_number>M79449</stock_number>
   </listing>
   <listing>
     <image>
@@ -778,6 +809,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1Q03srpT9mqtIzG1sMa3x26FdXEGdgCbL=w1600</url>
+    </image>
+    <vehicle_id>WAUABCF50PA039644</vehicle_id>
+    <title>2023 Audi A5 Sportback Premium quattro</title>
+    <description>2023 Audi A5 Sportback Premium quattro — 49,845 miles — used — Mythos Black Metallic</description>
+    <url>https://majorworld.com/inventory/2023-audi-a5-sportback-premium-quattro-managerspecial/</url>
+    <price>26887.00 USD</price>
+    <make>Audi</make>
+    <model>A5 Sportback Premium quattro</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>49845</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>WAGON</body_style>
+    <vin>WAUABCF50PA039644</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Mythos Black Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78461</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/12FiykojuWQGQA3MThmHjTK7CmbxOcSGI=w1600</url>
     </image>
     <vehicle_id>3CZRZ1H77SM716182</vehicle_id>
@@ -964,37 +1026,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1n2m5se_xVPZc-fzsfjZGQ9YlrQ5Eabex=w1600</url>
-    </image>
-    <vehicle_id>5YFB4MDE0TP418448</vehicle_id>
-    <title>2026 Toyota Corolla LE FWD</title>
-    <description>2026 Toyota Corolla LE FWD — 34 miles — used — Classic Silver Metallic</description>
-    <url>https://majorworld.com/inventory/2026-toyota-corolla-le-fwd-2-managerspecial/</url>
-    <price>23887.00 USD</price>
-    <make>Toyota</make>
-    <model>Corolla LE FWD</model>
-    <year>2026</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>34</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>5YFB4MDE0TP418448</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Classic Silver Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M79466</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/18G4XvjybiZhKRPHmmKjWtuSQCxV0LKhT=w1600</url>
     </image>
     <vehicle_id>3GNKDBRJ5RS278295</vehicle_id>
@@ -1057,13 +1088,13 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1zMq8uoufkrjQ84fUByZj_Kn0B9JWh-J6=w1600</url>
+      <url>https://lh3.googleusercontent.com/d/1K2W8woJ-Y9GAd8IeVbU-E4kGgVp62-I0=w1600</url>
     </image>
     <vehicle_id>1C4RJGAG4RC707915</vehicle_id>
     <title>2024 Jeep Grand Cherokee Laredo</title>
     <description>2024 Jeep Grand Cherokee Laredo — 54,573 miles — used — Diamond Black Crystal Pearlcoat</description>
     <url>https://majorworld.com/inventory/2024-jeep-grand-cherokee-laredo-rwd-managerspecial/</url>
-    <price>23887.00 USD</price>
+    <price>22887.00 USD</price>
     <make>Jeep</make>
     <model>Grand Cherokee Laredo</model>
     <year>2024</year>
@@ -1364,37 +1395,6 @@
     <exterior_color>Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M79155</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/11JpBU7NqFXzi_H3WBU6jJpq874t6T_5S=w1600</url>
-    </image>
-    <vehicle_id>1HGCY1F24RA009118</vehicle_id>
-    <title>2024 Honda Accord LX FWD</title>
-    <description>2024 Honda Accord LX FWD — 51,418 miles — used — Red</description>
-    <url>https://majorworld.com/inventory/2024-honda-accord-lx-fwd-managerspecial/</url>
-    <price>19887.00 USD</price>
-    <make>Honda</make>
-    <model>Accord LX FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>51418</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>1HGCY1F24RA009118</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Red</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M78845</stock_number>
   </listing>
   <listing>
     <image>
@@ -2046,36 +2046,5 @@
     <exterior_color>Silver Ice Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>J18577</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1LhHM9G_IkGHYavalLGPOnjrHWkkyz5Yl=w1600</url>
-    </image>
-    <vehicle_id>19UUB5F47SA000515</vehicle_id>
-    <title>2025 Acura TLX Technology Package FWD</title>
-    <description>2025 Acura TLX Technology Package FWD — 3,260 miles — used — Platinum White Pearl</description>
-    <url>https://majorworld.com/inventory/2025-acura-tlx-technology-package-fwd-managerspecial/</url>
-    <price>36887.00 USD</price>
-    <make>Acura</make>
-    <model>TLX Technology Package FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>3260</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>19UUB5F47SA000515</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Platinum White Pearl</exterior_color>
-    <interior_color>Parchment</interior_color>
-    <stock_number>M75686</stock_number>
   </listing>
 </listings>
