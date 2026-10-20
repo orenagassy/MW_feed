@@ -5,30 +5,6 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
-      <g:id>4JGFF5KE3SB437606</g:id>
-      <g:title>2025 Mercedes-Benz GLS GLS 450 4MATIC®</g:title>
-      <g:description>2025 Mercedes-Benz GLS GLS 450 4MATIC® — 25,193 miles — used — Polar White</g:description>
-      <g:link>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-mercedes-benz-gls-gls-450-4matic-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d767ebd0-ad5c-4955-90d7-e343528938f0.jpg</g:image_link>
-      <g:price>64887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>4JGFF5KE3SB437606</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Mercedes-Benz</g:make>
-      <g:model>GLS GLS 450 4MATIC®</g:model>
-      <g:mileage>25193 mi</g:mileage>
-      <g:color>Polar White</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>WA1EVBF12SD039682</g:id>
       <g:title>2025 Audi Q8 55 Premium Plus quattro</g:title>
       <g:description>2025 Audi Q8 55 Premium Plus quattro — 19,016 miles — used — Blue Metallic</g:description>
@@ -408,6 +384,30 @@
       <g:make>GMC</g:make>
       <g:model>Sierra 1500 Pro 4WD</g:model>
       <g:mileage>58027 mi</g:mileage>
+      <g:color>Summit White</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1GCGTBEC2R1166662</g:id>
+      <g:title>2024 Chevrolet Colorado Work Truck 4WD</g:title>
+      <g:description>2024 Chevrolet Colorado Work Truck 4WD — 3,624 miles — used — Summit White</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-colorado-work-truck-4wd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-colorado-work-truck-4wd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/63130b89-2ad0-43cc-80aa-3de3f4aa0d2a.jpg</g:image_link>
+      <g:price>29887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GCGTBEC2R1166662</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Colorado Work Truck 4WD</g:model>
+      <g:mileage>3624 mi</g:mileage>
       <g:color>Summit White</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
