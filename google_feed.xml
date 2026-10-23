@@ -53,6 +53,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>WA1ACBF76SD002840</g:id>
+      <g:title>2025 Audi Q7 45 Premium quattro</g:title>
+      <g:description>2025 Audi Q7 45 Premium quattro — 2,876 miles — used — Samurai Gray Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-audi-q7-45-premium-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8eff681d-b3d2-4303-b156-1b8a958a4f72.jpg</g:image_link>
+      <g:price>45887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WA1ACBF76SD002840</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Audi</g:make>
+      <g:model>Q7 45 Premium quattro</g:model>
+      <g:mileage>2876 mi</g:mileage>
+      <g:color>Samurai Gray Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>WA1LCBF78SD001505</g:id>
       <g:title>2025 Audi Q7 45 Premium Plus quattro</g:title>
       <g:description>2025 Audi Q7 45 Premium Plus quattro — 23,451 miles — used — Mythos Black Metallic</g:description>
@@ -938,6 +962,30 @@
       <g:mileage>41511 mi</g:mileage>
       <g:color>Sage Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1GNERGKW4PJ114262</g:id>
+      <g:title>2023 Chevrolet Traverse LT FWD</g:title>
+      <g:description>2023 Chevrolet Traverse LT FWD — 69,244 miles — used — Silver Sage Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-traverse-lt-fwd-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/43bcae80-5553-4eaf-810c-bacb66fa20ca.jpg</g:image_link>
+      <g:price>21887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GNERGKW4PJ114262</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Traverse LT FWD</g:model>
+      <g:mileage>69244 mi</g:mileage>
+      <g:color>Silver Sage Metallic</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
