@@ -149,30 +149,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>WP1AA2A55PLB03672</g:id>
-      <g:title>2023 Porsche Macan Base AWD</g:title>
-      <g:description>2023 Porsche Macan Base AWD — 34,201 miles — used — Jet Black Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-porsche-macan-base-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-porsche-macan-base-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/300a524c-859e-465d-9222-5c7abc4b4b78.jpg</g:image_link>
-      <g:price>42887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Porsche</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WP1AA2A55PLB03672</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Porsche</g:make>
-      <g:model>Macan Base AWD</g:model>
-      <g:mileage>34201 mi</g:mileage>
-      <g:color>Jet Black Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>4JGFB4FE0RB050165</g:id>
       <g:title>2024 Mercedes-Benz GLE GLE 350 4MATIC®</g:title>
       <g:description>2024 Mercedes-Benz GLE GLE 350 4MATIC® — 50,109 miles — used — Black</g:description>
@@ -605,6 +581,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3FTTW8JA5TRA02669</g:id>
+      <g:title>2026 Ford Maverick XLT AWD</g:title>
+      <g:description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</g:description>
+      <g:link>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/14d225c9-d05c-4dc6-a8be-dc34e8481a08.jpg</g:image_link>
+      <g:price>25887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3FTTW8JA5TRA02669</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Maverick XLT AWD</g:model>
+      <g:mileage>19031 mi</g:mileage>
+      <g:color>Shadow Black</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1GYKNDR43NZ170583</g:id>
       <g:title>2022 Cadillac XT5 Premium Luxury AWD</g:title>
       <g:description>2022 Cadillac XT5 Premium Luxury AWD — 52,268 miles — used — Crystal White Tricoat</g:description>
@@ -869,30 +869,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C4JJXN6XPW628498</g:id>
-      <g:title>2023 Jeep Wrangler Willys 4xe 4WD</g:title>
-      <g:description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</g:image_link>
-      <g:price>22887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C4JJXN6XPW628498</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Jeep</g:make>
-      <g:model>Wrangler Willys 4xe 4WD</g:model>
-      <g:mileage>64425 mi</g:mileage>
-      <g:color>Black Clearcoat</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>JM3TCBCY5P0637145</g:id>
       <g:title>2023 Mazda CX-9 Touring AWD</g:title>
       <g:description>2023 Mazda CX-9 Touring AWD — 12,019 miles — used — Soul Red Crystal Metallic</g:description>
@@ -938,6 +914,30 @@
       <g:mileage>41511 mi</g:mileage>
       <g:color>Sage Metallic</g:color>
       <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C4JJXN6XPW628498</g:id>
+      <g:title>2023 Jeep Wrangler Willys 4xe 4WD</g:title>
+      <g:description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</g:image_link>
+      <g:price>20887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C4JJXN6XPW628498</g:vin>
+      <g:year>2023</g:year>
+      <g:make>Jeep</g:make>
+      <g:model>Wrangler Willys 4xe 4WD</g:model>
+      <g:mileage>64425 mi</g:mileage>
+      <g:color>Black Clearcoat</g:color>
+      <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
