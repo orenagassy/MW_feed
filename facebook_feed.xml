@@ -189,37 +189,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/300a524c-859e-465d-9222-5c7abc4b4b78.jpg</url>
-    </image>
-    <vehicle_id>WP1AA2A55PLB03672</vehicle_id>
-    <title>2023 Porsche Macan Base AWD</title>
-    <description>2023 Porsche Macan Base AWD — 34,201 miles — used — Jet Black Metallic</description>
-    <url>https://majorworld.com/inventory/2023-porsche-macan-base-awd-managerspecial/</url>
-    <price>42887.00 USD</price>
-    <make>Porsche</make>
-    <model>Macan Base AWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>34201</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>WP1AA2A55PLB03672</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Jet Black Metallic</exterior_color>
-    <interior_color>Black/Bordeaux Red</interior_color>
-    <stock_number>M78618</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/9bb07040-9997-499c-a8a1-0db97df3d1cc.jpg</url>
     </image>
     <vehicle_id>4JGFB4FE0RB050165</vehicle_id>
@@ -778,6 +747,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/14d225c9-d05c-4dc6-a8be-dc34e8481a08.jpg</url>
+    </image>
+    <vehicle_id>3FTTW8JA5TRA02669</vehicle_id>
+    <title>2026 Ford Maverick XLT AWD</title>
+    <description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</description>
+    <url>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</url>
+    <price>25887.00 USD</price>
+    <make>Ford</make>
+    <model>Maverick XLT AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>19031</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>PICKUP</body_style>
+    <vin>3FTTW8JA5TRA02669</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Shadow Black</exterior_color>
+    <interior_color>Navy Pier/Aspen Gray</interior_color>
+    <stock_number>J18668</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/1bbbd784-2199-49bb-89e9-660ee358c90d.jpg</url>
     </image>
     <vehicle_id>1GYKNDR43NZ170583</vehicle_id>
@@ -1119,37 +1119,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</url>
-    </image>
-    <vehicle_id>1C4JJXN6XPW628498</vehicle_id>
-    <title>2023 Jeep Wrangler Willys 4xe 4WD</title>
-    <description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</description>
-    <url>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</url>
-    <price>22887.00 USD</price>
-    <make>Jeep</make>
-    <model>Wrangler Willys 4xe 4WD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>64425</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SUV</body_style>
-    <vin>1C4JJXN6XPW628498</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M77660</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/8c847e69-5552-42d2-897f-390506ae53d3.jpg</url>
     </image>
     <vehicle_id>JM3TCBCY5P0637145</vehicle_id>
@@ -1209,6 +1178,37 @@
     <exterior_color>Sage Metallic</exterior_color>
     <interior_color>Whisper Beige</interior_color>
     <stock_number>M77175</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7b224764-1c64-487f-89a8-ec985a77918d.jpg</url>
+    </image>
+    <vehicle_id>1C4JJXN6XPW628498</vehicle_id>
+    <title>2023 Jeep Wrangler Willys 4xe 4WD</title>
+    <description>2023 Jeep Wrangler Willys 4xe 4WD — 64,425 miles — used — Black Clearcoat</description>
+    <url>https://majorworld.com/inventory/2023-jeep-wrangler-4wd-managerspecial/</url>
+    <price>20887.00 USD</price>
+    <make>Jeep</make>
+    <model>Wrangler Willys 4xe 4WD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>64425</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>1C4JJXN6XPW628498</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Black Clearcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M77660</stock_number>
   </listing>
   <listing>
     <image>
