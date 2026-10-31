@@ -437,37 +437,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1KwLmTIUTDfX0EzGBTXyeRj20qIKzTi1v=w1600</url>
-    </image>
-    <vehicle_id>3C6LRVCG4SE513116</vehicle_id>
-    <title>2025 Ram ProMaster 2500 High Roof FWD</title>
-    <description>2025 Ram ProMaster 2500 High Roof FWD — 37,834 miles — used — Bright White Clearcoat</description>
-    <url>https://majorworld.com/inventory/2025-ram-promaster-2500-high-roof-fwd-managerspecial/</url>
-    <price>32673.00 USD</price>
-    <make>Ram</make>
-    <model>ProMaster 2500 High Roof FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>37834</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>VAN</body_style>
-    <vin>3C6LRVCG4SE513116</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Bright White Clearcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78840</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/130bLKLv_xJMtfoY5rAqkEHDgfXHX40e4=w1600</url>
     </image>
     <vehicle_id>1GCGTBEC2R1166662</vehicle_id>
@@ -530,11 +499,11 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1bymKSEvqhq4PUmlmPjdo_tQ4EjS_LBDf=w1600</url>
+      <url>https://lh3.googleusercontent.com/d/1fj2vH9JUI6I6jGpF-6UkRhC8K3TrbnNU=w1600</url>
     </image>
     <vehicle_id>1GTPUAEK1PZ116509</vehicle_id>
     <title>2023 GMC Sierra 1500 Pro 4WD</title>
-    <description>2023 GMC Sierra 1500 Pro 4WD — 58,027 miles — used — Summit White</description>
+    <description>2023 GMC Sierra 1500 Pro 4WD — 58,035 miles — used — Summit White</description>
     <url>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/</url>
     <price>29887.00 USD</price>
     <make>GMC</make>
@@ -543,7 +512,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>58027</value>
+      <value>58035</value>
     </mileage>
     <address format="simple">
       <component name="addr1">43-40 Northern Blvd</component>
@@ -589,37 +558,6 @@
     <exterior_color>Black</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M73169</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1bwMA1L4QcaCpaSVAcfKJcr_N4nV7vypO=w1600</url>
-    </image>
-    <vehicle_id>W1KEG1CB1PF032070</vehicle_id>
-    <title>2023 Mercedes-Benz EQE 350 Sedan 4MATIC®</title>
-    <description>2023 Mercedes-Benz EQE 350 Sedan 4MATIC® — 20,644 miles — used — Black</description>
-    <url>https://majorworld.com/inventory/2023-mercedes-benz-eqe-350-sedan-4matic-managerspecial/</url>
-    <price>27887.00 USD</price>
-    <make>Mercedes-Benz</make>
-    <model>EQE 350 Sedan 4MATIC®</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>20644</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>W1KEG1CB1PF032070</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Black</exterior_color>
-    <interior_color>-</interior_color>
-    <stock_number>M79091</stock_number>
   </listing>
   <listing>
     <image>
@@ -809,11 +747,11 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1g9-H2mgU_FUgEnqffE_mp2WZtt40quqT=w1600</url>
+      <url>https://lh3.googleusercontent.com/d/1uasEZjUMCQnNnFUuFpta5Qfrb4ROdkt1=w1600</url>
     </image>
     <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
     <title>2025 Chevrolet Equinox EV LT FWD</title>
-    <description>2025 Chevrolet Equinox EV LT FWD — 21 miles — used — Galaxy Gray Metallic</description>
+    <description>2025 Chevrolet Equinox EV LT FWD — 24 miles — used — Galaxy Gray Metallic</description>
     <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</url>
     <price>24887.00 USD</price>
     <make>Chevrolet</make>
@@ -822,7 +760,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>21</value>
+      <value>24</value>
     </mileage>
     <address format="simple">
       <component name="addr1">43-40 Northern Blvd</component>
