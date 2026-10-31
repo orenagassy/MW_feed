@@ -375,37 +375,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/870a31df-3e8f-4571-b2ab-4aba54c88027.jpg</url>
-    </image>
-    <vehicle_id>WAUDACF51SA000750</vehicle_id>
-    <title>2025 Audi A5 Sportback 45 S line Premium quattro</title>
-    <description>2025 Audi A5 Sportback 45 S line Premium quattro — 12,984 miles — used — Arkona White</description>
-    <url>https://majorworld.com/inventory/2025-audi-a5-sportback-quattro-managerspecial/</url>
-    <price>32887.00 USD</price>
-    <make>Audi</make>
-    <model>A5 Sportback 45 S line Premium quattro</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>12984</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>WAGON</body_style>
-    <vin>WAUDACF51SA000750</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Arkona White</exterior_color>
-    <interior_color>Atlas Beige</interior_color>
-    <stock_number>M76017</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a238bd01-eee3-4661-9b2d-5a393674beab.jpg</url>
     </image>
     <vehicle_id>5J8YE1H46PL035542</vehicle_id>
@@ -503,7 +472,7 @@
     </image>
     <vehicle_id>1GTPUAEK1PZ116509</vehicle_id>
     <title>2023 GMC Sierra 1500 Pro 4WD</title>
-    <description>2023 GMC Sierra 1500 Pro 4WD — 58,035 miles — used — Summit White</description>
+    <description>2023 GMC Sierra 1500 Pro 4WD — 58,034 miles — used — Summit White</description>
     <url>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/</url>
     <price>29887.00 USD</price>
     <make>GMC</make>
@@ -512,7 +481,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <mileage>
       <unit>MI</unit>
-      <value>58035</value>
+      <value>58034</value>
     </mileage>
     <address format="simple">
       <component name="addr1">43-40 Northern Blvd</component>
@@ -558,6 +527,37 @@
     <exterior_color>Black</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M73169</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6d86e2a1-b9dd-4e68-a155-b398e8d42070.jpg</url>
+    </image>
+    <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
+    <title>2025 Chevrolet Equinox EV LT FWD</title>
+    <description>2025 Chevrolet Equinox EV LT FWD — 24 miles — used — Galaxy Gray Metallic</description>
+    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</url>
+    <price>26887.00 USD</price>
+    <make>Chevrolet</make>
+    <model>Equinox EV LT FWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>24</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>CROSSOVER</body_style>
+    <vin>3GN7DLRP0SS144607</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Galaxy Gray Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M78757</stock_number>
   </listing>
   <listing>
     <image>
@@ -747,37 +747,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/6d86e2a1-b9dd-4e68-a155-b398e8d42070.jpg</url>
-    </image>
-    <vehicle_id>3GN7DLRP0SS144607</vehicle_id>
-    <title>2025 Chevrolet Equinox EV LT FWD</title>
-    <description>2025 Chevrolet Equinox EV LT FWD — 24 miles — used — Galaxy Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2025-chevrolet-equinox-ev-lt-fwd-managerspecial/</url>
-    <price>24887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox EV LT FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>24</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GN7DLRP0SS144607</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Galaxy Gray Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78757</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2ebd5670-d1aa-4773-9ed1-64fe417d997a.jpg</url>
     </image>
     <vehicle_id>2FMPK4J92RBA06080</vehicle_id>
@@ -961,37 +930,6 @@
     <exterior_color>White</exterior_color>
     <interior_color>-</interior_color>
     <stock_number>M78401</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/43d1234d-6c23-4415-a362-8f9b506e2df4.jpg</url>
-    </image>
-    <vehicle_id>5NMP14GL8SH085191</vehicle_id>
-    <title>2025 Hyundai Santa Fe SE FWD</title>
-    <description>2025 Hyundai Santa Fe SE FWD — 38,804 miles — used — Hampton Gray</description>
-    <url>https://majorworld.com/inventory/2025-hyundai-santa-fe-se-fwd-managerspecial/</url>
-    <price>22887.00 USD</price>
-    <make>Hyundai</make>
-    <model>Santa Fe SE FWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>38804</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>5NMP14GL8SH085191</vin>
-    <transmission>OTHER</transmission>
-    <exterior_color>Hampton Gray</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M79042</stock_number>
   </listing>
   <listing>
     <image>
@@ -1646,37 +1584,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c427e00c-1e98-4a88-8f2a-73139a0c0aee.jpg</url>
-    </image>
-    <vehicle_id>3VVYX7B24NM026712</vehicle_id>
-    <title>2022 Volkswagen Taos 1.5T SE AWD</title>
-    <description>2022 Volkswagen Taos 1.5T SE AWD — 69,337 miles — used — Pyrite Silver Metallic</description>
-    <url>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-se-awd-managerspecial/</url>
-    <price>14887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Taos 1.5T SE AWD</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>69337</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>3VVYX7B24NM026712</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Pyrite Silver Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M79396</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/825cba11-c7fc-4c32-b71e-1146103470d1.jpg</url>
     </image>
     <vehicle_id>1G1ZD5ST7PF142720</vehicle_id>
@@ -1705,6 +1612,37 @@
     <exterior_color>Mosaic Black Metallic</exterior_color>
     <interior_color>Jet Black</interior_color>
     <stock_number>M74863</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/c427e00c-1e98-4a88-8f2a-73139a0c0aee.jpg</url>
+    </image>
+    <vehicle_id>3VVYX7B24NM026712</vehicle_id>
+    <title>2022 Volkswagen Taos 1.5T SE AWD</title>
+    <description>2022 Volkswagen Taos 1.5T SE AWD — 69,337 miles — used — Pyrite Silver Metallic</description>
+    <url>https://majorworld.com/inventory/2022-volkswagen-taos-1-5t-se-awd-managerspecial/</url>
+    <price>12887.00 USD</price>
+    <make>Volkswagen</make>
+    <model>Taos 1.5T SE AWD</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>69337</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>3VVYX7B24NM026712</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Pyrite Silver Metallic</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M79396</stock_number>
   </listing>
   <listing>
     <image>
