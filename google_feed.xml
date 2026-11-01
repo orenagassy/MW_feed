@@ -29,6 +29,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>SALEJEEU9R2260645</g:id>
+      <g:title>2024 Land Rover Defender 110 S 4WD</g:title>
+      <g:description>2024 Land Rover Defender 110 S 4WD — 22,864 miles — used — Fuji White</g:description>
+      <g:link>https://majorworld.com/inventory/2024-land-rover-defender-110-s-4wd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-land-rover-defender-110-s-4wd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/42853261-e89c-42f7-b179-e737f54b1423.jpg</g:image_link>
+      <g:price>51887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Land Rover</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>SALEJEEU9R2260645</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Land Rover</g:make>
+      <g:model>Defender 110 S 4WD</g:model>
+      <g:mileage>22864 mi</g:mileage>
+      <g:color>Fuji White</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>5J8YE1H42TL005562</g:id>
       <g:title>2026 Acura MDX Technology Package AWD</g:title>
       <g:description>2026 Acura MDX Technology Package AWD — 29,981 miles — used — Majestic Black Pearl</g:description>
@@ -989,30 +1013,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3GNAXSEG8PL138388</g:id>
-      <g:title>2023 Chevrolet Equinox LS AWD</g:title>
-      <g:description>2023 Chevrolet Equinox LS AWD — 18,398 miles — used — Sterling Gray Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/04a16fe7-3cb0-40bc-bd57-1f68f8637fda.jpg</g:image_link>
-      <g:price>17887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3GNAXSEG8PL138388</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Equinox LS AWD</g:model>
-      <g:mileage>18398 mi</g:mileage>
-      <g:color>Sterling Gray Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>1G1ZG5ST6RF159440</g:id>
       <g:title>2024 Chevrolet Malibu RS FWD</g:title>
       <g:description>2024 Chevrolet Malibu RS FWD — 29,732 miles — used — Sterling Gray Metallic</g:description>
@@ -1186,7 +1186,7 @@
       <g:description>2025 Volkswagen Jetta 1.5T Sport FWD — 18,396 miles — used — Platinum Gray Metallic</g:description>
       <g:link>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2025-volkswagen-jetta-1-5t-sport-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/02a3f424-13b7-44ca-a0d7-1d95ccb4dae8.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b12f4af9-302f-4ed9-a2a7-9c30814b0b46.jpg</g:image_link>
       <g:price>14887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
