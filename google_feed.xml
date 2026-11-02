@@ -419,7 +419,7 @@
       <g:link>https://majorworld.com/inventory/2022-mercedes-benz-gle-gle-350-rwd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2022-mercedes-benz-gle-gle-350-rwd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e93b689b-2f0a-48dc-a1cb-11233ddb09c9.jpg</g:image_link>
-      <g:price>28887.00 USD</g:price>
+      <g:price>27887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:brand>Mercedes-Benz</g:brand>
@@ -917,54 +917,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1HGCV1F54KA125444</g:id>
-      <g:title>2019 Honda Accord EX-L FWD</g:title>
-      <g:description>2019 Honda Accord EX-L FWD — 36,666 miles — used — Black</g:description>
-      <g:link>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9c2ce883-86ca-4385-b864-cf69e2be3a3d.jpg</g:image_link>
-      <g:price>19887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1HGCV1F54KA125444</g:vin>
-      <g:year>2019</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Accord EX-L FWD</g:model>
-      <g:mileage>36666 mi</g:mileage>
-      <g:color>Black</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1HGCV3F58NA003301</g:id>
-      <g:title>2022 Honda Accord Hybrid EX-L FWD</g:title>
-      <g:description>2022 Honda Accord Hybrid EX-L FWD — 73,376 miles — used — Crystal Black Pearl</g:description>
-      <g:link>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1e32315-15b9-46b4-98c4-5683b8c2f821.jpg</g:image_link>
-      <g:price>19887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1HGCV3F58NA003301</g:vin>
-      <g:year>2022</g:year>
-      <g:make>Honda</g:make>
-      <g:model>Accord Hybrid EX-L FWD</g:model>
-      <g:mileage>73376 mi</g:mileage>
-      <g:color>Crystal Black Pearl</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>KL77LJEP8SC002322</g:id>
       <g:title>2025 Chevrolet Trax 2RS FWD</g:title>
       <g:description>2025 Chevrolet Trax 2RS FWD — 22,363 miles — used — Sterling Gray Metallic</g:description>
@@ -1013,6 +965,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1HGCV3F58NA003301</g:id>
+      <g:title>2022 Honda Accord Hybrid EX-L FWD</g:title>
+      <g:description>2022 Honda Accord Hybrid EX-L FWD — 73,376 miles — used — Crystal Black Pearl</g:description>
+      <g:link>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2022-honda-accord-hybrid-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/e1e32315-15b9-46b4-98c4-5683b8c2f821.jpg</g:image_link>
+      <g:price>18887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1HGCV3F58NA003301</g:vin>
+      <g:year>2022</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Accord Hybrid EX-L FWD</g:model>
+      <g:mileage>73376 mi</g:mileage>
+      <g:color>Crystal Black Pearl</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1G1ZG5ST6RF159440</g:id>
       <g:title>2024 Chevrolet Malibu RS FWD</g:title>
       <g:description>2024 Chevrolet Malibu RS FWD — 29,732 miles — used — Sterling Gray Metallic</g:description>
@@ -1033,6 +1009,30 @@
       <g:model>Malibu RS FWD</g:model>
       <g:mileage>29732 mi</g:mileage>
       <g:color>Sterling Gray Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1HGCV1F54KA125444</g:id>
+      <g:title>2019 Honda Accord EX-L FWD</g:title>
+      <g:description>2019 Honda Accord EX-L FWD — 36,666 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2019-honda-accord-ex-l-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/9c2ce883-86ca-4385-b864-cf69e2be3a3d.jpg</g:image_link>
+      <g:price>17887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1HGCV1F54KA125444</g:vin>
+      <g:year>2019</g:year>
+      <g:make>Honda</g:make>
+      <g:model>Accord EX-L FWD</g:model>
+      <g:mileage>36666 mi</g:mileage>
+      <g:color>Black</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1105,30 +1105,6 @@
       <g:model>Rogue SV FWD</g:model>
       <g:mileage>53814 mi</g:mileage>
       <g:color>Brilliant Silver Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>JN1EV7AR3JM430552</g:id>
-      <g:title>2018 INFINITI Q50 3.0t LUXE AWD</g:title>
-      <g:description>2018 INFINITI Q50 3.0t LUXE AWD — 44,058 miles — used — Graphite Shadow</g:description>
-      <g:link>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2018-infiniti-q50-3-0t-luxe-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a213ff8f-4689-4e20-9576-3505f24840d1.jpg</g:image_link>
-      <g:price>16587.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>INFINITI</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>JN1EV7AR3JM430552</g:vin>
-      <g:year>2018</g:year>
-      <g:make>INFINITI</g:make>
-      <g:model>Q50 3.0t LUXE AWD</g:model>
-      <g:mileage>44058 mi</g:mileage>
-      <g:color>Graphite Shadow</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
