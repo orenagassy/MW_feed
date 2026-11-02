@@ -34,6 +34,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1J3I7vqpaXITwJNeZ_AiMYE8QB5QeNAFK=w1600</url>
+    </image>
+    <vehicle_id>SALEJEEU9R2260645</vehicle_id>
+    <title>2024 Land Rover Defender 110 S 4WD</title>
+    <description>2024 Land Rover Defender 110 S 4WD — 22,864 miles — used — Fuji White</description>
+    <url>https://majorworld.com/inventory/2024-land-rover-defender-110-s-4wd-managerspecial/</url>
+    <price>51887.00 USD</price>
+    <make>Land Rover</make>
+    <model>Defender 110 S 4WD</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>22864</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SUV</body_style>
+    <vin>SALEJEEU9R2260645</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Fuji White</exterior_color>
+    <interior_color>Acorn/Lunar</interior_color>
+    <stock_number>M79047</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1RFBfkl1FXutK7glRbJ2kH6epzMfQOF5P=w1600</url>
     </image>
     <vehicle_id>5J8YE1H42TL005562</vehicle_id>
@@ -1271,37 +1302,6 @@
     <exterior_color>Pearl</exterior_color>
     <interior_color>Nutmeg</interior_color>
     <stock_number>M68700</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1SlYq9oCJgFT8RI32034zsoUAWRt6Bhvb=w1600</url>
-    </image>
-    <vehicle_id>3GNAXSEG8PL138388</vehicle_id>
-    <title>2023 Chevrolet Equinox LS AWD</title>
-    <description>2023 Chevrolet Equinox LS AWD — 18,398 miles — used — Sterling Gray Metallic</description>
-    <url>https://majorworld.com/inventory/2023-chevrolet-equinox-ls-awd-managerspecial/</url>
-    <price>17887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Equinox LS AWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>18398</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>3GNAXSEG8PL138388</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Sterling Gray Metallic</exterior_color>
-    <interior_color>Medium Ash Gray</interior_color>
-    <stock_number>M78289</stock_number>
   </listing>
   <listing>
     <image>
