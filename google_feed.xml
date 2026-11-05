@@ -341,6 +341,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>3FTTW8JA5TRA02669</g:id>
+      <g:title>2026 Ford Maverick XLT AWD</g:title>
+      <g:description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</g:description>
+      <g:link>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/14d225c9-d05c-4dc6-a8be-dc34e8481a08.jpg</g:image_link>
+      <g:price>29995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>3FTTW8JA5TRA02669</g:vin>
+      <g:year>2026</g:year>
+      <g:make>Ford</g:make>
+      <g:model>Maverick XLT AWD</g:model>
+      <g:mileage>19031 mi</g:mileage>
+      <g:color>Shadow Black</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>1GCGTBEC2R1166662</g:id>
       <g:title>2024 Chevrolet Colorado Work Truck 4WD</g:title>
       <g:description>2024 Chevrolet Colorado Work Truck 4WD — 3,629 miles — used — Summit White</g:description>
@@ -530,30 +554,6 @@
       <g:mileage>49845 mi</g:mileage>
       <g:color>Mythos Black Metallic</g:color>
       <g:body_style>WAGON</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>3FTTW8JA5TRA02669</g:id>
-      <g:title>2026 Ford Maverick XLT AWD</g:title>
-      <g:description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</g:description>
-      <g:link>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/14d225c9-d05c-4dc6-a8be-dc34e8481a08.jpg</g:image_link>
-      <g:price>25887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3FTTW8JA5TRA02669</g:vin>
-      <g:year>2026</g:year>
-      <g:make>Ford</g:make>
-      <g:model>Maverick XLT AWD</g:model>
-      <g:mileage>19031 mi</g:mileage>
-      <g:color>Shadow Black</g:color>
-      <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -1445,30 +1445,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>1C3CCCABXFN520793</g:id>
-      <g:title>2015 Chrysler 200 Limited FWD</g:title>
-      <g:description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/46137a4e-519e-47c7-9ccf-0ea69cbdea21.jpg</g:image_link>
-      <g:price>9800.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chrysler</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C3CCCABXFN520793</g:vin>
-      <g:year>2015</g:year>
-      <g:make>Chrysler</g:make>
-      <g:model>200 Limited FWD</g:model>
-      <g:mileage>126857 mi</g:mileage>
-      <g:color>Velvet Red Pearlcoat</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3N1AB7AP4KY297515</g:id>
       <g:title>2019 Nissan Sentra SV FWD</g:title>
       <g:description>2019 Nissan Sentra SV FWD — 34,323 miles — used — Fresh Powder</g:description>
@@ -1538,6 +1514,30 @@
       <g:mileage>67536 mi</g:mileage>
       <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C3CCCABXFN520793</g:id>
+      <g:title>2015 Chrysler 200 Limited FWD</g:title>
+      <g:description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/46137a4e-519e-47c7-9ccf-0ea69cbdea21.jpg</g:image_link>
+      <g:price>6887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C3CCCABXFN520793</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>200 Limited FWD</g:model>
+      <g:mileage>126857 mi</g:mileage>
+      <g:color>Velvet Red Pearlcoat</g:color>
+      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
