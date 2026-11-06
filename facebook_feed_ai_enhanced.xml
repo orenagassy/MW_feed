@@ -437,6 +437,37 @@
   </listing>
   <listing>
     <image>
+      <url>https://lh3.googleusercontent.com/d/1CD3gyPQIdrlT1_OmSrn89M2fQh3VSCnY=w1600</url>
+    </image>
+    <vehicle_id>3FTTW8JA5TRA02669</vehicle_id>
+    <title>2026 Ford Maverick XLT AWD</title>
+    <description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</description>
+    <url>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</url>
+    <price>29995.00 USD</price>
+    <make>Ford</make>
+    <model>Maverick XLT AWD</model>
+    <year>2026</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>19031</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>PICKUP</body_style>
+    <vin>3FTTW8JA5TRA02669</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Shadow Black</exterior_color>
+    <interior_color>Navy Pier/Aspen Gray</interior_color>
+    <stock_number>J18668</stock_number>
+  </listing>
+  <listing>
+    <image>
       <url>https://lh3.googleusercontent.com/d/1r4Y7E__OdrmzQ0zgjlAhnEgo4QzmtTZw=w1600</url>
     </image>
     <vehicle_id>1GCGTBEC2R1166662</vehicle_id>
@@ -682,37 +713,6 @@
     <exterior_color>Mythos Black Metallic</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M78461</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1wKC-v-Z9DnER9-kBpYkAVx7TW2k_BW4F=w1600</url>
-    </image>
-    <vehicle_id>3FTTW8JA5TRA02669</vehicle_id>
-    <title>2026 Ford Maverick XLT AWD</title>
-    <description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</description>
-    <url>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</url>
-    <price>25887.00 USD</price>
-    <make>Ford</make>
-    <model>Maverick XLT AWD</model>
-    <year>2026</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>19031</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>PICKUP</body_style>
-    <vin>3FTTW8JA5TRA02669</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Shadow Black</exterior_color>
-    <interior_color>Navy Pier/Aspen Gray</interior_color>
-    <stock_number>J18668</stock_number>
   </listing>
   <listing>
     <image>
@@ -1863,37 +1863,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1qwLTIAaZy8sTYIeNIMvZVxs1PvYLdzii=w1600</url>
-    </image>
-    <vehicle_id>1C3CCCABXFN520793</vehicle_id>
-    <title>2015 Chrysler 200 Limited FWD</title>
-    <description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</description>
-    <url>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</url>
-    <price>9800.00 USD</price>
-    <make>Chrysler</make>
-    <model>200 Limited FWD</model>
-    <year>2015</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>126857</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SEDAN</body_style>
-    <vin>1C3CCCABXFN520793</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Velvet Red Pearlcoat</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M74657</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/15nhEMv_gJNxxNKdSKsNGbGPU249SgqZN=w1600</url>
     </image>
     <vehicle_id>3N1AB7AP4KY297515</vehicle_id>
@@ -1984,6 +1953,37 @@
     <exterior_color>Granite Crystal Metallic Clearcoat</exterior_color>
     <interior_color>Dark Slate Gray</interior_color>
     <stock_number>M67339</stock_number>
+  </listing>
+  <listing>
+    <image>
+      <url>https://lh3.googleusercontent.com/d/1n2Av-jIg5j2We3Mm-Hf62R61d-NBIiCJ=w1600</url>
+    </image>
+    <vehicle_id>1C3CCCABXFN520793</vehicle_id>
+    <title>2015 Chrysler 200 Limited FWD</title>
+    <description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</description>
+    <url>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</url>
+    <price>6887.00 USD</price>
+    <make>Chrysler</make>
+    <model>200 Limited FWD</model>
+    <year>2015</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <mileage>
+      <unit>MI</unit>
+      <value>126857</value>
+    </mileage>
+    <address format="simple">
+      <component name="addr1">43-40 Northern Blvd</component>
+      <component name="city">Long Island City</component>
+      <component name="region">NY</component>
+      <component name="postal_code">11101</component>
+      <component name="country">United States</component>
+    </address>
+    <body_style>SEDAN</body_style>
+    <vin>1C3CCCABXFN520793</vin>
+    <transmission>AUTOMATIC</transmission>
+    <exterior_color>Velvet Red Pearlcoat</exterior_color>
+    <interior_color>Black</interior_color>
+    <stock_number>M74657</stock_number>
   </listing>
   <listing>
     <image>
