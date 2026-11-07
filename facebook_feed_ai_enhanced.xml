@@ -437,68 +437,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://lh3.googleusercontent.com/d/1CD3gyPQIdrlT1_OmSrn89M2fQh3VSCnY=w1600</url>
-    </image>
-    <vehicle_id>3FTTW8JA5TRA02669</vehicle_id>
-    <title>2026 Ford Maverick XLT AWD</title>
-    <description>2026 Ford Maverick XLT AWD — 19,031 miles — used — Shadow Black</description>
-    <url>https://majorworld.com/inventory/2026-ford-maverick-xlt-awd-managerspecial/</url>
-    <price>29995.00 USD</price>
-    <make>Ford</make>
-    <model>Maverick XLT AWD</model>
-    <year>2026</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>19031</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>PICKUP</body_style>
-    <vin>3FTTW8JA5TRA02669</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Shadow Black</exterior_color>
-    <interior_color>Navy Pier/Aspen Gray</interior_color>
-    <stock_number>J18668</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://lh3.googleusercontent.com/d/1r4Y7E__OdrmzQ0zgjlAhnEgo4QzmtTZw=w1600</url>
-    </image>
-    <vehicle_id>1GCGTBEC2R1166662</vehicle_id>
-    <title>2024 Chevrolet Colorado Work Truck 4WD</title>
-    <description>2024 Chevrolet Colorado Work Truck 4WD — 3,629 miles — used — Summit White</description>
-    <url>https://majorworld.com/inventory/2024-chevrolet-colorado-work-truck-4wd-managerspecial/</url>
-    <price>29887.00 USD</price>
-    <make>Chevrolet</make>
-    <model>Colorado Work Truck 4WD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>3629</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>PICKUP</body_style>
-    <vin>1GCGTBEC2R1166662</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Summit White</exterior_color>
-    <interior_color>Jet Black</interior_color>
-    <stock_number>M79548</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://lh3.googleusercontent.com/d/1GZf7vTy5ZxOlSwHWajTzWwH_mWNqRymi=w1600</url>
     </image>
     <vehicle_id>WBA83GG04T7T80168</vehicle_id>
