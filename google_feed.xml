@@ -653,6 +653,30 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
+      <g:id>1GCPABEK2RZ342415</g:id>
+      <g:title>2024 Chevrolet Silverado 1500 Custom</g:title>
+      <g:description>2024 Chevrolet Silverado 1500 Custom — 45,158 miles — used — Black</g:description>
+      <g:link>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-custom-rwd-2-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2024-chevrolet-silverado-1500-custom-rwd-2-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/11b8ad73-65e1-4066-aab1-c249b632c6c7.jpg</g:image_link>
+      <g:price>24887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chevrolet</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1GCPABEK2RZ342415</g:vin>
+      <g:year>2024</g:year>
+      <g:make>Chevrolet</g:make>
+      <g:model>Silverado 1500 Custom</g:model>
+      <g:mileage>45158 mi</g:mileage>
+      <g:color>Black</g:color>
+      <g:body_style>PICKUP</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
       <g:id>3GNKDBRJ5RS278295</g:id>
       <g:title>2024 Chevrolet Blazer EV LT AWD</g:title>
       <g:description>2024 Chevrolet Blazer EV LT AWD — 18,950 miles — used — Black</g:description>
@@ -1061,30 +1085,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>5N1BT3BA1RC695684</g:id>
-      <g:title>2024 Nissan Rogue SV FWD</g:title>
-      <g:description>2024 Nissan Rogue SV FWD — 53,814 miles — used — Brilliant Silver Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2024-nissan-rogue-sv-fwd-3-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2024-nissan-rogue-sv-fwd-3-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/7da28d0a-17ff-4f16-973c-4f0a629cc67b.jpg</g:image_link>
-      <g:price>16887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Nissan</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>5N1BT3BA1RC695684</g:vin>
-      <g:year>2024</g:year>
-      <g:make>Nissan</g:make>
-      <g:model>Rogue SV FWD</g:model>
-      <g:mileage>53814 mi</g:mileage>
-      <g:color>Brilliant Silver Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>3KPFT4DE0SE014330</g:id>
       <g:title>2025 Kia K4 LXS FWD</g:title>
       <g:description>2025 Kia K4 LXS FWD — 35,861 miles — used — Deep Sea Blue</g:description>
@@ -1153,6 +1153,30 @@
       <g:model>Versa 1.6 SV FWD</g:model>
       <g:mileage>26774 mi</g:mileage>
       <g:color>Super Black Metallic</g:color>
+      <g:body_style>SEDAN</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>1C3CCCABXFN520793</g:id>
+      <g:title>2015 Chrysler 200 Limited FWD</g:title>
+      <g:description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</g:description>
+      <g:link>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/46137a4e-519e-47c7-9ccf-0ea69cbdea21.jpg</g:image_link>
+      <g:price>13995.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Chrysler</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>1C3CCCABXFN520793</g:vin>
+      <g:year>2015</g:year>
+      <g:make>Chrysler</g:make>
+      <g:model>200 Limited FWD</g:model>
+      <g:mileage>126857 mi</g:mileage>
+      <g:color>Velvet Red Pearlcoat</g:color>
       <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -1490,30 +1514,6 @@
       <g:mileage>67536 mi</g:mileage>
       <g:color>Granite Crystal Metallic Clearcoat</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>1C3CCCABXFN520793</g:id>
-      <g:title>2015 Chrysler 200 Limited FWD</g:title>
-      <g:description>2015 Chrysler 200 Limited FWD — 126,857 miles — used — Velvet Red Pearlcoat</g:description>
-      <g:link>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2015-chrysler-200-limited-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/46137a4e-519e-47c7-9ccf-0ea69cbdea21.jpg</g:image_link>
-      <g:price>6887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chrysler</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>1C3CCCABXFN520793</g:vin>
-      <g:year>2015</g:year>
-      <g:make>Chrysler</g:make>
-      <g:model>200 Limited FWD</g:model>
-      <g:mileage>126857 mi</g:mileage>
-      <g:color>Velvet Red Pearlcoat</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
