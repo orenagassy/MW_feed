@@ -1229,30 +1229,6 @@
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
-      <g:id>3GCUKREC5HG220129</g:id>
-      <g:title>2017 Chevrolet Silverado 1500 LT 4WD</g:title>
-      <g:description>2017 Chevrolet Silverado 1500 LT 4WD — 103,639 miles — used — Graphite Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2017-chevrolet-silverado-1500-lt-4wd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/d78103a8-bc66-4ebc-ad6b-53f1bc660c5b.jpg</g:image_link>
-      <g:price>11888.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>3GCUKREC5HG220129</g:vin>
-      <g:year>2017</g:year>
-      <g:make>Chevrolet</g:make>
-      <g:model>Silverado 1500 LT 4WD</g:model>
-      <g:mileage>103639 mi</g:mileage>
-      <g:color>Graphite Metallic</g:color>
-      <g:body_style>PICKUP</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>19XFC2F69KE024493</g:id>
       <g:title>2019 Honda Civic LX FWD</g:title>
       <g:description>2019 Honda Civic LX FWD — 61,264 miles — used — White</g:description>
@@ -1394,30 +1370,6 @@
       <g:mileage>95742 mi</g:mileage>
       <g:color>Mr</g:color>
       <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>KM8K22AA7KU335124</g:id>
-      <g:title>2019 Hyundai Kona SEL FWD</g:title>
-      <g:description>2019 Hyundai Kona SEL FWD — 136,852 miles — used — Pulse Red w/Black Roof</g:description>
-      <g:link>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2019-hyundai-kona-sel-fwd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/b4ed6cc3-04ee-4179-83d3-1b18dbf2f467.jpg</g:image_link>
-      <g:price>9887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Hyundai</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>KM8K22AA7KU335124</g:vin>
-      <g:year>2019</g:year>
-      <g:make>Hyundai</g:make>
-      <g:model>Kona SEL FWD</g:model>
-      <g:mileage>136852 mi</g:mileage>
-      <g:color>Pulse Red w/Black Roof</g:color>
-      <g:body_style>SEDAN</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
