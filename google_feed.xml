@@ -5,30 +5,6 @@
     <link>https://majorworld.com/</link>
     <description>Major World vehicle inventory</description>
     <item>
-      <g:id>WA1EVBF12SD039682</g:id>
-      <g:title>2025 Audi Q8 55 Premium Plus quattro</g:title>
-      <g:description>2025 Audi Q8 55 Premium Plus quattro — 19,016 miles — used — Blue Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/0e4afb8b-8309-42cb-bee2-0ac824f5373a.jpg</g:image_link>
-      <g:price>53887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WA1EVBF12SD039682</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Audi</g:make>
-      <g:model>Q8 55 Premium Plus quattro</g:model>
-      <g:mileage>19016 mi</g:mileage>
-      <g:color>Blue Metallic</g:color>
-      <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
       <g:id>SALEJEEU9R2260645</g:id>
       <g:title>2024 Land Rover Defender 110 S 4WD</g:title>
       <g:description>2024 Land Rover Defender 110 S 4WD — 22,864 miles — used — Fuji White</g:description>
@@ -49,6 +25,30 @@
       <g:model>Defender 110 S 4WD</g:model>
       <g:mileage>22864 mi</g:mileage>
       <g:color>Fuji White</g:color>
+      <g:body_style>SUV</g:body_style>
+      <g:transmission>AUTOMATIC</g:transmission>
+    </item>
+    <item>
+      <g:id>WA1EVBF12SD039682</g:id>
+      <g:title>2025 Audi Q8 55 Premium Plus quattro</g:title>
+      <g:description>2025 Audi Q8 55 Premium Plus quattro — 19,016 miles — used — Blue Metallic</g:description>
+      <g:link>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/</g:link>
+      <g:link_template>https://majorworld.com/inventory/2025-audi-q8-55-premium-plus-quattro-managerspecial/?store={store_code}</g:link_template>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/c297a151-3e98-411e-9dc6-547799768e5b.jpg</g:image_link>
+      <g:price>49887.00 USD</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Audi</g:brand>
+      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
+      <g:identifier_exists>true</g:identifier_exists>
+      <g:included_destination>Vehicle_listing</g:included_destination>
+      <g:store_code>MajorWorldUsed</g:store_code>
+      <g:vin>WA1EVBF12SD039682</g:vin>
+      <g:year>2025</g:year>
+      <g:make>Audi</g:make>
+      <g:model>Q8 55 Premium Plus quattro</g:model>
+      <g:mileage>19016 mi</g:mileage>
+      <g:color>Blue Metallic</g:color>
       <g:body_style>SUV</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
@@ -529,30 +529,6 @@
       <g:model>Edge SEL AWD</g:model>
       <g:mileage>21047 mi</g:mileage>
       <g:color>Agate Black Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>2T3F1RFV0SC502733</g:id>
-      <g:title>2025 Toyota RAV4 LE AWD</g:title>
-      <g:description>2025 Toyota RAV4 LE AWD — 32,734 miles — used — Silver Sky Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2025-toyota-rav4-le-awd-2-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2025-toyota-rav4-le-awd-2-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/1a2b2cb9-1e9e-416d-9f6e-d7ef4a15c078.jpg</g:image_link>
-      <g:price>24887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>2T3F1RFV0SC502733</g:vin>
-      <g:year>2025</g:year>
-      <g:make>Toyota</g:make>
-      <g:model>RAV4 LE AWD</g:model>
-      <g:mileage>32734 mi</g:mileage>
-      <g:color>Silver Sky Metallic</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
