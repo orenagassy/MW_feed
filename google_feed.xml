@@ -370,7 +370,7 @@
       <g:description>2023 Mercedes-Benz EQS 450 4MATIC® — 49,852 miles — used — Silver</g:description>
       <g:link>https://majorworld.com/inventory/2023-mercedes-benz-eqs-450-4matic-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-mercedes-benz-eqs-450-4matic-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/fc6840dd-6196-4001-a474-56b6a0fd692e.jpg</g:image_link>
+      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/a535da0e-328e-4372-b74a-509dd1acbe83.jpg</g:image_link>
       <g:price>30887.00 USD</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
@@ -391,7 +391,7 @@
     <item>
       <g:id>1GTPUAEK1PZ116509</g:id>
       <g:title>2023 GMC Sierra 1500 Pro 4WD</g:title>
-      <g:description>2023 GMC Sierra 1500 Pro 4WD — 58,034 miles — used — Summit White</g:description>
+      <g:description>2023 GMC Sierra 1500 Pro 4WD — 58,036 miles — used — Summit White</g:description>
       <g:link>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/</g:link>
       <g:link_template>https://majorworld.com/inventory/2023-gmc-sierra-1500-pro-4wd-managerspecial/?store={store_code}</g:link_template>
       <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/8fafa814-959f-4680-b4a7-0e03395982fb.jpg</g:image_link>
@@ -407,7 +407,7 @@
       <g:year>2023</g:year>
       <g:make>GMC</g:make>
       <g:model>Sierra 1500 Pro 4WD</g:model>
-      <g:mileage>58034 mi</g:mileage>
+      <g:mileage>58036 mi</g:mileage>
       <g:color>Summit White</g:color>
       <g:body_style>PICKUP</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
@@ -722,30 +722,6 @@
       <g:mileage>54573 mi</g:mileage>
       <g:color>Diamond Black Crystal Pearlcoat</g:color>
       <g:body_style>SUV</g:body_style>
-      <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>JM3TCBCY5P0637145</g:id>
-      <g:title>2023 Mazda CX-9 Touring AWD</g:title>
-      <g:description>2023 Mazda CX-9 Touring AWD — 12,019 miles — used — Soul Red Crystal Metallic</g:description>
-      <g:link>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2023-mazda-cx-9-touring-awd-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/59e80658-768f-4e27-8f95-11845259dd4e.jpg</g:image_link>
-      <g:price>21887.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Mazda</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>JM3TCBCY5P0637145</g:vin>
-      <g:year>2023</g:year>
-      <g:make>Mazda</g:make>
-      <g:model>CX-9 Touring AWD</g:model>
-      <g:mileage>12019 mi</g:mileage>
-      <g:color>Soul Red Crystal Metallic</g:color>
-      <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
     </item>
     <item>
@@ -1491,30 +1467,6 @@
       <g:color>Signal Red</g:color>
       <g:body_style>CROSSOVER</g:body_style>
       <g:transmission>AUTOMATIC</g:transmission>
-    </item>
-    <item>
-      <g:id>WAUDF78E77A249230</g:id>
-      <g:title>2007 Audi A4 2.0T quattro</g:title>
-      <g:description>2007 Audi A4 2.0T quattro — 131,199 miles — used — Blue</g:description>
-      <g:link>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/</g:link>
-      <g:link_template>https://majorworld.com/inventory/2007-audi-a4-2-0t-quattro-managerspecial/?store={store_code}</g:link_template>
-      <g:image_link>https://assets.cai-media-management.com/resize/1024x768/common-vehicle-media/3c834b2a-2418-470e-89be-cac1df2f193f.jpg</g:image_link>
-      <g:price>4987.00 USD</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:brand>Audi</g:brand>
-      <g:google_product_category>Vehicles &amp; Parts &gt; Vehicles &gt; Motor Vehicles &gt; Cars, Trucks &amp; Vans</g:google_product_category>
-      <g:identifier_exists>true</g:identifier_exists>
-      <g:included_destination>Vehicle_listing</g:included_destination>
-      <g:store_code>MajorWorldUsed</g:store_code>
-      <g:vin>WAUDF78E77A249230</g:vin>
-      <g:year>2007</g:year>
-      <g:make>Audi</g:make>
-      <g:model>A4 2.0T quattro</g:model>
-      <g:mileage>131199 mi</g:mileage>
-      <g:color>Blue</g:color>
-      <g:body_style>SEDAN</g:body_style>
-      <g:transmission>OTHER</g:transmission>
     </item>
     <item>
       <g:id>1G1BC5SM9J7217626</g:id>
