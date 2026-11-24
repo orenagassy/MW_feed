@@ -3,37 +3,6 @@
   <title>Major World</title>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4058f94a-39e4-4feb-b6c6-de8930fdb3d6.jpg</url>
-    </image>
-    <vehicle_id>SALEJEEU9R2260645</vehicle_id>
-    <title>2024 Land Rover Defender 110 S 4WD</title>
-    <description>2024 Land Rover Defender 110 S 4WD — 22,864 miles — used — Fuji White</description>
-    <url>https://majorworld.com/inventory/2024-land-rover-defender-110-s-4wd-managerspecial/</url>
-    <price>51887.00 USD</price>
-    <make>Land Rover</make>
-    <model>Defender 110 S 4WD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>22864</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>SUV</body_style>
-    <vin>SALEJEEU9R2260645</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Fuji White</exterior_color>
-    <interior_color>Acorn/Lunar</interior_color>
-    <stock_number>M79047</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/f2fff6dc-a1f0-4743-ab4b-d1c34f434f0e.jpg</url>
     </image>
     <vehicle_id>WA1EVBF12SD039682</vehicle_id>
@@ -623,37 +592,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/2377c4b3-3173-49dd-acc0-e03382676f7e.jpg</url>
-    </image>
-    <vehicle_id>WAUABCF50PA039644</vehicle_id>
-    <title>2023 Audi A5 Sportback Premium quattro</title>
-    <description>2023 Audi A5 Sportback Premium quattro — 49,845 miles — used — Mythos Black Metallic</description>
-    <url>https://majorworld.com/inventory/2023-audi-a5-sportback-premium-quattro-managerspecial/</url>
-    <price>26887.00 USD</price>
-    <make>Audi</make>
-    <model>A5 Sportback Premium quattro</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>49845</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>WAGON</body_style>
-    <vin>WAUABCF50PA039644</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Mythos Black Metallic</exterior_color>
-    <interior_color>Black</interior_color>
-    <stock_number>M78461</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/aa20f9e4-55fa-420e-abf3-d4b6af27a548.jpg</url>
     </image>
     <vehicle_id>5YFB4MDE0TP387699</vehicle_id>
@@ -806,37 +744,6 @@
     <exterior_color>Black</exterior_color>
     <interior_color>Black</interior_color>
     <stock_number>M79352</stock_number>
-  </listing>
-  <listing>
-    <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/4020dcf6-0c0c-4169-b8dd-b2116ef32713.jpg</url>
-    </image>
-    <vehicle_id>1V2WR2CA8RC613297</vehicle_id>
-    <title>2024 Volkswagen Atlas 2.0T SE w/Technology FWD</title>
-    <description>2024 Volkswagen Atlas 2.0T SE w/Technology FWD — 19,333 miles — used — Pure White</description>
-    <url>https://majorworld.com/inventory/2024-volkswagen-atlas-2-0t-se-w-technology-fwd-managerspecial/</url>
-    <price>23887.00 USD</price>
-    <make>Volkswagen</make>
-    <model>Atlas 2.0T SE w/Technology FWD</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>19333</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>1V2WR2CA8RC613297</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Pure White</exterior_color>
-    <interior_color>Titan Black</interior_color>
-    <stock_number>M78898</stock_number>
   </listing>
   <listing>
     <image>
