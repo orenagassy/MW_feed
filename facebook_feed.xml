@@ -747,37 +747,6 @@
   </listing>
   <listing>
     <image>
-      <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/7baa11b9-d9eb-4ae8-a2cb-4d50bb4dc015.jpg</url>
-    </image>
-    <vehicle_id>WA1EAAFY0P2160457</vehicle_id>
-    <title>2023 Audi Q5 45 S line Premium quattro</title>
-    <description>2023 Audi Q5 45 S line Premium quattro — 32,194 miles — used — Daytona Gray Pearl Effect</description>
-    <url>https://majorworld.com/inventory/2023-audi-q5-45-s-line-premium-quattro-4-managerspecial/</url>
-    <price>23887.00 USD</price>
-    <make>Audi</make>
-    <model>Q5 45 S line Premium quattro</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <mileage>
-      <unit>MI</unit>
-      <value>32194</value>
-    </mileage>
-    <address format="simple">
-      <component name="addr1">43-40 Northern Blvd</component>
-      <component name="city">Long Island City</component>
-      <component name="region">NY</component>
-      <component name="postal_code">11101</component>
-      <component name="country">United States</component>
-    </address>
-    <body_style>CROSSOVER</body_style>
-    <vin>WA1EAAFY0P2160457</vin>
-    <transmission>AUTOMATIC</transmission>
-    <exterior_color>Daytona Gray Pearl Effect</exterior_color>
-    <interior_color>Rock Gray</interior_color>
-    <stock_number>M78970</stock_number>
-  </listing>
-  <listing>
-    <image>
       <url>https://assets.cai-media-management.com/resize/640x640/common-vehicle-media/a712071d-5363-40e9-b98a-f789183d3c63.jpg</url>
     </image>
     <vehicle_id>3VWBX7BU9SM000802</vehicle_id>
